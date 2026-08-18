@@ -1,1 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Ofertas destacadas</title>
+</head>
+<body>
+  <h1>Ofertas destacadas</h1>
+  <p>Última actualización: <span id="ultima-actualizacion"></span></p>
 
+  <div id="lista-ofertas"></div>
+
+  <script>
+    fetch('ofertas.json')
+      .then(r => r.json())
+      .then(data => {
+        const container = document.getElementById('lista-ofertas');
+        const ultima = document.getElementById('ultima-actualizacion');
+
+        const ofertas = data.ofertas || [];
+        const fecha = data.actualizado;
+
+        if (fecha) {
+          ultima.textContent = new Date(fecha).toLocaleString();
+        }
+
+        ofertas.forEach(oferta => {
+          const card = document.createElement('div');
+
+          card.innerHTML = `
+            <h2>${oferta.titulo}</h2>
+            <p>${oferta.descripcion}</p>
+            <p>
+              Antes: ${oferta.precio_anterior}€ | 
+              Ahora: ${oferta.precio_actual}€ (${oferta.descuento_pct}% descuento)
+            </p>
+            <a href="${oferta.url_amazon}" target="_blank" rel="noopener">Ver en Amazon</a>
+            <hr />
+          `;
+
+          container.appendChild(card);
+        });
+      });
+  </script>
+</body>
+</html>
