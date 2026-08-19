@@ -1856,3 +1856,93 @@ a:hover {
   }
 
 }
+
+/* ==========================================================================
+   Landing — filtro de productos
+   ========================================================================== */
+
+.landing-filtro {
+  max-width: 860px;
+
+  margin: 0 auto 32px;
+
+  display: grid;
+
+  grid-template-columns: repeat(2, 1fr);
+
+  gap: 12px;
+}
+
+
+.landing-filtro__item {
+  display: flex;
+
+  align-items: flex-start;
+
+  gap: 12px;
+
+  padding: 18px;
+
+  border: 1px solid var(--color-borde);
+
+  border-radius: var(--radius-tarjeta);
+
+  background-color: var(--color-blanco);
+}
+
+
+.landing-filtro__icono {
+  width: 28px;
+  height: 28px;
+
+  flex: 0 0 28px;
+
+  display: inline-flex;
+
+  align-items: center;
+  justify-content: center;
+
+  border-radius: 50%;
+
+  background-color: #e8f8f2;
+
+  color: var(--landing-verde-oscuro);
+
+  font-weight: 700;
+}
+
+
+.landing-filtro__item h3 {
+  margin: 0 0 5px;
+
+  font-size: 1rem;
+}
+
+
+.landing-filtro__item p {
+  margin: 0;
+
+  color: var(--landing-gris-oscuro);
+
+  font-size: 0.875rem;
+
+  line-height: 1.5;
+}
+
+
+@media (max-width: 699px) {
+
+  .landing-filtro {
+    grid-template-columns: 1fr;
+
+    gap: 10px;
+
+    margin-bottom: 24px;
+  }
+
+
+  .landing-filtro__item {
+    padding: 16px;
+  }
+
+}
