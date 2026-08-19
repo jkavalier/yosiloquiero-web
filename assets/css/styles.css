@@ -241,6 +241,24 @@ a:hover {
   color: var(--color-texto);
 }
 
+/* Texto de marca (header y footer): colores del logotipo. Excepción de
+   contraste válida vía WCAG 1.4.5/1.4.3 para texto de logotipo/marca. */
+.marca-texto {
+  white-space: nowrap;
+}
+
+.marca-amarillo {
+  color: var(--color-amarillo);
+}
+
+.marca-verde {
+  color: var(--color-verde);
+}
+
+.marca-emojis {
+  font-style: normal;
+}
+
 .cabecera__logo {
   width: 40px;
   height: 40px;
