@@ -592,7 +592,7 @@ a:hover {
 .imagen-hero-horizontal {
   width: 100%;
   max-width: 480px;
-  max-height: 220px;
+  max-height: 160px;
   aspect-ratio: 16 / 9;
   object-fit: cover;
   border-radius: var(--radius-tarjeta);
