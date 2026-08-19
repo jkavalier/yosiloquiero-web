@@ -237,7 +237,7 @@
       tarjetaPlaceholder.remove();
     }
     mostrarMensaje(
-      "No hay ofertas activas en este momento. Vuelve a comprobarlo más tarde, o únete a nuestros canales para enterarte en cuanto publiquemos nuevas."
+      "Las ofertas en la web no están activas en este momento. Vuelve a comprobarlo más tarde, o entra en nuestros canales para ver las ofertas más recientes."
     );
   }
 
@@ -245,7 +245,7 @@
     // Mantenemos la tarjeta de ejemplo visible (ya está claramente
     // etiquetada como "Ejemplo") como referencia visual de fallback.
     mostrarMensaje(
-      "No hemos podido cargar las ofertas ahora mismo. Prueba a recargar la página en unos minutos."
+      "No hemos podido cargar las últimas ofertas ahora mismo. Prueba a recargar la página en unos minutos."
     );
   }
 
