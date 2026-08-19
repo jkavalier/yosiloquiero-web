@@ -1946,3 +1946,347 @@ a:hover {
   }
 
 }
+
+/* ==========================================================================
+   LANDING — CORRECCIONES DE LAYOUT
+   ========================================================================== */
+
+/*
+ * Todas las secciones de la landing deben respetar el mismo eje horizontal.
+ */
+
+.landing-seccion > .landing-contenedor,
+.landing-cta-final > .landing-contenedor {
+  width: 100%;
+  max-width: 1100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+/*
+ * Cabeceras de sección
+ */
+
+.landing-seccion__cabecera {
+  width: 100%;
+  max-width: 760px;
+
+  margin-left: auto;
+  margin-right: auto;
+
+  text-align: center;
+}
+
+
+/*
+ * Evitamos que elementos heredados del CSS global
+ * desplacen la cabecera.
+ */
+
+.landing-seccion__cabecera > * {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+/* ==========================================================================
+   OFERTA
+   ========================================================================== */
+
+.landing-oferta {
+  width: 100%;
+  max-width: 900px;
+
+  margin-left: auto;
+  margin-right: auto;
+
+  display: grid;
+
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+
+  gap: 28px;
+
+  align-items: center;
+}
+
+
+/*
+ * Evita que la imagen fuerce el ancho del grid.
+ */
+
+.landing-oferta__imagen {
+  width: 100%;
+  min-width: 0;
+
+  overflow: hidden;
+
+  border-radius: var(--radius-tarjeta);
+}
+
+
+.landing-oferta__imagen img {
+  display: block;
+
+  width: 100%;
+  height: auto;
+
+  max-width: 100%;
+}
+
+
+/*
+ * Contenido de la oferta
+ */
+
+.landing-oferta__contenido {
+  width: 100%;
+  min-width: 0;
+
+  text-align: left;
+}
+
+
+.landing-oferta__contenido h3 {
+  margin-top: 10px;
+}
+
+
+.landing-oferta__datos {
+  width: 100%;
+
+  display: grid;
+
+  gap: 10px;
+
+  margin: 20px 0;
+}
+
+
+.landing-oferta__dato {
+  display: flex;
+
+  justify-content: space-between;
+  align-items: center;
+
+  gap: 15px;
+
+  padding: 12px 14px;
+
+  border-radius: 10px;
+
+  background: var(--color-fondo-secundario, #f7f7f7);
+}
+
+
+.landing-oferta__dato span {
+  color: var(--landing-gris-oscuro);
+}
+
+
+.landing-oferta__dato strong {
+  text-align: right;
+}
+
+
+/*
+ * CTA debajo de la oferta
+ */
+
+.landing-seccion__cta {
+  width: 100%;
+
+  margin-top: 28px;
+
+  text-align: center;
+}
+
+
+.landing-seccion__cta p {
+  margin-bottom: 12px;
+}
+
+
+/* ==========================================================================
+   FAQ
+   ========================================================================== */
+
+.landing-faq {
+  width: 100%;
+  max-width: 760px;
+
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.landing-faq__item {
+  width: 100%;
+
+  margin: 0;
+
+  border-bottom: 1px solid var(--color-borde);
+}
+
+
+.landing-faq__item:first-child {
+  border-top: 1px solid var(--color-borde);
+}
+
+
+.landing-faq__item summary {
+  width: 100%;
+
+  display: flex;
+
+  align-items: center;
+  justify-content: space-between;
+
+  gap: 20px;
+
+  padding: 18px 4px;
+
+  cursor: pointer;
+
+  text-align: left;
+
+  font-weight: 700;
+
+  list-style: none;
+}
+
+
+.landing-faq__item summary::-webkit-details-marker {
+  display: none;
+}
+
+
+.landing-faq__item summary::after {
+  content: "+";
+
+  flex: 0 0 auto;
+
+  font-size: 1.4rem;
+  line-height: 1;
+}
+
+
+.landing-faq__item[open] summary::after {
+  content: "−";
+}
+
+
+.landing-faq__item p {
+  width: 100%;
+
+  margin: 0;
+
+  padding: 0 4px 18px;
+
+  text-align: left;
+
+  color: var(--landing-gris-oscuro);
+
+  line-height: 1.6;
+}
+
+
+.landing-faq__mas {
+  display: block;
+
+  width: fit-content;
+
+  margin: 22px auto 0;
+}
+
+
+/* ==========================================================================
+   MÓVIL
+   ========================================================================== */
+
+@media (max-width: 699px) {
+
+  /*
+   * El contenedor móvil ocupa siempre todo el ancho disponible,
+   * respetando únicamente el padding lateral.
+   */
+
+  .landing-seccion > .landing-contenedor,
+  .landing-cta-final > .landing-contenedor {
+    width: 100%;
+    max-width: none;
+
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+
+  /*
+   * Cabeceras
+   */
+
+  .landing-seccion__cabecera {
+    max-width: 100%;
+
+    text-align: center;
+  }
+
+
+  /*
+   * Oferta: una sola columna.
+   */
+
+  .landing-oferta {
+    width: 100%;
+    max-width: 520px;
+
+    grid-template-columns: 1fr;
+
+    gap: 20px;
+  }
+
+
+  .landing-oferta__contenido {
+    text-align: left;
+  }
+
+
+  /*
+   * Datos de la oferta.
+   */
+
+  .landing-oferta__dato {
+    align-items: flex-start;
+  }
+
+
+  .landing-oferta__dato strong {
+    text-align: right;
+  }
+
+
+  /*
+   * FAQ
+   */
+
+  .landing-faq {
+    width: 100%;
+    max-width: 520px;
+  }
+
+
+  .landing-faq__item summary {
+    padding: 17px 0;
+
+    font-size: 0.95rem;
+  }
+
+
+  .landing-faq__item p {
+    padding-left: 0;
+    padding-right: 0;
+
+    font-size: 0.9rem;
+  }
+
+}
