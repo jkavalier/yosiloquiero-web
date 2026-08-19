@@ -568,14 +568,14 @@ a:hover {
 /* Espaciado ligeramente reducido, solo para las secciones de la home,
    que ya usan separadores visuales propios entre ellas. */
 .seccion--compacta {
-  padding-top: var(--space-6);
-  padding-bottom: var(--space-6);
+  padding-top: var(--space-4);
+  padding-bottom: var(--space-4);
 }
 
 @media (min-width: 600px) {
   .seccion--compacta {
-    padding-top: 36px;
-    padding-bottom: 36px;
+    padding-top: 24px;
+    padding-bottom: 24px;
   }
 }
 
