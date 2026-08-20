@@ -109,23 +109,27 @@
 
       <h2>Qué cookies usamos</h2>
       <p>
-        Usamos únicamente cookies de análisis de Google Analytics, y
-        solo si las aceptas expresamente. No usamos cookies de
-        publicidad (no mostramos anuncios) ni de seguimiento de terceros con fines comerciales (solo obtenemos un pequeño beneficio por cada compra realizada a través de nuestros enlaces a Amazon).
+        Usamos únicamente cookies de análisis de Google Analytics,
+        activadas por defecto y desactivables en cualquier momento. No
+        usamos cookies de publicidad (no mostramos anuncios) ni de
+        seguimiento de terceros con fines comerciales (solo obtenemos un
+        pequeño beneficio por cada compra realizada a través de nuestros
+        enlaces a Amazon).
       </p>
 
-      <h2>Cómo funciona el consentimiento</h2>
+      <h2>Cómo funciona la analítica en esta web</h2>
       <p>
-        Al entrar por primera vez verás un aviso con dos opciones:
-        "Aceptar" y "Rechazar". Si aceptas, se carga el script de
-        analítica. Si rechazas, no se carga ningún script de analítica y
-        no se guarda ninguna cookie de este tipo.
+        La analítica (Google Analytics) está activada por defecto desde tu
+        primera visita. Al entrar verás un aviso informativo con un botón
+        "Entendido" — simplemente confirma que lo has visto, no activa ni
+        desactiva nada.
       </p>
       <p>
-        Tu decisión se guarda en tu navegador para no volver a
-        preguntarte en cada visita. Puedes cambiarla en cualquier
-        momento pulsando "Configurar cookies" en el pie de página de
-        cualquier sección del sitio.
+        Puedes desactivar la analítica en cualquier momento pulsando
+        "Configurar cookies" en el pie de página de cualquier sección del
+        sitio. Al desactivarla, dejamos de enviar datos a Google Analytics
+        de inmediato. Tu preferencia se guarda en tu navegador, así que se
+        mantiene en visitas posteriores.
       </p>
 
       <h2>Cómo desactivar las cookies desde tu navegador</h2>
@@ -178,20 +182,32 @@
   <!-- ============================================================
        BANNER DE COOKIES
        ============================================================ -->
-  <div class="banner-cookies" data-visible="false" role="dialog" aria-label="Configuración de cookies">
+  <div class="banner-cookies" data-visible="false" role="dialog" aria-label="Aviso de cookies" id="aviso-cookies">
     <div class="banner-cookies__contenido">
       <p class="banner-cookies__texto">
-        Usamos cookies propias y de análisis (Google Analytics) para entender
-        cómo se usa la web. Puedes aceptarlas o rechazarlas; si rechazas, no
-        se cargará ningún script de analítica. Más información en nuestra
-        <a href="/cookies.html">política de cookies</a>.
+        Usamos cookies para ayudarnos a mejorar esta web. Puedes cambiarlo
+        desde "Configurar cookies", al final de la página.
+        <a href="/cookies.html">Más info</a>.
       </p>
       <div class="banner-cookies__botones">
-        <button type="button" class="boton boton--secundario" data-accion="rechazar-cookies">
-          Rechazar
+        <button type="button" class="boton boton--primario" data-accion="cerrar-aviso-cookies">
+          Entendido
         </button>
-        <button type="button" class="boton boton--primario" data-accion="aceptar-cookies">
-          Aceptar
+      </div>
+    </div>
+  </div>
+
+  <div class="banner-cookies" data-visible="false" role="dialog" aria-label="Configuración de cookies" id="panel-configurar-cookies">
+    <div class="banner-cookies__contenido">
+      <p class="banner-cookies__texto" id="texto-estado-analitica">
+        Las cookies están activadas.
+      </p>
+      <div class="banner-cookies__botones">
+        <button type="button" class="boton boton--secundario" data-accion="alternar-analitica">
+          Desactivar cookies
+        </button>
+        <button type="button" class="boton boton--primario" data-accion="cerrar-panel-cookies">
+          Cerrar
         </button>
       </div>
     </div>

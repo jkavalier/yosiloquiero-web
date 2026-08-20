@@ -116,12 +116,11 @@
         electrónico, que gestiona tu propio cliente de correo.
       </p>
       <p>
-        Si aceptas las cookies de analítica, tratamos datos de uso
-        agregados y anonimizados a través de Google Analytics, con el identificador
-        G-TLKVGQ0FSJ. Consulta la
+        Por defecto, tratamos datos de uso agregados y anonimizados a
+        través de Google Analytics, con el identificador G-TLKVGQ0FSJ.
+        Puedes desactivar esta analítica en cualquier momento. Consulta la
         <a href="/cookies.html">política de cookies</a> para más detalle
-        sobre qué implica esto y cómo puedes cambiar tu decisión en
-        cualquier momento.
+        sobre qué implica esto y cómo desactivarla.
       </p>
       <p>
         No solicitamos ni recopilamos datos personales para unirte a
@@ -192,20 +191,32 @@
   <!-- ============================================================
        BANNER DE COOKIES
        ============================================================ -->
-  <div class="banner-cookies" data-visible="false" role="dialog" aria-label="Configuración de cookies">
+  <div class="banner-cookies" data-visible="false" role="dialog" aria-label="Aviso de cookies" id="aviso-cookies">
     <div class="banner-cookies__contenido">
       <p class="banner-cookies__texto">
-        Usamos cookies propias y de análisis (Google Analytics) para entender
-        cómo se usa la web. Puedes aceptarlas o rechazarlas; si rechazas, no
-        se cargará ningún script de analítica. Más información en nuestra
-        <a href="/cookies.html">política de cookies</a>.
+        Usamos cookies para ayudarnos a mejorar esta web. Puedes cambiarlo
+        desde "Configurar cookies", al final de la página.
+        <a href="/cookies.html">Más info</a>.
       </p>
       <div class="banner-cookies__botones">
-        <button type="button" class="boton boton--secundario" data-accion="rechazar-cookies">
-          Rechazar
+        <button type="button" class="boton boton--primario" data-accion="cerrar-aviso-cookies">
+          Entendido
         </button>
-        <button type="button" class="boton boton--primario" data-accion="aceptar-cookies">
-          Aceptar
+      </div>
+    </div>
+  </div>
+
+  <div class="banner-cookies" data-visible="false" role="dialog" aria-label="Configuración de cookies" id="panel-configurar-cookies">
+    <div class="banner-cookies__contenido">
+      <p class="banner-cookies__texto" id="texto-estado-analitica">
+        Las cookies están activadas.
+      </p>
+      <div class="banner-cookies__botones">
+        <button type="button" class="boton boton--secundario" data-accion="alternar-analitica">
+          Desactivar cookies
+        </button>
+        <button type="button" class="boton boton--primario" data-accion="cerrar-panel-cookies">
+          Cerrar
         </button>
       </div>
     </div>
