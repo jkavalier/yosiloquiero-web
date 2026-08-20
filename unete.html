@@ -86,11 +86,41 @@
     </div>
   </header>
 
+<!-- ============================================================
+       PANEL DE MENÚ
+       ============================================================ -->
+  <div class="fondo-oscurecido" data-visible="false"></div>
 
+  <nav class="panel-menu" data-abierto="false" aria-hidden="true" aria-label="Menú principal">
+    <div class="panel-menu__cabecera">
+      <button
+        type="button"
+        class="icono-boton"
+        data-accion="cerrar-menu"
+        aria-label="Cerrar menú de navegación"
+      >
+        <svg viewBox="0 0 24 24" aria-hidden="true">
+          <path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="2" stroke-linecap="round" fill="none"/>
+        </svg>
+      </button>
+    </div>
+    <ul class="panel-menu__lista">
+      <li><a href="/index.html">Inicio</a></li>
+      <li><a href="/ofertas.html">Ofertas</a></li>
+      <li><a href="/canales.html">Canales</a></li>
+      <li><a href="/como-funciona.html">Cómo funciona</a></li>
+      <li><a href="/guia-refurbished.html">Guía de compra</a></li>
+      <li><a href="/categorias.html">Categorías</a></li>
+      <li><a href="/faq.html" aria-current="page">FAQ</a></li>
+      <li><a href="/sobre-nosotros.html">Sobre nosotros</a></li>
+      <li><a href="/contacto.html">Contacto</a></li>
+    </ul>
+  </nav>
 
+   <!-- ============================================================
+       CONTENIDO PRINCIPAL
+       ============================================================ -->
   <main id="contenido-principal">
-
-
     <!-- ========================================================
          1. HERO
          ======================================================== -->
@@ -264,9 +294,6 @@
           </p>
           -->
         </div>
-
-
-
         <article class="landing-oferta">
           <!-- ==================================================
                IMAGEN / CAPTURA REAL
@@ -284,11 +311,7 @@
               height="900"
               loading="lazy"
             >
-
           </div>
-
-
-
           <div class="landing-oferta__contenido">
 
 <!--
@@ -573,6 +596,16 @@
 
         </div>
         <div class="landing-faq">
+          <details class="landing-faq__item">
+            <summary>
+              ¿Por qué productos usados o devueltos?
+            </summary>
+            <p>
+              Llevamos <strong>más dos décadas</strong> adquiriendo productos usados, reacondicionados e incluso con taras estéticas para nuestro uso personal: 
+              televisores, consolas, lavadoras, neveras, smartphones... El ahorro acumulado asciende a miles de euros, así como decenas de kilos de residuos menos.
+              Simplemente, <a href="/sobre-nosotros.html">queremos fomentar esta forma de consumir</a> que para nosotros solo ha traído ventajas.
+            </p>
+          </details>
           <details class="landing-faq__item">
             <summary>
               ¿Qué tipo de productos me encontraré?
