@@ -1,4 +1,115 @@
-{
-  "actualizado": null,
-  "ofertas": []
+={
+  "actualizado": "2026-08-20T22:18:08+02:00",
+  "ofertas": [
+    {
+      "titulo": "Xiaomi Watch S1 Active",
+      "condicion": "Prácticamente Nuevo",
+      "precio_anterior": 109.99,
+      "precio_actual": 56.38,
+      "descuento_porcentaje": 49,
+      "ahorro_euros": 53.61,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31LRhYKmrlL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09S8RCGSC?tag=yosiloquiero-21&ref=nosim"
+    },
+    {
+      "titulo": "Parent iPad Pro 2018-3rd Gen",
+      "condicion": "Reacondicionado Oficial",
+      "precio_anterior": 688.89,
+      "precio_actual": 355,
+      "descuento_porcentaje": 48,
+      "ahorro_euros": 333.89,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41oJEoiIAmL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07W16N1DN?tag=yosiloquiero-21&ref=nosim"
+    },
+    {
+      "titulo": "HomeMatic IP Termostato de pared con salida de conmutación – para Marca Interruptor",
+      "condicion": "Prácticamente Nuevo",
+      "precio_anterior": 121.16,
+      "precio_actual": 28.72,
+      "descuento_porcentaje": 76,
+      "ahorro_euros": 92.44,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31oMSZsEVxL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0719FHCQ2?tag=yosiloquiero-21&ref=nosim"
+    },
+    {
+      "titulo": "Powercolor RX 6600 8GB Fighter 8G minorista",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 949.09,
+      "precio_actual": 255.98,
+      "descuento_porcentaje": 73,
+      "ahorro_euros": 693.11,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/413Gvdg5oLL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09H3PY14M?tag=yosiloquiero-21&ref=nosim"
+    },
+    {
+      "titulo": "Tefal OptiGrill Barbacoa de contacto",
+      "condicion": "Prácticamente Nuevo",
+      "precio_anterior": 149,
+      "precio_actual": 81.31,
+      "descuento_porcentaje": 45,
+      "ahorro_euros": 67.69,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41pzugvHmsL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08757P2FD?tag=yosiloquiero-21&ref=nosim"
+    },
+    {
+      "titulo": "MSI Monitor Gaming mag 32C6X, 1920x1080 (FHD), 31.5\", 16:9, Curve 1500R, Negro",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 215,
+      "precio_actual": 147.43,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 67.57,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41rXWYIZndL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DBH7XVBV?tag=yosiloquiero-21&ref=nosim"
+    },
+    {
+      "titulo": "Moulinex Cookeo Mini - Multicocina",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 233.49,
+      "precio_actual": 136.95,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 96.54,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31ZZf2S-ZDL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BX9VJM88?tag=yosiloquiero-21&ref=nosim"
+    },
+    {
+      "titulo": "Braun MultiGrill 9 Pro - Barbacoa eléctrica con 2 termos...",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 369.88,
+      "precio_actual": 230.75,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 139.13,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41yA1+Zxg0L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DFYY8VGL?tag=yosiloquiero-21&ref=nosim"
+    },
+    {
+      "titulo": "TEFAL RK1028 New Classic - Arrocera eléctrica, programas...",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 78.26,
+      "precio_actual": 42.69,
+      "descuento_porcentaje": 45,
+      "ahorro_euros": 35.57,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41RDggdMVxS.jpg",
+      "url_producto": "https://www.amazon.es/dp/B00F43OKF4?tag=yosiloquiero-21&ref=nosim"
+    },
+    {
+      "titulo": "LITTLE BALANCE 8947 Cheese & Fun, Raclette Grill, 2 en 1, hasta 6 personas, sin PFAS, 800 W, Chile",
+      "condicion": "Prácticamente Nuevo",
+      "precio_anterior": 41.93,
+      "precio_actual": 15.42,
+      "descuento_porcentaje": 63,
+      "ahorro_euros": 26.51,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31wni9SUHBL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FR485KT3?tag=yosiloquiero-21&ref=nosim"
+    }
+  ]
 }
