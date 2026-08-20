@@ -83,49 +83,57 @@
   }
 
   /* ------------------------------------------------------------------------
-     2. Banner de cookies (autogestionado, sin CMP de terceros)
+     2. Google Analytics + panel de configuración de cookies
      ------------------------------------------------------------------------
-     - No se carga ningún script de analítica hasta que el usuario acepte.
-     - La decisión se guarda en localStorage.
-     - El enlace "Configurar cookies" del footer permite cambiarla luego.
+     - La analítica (Google Analytics) se carga siempre, por defecto.
+     - Al primer acceso se muestra un aviso informativo (no bloqueante) con
+       un único botón "Entendido", que solo confirma que se ha visto.
+     - El enlace "Configurar cookies" del footer abre un panel donde el
+       usuario puede desactivar la analítica en cualquier momento. Si la
+       desactiva, se le indica a Google Analytics que deje de enviar datos
+       y se retira la etiqueta <script> inyectada.
      ------------------------------------------------------------------------ */
-  var CLAVE_CONSENTIMIENTO = "ysl_consentimiento_cookies";
+  var CLAVE_AVISO_VISTO = "ysl_aviso_cookies_visto";
+  var CLAVE_ANALYTICS_ACTIVO = "ysl_analytics_activo";
+  var ID_ANALYTICS = "G-TLKVGQ0FSJ";
 
-  function obtenerConsentimiento() {
+  function leerLocalStorage(clave) {
     try {
-      return localStorage.getItem(CLAVE_CONSENTIMIENTO);
+      return localStorage.getItem(clave);
     } catch (error) {
-      // Si localStorage no está disponible (modo privado estricto, etc.),
-      // no se persiste la decisión y se trata como "sin decidir".
       return null;
     }
   }
 
-  function guardarConsentimiento(valor) {
+  function escribirLocalStorage(clave, valor) {
     try {
-      localStorage.setItem(CLAVE_CONSENTIMIENTO, valor);
+      localStorage.setItem(clave, valor);
     } catch (error) {
-      // No se puede persistir; el banner podrá volver a aparecer.
+      // No se puede persistir (modo privado estricto, etc.); no es crítico.
     }
   }
 
-  function cargarGoogleAnalytics() {
-    // ID de Google Analytics 4 configurado.
-    var idAnalytics = "G-TLKVGQ0FSJ";
+  function analyticsEstaActivo() {
+    // Activo por defecto, salvo que el usuario lo haya desactivado explícitamente.
+    return leerLocalStorage(CLAVE_ANALYTICS_ACTIVO) !== "false";
+  }
 
-    if (!idAnalytics || idAnalytics.indexOf("[") === 0) {
-      // El ID todavía no está configurado; no se carga nada.
-      return;
+  function cargarGoogleAnalytics() {
+    if (!ID_ANALYTICS || ID_ANALYTICS.indexOf("[") === 0) {
+      return; // El ID todavía no está configurado.
     }
 
+    // Revierte cualquier desactivación previa de esta sesión de navegador.
+    window["ga-disable-" + ID_ANALYTICS] = false;
+
     if (document.getElementById("script-google-analytics")) {
-      return; // Ya cargado
+      return; // Ya cargado.
     }
 
     var script = document.createElement("script");
     script.id = "script-google-analytics";
     script.async = true;
-    script.src = "https://www.googletagmanager.com/gtag/js?id=" + idAnalytics;
+    script.src = "https://www.googletagmanager.com/gtag/js?id=" + ID_ANALYTICS;
     document.head.appendChild(script);
 
     window.dataLayer = window.dataLayer || [];
@@ -133,56 +141,97 @@
       window.dataLayer.push(arguments);
     }
     gtag("js", new Date());
-    gtag("config", idAnalytics);
+    gtag("config", ID_ANALYTICS);
     window.gtag = gtag;
   }
 
+  function desactivarGoogleAnalytics() {
+    // Mecanismo oficial de Google para dejar de enviar datos a partir de ahora.
+    window["ga-disable-" + ID_ANALYTICS] = true;
+
+    var script = document.getElementById("script-google-analytics");
+    if (script) {
+      script.remove();
+    }
+  }
+
   function inicializarCookies() {
-    var banner = document.querySelector(".banner-cookies");
-    if (!banner) {
-      return;
-    }
+    var avisoBanner = document.getElementById("aviso-cookies");
+    var botonEntendido = avisoBanner
+      ? avisoBanner.querySelector("[data-accion='cerrar-aviso-cookies']")
+      : null;
 
-    var botonAceptar = banner.querySelector("[data-accion='aceptar-cookies']");
-    var botonRechazar = banner.querySelector("[data-accion='rechazar-cookies']");
+    var panelConfig = document.getElementById("panel-configurar-cookies");
     var enlaceConfigurar = document.querySelector("[data-accion='configurar-cookies']");
+    var botonAlternar = panelConfig
+      ? panelConfig.querySelector("[data-accion='alternar-analitica']")
+      : null;
+    var botonCerrarPanel = panelConfig
+      ? panelConfig.querySelector("[data-accion='cerrar-panel-cookies']")
+      : null;
+    var textoEstado = panelConfig
+      ? panelConfig.querySelector("#texto-estado-analitica")
+      : null;
 
-    function mostrarBanner() {
-      banner.setAttribute("data-visible", "true");
-    }
-
-    function ocultarBanner() {
-      banner.setAttribute("data-visible", "false");
-    }
-
-    var consentimiento = obtenerConsentimiento();
-
-    if (consentimiento === "aceptado") {
+    // 1. Cargar (o no) Google Analytics según la preferencia guardada.
+    if (analyticsEstaActivo()) {
       cargarGoogleAnalytics();
-    } else if (consentimiento !== "rechazado") {
-      // Sin decisión previa: mostrar el banner.
-      mostrarBanner();
+    } else {
+      desactivarGoogleAnalytics();
     }
 
-    if (botonAceptar) {
-      botonAceptar.addEventListener("click", function () {
-        guardarConsentimiento("aceptado");
-        cargarGoogleAnalytics();
-        ocultarBanner();
+    // 2. Mostrar el aviso informativo solo la primera vez.
+    if (avisoBanner && leerLocalStorage(CLAVE_AVISO_VISTO) !== "true") {
+      avisoBanner.setAttribute("data-visible", "true");
+    }
+
+    if (botonEntendido) {
+      botonEntendido.addEventListener("click", function () {
+        escribirLocalStorage(CLAVE_AVISO_VISTO, "true");
+        avisoBanner.setAttribute("data-visible", "false");
       });
     }
 
-    if (botonRechazar) {
-      botonRechazar.addEventListener("click", function () {
-        guardarConsentimiento("rechazado");
-        ocultarBanner();
-      });
+    // 3. Panel de configuración (accesible desde el footer).
+    function actualizarTextoPanel() {
+      var activo = analyticsEstaActivo();
+      if (textoEstado) {
+        textoEstado.textContent = activo
+          ? "Las cookies están activadas."
+          : "Las cookies están desactivadas.";
+      }
+      if (botonAlternar) {
+        botonAlternar.textContent = activo ? "Desactivar cookies" : "Activar cookies";
+      }
     }
 
-    if (enlaceConfigurar) {
+    if (enlaceConfigurar && panelConfig) {
       enlaceConfigurar.addEventListener("click", function (evento) {
         evento.preventDefault();
-        mostrarBanner();
+        if (avisoBanner) {
+          avisoBanner.setAttribute("data-visible", "false");
+        }
+        actualizarTextoPanel();
+        panelConfig.setAttribute("data-visible", "true");
+      });
+    }
+
+    if (botonAlternar) {
+      botonAlternar.addEventListener("click", function () {
+        if (analyticsEstaActivo()) {
+          escribirLocalStorage(CLAVE_ANALYTICS_ACTIVO, "false");
+          desactivarGoogleAnalytics();
+        } else {
+          escribirLocalStorage(CLAVE_ANALYTICS_ACTIVO, "true");
+          cargarGoogleAnalytics();
+        }
+        actualizarTextoPanel();
+      });
+    }
+
+    if (botonCerrarPanel) {
+      botonCerrarPanel.addEventListener("click", function () {
+        panelConfig.setAttribute("data-visible", "false");
       });
     }
   }
