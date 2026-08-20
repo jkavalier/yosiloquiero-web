@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-08-20T22:18:08+02:00",
+  "actualizado": "2026-08-20T23:01:43+02:00",
   "ofertas": [
+    {
+      "titulo": "Polaroid Now+ Generation 2 - Paquete de cámara + películ...",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 109.99,
+      "precio_actual": 63.27,
+      "descuento_porcentaje": 42,
+      "ahorro_euros": 46.72,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41kUTxv9+jL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DB3LP26Y?tag=yosiloquiero-21&ref=nosim",
+      "hora": "23:01"
+    },
+    {
+      "titulo": "Neretva Cafetera para Espresso y Cappuccino",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 169.99,
+      "precio_actual": 118.98,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 51.01,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51Qe9mIj5GL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GCF3RGKX?tag=yosiloquiero-21&ref=nosim",
+      "hora": "23:01"
+    },
+    {
+      "titulo": "Ninja Foodi MAX PRO Parrilla, Plancha y Freidora de aire",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 299,
+      "precio_actual": 188.89,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 110.11,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31VrkU3IXvL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09N3V7T9D?tag=yosiloquiero-21&ref=nosim",
+      "hora": "23:01"
+    },
+    {
+      "titulo": "BenQ PD Group 202606",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 1161.43,
+      "precio_actual": 816.35,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 345.08,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51DcsaPtlCL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F2GL5LQN?tag=yosiloquiero-21&ref=nosim",
+      "hora": "23:01"
+    },
+    {
+      "titulo": "Logitech Ergo M575 Ratón Trackball Inalámbrico",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 67.74,
+      "precio_actual": 46.57,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 21.17,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21uqGFb6XkL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07W6HKMCN?tag=yosiloquiero-21&ref=nosim",
+      "hora": "23:01"
+    },
+    {
+      "titulo": "Tefal - Plancha Cocina",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 94.99,
+      "precio_actual": 63.54,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 31.45,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41KQXxyjPZL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08XBSLSZB?tag=yosiloquiero-21&ref=nosim",
+      "hora": "23:01"
+    },
+    {
+      "titulo": "Tristar Raclette",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 24.99,
+      "precio_actual": 17.27,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 7.72,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/4131Az1DRwL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B014J7P4KU?tag=yosiloquiero-21&ref=nosim",
+      "hora": "23:01"
+    },
+    {
+      "titulo": "Livoo - Raclette 6 personas DOC207P - 800W, bandeja grill extraíble, 29x29 cm, accesorios incluidos",
+      "condicion": "Prácticamente Nuevo",
+      "precio_anterior": 28.66,
+      "precio_actual": 17.27,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 11.39,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31ZWJy3fRHL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D2N8F2HJ?tag=yosiloquiero-21&ref=nosim",
+      "hora": "23:01"
+    },
     {
       "titulo": "Xiaomi Watch S1 Active",
       "condicion": "Prácticamente Nuevo",
