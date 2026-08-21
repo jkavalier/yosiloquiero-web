@@ -1,6 +1,78 @@
 {
-  "actualizado": "2026-08-21T22:00:46+02:00",
+  "actualizado": "2026-08-21T23:01:29+02:00",
   "ofertas": [
+    {
+      "titulo": "SanDisk microSD",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 130.11,
+      "precio_actual": 72.48,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 57.63,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41OeXXoVaTL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CRHWRX8C?tag=yosiloquiero-21&ref=nosim",
+      "hora": "23:01"
+    },
+    {
+      "titulo": "Galaxy A14 5G 4GB 64GB Black",
+      "condicion": "Prácticamente Nuevo",
+      "precio_anterior": 184,
+      "precio_actual": 110.98,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 73.02,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/5182sWz2NIL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BVKZ8M64?tag=yosiloquiero-21&ref=nosim",
+      "hora": "23:01"
+    },
+    {
+      "titulo": "Tescoma Arrocera Eléctrica GrandChef",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 82.9,
+      "precio_actual": 41.25,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 41.65,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31ECZWUPOYL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C5N72WZ3?tag=yosiloquiero-21&ref=nosim",
+      "hora": "23:01"
+    },
+    {
+      "titulo": "Anker MagGo Estación de Cargador Inalámbrico iPhone 3 en...",
+      "condicion": "Prácticamente Nuevo",
+      "precio_anterior": 93.47,
+      "precio_actual": 62.73,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 30.74,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/411x+3GeoEL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CP1VSQCW?tag=yosiloquiero-21&ref=nosim",
+      "hora": "23:01"
+    },
+    {
+      "titulo": "MSI Pro MP223 - Monitor de sobremesa (21,45 pulgadas, Full HD)",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 146.5,
+      "precio_actual": 82.4,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 64.1,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41hDfrE3N5L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C6DDGYZ4?tag=yosiloquiero-21&ref=nosim",
+      "hora": "23:01"
+    },
+    {
+      "titulo": "Moulinex Rowenta Optigrill",
+      "condicion": "Prácticamente Nuevo",
+      "precio_anterior": 226.53,
+      "precio_actual": 121.94,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 104.59,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41yjQRTIsuL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CZXJZ115?tag=yosiloquiero-21&ref=nosim",
+      "hora": "23:01"
+    },
     {
       "titulo": "XPPen Artist 13.3 Pro V2 Tableta gráfica con Pantalla 16384 Niveles",
       "condicion": "Prácticamente Nuevo",
