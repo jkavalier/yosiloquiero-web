@@ -1,6 +1,78 @@
 {
-  "actualizado": "2026-08-21T20:01:52+02:00",
+  "actualizado": "2026-08-21T21:01:25+02:00",
   "ofertas": [
+    {
+      "titulo": "Xiaomi Redmi Buds 4 Pro Bluetooth 5.3 Wireless Charging Headphones",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 92.65,
+      "precio_actual": 39.45,
+      "descuento_porcentaje": 57,
+      "ahorro_euros": 53.2,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/318TXj1kmhL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0B8ZMGK7D?tag=yosiloquiero-21&ref=nosim",
+      "hora": "21:01"
+    },
+    {
+      "titulo": "Impresora fotográfica",
+      "condicion": "Prácticamente Nuevo",
+      "precio_anterior": 79.99,
+      "precio_actual": 47.91,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 32.08,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/418OtquCAkL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09WZCSTS5?tag=yosiloquiero-21&ref=nosim",
+      "hora": "21:01"
+    },
+    {
+      "titulo": "SanDisk Ultra 512 GB Dual Drive Luxe para dispositivos con USB Type-C",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 88.75,
+      "precio_actual": 61.38,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 27.37,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31fvhgem6UL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0842NYBHN?tag=yosiloquiero-21&ref=nosim",
+      "hora": "21:01"
+    },
+    {
+      "titulo": "Tefal - Plancha eléctrica, grande, XXL, para 10/12 Personas",
+      "condicion": "Prácticamente Nuevo",
+      "precio_anterior": 192.16,
+      "precio_actual": 123.89,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 68.27,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31lufvD03mL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07NW6YXGS?tag=yosiloquiero-21&ref=nosim",
+      "hora": "21:01"
+    },
+    {
+      "titulo": "Reality Leuchten Ginko R25791731 - Lámpara LED de pared (metal mate, incluye LED de 11 W)",
+      "condicion": "Prácticamente Nuevo",
+      "precio_anterior": 94.89,
+      "precio_actual": 32.24,
+      "descuento_porcentaje": 66,
+      "ahorro_euros": 62.65,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/11HmyXq3gdL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F48J2ZR6?tag=yosiloquiero-21&ref=nosim",
+      "hora": "21:01"
+    },
+    {
+      "titulo": "Philips Monitors 272E1CA/00-27 FHD, Curved 1500R, 75Hz, ...",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 203,
+      "precio_actual": 98.39,
+      "descuento_porcentaje": 52,
+      "ahorro_euros": 104.61,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41ix67bxjUL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07SPCWZHP?tag=yosiloquiero-21&ref=nosim",
+      "hora": "21:01"
+    },
     {
       "titulo": "Dreo ventilador techo inteligente de 132 cm con luz LED ...",
       "condicion": "Prácticamente Nuevo",
