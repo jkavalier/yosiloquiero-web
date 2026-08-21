@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-08-21T19:01:30+02:00",
+  "actualizado": "2026-08-21T20:01:52+02:00",
   "ofertas": [
+    {
+      "titulo": "Dreo ventilador techo inteligente de 132 cm con luz LED ...",
+      "condicion": "Prácticamente Nuevo",
+      "precio_anterior": 189.99,
+      "precio_actual": 130.11,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 59.88,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31HKQmDtynL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CW9PK1K4?tag=yosiloquiero-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Homematic IP Termostato Inteligente de Pared",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 59.26,
+      "precio_actual": 36.53,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 22.73,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31CgPfHgSXL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07ZHMGRLF?tag=yosiloquiero-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Tefal GC241D Grill con placas antiadherentes, Toque frío...",
+      "condicion": "Prácticamente Nuevo",
+      "precio_anterior": 56.55,
+      "precio_actual": 31.58,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 24.97,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41pIulBqA9L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B06W9JMQT1?tag=yosiloquiero-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "OneOdio Auriculares para colocar sobre la oreja para DJ ...",
+      "condicion": "Prácticamente Nuevo",
+      "precio_anterior": 37.99,
+      "precio_actual": 23.78,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 14.21,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41QXVXOm26L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07Y8JQ1X2?tag=yosiloquiero-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Baseus Picogo AM41 Power Bank, Ultra Slim 5000 mAh Magsa...",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 39.99,
+      "precio_actual": 25.64,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 14.35,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41lIqO-u3BL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F1XRYGKZ?tag=yosiloquiero-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "SANDISK Ultra Dual Drive Luxe, Memoria Flash 128 GB (con...",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 30.49,
+      "precio_actual": 20.32,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 10.17,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31PmCJu0pgL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CLC5WQZM?tag=yosiloquiero-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Kids Licensing - Lámpara 3D con Despertador y fecha",
+      "condicion": "Prácticamente Nuevo",
+      "precio_anterior": 35.3,
+      "precio_actual": 21.28,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 14.02,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41TeJ8z4-6L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D7QHJX9Z?tag=yosiloquiero-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "ASUS ZenScreen Touch MB16AMT - Monitor portátil táctil de 15,6\"",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 116.24,
+      "precio_actual": 81.78,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 34.46,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/410zGVhS6kL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09P3SBQ8W?tag=yosiloquiero-21&ref=nosim",
+      "hora": "20:01"
+    },
     {
       "titulo": "Camry cr 4415b CR 4415 Cafetera negro",
       "condicion": "En muy buen estado",
