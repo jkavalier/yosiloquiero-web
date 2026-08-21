@@ -24,7 +24,6 @@
   />
 
   <link rel="stylesheet" href="/assets/css/styles.css" />
-
   <!-- ============================================================
        DATOS ESTRUCTURADOS: WebSite y Organization
        No incluyen fechas ni datos inventados, solo información ya
@@ -105,8 +104,6 @@
     <ul class="panel-menu__lista">
       <li><a href="/index.html" aria-current="page">Inicio</a></li>
       <li><a href="/ofertas.html">Ofertas</a></li>
-      <li><a href="/canales.html">Canales</a></li>
-      <li><a href="/como-funciona.html">Cómo funciona</a></li>
       <li><a href="/guia-refurbished.html">Guía de compra</a></li>
       <li><a href="/categorias.html">Categorías</a></li>
       <li><a href="/faq.html">FAQ</a></li>
@@ -121,90 +118,74 @@
        ============================================================ -->
   <main id="contenido-principal">
 
-    <!-- HERO -->
-    <section class="seccion seccion--compacta contenedor">
-      <h1>¡Ahorra re-comprando!</h1>
-      <p>
-        Rastreamos cada día ofertas reales en Amazon España de productos
-        devueltos o reacondicionados, en estado impecacle, con buen
-        descuento y buena valoración, y los publicamos en <strong>nuestros canales</strong> gratuitos de Whatsapp y Telegram. 
-      </p>
-      <div style="display:flex; gap:12px; flex-wrap:wrap; margin-top:24px;">
-        <a href="/canales.html" class="boton boton--primario">Más info sobre los canales</a>
-        <a href="/ofertas.html" class="boton boton--secundario">Ver las ofertas de hoy</a>
-      </div>
-    </section>
+    <!-- HERO DE CONVERSIÓN -->
+    <section class="seccion seccion--compacta2 contenedor texto-centrado">
+      <h1>¡Re-estrena y ahorra!</h1>
 
-    <div class="separador-seccion" aria-hidden="true"></div>
-
-    <!-- QUÉ ES ESTO -->
-    <section class="seccion seccion--compacta contenedor animar-aparicion">
-      <h2>¿Qué es Yo SÍ Lo Quiero?</h2>
-      <p>
-        No somos una tienda. No vendemos, almacenamos ni revisamos
-        físicamente ningún producto. Nuestro trabajo es rastrear Amazon
-        España de forma automatizada para encontrar productos devueltos o
-        reacondicionados que cumplan un alto standard de calidad, descuento y
-        valoración, y así ponértelo fácil para que los encuentres en un solo
-        sitio y te animes a re-comprar.
-      </p>
-      <p>
-        La adquisición siempre se realiza directamente en Amazon, bajo sus
-        propias condiciones, garantías y política de devoluciones.
-      </p>
-    </section>
-
-    <div class="separador-seccion" aria-hidden="true"></div>
-
-    <!-- VENTAJAS / INCONVENIENTES -->
-    <section class="seccion seccion--compacta contenedor animar-aparicion">
-      <h2>¿Merece la pena comprar productos devueltos o reacondicionados?</h2>
-      <p>
-        Depende del producto y de tus prioridades. Un portátil o un
-        smartwatch reacondicionado puede ahorrarte mucho
-        dinero sin apenas diferencia respecto a uno nuevo. Las devoluciones en estado óptimo que ofrecemos apenas se distinguen de un producto nuevo. Pero mejor...  
-      </p>
-      <p>
-        <a href="/guia-refurbished.html">Lee la guía para re-comprar sin sustos</a>
-      </p>
-    </section>
-
-    <div class="separador-seccion" aria-hidden="true"></div>
-
-    <!-- CRITERIOS -->
-    <section class="seccion seccion--compacta contenedor animar-aparicion">
-      <h2>¿Qué ofertas mostramos?</h2>
-      <ul style="padding-left: 20px; display:flex; flex-direction:column; gap:8px;">
-        <li>Productos reacondicionados, o devueltos en "Estado Como Nuevo" o "Estado Muy Bueno".</li>
-        <li>Descuento mínimo del 30% sobre el precio de referencia.</li>
-        <li>Valoración media de usuarios de Amazon de al menos 4.2 estrellas sobre 5.</li>
+      <ul class="lista-beneficios-canales">
+        <li>🔍 Buscamos en Amazon productos devueltos en estado impecable</li>
+        <li>🤩 Rebajados 30-80% y con reseñas top</li>
+        <li>📲 Recibes las ofertas en tu app favorita</li>
+        <li>🛒 Compras directamente en Amazon</li>
+        <li>📆 30 días para probar y decidir</li>
       </ul>
-      <p>
-        Los productos vendidos y enviados por Amazon suelen incluir un plazo
-        de devolución de hasta 30 días, sujeto a las condiciones vigentes de
-        Amazon en el momento de la compra. Te recomendamos comprobar siempre
-        el plazo y las condiciones exactas de devolución en la propia ficha
-        del producto antes de comprar.
-      </p>
-      <p class="texto-secundario">
-        El stock suele ser limitado: con frecuencia estos productos están
-        disponibles en una sola unidad, y ocasionalmente hasta en cinco.
-        Comprueba siempre la disponibilidad y el precio final en Amazon
-        antes de comprar.
+
+      <div class="grupo-cta-canales">
+        <a
+          href="https://whatsapp.com/channel/0029VbCqrmBHrDZnA4G0HM3l"
+          class="boton boton--primario"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Unirme por WhatsApp
+        </a>
+        <a
+          href="https://t.me/yosiloquiero"
+          class="boton boton--secundario"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Unirme por Telegram
+        </a>
+      </div>
+
+      <p class="texto-secundario" style="margin-top: 10px;">
+        (las dos apps reciben las mismas ofertas)
       </p>
     </section>
 
-    <div class="separador-seccion" aria-hidden="true"></div>
+    <!-- POR QUÉ CONFIAR -->
+    <section class="seccion seccion--compacta2 contenedor animar-aparicion">
+      <h2>Para tu tranquilidad</h2>
+      <ul style="padding-left: 20px; display:flex; flex-direction:column; gap:8px;">
+        <li>
+          <strong>👌 Es gratis para ti.</strong> No cobramos nada por unirte, ni por recibir ofertas, ni se añaden comisiones al precio de Amazon.
+        </li>
+        <li>
+          <strong>🙅‍♀️ Privacidad total.</strong> Ni tú ni el resto de miembros del canal podéis ver el número de teléfono de los demás — ni tampoco nosotros, como administradores. Tu privacidad sigue rigiéndose según las políticas de WhatsApp, Telegram y Amazon.
+        </li>
+         <li>
+          <strong> 0️⃣ Cero ataduras.</strong> Silenciar o abandonar el canal es tan sencillo como en cualquier otro chat.
+        </li>
+        <li>
+          <strong>🤔 ¿Más información?</strong> Consulta las <a href="/faq.html">preguntas frecuentes</a>, los <a href="/categorias.html">tipos de productos que ofrecemos</a>, los <a href="/guia-refurbished.html">beneficios de comprar productos devueltos</a>, o mira directamente las <a href="/ofertas.html">ofertas de hoy</a>.
+        </li>
+      </ul>
+    </section>
 
-    <!-- CTA CANALES -->
-    <section class="seccion seccion--compacta contenedor animar-aparicion texto-centrado">
-      <h2>Recibe ofertas en tu app favorita</h2>
-      <p>
-        Únete gratis a nuestro canal de WhatsApp o Telegram. Mismo
-        contenido en los dos, sin coste, sin compromiso y sin dar 
-        ningún dato personal.
-      </p>
-      <div style="display:flex; gap:12px; flex-wrap:wrap; justify-content:center; margin-top:16px;">
+    <!-- CTA final -->
+    <section class="seccion seccion--compacta2 contenedor animar-aparicion texto-centrado">
+       <img
+        src="/assets/images/canales-hero.jpg"
+        alt="Dos personas sonriendo mientras usan el móvil y una consola portátil en el sofá, y una tercera con su portátil en un sillón"
+        class="imagen-hero-horizontal"
+        style="object-position: 20% center;"
+        width="480"
+        height="270"
+        loading="lazy"
+      />
+      <h2>¡Echa un vistazo!</h2>
+      <div class="grupo-cta-canales">
         <a
           href="https://whatsapp.com/channel/0029VbCqrmBHrDZnA4G0HM3l"
           class="boton boton--primario"
@@ -223,22 +204,6 @@
         </a>
       </div>
     </section>
-
-    <div class="separador-seccion" aria-hidden="true"></div>
-
-    <!-- CATEGORÍAS -->
-    <section class="seccion seccion--compacta contenedor animar-aparicion">
-      <h2>¿Qué tipo de productos encontrarás?</h2>
-      <p>
-        Portátiles, móviles, tablets, televisores, consolas, pequeños
-        electrodomésticos y mucho más — siempre dentro de las categorías
-        que ya cubrimos.
-      </p>
-      <p>
-        <a href="/categorias.html">Ver todas las categorías →</a>
-      </p>
-    </section>
-
   </main>
 
   <!-- ============================================================

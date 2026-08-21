@@ -82,8 +82,6 @@
     <ul class="panel-menu__lista">
       <li><a href="/index.html">Inicio</a></li>
       <li><a href="/ofertas.html">Ofertas</a></li>
-      <li><a href="/canales.html">Canales</a></li>
-      <li><a href="/como-funciona.html">Cómo funciona</a></li>
       <li><a href="/guia-refurbished.html">Guía de compra</a></li>
       <li><a href="/categorias.html" aria-current="page">Categorías</a></li>
       <li><a href="/faq.html">FAQ</a></li>
@@ -99,10 +97,11 @@
   <main id="contenido-principal">
     <!-- ================================================================
          LA INTRO Y TODOS LOS GRUPOS VIVEN DENTRO DE UNA ÚNICA SECCIÓN,
-         PARA EVITAR EL ESPACIADO GRANDE ENTRE SECCIONES REPETIDO. PARA
-         AÑADIR O QUITAR UNA CATEGORÍA, EDITA DIRECTAMENTE EL <li>
+         PARA EVITAR EL ESPACIADO GRANDE ENTRE SECCIONES REPETIDO. CADA
+         GRUPO ES UN PANEL DESPLEGABLE (<details>), IGUAL QUE EN EL FAQ.
+         PARA AÑADIR O QUITAR UNA CATEGORÍA, EDITA DIRECTAMENTE EL <li>
          CORRESPONDIENTE DENTRO DEL GRUPO QUE MEJOR ENCAJE. PARA AÑADIR
-         UN GRUPO NUEVO, COPIA UN BLOQUE <div class="grupo-contenido animar-aparicion">
+         UN GRUPO NUEVO, COPIA UN BLOQUE <details class="categoria-panel">
          COMPLETO.
          ================================================================ -->
     <section class="seccion contenedor">
@@ -113,37 +112,46 @@
       </p>
 
       <!-- GRUPO 1: Informática y trabajo -->
-      <div class="grupo-contenido animar-aparicion">
-        <h2>Informática y trabajo</h2>
-        <ul style="padding-left: 20px; columns: 2; column-gap: 24px;">
+      <details class="categoria-panel animar-aparicion">
+        <summary>Informática y trabajo</summary>
+        <ul>
           <!-- Categoría: Laptops de todos los tipos -->
-          <li>Laptops de todos los tipos</li>
-          <!-- Categoría: Tablets -->
-          <li>Tablets</li>
+          <li>Portátiles</li>
           <!-- Categoría: Monitores -->
           <li>Monitores</li>
           <!-- Categoría: Teclados -->
           <li>Teclados</li>
+          <li>Reposamuñecas</li>
           <!-- Categoría: Ratones -->
           <li>Ratones</li>
           <!-- Categoría: Packs de teclado y ratón -->
           <li>Packs de teclado y ratón</li>
+          <li>Lámparas USB</li>
+          <li>Webcams</li>
           <!-- Categoría: Tabletas gráficas -->
           <li>Tabletas gráficas</li>
           <!-- Categoría: Discos sólidos externos -->
-          <li>Discos sólidos externos</li>
+          <li>Discos SSD internos y externos</li>
           <!-- Categoría: Mochilas para laptop -->
           <li>Mochilas para laptop</li>
           <!-- Añadir nueva categoría de este grupo aquí -->
+           <li>Memoria PC</li>
+           <li>Tarjetas gráficas PC</li>
+           <li>Extensores WiFi</li>
+           <li>Impresoras 3D</li>
+           <li>Bases de refrigeración</li>
         </ul>
-      </div>
+      </details>
 
       <!-- GRUPO 2: Móviles y electrónica personal -->
-      <div class="grupo-contenido animar-aparicion">
-        <h2>Móviles y electrónica personal</h2>
-        <ul style="padding-left: 20px; columns: 2; column-gap: 24px;">
+      <details class="categoria-panel animar-aparicion">
+        <summary>Móviles y electrónica personal</summary>
+        <ul>
           <!-- Categoría: Móviles -->
           <li>Móviles</li>
+          <!-- Categoría: Tablets -->
+          <li>Tablets</li>
+          <li>Tablets de escritura</li>
           <!-- Categoría: Smartwatches -->
           <li>Smartwatches</li>
           <!-- Categoría: Pulseras de actividad -->
@@ -159,13 +167,15 @@
           <!-- Categoría: Grabadoras de voz -->
           <li>Grabadoras de voz</li>
           <!-- Añadir nueva categoría de este grupo aquí -->
+           <li>Tags de seguimiento</li>
+           <li>Cargadores inalámbricos</li>
         </ul>
-      </div>
+      </details>
 
       <!-- GRUPO 3: Audio y vídeo -->
-      <div class="grupo-contenido animar-aparicion">
-        <h2>Audio y vídeo</h2>
-        <ul style="padding-left: 20px; columns: 2; column-gap: 24px;">
+      <details class="categoria-panel animar-aparicion">
+        <summary>Audio y vídeo</summary>
+        <ul>
           <!-- Categoría: Altavoces portátiles -->
           <li>Altavoces portátiles</li>
           <!-- Categoría: Auriculares -->
@@ -187,13 +197,14 @@
           <!-- Categoría: Reproductores MP3 para natación -->
           <li>Reproductores MP3 para natación</li>
           <!-- Añadir nueva categoría de este grupo aquí -->
+           <li>PC Sticks</li>
         </ul>
-      </div>
+      </details>
 
       <!-- GRUPO 4: Gaming -->
-      <div class="grupo-contenido animar-aparicion">
-        <h2>Gaming</h2>
-        <ul style="padding-left: 20px; columns: 2; column-gap: 24px;">
+      <details class="categoria-panel animar-aparicion">
+        <summary>Gaming</summary>
+        <ul>
           <!-- Categoría: Mandos para juegos de PC -->
           <li>Mandos para juegos de PC</li>
           <!-- Categoría: Consolas Nintendo Switch -->
@@ -206,12 +217,12 @@
           <li>Juguetes electrónicos portátiles</li>
           <!-- Añadir nueva categoría de este grupo aquí -->
         </ul>
-      </div>
+      </details>
 
       <!-- GRUPO 5: Foto, deporte y aire libre -->
-      <div class="grupo-contenido animar-aparicion">
-        <h2>Foto, deporte y aire libre</h2>
-        <ul style="padding-left: 20px; columns: 2; column-gap: 24px;">
+      <details class="categoria-panel animar-aparicion">
+        <summary>Foto, deporte y aire libre</summary>
+        <ul>
           <!-- Categoría: Impresoras fotográficas portátiles -->
           <li>Impresoras fotográficas portátiles</li>
           <!-- Categoría: Cámaras instantáneas -->
@@ -225,13 +236,14 @@
           <!-- Categoría: Arrancadores de batería -->
           <li>Arrancadores de batería</li>
           <!-- Añadir nueva categoría de este grupo aquí -->
+           <li>Equipaje de mano</li>
         </ul>
-      </div>
+      </details>
 
       <!-- GRUPO 6: Hogar -->
-      <div class="grupo-contenido animar-aparicion">
-        <h2>Hogar</h2>
-        <ul style="padding-left: 20px; columns: 2; column-gap: 24px;">
+      <details class="categoria-panel animar-aparicion">
+        <summary>Hogar</summary>
+        <ul>
           <!-- Categoría: Aspiradoras escoba -->
           <li>Aspiradoras escoba</li>
           <!-- Categoría: Aspiradoras verticales -->
@@ -245,16 +257,28 @@
           <!-- Categoría: Kits de alfombra -->
           <li>Kits de alfombra</li>
           <!-- Categoría: Masajeadores eléctricos -->
-          <li>Masajeadores eléctricos</li>
-          <!-- Categoría: Luces despertador -->
           <li>Luces despertador</li>
           <!-- Categoría: Lámparas de pie -->
           <li>Lámparas de pie</li>
           <!-- Añadir nueva categoría de este grupo aquí -->
+           <li>Cafeteras</li>
+           <li>Parrillas y planchas eléctricas</li>
+           <li>Ollas express eléctricas</li>
+           <li>Arroceras</li>
+           <li>Aire acondicionado móvil</li>
+           <li>Fuentes y comederos mascotas</li>
+           <li>Deshumidificadores</li>
+           <li>Climatizadores evaporativos</li>
+           <li>Rastreadores mascota</li>
+           <li>Cámaras de vigilancia</li>
+           <li>Termostatos programables</li>
+           <li>Enchufes inteligentes</li>
+           <li>Paneles solares</li>
+           <li>Jacuzzis</li>
         </ul>
-      </div>
+      </details>
 
-      <!-- Añadir nuevo grupo completo copiando el patrón <div class="grupo-contenido animar-aparicion"> de arriba -->
+      <!-- Añadir nuevo grupo completo copiando el patrón <details class="categoria-panel"> de arriba -->
 
     </section>
 
@@ -262,6 +286,14 @@
       <h2>¿Buscas algo de estas categorías?</h2>
       <p><a href="/ofertas.html">Consulta las ofertas del día →</a></p>
       <p>¿Echas en falta alguna categoría? <a href="/contacto.html">¡Escríbenos!</a></p>
+    </section>
+
+    <section class="seccion contenedor animar-aparicion texto-centrado">
+      <h2>Recibe ofertas en tu app favorita</h2>
+      <div class="grupo-cta-canales">
+        <a href="https://whatsapp.com/channel/0029VbCqrmBHrDZnA4G0HM3l" class="boton boton--primario" target="_blank" rel="noopener noreferrer">Unirme por WhatsApp</a>
+        <a href="https://t.me/yosiloquiero" class="boton boton--secundario" target="_blank" rel="noopener noreferrer">Unirme por Telegram</a>
+      </div>
     </section>
   </main>
 
