@@ -83,15 +83,19 @@
   }
 
   /* ------------------------------------------------------------------------
-     2. Google Analytics + panel de configuración de cookies
+     2. Google Analytics + Modo de Consentimiento v2 + panel de cookies
      ------------------------------------------------------------------------
      - La analítica (Google Analytics) se carga siempre, por defecto.
+     - Se implementa el Modo de Consentimiento v2 de Google: se informa a
+       Google del estado de consentimiento (granted/denied) para que
+       Google Ads y Analytics traten correctamente el tráfico de la UE.
+       Como la analítica está activa por defecto, el estado inicial es
+       "granted"; si el usuario la desactiva, pasa a "denied" y dejamos
+       de enviar datos.
      - Al primer acceso se muestra un aviso informativo (no bloqueante) con
        un único botón "Entendido", que solo confirma que se ha visto.
      - El enlace "Configurar cookies" del footer abre un panel donde el
-       usuario puede desactivar la analítica en cualquier momento. Si la
-       desactiva, se le indica a Google Analytics que deje de enviar datos
-       y se retira la etiqueta <script> inyectada.
+       usuario puede desactivar la analítica en cualquier momento.
      ------------------------------------------------------------------------ */
   var CLAVE_AVISO_VISTO = "ysl_aviso_cookies_visto";
   var CLAVE_ANALYTICS_ACTIVO = "ysl_analytics_activo";
@@ -118,10 +122,37 @@
     return leerLocalStorage(CLAVE_ANALYTICS_ACTIVO) !== "false";
   }
 
+  // gtag/dataLayer se inicializan una sola vez, fuera de cargarGoogleAnalytics,
+  // para poder enviar señales de consentimiento incluso antes de inyectar
+  // el script de gtag.js.
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    window.dataLayer.push(arguments);
+  }
+  window.gtag = gtag;
+
+  function actualizarConsentimientoGoogle(concedido) {
+    var estado = concedido ? "granted" : "denied";
+    gtag("consent", "default", {
+      ad_storage: estado,
+      ad_user_data: estado,
+      ad_personalization: estado,
+      analytics_storage: estado,
+    });
+    gtag("consent", "update", {
+      ad_storage: estado,
+      ad_user_data: estado,
+      ad_personalization: estado,
+      analytics_storage: estado,
+    });
+  }
+
   function cargarGoogleAnalytics() {
     if (!ID_ANALYTICS || ID_ANALYTICS.indexOf("[") === 0) {
       return; // El ID todavía no está configurado.
     }
+
+    actualizarConsentimientoGoogle(true);
 
     // Revierte cualquier desactivación previa de esta sesión de navegador.
     window["ga-disable-" + ID_ANALYTICS] = false;
@@ -136,16 +167,13 @@
     script.src = "https://www.googletagmanager.com/gtag/js?id=" + ID_ANALYTICS;
     document.head.appendChild(script);
 
-    window.dataLayer = window.dataLayer || [];
-    function gtag() {
-      window.dataLayer.push(arguments);
-    }
     gtag("js", new Date());
     gtag("config", ID_ANALYTICS);
-    window.gtag = gtag;
   }
 
   function desactivarGoogleAnalytics() {
+    actualizarConsentimientoGoogle(false);
+
     // Mecanismo oficial de Google para dejar de enviar datos a partir de ahora.
     window["ga-disable-" + ID_ANALYTICS] = true;
 
@@ -301,6 +329,68 @@
   }
 
   /* ------------------------------------------------------------------------
+     5. Seguimiento de eventos de conversión (Google Analytics / Google Ads)
+     ------------------------------------------------------------------------
+     Detecta automáticamente los clics en cualquier página del sitio sobre:
+       - Enlaces a nuestro canal de WhatsApp  → evento "whatsapp_join_click"
+       - Enlaces a nuestro canal de Telegram  → evento "telegram_join_click"
+       - Botón "Ver en Amazon" de una tarjeta → evento "amazon_link_click"
+     No requiere marcar cada botón a mano: usa delegación de eventos sobre
+     todo el documento, así que funciona igual en páginas nuevas que se
+     añadan en el futuro, siempre que reutilicen las mismas clases/URLs.
+     Si la analítica está desactivada, gtag no envía nada (comprobado con
+     typeof window.gtag === "function", que sigue existiendo como función
+     vacía-segura incluso con la analítica desactivada, ya que solo deja de
+     enviarse gracias a "ga-disable-...").
+     ------------------------------------------------------------------------ */
+  function obtenerUbicacionEnlace(enlace) {
+    if (enlace.closest("[data-landing-cta]")) {
+      return enlace.closest("[data-landing-cta]").getAttribute("data-landing-cta");
+    }
+    if (enlace.closest(".cabecera")) return "header";
+    if (enlace.closest(".pie-pagina")) return "footer";
+    if (enlace.closest(".landing-cta-sticky")) return "sticky_movil";
+    if (enlace.closest(".grupo-cta-canales")) return "cta_canales";
+    return "cuerpo_pagina";
+  }
+
+  function inicializarSeguimientoConversiones() {
+    document.addEventListener("click", function (evento) {
+      var enlace = evento.target.closest("a[href]");
+      if (!enlace) {
+        return;
+      }
+
+      var href = enlace.getAttribute("href") || "";
+
+      if (href.indexOf("whatsapp.com/channel") !== -1) {
+        gtag("event", "whatsapp_join_click", {
+          cta_ubicacion: obtenerUbicacionEnlace(enlace),
+          page_location: window.location.pathname,
+        });
+        return;
+      }
+
+      if (href.indexOf("t.me/") !== -1) {
+        gtag("event", "telegram_join_click", {
+          cta_ubicacion: obtenerUbicacionEnlace(enlace),
+          page_location: window.location.pathname,
+        });
+        return;
+      }
+
+      if (enlace.classList.contains("tarjeta-oferta__boton")) {
+        var tarjeta = enlace.closest(".tarjeta-oferta");
+        var tituloEl = tarjeta ? tarjeta.querySelector(".tarjeta-oferta__titulo") : null;
+        gtag("event", "amazon_link_click", {
+          producto: tituloEl ? tituloEl.textContent.trim() : "desconocido",
+          page_location: window.location.pathname,
+        });
+      }
+    });
+  }
+
+  /* ------------------------------------------------------------------------
      Inicialización general
      ------------------------------------------------------------------------ */
   document.addEventListener("DOMContentLoaded", function () {
@@ -308,5 +398,6 @@
     inicializarCookies();
     inicializarAnimacionesScroll();
     inicializarSombraCabecera();
+    inicializarSeguimientoConversiones();
   });
 })();
