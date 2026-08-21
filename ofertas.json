@@ -1,6 +1,30 @@
 {
-  "actualizado": "2026-08-21T21:01:25+02:00",
+  "actualizado": "2026-08-21T22:00:46+02:00",
   "ofertas": [
+    {
+      "titulo": "XPPen Artist 13.3 Pro V2 Tableta gráfica con Pantalla 16384 Niveles",
+      "condicion": "Prácticamente Nuevo",
+      "precio_anterior": 299.99,
+      "precio_actual": 183.81,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 116.18,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41eXl5LqHAL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07VPHR6GD?tag=yosiloquiero-21&ref=nosim",
+      "hora": "22:00"
+    },
+    {
+      "titulo": "devolo Repetidor WiFi 63000 WiFi - hasta 3000 Mbit/s",
+      "condicion": "Prácticamente Nuevo",
+      "precio_anterior": 123,
+      "precio_actual": 82.99,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 40.01,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/213AIefRLOL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09TR67N6V?tag=yosiloquiero-21&ref=nosim",
+      "hora": "22:00"
+    },
     {
       "titulo": "Xiaomi Redmi Buds 4 Pro Bluetooth 5.3 Wireless Charging Headphones",
       "condicion": "En muy buen estado",
