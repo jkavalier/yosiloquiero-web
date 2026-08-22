@@ -1,6 +1,30 @@
 {
-  "actualizado": "2026-08-22T13:01:14+02:00",
+  "actualizado": "2026-08-22T14:00:40+02:00",
   "ofertas": [
+    {
+      "titulo": "ASUS ProArt Display PA248CRV - Monitor profesional de 24...",
+      "condicion": "Prácticamente Nuevo",
+      "precio_anterior": 294.34,
+      "precio_actual": 204.61,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 89.73,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51ENmpFc8WL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BWKF89J4?tag=yosiloquiero-21&ref=nosim",
+      "hora": "14:00"
+    },
+    {
+      "titulo": "Timex T205014E - Reloj para Uso Diario",
+      "condicion": "Prácticamente Nuevo",
+      "precio_anterior": 100.43,
+      "precio_actual": 66.73,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 33.7,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51f1TWNamIL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B000KC85KA?tag=yosiloquiero-21&ref=nosim",
+      "hora": "14:00"
+    },
     {
       "titulo": "Samsung 27' S36GD Curved Monitor",
       "condicion": "En muy buen estado",
