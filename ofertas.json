@@ -1,6 +1,90 @@
 {
-  "actualizado": "2026-08-22T11:01:13+02:00",
+  "actualizado": "2026-08-22T12:01:37+02:00",
   "ofertas": [
+    {
+      "titulo": "De'longhi EC201.CD.B - Cafetera de bomba tradicional (15...",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 123.66,
+      "precio_actual": 69.53,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 54.13,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41s9ejuYzOL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B00W506FIY?tag=yosiloquiero-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Logitech Group",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 499.53,
+      "precio_actual": 276.27,
+      "descuento_porcentaje": 45,
+      "ahorro_euros": 223.26,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/417pL1D3YQL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B01BL9JAQ8?tag=yosiloquiero-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Sekonda Reloj multifunción Midnight de 44 mm para Hombre, Resistente al Agua hasta 50 m",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 82.73,
+      "precio_actual": 41.39,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 41.34,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41BVyYRBFEL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07HP9FBWF?tag=yosiloquiero-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Bosch - Grill eléctrico, 3 posiciones, 2000W, Rojo, TCG4104",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 115.92,
+      "precio_actual": 49.09,
+      "descuento_porcentaje": 58,
+      "ahorro_euros": 66.83,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/317AF3JycRL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08DDFBL1R?tag=yosiloquiero-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Hisense AX3120G - Barra de Sonido 3.1.2 Ch 360W con Subwoofer inalámbrico y Dolby Atmos",
+      "condicion": "Prácticamente Nuevo",
+      "precio_anterior": 316.78,
+      "precio_actual": 220.18,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 96.6,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/213ByYQuZNL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C4TGX2YW?tag=yosiloquiero-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Samsung Aspiradora sin Cable Bespoke AI Jet AI Ultra 400AW VS90F40DEK/WA",
+      "condicion": "Prácticamente Nuevo",
+      "precio_anterior": 736.84,
+      "precio_actual": 442.44,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 294.4,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41JkMlzLqkL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DTQ1HT3C?tag=yosiloquiero-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "ASUS Chromebook",
+      "condicion": "Prácticamente Nuevo",
+      "precio_anterior": 424.38,
+      "precio_actual": 229.21,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 195.17,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/412XmEZCjzL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CZ42YZYG?tag=yosiloquiero-21&ref=nosim",
+      "hora": "12:01"
+    },
     {
       "titulo": "iPhone Apple iPhone 16 128Go Blanc",
       "condicion": "Prácticamente Nuevo",
