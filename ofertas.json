@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-08-22T12:01:37+02:00",
+  "actualizado": "2026-08-22T13:01:14+02:00",
   "ofertas": [
+    {
+      "titulo": "Samsung 27' S36GD Curved Monitor",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 163.91,
+      "precio_actual": 108.44,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 55.47,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41yzo6MbpoL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DJT5BFVH?tag=yosiloquiero-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Skullcandy Crusher ANC 2",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 221.71,
+      "precio_actual": 146.41,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 75.3,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41qSRLzzX-L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GHC1LX17?tag=yosiloquiero-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Microsoft TYPEW/SLIMPEN Teclados Marca Modelo PRO8PROX ALCANT ES Black",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 202.09,
+      "precio_actual": 107.33,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 94.76,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41S0ykYUE+L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09YXKP832?tag=yosiloquiero-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Logitech BCC950 Webcam Solución de Videoconferencia",
+      "condicion": "Prácticamente Nuevo",
+      "precio_anterior": 127.36,
+      "precio_actual": 87.09,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 40.27,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/318fOLWau3L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0080IA1J4?tag=yosiloquiero-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Bering 14440 Reloj Solar para Hombre con Caja de Acero I...",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 122.3,
+      "precio_actual": 81.78,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 40.52,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41VpmyG7SbL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B00KX6GPGE?tag=yosiloquiero-21&ref=nosim",
+      "hora": "13:01"
+    },
     {
       "titulo": "De'longhi EC201.CD.B - Cafetera de bomba tradicional (15...",
       "condicion": "En muy buen estado",
