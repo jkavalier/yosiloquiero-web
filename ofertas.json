@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-08-22T10:01:52+02:00",
+  "actualizado": "2026-08-22T11:01:13+02:00",
   "ofertas": [
+    {
+      "titulo": "iPhone Apple iPhone 16 128Go Blanc",
+      "condicion": "Prácticamente Nuevo",
+      "precio_anterior": 1192.8,
+      "precio_actual": 705.52,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 487.28,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31YM3nmTh8L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DGHN7913?tag=yosiloquiero-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Logitech BCC950 Webcam Solución de Videoconferencia",
+      "condicion": "Prácticamente Nuevo",
+      "precio_anterior": 127.36,
+      "precio_actual": 87.09,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 40.27,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/318fOLWau3L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0080IA1J4?tag=yosiloquiero-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "CUCKOO CR-0675F | 6 tazas (crudas) arrocera | 13 opcione...",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 165.11,
+      "precio_actual": 112.01,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 53.1,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31LLDx4BSXL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BZWJ9993?tag=yosiloquiero-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Sekonda Reloj multifunción Midnight de 44 mm para Hombre, Resistente al Agua hasta 50 m",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 82.73,
+      "precio_actual": 41.39,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 41.34,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41BVyYRBFEL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07HP9FBWF?tag=yosiloquiero-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Logitech G G512 CARBON Teclado mecánico RGB LIGHTSYNC",
+      "condicion": "Prácticamente Nuevo",
+      "precio_anterior": 109.99,
+      "precio_actual": 65.3,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 44.69,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41-64cbQfyL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07W7KMLQ9?tag=yosiloquiero-21&ref=nosim",
+      "hora": "11:01"
+    },
     {
       "titulo": "ASUS ROG Strix XG259QNS - Monitor para juegos de deportes electrónicos de 25 pulgadas",
       "condicion": "En muy buen estado",
