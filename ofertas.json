@@ -1,6 +1,42 @@
 {
-  "actualizado": "2026-08-23T21:00:59+02:00",
+  "actualizado": "2026-08-23T22:00:53+02:00",
   "ofertas": [
+    {
+      "titulo": "Philips 8510P",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 554.25,
+      "precio_actual": 312.23,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 242.02,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41cHAbIiyHL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F33B41NB?tag=yosiloquiero-21&ref=nosim",
+      "hora": "22:00"
+    },
+    {
+      "titulo": "Skullcandy Icon ANC",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 58.99,
+      "precio_actual": 37.93,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 21.06,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41Z7YQK4pDL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DK622V14?tag=yosiloquiero-21&ref=nosim",
+      "hora": "22:00"
+    },
+    {
+      "titulo": "Apple iPhone Air 256GB space black",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 1045.84,
+      "precio_actual": 734.66,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 311.18,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31xlcL9Xx+L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FQG944KG?tag=yosiloquiero-21&ref=nosim",
+      "hora": "22:00"
+    },
     {
       "titulo": "Lexar THOR Memoria RAM DDR4 16GB Kit (8GB x 2) 3200 MHz,...",
       "condicion": "En muy buen estado",
