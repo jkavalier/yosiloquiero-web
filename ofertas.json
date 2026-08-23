@@ -1,6 +1,42 @@
 {
-  "actualizado": "2026-08-23T18:00:44+02:00",
+  "actualizado": "2026-08-23T19:00:50+02:00",
   "ofertas": [
+    {
+      "titulo": "Sapphire 11349-03-20G Pulse AMD Radeon™ RX 9070 - Tarjet...",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 2725.47,
+      "precio_actual": 1775.28,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 950.19,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41CMq0rgg8L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DTHN37BP?tag=yosiloquiero-21&ref=nosim",
+      "hora": "19:00"
+    },
+    {
+      "titulo": "Deshumidificadores Mobile SDH 2028WH SENCOR",
+      "condicion": "Prácticamente Nuevo",
+      "precio_anterior": 249,
+      "precio_actual": 127.37,
+      "descuento_porcentaje": 49,
+      "ahorro_euros": 121.63,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31BVghy8XoL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D6NK9Q21?tag=yosiloquiero-21&ref=nosim",
+      "hora": "19:00"
+    },
+    {
+      "titulo": "Cecotec Raclette",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 42.9,
+      "precio_actual": 29.01,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 13.89,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41dVESyQ9GL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08NXPJNNM?tag=yosiloquiero-21&ref=nosim",
+      "hora": "19:00"
+    },
     {
       "titulo": "Pepe Jeans Highlight, Maleta de Cabina, Equipaje, Interi...",
       "condicion": "En muy buen estado",
