@@ -1,6 +1,30 @@
 {
-  "actualizado": "2026-08-23T15:00:56+02:00",
+  "actualizado": "2026-08-23T16:00:38+02:00",
   "ofertas": [
+    {
+      "titulo": "Pepe Jeans Bromley, mochilas, mochilas cabina, poliester...",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 62.31,
+      "precio_actual": 42.21,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 20.1,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31PS8jo5gSL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CQPKDL2B?tag=yosiloquiero-21&ref=nosim",
+      "hora": "16:00"
+    },
+    {
+      "titulo": "Logitech MX Keys Mini for Mac, Teclado inalámbrico Minimalista",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 59.99,
+      "precio_actual": 42.24,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 17.75,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31TwV1QvCNL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07W7KWV2Y?tag=yosiloquiero-21&ref=nosim",
+      "hora": "16:00"
+    },
     {
       "titulo": "Bose QuietComfort Ultra Audífonos inalámbricos con cancelación de Ruido",
       "condicion": "En muy buen estado",
