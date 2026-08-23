@@ -1,6 +1,30 @@
 {
-  "actualizado": "2026-08-23T22:00:53+02:00",
+  "actualizado": "2026-08-23T23:00:35+02:00",
   "ofertas": [
+    {
+      "titulo": "ASUS ROG Falchion NX - Teclado mecánico inalámbrico para...",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 163.69,
+      "precio_actual": 83.19,
+      "descuento_porcentaje": 49,
+      "ahorro_euros": 80.5,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41h4Gw1jibL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CX2MBZYJ?tag=yosiloquiero-21&ref=nosim",
+      "hora": "23:00"
+    },
+    {
+      "titulo": "Cronógrafo Chrono",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 119,
+      "precio_actual": 78.45,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 40.55,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41GOS48T6KL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DGH1KQVT?tag=yosiloquiero-21&ref=nosim",
+      "hora": "23:00"
+    },
     {
       "titulo": "Philips 8510P",
       "condicion": "En muy buen estado",
