@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-08-23T10:00:47+02:00",
+  "actualizado": "2026-08-23T11:00:30+02:00",
   "ofertas": [
+    {
+      "titulo": "Skagen Reloj Signatur para Hombre, Movimiento de Cuarzo a Tres Agujas con Correa de Acero Inoxidable",
+      "condicion": "Prácticamente Nuevo",
+      "precio_anterior": 123.42,
+      "precio_actual": 82.87,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 40.55,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31gRICrTSyL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CQXTPSZY?tag=yosiloquiero-21&ref=nosim",
+      "hora": "11:00"
+    },
     {
       "titulo": "CMF by Nothing Watch 3 Pro",
       "condicion": "En muy buen estado",
