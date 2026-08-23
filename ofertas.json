@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-08-23T13:00:29+02:00",
+  "actualizado": "2026-08-23T14:00:32+02:00",
   "ofertas": [
+    {
+      "titulo": "L'encyclopédie des personnages Disney",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 79.9,
+      "precio_actual": 27.11,
+      "descuento_porcentaje": 66,
+      "ahorro_euros": 52.79,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51SKwiwJ1eL.jpg",
+      "url_producto": "https://www.amazon.es/dp/2019462907?tag=yosiloquiero-21&ref=nosim",
+      "hora": "14:00"
+    },
     {
       "titulo": "HUAWEI Band Series Smartwatch",
       "condicion": "En muy buen estado",
