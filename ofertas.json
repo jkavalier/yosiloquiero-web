@@ -1,6 +1,30 @@
 {
-  "actualizado": "2026-08-23T16:00:38+02:00",
+  "actualizado": "2026-08-23T18:00:44+02:00",
   "ofertas": [
+    {
+      "titulo": "Pepe Jeans Highlight, Maleta de Cabina, Equipaje, Interi...",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 95,
+      "precio_actual": 54.64,
+      "descuento_porcentaje": 42,
+      "ahorro_euros": 40.36,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31SqLBq0RQL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09QGJWLSY?tag=yosiloquiero-21&ref=nosim",
+      "hora": "18:00"
+    },
+    {
+      "titulo": "Nuwave OxyPure Zero Plus Air Purifier",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 762.29,
+      "precio_actual": 366.57,
+      "descuento_porcentaje": 52,
+      "ahorro_euros": 395.72,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31kCy5KijpL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D7DVPYSG?tag=yosiloquiero-21&ref=nosim",
+      "hora": "18:00"
+    },
     {
       "titulo": "Pepe Jeans Bromley, mochilas, mochilas cabina, poliester...",
       "condicion": "En muy buen estado",
