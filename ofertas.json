@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-08-23T12:00:28+02:00",
+  "actualizado": "2026-08-23T13:00:29+02:00",
   "ofertas": [
+    {
+      "titulo": "HUAWEI Band Series Smartwatch",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 43.41,
+      "precio_actual": 28.65,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 14.76,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41Cuc3Rn5DL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DX2M6W5X?tag=yosiloquiero-21&ref=nosim",
+      "hora": "13:00"
+    },
     {
       "titulo": "Festina Reloj Hombre Analógico de Acero Inoxidable 316l ...",
       "condicion": "En muy buen estado",
