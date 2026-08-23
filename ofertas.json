@@ -1,6 +1,42 @@
 {
-  "actualizado": "2026-08-23T20:00:42+02:00",
+  "actualizado": "2026-08-23T21:00:59+02:00",
   "ofertas": [
+    {
+      "titulo": "Lexar THOR Memoria RAM DDR4 16GB Kit (8GB x 2) 3200 MHz,...",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 141.73,
+      "precio_actual": 76.88,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 64.85,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31+5mRN1Q4L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0B5CDVS7S?tag=yosiloquiero-21&ref=nosim",
+      "hora": "21:00"
+    },
+    {
+      "titulo": "EMOS - Termostato Digital con OpenTherm - programable",
+      "condicion": "Prácticamente Nuevo",
+      "precio_anterior": 76.16,
+      "precio_actual": 21.89,
+      "descuento_porcentaje": 71,
+      "ahorro_euros": 54.27,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31IUJGlDz9L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FZLRMBF4?tag=yosiloquiero-21&ref=nosim",
+      "hora": "21:00"
+    },
+    {
+      "titulo": "Intenso SSD Externo de 120 GB para Negocios",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 95,
+      "precio_actual": 64.63,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 30.37,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41-Jj-mAsbL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CM29XSKY?tag=yosiloquiero-21&ref=nosim",
+      "hora": "21:00"
+    },
     {
       "titulo": "Relaxdays Lámpara Pie Cromado con Pantalla Textil Ø 40 c...",
       "condicion": "Prácticamente Nuevo",
