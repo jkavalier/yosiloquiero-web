@@ -1,6 +1,42 @@
 {
-  "actualizado": "2026-08-23T14:00:32+02:00",
+  "actualizado": "2026-08-23T15:00:56+02:00",
   "ofertas": [
+    {
+      "titulo": "Bose QuietComfort Ultra Audífonos inalámbricos con cancelación de Ruido",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 384.96,
+      "precio_actual": 265.44,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 119.52,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31mrENe5ZYL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D4ZC4XMT?tag=yosiloquiero-21&ref=nosim",
+      "hora": "15:00"
+    },
+    {
+      "titulo": "VEEKTOMX Power Bank 20000mAh Bateria Externa USB C Carga...",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 30.58,
+      "precio_actual": 20.05,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 10.53,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31sGRxShmWL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09FZF3TQH?tag=yosiloquiero-21&ref=nosim",
+      "hora": "15:00"
+    },
+    {
+      "titulo": "Ozeino Auriculares Gaming con Micrófono",
+      "condicion": "Prácticamente Nuevo",
+      "precio_anterior": 27.99,
+      "precio_actual": 15.46,
+      "descuento_porcentaje": 45,
+      "ahorro_euros": 12.53,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41j47q47TRL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CCVMWY39?tag=yosiloquiero-21&ref=nosim",
+      "hora": "15:00"
+    },
     {
       "titulo": "L'encyclopédie des personnages Disney",
       "condicion": "En muy buen estado",
