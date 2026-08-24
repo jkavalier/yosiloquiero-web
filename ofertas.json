@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-08-24T18:01:02+02:00",
+  "actualizado": "2026-08-24T20:01:14+02:00",
   "ofertas": [
+    {
+      "titulo": "Moulinex OptiGrill 4 en 1 + Pinza, Parrilla Inteligente,...",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 299.99,
+      "precio_actual": 143.97,
+      "descuento_porcentaje": 52,
+      "ahorro_euros": 156.02,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41P7f9b8CcL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CKHLTXL1?tag=yosiloquiero-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "COMFEE Deshumidificador 10L, 20L, 30L parent",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 195,
+      "precio_actual": 136.93,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 58.07,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31-i+YUcA2L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07MQ2MFGC?tag=yosiloquiero-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Ventilador de techo",
+      "condicion": "Como Nuevo",
+      "precio_anterior": 202.84,
+      "precio_actual": 108.07,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 94.77,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21z5ooWLFiL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B01CI3HWPM?tag=yosiloquiero-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Auriculares Moto Buds Loop Color Pantone Trekking Green,...",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 143.16,
+      "precio_actual": 70.12,
+      "descuento_porcentaje": 51,
+      "ahorro_euros": 73.04,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31N368ezxyL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FR9TLWSJ?tag=yosiloquiero-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "YICAIZI Lámpara de Pie",
+      "condicion": "Como Nuevo",
+      "precio_anterior": 39.99,
+      "precio_actual": 24.95,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 15.04,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41SXQm4pdoL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DWXB79HP?tag=yosiloquiero-21&ref=nosim",
+      "hora": "20:01"
+    },
     {
       "titulo": "Redmi Watch 5",
       "condicion": "En muy buen estado",
