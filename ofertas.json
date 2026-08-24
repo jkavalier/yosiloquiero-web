@@ -1,6 +1,30 @@
 {
-  "actualizado": "2026-08-24T14:54:12+02:00",
+  "actualizado": "2026-08-24T16:00:36+02:00",
   "ofertas": [
+    {
+      "titulo": "WD_Black SN850X",
+      "condicion": "Como Nuevo",
+      "precio_anterior": 604.64,
+      "precio_actual": 351.56,
+      "descuento_porcentaje": 42,
+      "ahorro_euros": 253.08,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31JFHlYi5PL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D9WTKV1B?tag=yosiloquiero-21&ref=nosim",
+      "hora": "16:00"
+    },
+    {
+      "titulo": "AOC 22B2H/EU Monitor 22 Pulgadas FHD, 75Hz, VA, 4 ms GtG (1920x1080, 1x HDMI 1.4), Negro",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 81.95,
+      "precio_actual": 57.06,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 24.89,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/410WZ+RVdFL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08462YJYT?tag=yosiloquiero-21&ref=nosim",
+      "hora": "16:00"
+    },
     {
       "titulo": "DENON DHT-S316 Barra de Sonido Bluetooth",
       "condicion": "En muy buen estado",
