@@ -1,6 +1,90 @@
 {
-  "actualizado": "2026-08-24T14:01:47+02:00",
+  "actualizado": "2026-08-24T14:54:12+02:00",
   "ofertas": [
+    {
+      "titulo": "DENON DHT-S316 Barra de Sonido Bluetooth",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 261.25,
+      "precio_actual": 153.29,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 107.96,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31Q4GFsltiL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07HN2HMYB?tag=yosiloquiero-21&ref=nosim",
+      "hora": "14:54"
+    },
+    {
+      "titulo": "INVICTA Pro Diver Stainless Steel Men's Quartz Watch - 44mm",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 81.52,
+      "precio_actual": 54.09,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 27.43,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/416DTfEZ7QL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B06XDBN2WM?tag=yosiloquiero-21&ref=nosim",
+      "hora": "14:54"
+    },
+    {
+      "titulo": "Thrustmaster T-GT II",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 629.6,
+      "precio_actual": 387.55,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 242.05,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41zFCQgMbsS.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09834HL7F?tag=yosiloquiero-21&ref=nosim",
+      "hora": "14:54"
+    },
+    {
+      "titulo": "Diesel Reloj Closer para Hombre, Movimiento de Cuarzo a Tres Agujas con Correa de Acero Inoxidable",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 288.99,
+      "precio_actual": 188.68,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 100.31,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31HWcLXM3GL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FD9XN67P?tag=yosiloquiero-21&ref=nosim",
+      "hora": "14:54"
+    },
+    {
+      "titulo": "Apple iPhone 16 128GB Black",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 1213.8,
+      "precio_actual": 730.8,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 483,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31tRyMC1N7L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DGHY5KG8?tag=yosiloquiero-21&ref=nosim",
+      "hora": "14:54"
+    },
+    {
+      "titulo": "Apple iPad Pro de 11 Pulgadas (M4)",
+      "condicion": "Como Nuevo",
+      "precio_anterior": 1652.39,
+      "precio_actual": 1155.96,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 496.43,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31LAfwLN0sL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D3J85KNL?tag=yosiloquiero-21&ref=nosim",
+      "hora": "14:54"
+    },
+    {
+      "titulo": "Huawei Watch FIT 4 Smartwatch",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 130.73,
+      "precio_actual": 89.55,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 41.18,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51IXYA4sSQL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F2B1M9TB?tag=yosiloquiero-21&ref=nosim",
+      "hora": "14:54"
+    },
     {
       "titulo": "Apple iPhone 16 128GB Black",
       "condicion": "En muy buen estado",
