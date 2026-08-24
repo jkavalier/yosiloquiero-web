@@ -1,6 +1,90 @@
 {
-  "actualizado": "2026-08-24T10:01:37+02:00",
+  "actualizado": "2026-08-24T12:01:46+02:00",
   "ofertas": [
+    {
+      "titulo": "AEG Aspiradora Sin Cable AP61CB21DB, 21.6 V, Autonomía 4...",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 306.25,
+      "precio_actual": 88.58,
+      "descuento_porcentaje": 71,
+      "ahorro_euros": 217.67,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/310OQYrw8wL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D7Q7HYBL?tag=yosiloquiero-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "WD_BLUE SN550 250GB M.2 2280 PCIe Gen3 NVMe up to 2400 MB/s read speed",
+      "condicion": "Como Nuevo",
+      "precio_anterior": 214.19,
+      "precio_actual": 141.71,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 72.48,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31syyJXgriL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07YFF8879?tag=yosiloquiero-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Anker Nano Powerbank, 5000 mAh Powerbank 22,5 W, Conecto...",
+      "condicion": "Como Nuevo",
+      "precio_anterior": 29.99,
+      "precio_actual": 20.54,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 9.45,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31M5Dwt6aZL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C6XK6DDL?tag=yosiloquiero-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "WD Blue SN570 2TB, High-Performance M.2 PCIe NVMe SSD, con hasta 3500MB/s de Velocidad de Lectura",
+      "condicion": "Como Nuevo",
+      "precio_anterior": 599.99,
+      "precio_actual": 271.06,
+      "descuento_porcentaje": 55,
+      "ahorro_euros": 328.93,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31Fvvp0FmgL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09JM8DJNS?tag=yosiloquiero-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Teclado mecánico óptico para juegos EVGA Z20 RGB, interr...",
+      "condicion": "Como Nuevo",
+      "precio_anterior": 101.63,
+      "precio_actual": 37.51,
+      "descuento_porcentaje": 63,
+      "ahorro_euros": 64.12,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41tnsOpNqgL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08VNSGVX5?tag=yosiloquiero-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "SANDISK Ultra Slider Pendrive 64 GB Memoria USB Type-C, ...",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 166.99,
+      "precio_actual": 99.27,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 67.72,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21fJVrXadQL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FCG3X69B?tag=yosiloquiero-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "HP EB 865 G11 (16\") AMD R5-8540U 16/512SSD WUXGA W11P",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 2245.88,
+      "precio_actual": 1104.91,
+      "descuento_porcentaje": 51,
+      "ahorro_euros": 1140.97,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/419-m4fmwwL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DCLKC8BR?tag=yosiloquiero-21&ref=nosim",
+      "hora": "12:01"
+    },
     {
       "titulo": "Hama | Memoria USB C 128 GB, C-Rotate Pro 100 MB/s USB 3.2 Gen 1, Plata",
       "condicion": "En muy buen estado",
