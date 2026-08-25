@@ -1,6 +1,78 @@
 {
-  "actualizado": "2026-08-25T16:02:39+02:00",
+  "actualizado": "2026-08-25T18:01:22+02:00",
   "ofertas": [
+    {
+      "titulo": "Logitech G G335",
+      "condicion": "Como Nuevo",
+      "precio_anterior": 41.31,
+      "precio_actual": 25.27,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 16.04,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41HxvHDBykS.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07W6JNK1Z?tag=yosiloquiero-21&ref=nosim",
+      "hora": "18:01"
+    },
+    {
+      "titulo": "Taurus – Cafetera de goteo Verona",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 69.99,
+      "precio_actual": 47.76,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 22.23,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/315tDiSKFXL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DN1JCS9S?tag=yosiloquiero-21&ref=nosim",
+      "hora": "18:01"
+    },
+    {
+      "titulo": "HUAWEI Fit 4 Aluminum Alloy",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 198.68,
+      "precio_actual": 139.03,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 59.65,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/417Adei9X7L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F1DPMMDP?tag=yosiloquiero-21&ref=nosim",
+      "hora": "18:01"
+    },
+    {
+      "titulo": "Homematic IP Componentes antracita en el marco 55",
+      "condicion": "En muy buen estado",
+      "precio_anterior": 93.91,
+      "precio_actual": 36.87,
+      "descuento_porcentaje": 61,
+      "ahorro_euros": 57.04,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/4187mVfPY5L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CCVQ3Y1G?tag=yosiloquiero-21&ref=nosim",
+      "hora": "18:01"
+    },
+    {
+      "titulo": "Xiaomi Poco F6 5G 8GB/256GB Dorado (Titanium) Dual SIM",
+      "condicion": "Como Nuevo",
+      "precio_anterior": 527.59,
+      "precio_actual": 220,
+      "descuento_porcentaje": 58,
+      "ahorro_euros": 307.59,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41nKYor9yHL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D46JG3YQ?tag=yosiloquiero-21&ref=nosim",
+      "hora": "18:01"
+    },
+    {
+      "titulo": "Rapoo MT760 Wireless Mouse Silent - Ratón inalámbrico US...",
+      "condicion": "Como Nuevo",
+      "precio_anterior": 43.1,
+      "precio_actual": 29.56,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 13.54,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/310nAftRfPL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D848C6N3?tag=yosiloquiero-21&ref=nosim",
+      "hora": "18:01"
+    },
     {
       "titulo": "SteelSeries Arctis Nova 7P Wireless - Cascos PS5 Inalámb...",
       "condicion": "Como Nuevo",
