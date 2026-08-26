@@ -1,6 +1,90 @@
 {
-  "actualizado": "2026-08-26T14:01:50+02:00",
+  "actualizado": "2026-08-26T16:01:42+02:00",
   "ofertas": [
+    {
+      "titulo": "XIAOMI POCO F8 Ultra - Smartphone",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 698.08,
+      "precio_actual": 472.68,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 225.4,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41t+JHGBgjL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FT42SHJ3?tag=yosiloquiero-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "SanDisk iXpand - Memoria Flash",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 92.15,
+      "precio_actual": 18.5,
+      "descuento_porcentaje": 80,
+      "ahorro_euros": 73.65,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31ze2xNIC1L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08JCX12SK?tag=yosiloquiero-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Wacom Intuos M - Tableta Gráfica",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 90.99,
+      "precio_actual": 63.05,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 27.94,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31thbfugXIL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09DSVJWH6?tag=yosiloquiero-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "WD Blue SN5000 NVMe SSD 500GB, Disco Duro SSD M.2 2280 c...",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 153.28,
+      "precio_actual": 97.66,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 55.62,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41YaePDV78L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D7MKQKXZ?tag=yosiloquiero-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Lefant M1 2 en 1 Robot Aspirador y Fregasuelos, 5500Pa, ...",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 439.99,
+      "precio_actual": 120.59,
+      "descuento_porcentaje": 73,
+      "ahorro_euros": 319.4,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41XZyyspoDL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DK8BDWXB?tag=yosiloquiero-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Seiko Reloj Analógico para Hombre de Cuarzo japonés con Correa en Acero Inoxidable",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 207.03,
+      "precio_actual": 142.25,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 64.78,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41WI6l4ji7S.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08DKZ1M2H?tag=yosiloquiero-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "KOORUI Monitor Gaming",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 189.99,
+      "precio_actual": 125.95,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 64.04,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41UHfAdtNwL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CGR99RR9?tag=yosiloquiero-21&ref=nosim",
+      "hora": "16:01"
+    },
     {
       "titulo": "RORRY Cargador portátil de 10000 mAh, cargador portátil ...",
       "condicion": "Estado: Muy bueno",
