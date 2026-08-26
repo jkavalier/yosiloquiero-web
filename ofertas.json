@@ -1,6 +1,90 @@
 {
-  "actualizado": "2026-08-26T10:02:26+02:00",
+  "actualizado": "2026-08-26T12:01:45+02:00",
   "ofertas": [
+    {
+      "titulo": "Rollei Actioncam - Cámara de acción WiFi con resolución ...",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 105.08,
+      "precio_actual": 65.11,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 39.97,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41GbG96w8cL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B081Q6MCDN?tag=yosiloquiero-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "WD_Black SN850X",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 229.95,
+      "precio_actual": 161.51,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 68.44,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31JFHlYi5PL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0B7CPSN2K?tag=yosiloquiero-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Raclette Grill con revestimiento antiadherente 1300/1500 W, color negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 74.99,
+      "precio_actual": 41.09,
+      "descuento_porcentaje": 45,
+      "ahorro_euros": 33.9,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51JfoWv624L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B075L7ZP7H?tag=yosiloquiero-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "LUCIDE PHILON - Lámpara de lectura - Ø 23 cm - LED Regul. - 1x4,5W 3000K - Negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 209.95,
+      "precio_actual": 146.38,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 63.57,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/11zuFQLbY9L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B082QGSXWW?tag=yosiloquiero-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Lacoste.12.12 Collection 2011444 - Reloj analógico para ...",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 58.99,
+      "precio_actual": 30.89,
+      "descuento_porcentaje": 48,
+      "ahorro_euros": 28.1,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/310HcLnHqTL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07Y7Y1H83?tag=yosiloquiero-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "realme P3 5G 256GB 8GB",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 299.99,
+      "precio_actual": 165.37,
+      "descuento_porcentaje": 45,
+      "ahorro_euros": 134.62,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41QG6TtnPdL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F4KFYVQG?tag=yosiloquiero-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "BenQ ZOWIE XL2566K Monitor para juegos de 24,5 pulgadas ...",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 1093.98,
+      "precio_actual": 536.62,
+      "descuento_porcentaje": 51,
+      "ahorro_euros": 557.36,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31DBKQ2EArL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0B38D5L49?tag=yosiloquiero-21&ref=nosim",
+      "hora": "12:01"
+    },
     {
       "titulo": "Amazon Basics - Memoria Flash USB 3.1",
       "condicion": "Estado: Como Nuevo",
