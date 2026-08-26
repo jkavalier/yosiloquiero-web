@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-08-26T18:01:35+02:00",
+  "actualizado": "2026-08-26T20:01:18+02:00",
   "ofertas": [
+    {
+      "titulo": "Lenovo Legion Monitor de juegos",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 238.01,
+      "precio_actual": 109.19,
+      "descuento_porcentaje": 54,
+      "ahorro_euros": 128.82,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41nAGA7XRZL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CKJ8QKY3?tag=yosiloquiero-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "JBL Live 460NC - Auriculares inalámbricos Bluetooth con ...",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 95.12,
+      "precio_actual": 56.12,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 39,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31buJKzMS4L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08VDVVR3Q?tag=yosiloquiero-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "SanDisk microSD Extreme",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 238.99,
+      "precio_actual": 102.75,
+      "descuento_porcentaje": 57,
+      "ahorro_euros": 136.24,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41fzsn0yO4L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DCWHRX97?tag=yosiloquiero-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Beats Studio Pro",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 249,
+      "precio_actual": 148.77,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 100.23,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31Wk2tu-KoL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FHM7WST5?tag=yosiloquiero-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "American Tourister 4 Kix 2.0 Maleta Blanda expandible con Ruedas giratorias",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 357.42,
+      "precio_actual": 218.74,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 138.68,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41iz92LhGFL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BN4GPF4T?tag=yosiloquiero-21&ref=nosim",
+      "hora": "20:01"
+    },
     {
       "titulo": "Xiaomi Redmi 10C 3/64GB Verde Libre",
       "condicion": "Estado: Muy bueno",
