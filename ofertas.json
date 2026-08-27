@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-08-27T18:00:56+02:00",
+  "actualizado": "2026-08-27T20:01:40+02:00",
   "ofertas": [
+    {
+      "titulo": "Apple Watch Series 11 space grey aluminium 46mm black sport band Size M/L",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 635.69,
+      "precio_actual": 355.63,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 280.06,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/415Ai+yz6xL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FQFLMHSX?tag=yosiloquiero-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "SANDISK Ultra Slider Pendrive 64 GB Memoria USB Type-C, ...",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 438.1,
+      "precio_actual": 168.23,
+      "descuento_porcentaje": 62,
+      "ahorro_euros": 269.87,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31pNR6pP9SL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FCG5D8NV?tag=yosiloquiero-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Subsonic - Mando Inalámbrico para Switch 2 y Switch",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 24.05,
+      "precio_actual": 15.61,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 8.44,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41QB0abePHL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CTTK8W22?tag=yosiloquiero-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Turtle Beach Vulcan II TKL Pro - Teclado para Juegos mec...",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 108.84,
+      "precio_actual": 57.11,
+      "descuento_porcentaje": 48,
+      "ahorro_euros": 51.73,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41LA7jfnKuL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D185JN46?tag=yosiloquiero-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "K&F Concept Monoculares",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 64.99,
+      "precio_actual": 40.92,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 24.07,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41TuZbTKCIL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CL4S2CXX?tag=yosiloquiero-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "OnePlus Watch 2 Radiant Steel",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 188.99,
+      "precio_actual": 111.03,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 77.96,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41dxNDvnHOL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CV5ZBG16?tag=yosiloquiero-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "BEKO BDPO 010, 10L, R290, silenciador, temporizador 12h,...",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 119.86,
+      "precio_actual": 82.09,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 37.77,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21tbQoOWDZL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CNDHRSNG?tag=yosiloquiero-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Lámpara de pie",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 144.09,
+      "precio_actual": 80.57,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 63.52,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41AMNujTmTL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08NJWQRDW?tag=yosiloquiero-21&ref=nosim",
+      "hora": "20:01"
+    },
     {
       "titulo": "Epson EH-LS800B - Beamer, UST, Laser, UHD, Android TV, 4000 Ansi",
       "condicion": "Estado: Muy bueno",
