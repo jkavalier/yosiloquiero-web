@@ -1,6 +1,42 @@
 {
-  "actualizado": "2026-08-27T16:02:23+02:00",
+  "actualizado": "2026-08-27T18:00:56+02:00",
   "ofertas": [
+    {
+      "titulo": "Epson EH-LS800B - Beamer, UST, Laser, UHD, Android TV, 4000 Ansi",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 2499,
+      "precio_actual": 1746.6,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 752.4,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/210DcmeIXZL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0B988BSBC?tag=yosiloquiero-21&ref=nosim",
+      "hora": "18:00"
+    },
+    {
+      "titulo": "Xiaomi 13T 5G Dual SIM 8GB RAM 256GB Black EU",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 488.89,
+      "precio_actual": 319.79,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 169.1,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31s5Ngz9BuL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CK1LLRDY?tag=yosiloquiero-21&ref=nosim",
+      "hora": "18:00"
+    },
+    {
+      "titulo": "Apple Watch Ultra 3 (2025) natural titanium 49mm 4G bright blue Trail Loop M/L",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 1195.75,
+      "precio_actual": 720.53,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 475.22,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/61PgLUolGmL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FQG15ZPB?tag=yosiloquiero-21&ref=nosim",
+      "hora": "18:00"
+    },
     {
       "titulo": "Amazon Basics MicroSDXC, 128 GB, con Adaptador SD, A2, U3",
       "condicion": "Estado: Muy bueno",
