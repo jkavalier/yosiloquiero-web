@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-08-28T14:01:34+02:00",
+  "actualizado": "2026-08-28T16:01:44+02:00",
   "ofertas": [
+    {
+      "titulo": "SOLIDEE Teclado de Membrana 100%,Teclado Estilo máquina ...",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 32.99,
+      "precio_actual": 21.59,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 11.4,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41tU8dBZCUL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DBDGZBGF?tag=yosiloquiero-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Logitech MK540 - Combinación inalámbrica de Teclado y ratón, Color Negro",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 59.99,
+      "precio_actual": 38.42,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 21.57,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41eS128mP4L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0797QM2Y7?tag=yosiloquiero-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "CGZZ Cargador inalámbrico, Cargador inalámbrico rápido, ...",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 22.35,
+      "precio_actual": 15.22,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 7.13,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31kGSCaVxjL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C1FQG2CR?tag=yosiloquiero-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Huawei Watch FIT 3, Pantalla AMOLED de 1.82 Pulgadas",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 109,
+      "precio_actual": 76.08,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 32.92,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41VbolUE5-L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CYC72YW2?tag=yosiloquiero-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Singer Haute Couture - Máquina de coser electrónica - Ed...",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 298,
+      "precio_actual": 162.83,
+      "descuento_porcentaje": 45,
+      "ahorro_euros": 135.17,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31MD3xJGiFL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08LQLQ3DW?tag=yosiloquiero-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Cargador inalámbrico Huawei Supercharge con Adaptador CP...",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 49,
+      "precio_actual": 19.99,
+      "descuento_porcentaje": 59,
+      "ahorro_euros": 29.01,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21mcS5HyOOL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07JD35YS6?tag=yosiloquiero-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Parent_TV Anywhere Wireless",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 159.99,
+      "precio_actual": 109.3,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 50.69,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/216O2GJhLfL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FNL259TF?tag=yosiloquiero-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Arcade1Up Pac-Man Classic SE (Slim Edition)",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 499.99,
+      "precio_actual": 313.48,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 186.51,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41OSMIUr2VL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F48FKXXB?tag=yosiloquiero-21&ref=nosim",
+      "hora": "16:01"
+    },
     {
       "titulo": "NUBWO G06 Auriculares inalámbricos",
       "condicion": "Estado: Como Nuevo",
