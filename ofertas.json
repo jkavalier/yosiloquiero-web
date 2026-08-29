@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-08-29T18:15:47+02:00",
+  "actualizado": "2026-08-29T20:01:47+02:00",
   "ofertas": [
+    {
+      "titulo": "DENON Giradiscos automático, Color Negro",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 347.99,
+      "precio_actual": 217.35,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 130.64,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41b2RiV-+HL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B000KVWBKQ?tag=yosiloquiero-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Marvel Spiderman Black Maleta de Cabina, Rojo, Rígida, 4 Ruedas Dobles",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 79,
+      "precio_actual": 52.89,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 26.11,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/417e6BMzxHL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07Z9SX1WZ?tag=yosiloquiero-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "OBSBOT Tail Air Cámara NDI 4K con Seguimiento AI, PTZ, App Inteligente, Control Gestual,",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 639,
+      "precio_actual": 401.04,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 237.96,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31Jf2Z5FHnL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CT8X16NV?tag=yosiloquiero-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Casio HDC-700-3A - Reloj de Pulsera para Hombre con Meca...",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 90.27,
+      "precio_actual": 46.43,
+      "descuento_porcentaje": 49,
+      "ahorro_euros": 43.84,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41VOB7YhTqL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07DKNK6JN?tag=yosiloquiero-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Festina Men's Classics Stainless Steel Watch Bracelet",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 83.66,
+      "precio_actual": 50.8,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 32.86,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41bLfxcTs+L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B093DYV3ST?tag=yosiloquiero-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "eXtremeRate Real Metal Buttons (RMB) Rise 2.0 Remap Kit ...",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 45.99,
+      "precio_actual": 29.64,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 16.35,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41elIssfVML.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09L5343RJ?tag=yosiloquiero-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Samsung Galaxy Tab S10+ AI Tablet Android Tablet 12GB RA...",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 1164,
+      "precio_actual": 697.6,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 466.4,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41GfGFPPQUL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DDTRTSQP?tag=yosiloquiero-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Apple Watch Series 11 space grey aluminium 46mm 4G black sport band Size M/L",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 795.94,
+      "precio_actual": 506.03,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 289.91,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41w0egdAyjL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FQFJFX19?tag=yosiloquiero-21&ref=nosim",
+      "hora": "20:01"
+    },
     {
       "titulo": "Philips ACC2310 Interruptor de pie USB, diseño con 3 ped...",
       "condicion": "Estado: Como Nuevo",
