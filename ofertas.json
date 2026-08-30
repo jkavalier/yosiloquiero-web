@@ -1,6 +1,78 @@
 {
-  "actualizado": "2026-08-30T10:00:39+02:00",
+  "actualizado": "2026-08-30T12:01:26+02:00",
   "ofertas": [
+    {
+      "titulo": "Guess para Hombre Analógico W1132G1",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 189.95,
+      "precio_actual": 116.4,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 73.55,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51sP9xeMCvL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07F3GCV5F?tag=yosiloquiero-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Xencelabs Pen Display Series",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 1699.28,
+      "precio_actual": 1095.27,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 604.01,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31z-5y+mRiL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C6N14R12?tag=yosiloquiero-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "SUPNIU Altavoz Bluetooth, Altavoces Portátiles Inalámbri...",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 289.98,
+      "precio_actual": 126.73,
+      "descuento_porcentaje": 56,
+      "ahorro_euros": 163.25,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51E2q7sVUwL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FG81NFY7?tag=yosiloquiero-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Proyector,AKIYO O8 WiFi Full HD, 1080P, proyector de Vid...",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 118.99,
+      "precio_actual": 78.63,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 40.36,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/519ljr-e-nL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CHHP4CJZ?tag=yosiloquiero-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Integral USSD SlimXpress Dual USB 3.2 Gen 2x1 de 512 GB,...",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 181.14,
+      "precio_actual": 106.86,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 74.28,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31qrIsMQ9KL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0G4C9FVR3?tag=yosiloquiero-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "BOSS Reloj Analógico de Cuarzo para Hombre Colección Pri...",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 179.95,
+      "precio_actual": 111.27,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 68.68,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41frx0bTMsL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CJ5B6CJV?tag=yosiloquiero-21&ref=nosim",
+      "hora": "12:01"
+    },
     {
       "titulo": "DENON Giradiscos automático, Color Negro",
       "condicion": "Estado: Muy bueno",
