@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-08-30T16:02:56+02:00",
+  "actualizado": "2026-08-30T18:01:09+02:00",
   "ofertas": [
+    {
+      "titulo": "Samsung Monitor Odyssey Neo G7",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 306.7,
+      "precio_actual": 207.57,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 99.13,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41b7-ScyWzL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09RHRJZGK?tag=yosiloquiero-21&ref=nosim",
+      "hora": "18:01"
+    },
+    {
+      "titulo": "SANDISK Optimus 5100",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 148.99,
+      "precio_actual": 98.19,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 50.8,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31M1Yscr3sL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GJSFFLXZ?tag=yosiloquiero-21&ref=nosim",
+      "hora": "18:01"
+    },
+    {
+      "titulo": "Festina Reloj On The Square",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 125,
+      "precio_actual": 47.84,
+      "descuento_porcentaje": 62,
+      "ahorro_euros": 77.16,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/415GqUmW0JL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CTHP8NMC?tag=yosiloquiero-21&ref=nosim",
+      "hora": "18:01"
+    },
+    {
+      "titulo": "Lenco Micrófono de Karaoke",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 38.69,
+      "precio_actual": 19.98,
+      "descuento_porcentaje": 48,
+      "ahorro_euros": 18.71,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31hrbNn1cEL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07SBJTKYR?tag=yosiloquiero-21&ref=nosim",
+      "hora": "18:01"
+    },
+    {
+      "titulo": "Cecotec Bicicleta Estática Indoor con Volante de Inercia...",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 229,
+      "precio_actual": 158.45,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 70.55,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41muKIlGdwL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BPZPHT29?tag=yosiloquiero-21&ref=nosim",
+      "hora": "18:01"
+    },
     {
       "titulo": "Logitech G G29 / G920 Series Incl Bundles",
       "condicion": "Estado: Muy bueno",
