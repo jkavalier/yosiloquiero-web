@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-08-31T20:01:43+02:00",
+  "actualizado": "2026-08-31T21:00:25+02:00",
   "ofertas": [
+    {
+      "titulo": "Russell Hobbs Freidora de Aire",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 175.07,
+      "precio_actual": 87.61,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 87.46,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41ns6CypwDL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0B9187C2B?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "21:00"
+    },
     {
       "titulo": "Celestron SkyMaster Porro Prism Binoculars",
       "condicion": "Estado: Como Nuevo",
