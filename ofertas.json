@@ -1,6 +1,90 @@
 {
-  "actualizado": "2026-08-31T19:02:07+02:00",
+  "actualizado": "2026-08-31T20:01:43+02:00",
   "ofertas": [
+    {
+      "titulo": "Celestron SkyMaster Porro Prism Binoculars",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 206.47,
+      "precio_actual": 144.63,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 61.84,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31UyfuUh2zL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0007UQNTU?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "ADWITS Estuche SATA M.2 SSD a USB 3.0",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 14.99,
+      "precio_actual": 10.19,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 4.8,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41Wxfei20kL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B075GVFCL8?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "HUGO Reloj Analógico de Cuarzo para Hombre Colleción #Fi...",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 97.95,
+      "precio_actual": 68.81,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 29.14,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41qKKi96TWL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08X4PK51F?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Beats Studio Pro",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 199,
+      "precio_actual": 135.37,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 63.63,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41em9KnYnUL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C95LC4S6?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Belkin Cargador Inalámbrico Compatible con MagSafe, Base...",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 28.79,
+      "precio_actual": 11.93,
+      "descuento_porcentaje": 59,
+      "ahorro_euros": 16.86,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/316UHKpRHnL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F4DXNPW7?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "FOHERE Freidora de Aire Portátil, 4L, 4-en-1, 2 Recipientes Vidrio, Azul",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 139.99,
+      "precio_actual": 88.13,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 51.86,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/410Gj2wbi1L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FJR2NPHK?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Sumgsn Teclas topográficas PBT",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 32.19,
+      "precio_actual": 21.57,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 10.62,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51vsjGfHiVL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FN7L11S9?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
     {
       "titulo": "Tefal Barbacoa de mesa Booster",
       "condicion": "Estado: Muy bueno",
