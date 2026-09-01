@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-09-01T19:02:13+02:00",
+  "actualizado": "2026-09-01T20:01:50+02:00",
   "ofertas": [
+    {
+      "titulo": "Fellowes Laptop Stand for Desk",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 17.59,
+      "precio_actual": 12.2,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 5.39,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31Ni5qbFWdL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B01BHLPG9U?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Travelers Club Chicago - Maleta rígida expandible con Ruedas giratorias",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 56,
+      "precio_actual": 38.43,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 17.57,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41reS2KFtFL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07KM2WKSK?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Meross Enchufe Inteligente WiFi 16A 3840W, con Control R...",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 38.99,
+      "precio_actual": 19.71,
+      "descuento_porcentaje": 49,
+      "ahorro_euros": 19.28,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/314u56atweL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B088T8P3F2?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Subsonic Volante Superdrive Racing con pedales, levas de...",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 94.96,
+      "precio_actual": 54.31,
+      "descuento_porcentaje": 43,
+      "ahorro_euros": 40.65,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41bekiznmdL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B097WJ686H?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Soundcore AeroClip",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 89.99,
+      "precio_actual": 62.31,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 27.68,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21cGC2BgujL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DLGCN35N?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Hasbro Gaming Avalon Hill HeroQuest Joe Manganiello's Th...",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 43.52,
+      "precio_actual": 27.43,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 16.09,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51KTEW0b6AL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DN2ZLCN8?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Tefal Dual Easy Fry, 8.3 L, Freidora de aire con cajones dobles",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 205.97,
+      "precio_actual": 105.66,
+      "descuento_porcentaje": 49,
+      "ahorro_euros": 100.31,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41xpyhMvqvL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DT9RGKC2?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Panasonic SC-BMAX30 Altavoz Portátil para Fiestas con Bl...",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 476.41,
+      "precio_actual": 335.04,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 141.37,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31uHwKd9BpL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GNMX1DLK?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
     {
       "titulo": "Hynix HMA81GS6AFR8N-UH 8GB DDR4 2400 MHz - Memoria de Sodio",
       "condicion": "Estado: Muy bueno",
