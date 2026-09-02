@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-09-02T16:01:19+02:00",
+  "actualizado": "2026-09-02T16:12:04+02:00",
   "ofertas": [
+    {
+      "titulo": "MSI GeForce RTX 4080 SUPER 16G GAMING X TRIO: GDDR6X de ...",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 3519.09,
+      "precio_actual": 1123.89,
+      "descuento_porcentaje": 68,
+      "ahorro_euros": 2395.2,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/415yW4otj+L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CQMFJ888?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:12"
+    },
     {
       "titulo": "Aiwa BS-200: Altavoz Inalámbrico Portátil Bluetooth, True Wireless Stereo, Impermeable.",
       "condicion": "Estado: Como Nuevo",
