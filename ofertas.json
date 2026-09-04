@@ -1,6 +1,54 @@
 {
-  "actualizado": "2026-09-04T14:02:22+02:00",
+  "actualizado": "2026-09-04T14:38:31+02:00",
   "ofertas": [
+    {
+      "titulo": "Lenovo IdeaPad Chromebook | 11 pulgadas FHD+ 1200p | Med...",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 822.45,
+      "precio_actual": 329.86,
+      "descuento_porcentaje": 60,
+      "ahorro_euros": 492.59,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41E5ICnenQL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DJQY6WM1?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:38"
+    },
+    {
+      "titulo": "Asus Tarjeta de Video NVIDIA GeForce RTX 5080 de 16 GB G...",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 3232.03,
+      "precio_actual": 2257.17,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 974.86,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41UUiubs6WL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DTY4H1CB?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:38"
+    },
+    {
+      "titulo": "XIAOMI 17 Phone",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 1099.9,
+      "precio_actual": 773.57,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 326.33,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41UsaBQe+ML.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0G4B8CPSV?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:38"
+    },
+    {
+      "titulo": "DELL 15 Ordenador Portátil - Intel Core i7-1355U, Windows 11 Home",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 999,
+      "precio_actual": 654.09,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 344.91,
+      "valoracion": 4.9,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41ZOzksrG8L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GK1VQ6LZ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:38"
+    },
     {
       "titulo": "Pentax SP - Prisma (10 x 50 cm), diseño de Prisma",
       "condicion": "Estado: Muy bueno",
