@@ -1,6 +1,90 @@
 {
-  "actualizado": "2026-09-04T21:02:06+02:00",
+  "actualizado": "2026-09-04T22:01:35+02:00",
   "ofertas": [
+    {
+      "titulo": "WMF Kult Pro - Batidora de vaso de 1600 W 1,8 L hasta 36...",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 478.68,
+      "precio_actual": 281.06,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 197.62,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31LaUojuPSL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07GSYRVM7?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "Nine West Reloj de Pulsera para Mujer",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 75.33,
+      "precio_actual": 23.7,
+      "descuento_porcentaje": 69,
+      "ahorro_euros": 51.63,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41VBrovT4bL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B081JB2R6L?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "RAINYEAR Funda Protectora para Portátil Piel Sintética I...",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 18.99,
+      "precio_actual": 12.98,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 6.01,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/4119OWnXwqL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B099994629?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "Hama | Pendrive USB-C y USB-A Dual 32 GB, Memoria USB 3.2 \"Uni-C, Plata",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 21.67,
+      "precio_actual": 12.47,
+      "descuento_porcentaje": 42,
+      "ahorro_euros": 9.2,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21L+2WGFdwL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C5JSHLXP?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "SURFOU Timbre Inalámbrico Exterior Interior Impermeable,...",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 32.99,
+      "precio_actual": 21.36,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 11.63,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51q1zuRf+GL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F32NFKM7?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "Story of Seasons: Grand Bazaar",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 49.45,
+      "precio_actual": 31.34,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 18.11,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/519vOtZyAHL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FCS4YDZM?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "MySims Cozy Bundle [Twister Parent 2]",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 34.76,
+      "precio_actual": 12.06,
+      "descuento_porcentaje": 65,
+      "ahorro_euros": 22.7,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51pYwSMkATL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FXBBXQ5G?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
     {
       "titulo": "Severin Aspiradora ciclónica sin Bolsa, 850 W, 2 litros",
       "condicion": "Estado: Muy bueno",
