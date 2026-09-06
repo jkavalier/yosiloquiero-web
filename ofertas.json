@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-09-06T18:01:26+02:00",
+  "actualizado": "2026-09-06T19:01:48+02:00",
   "ofertas": [
+    {
+      "titulo": "Philips Vivid Edition Super Speed",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 17.74,
+      "precio_actual": 10.77,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 6.97,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41s3BWufVhL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B001C907DS?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "19:01"
+    },
+    {
+      "titulo": "NIVIAN Cámara IP WiFi para Exterior Tipo Bullet",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 31.99,
+      "precio_actual": 19,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 12.99,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31gttxD+udL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09M8JYGLX?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "19:01"
+    },
+    {
+      "titulo": "MOSISO Funda Compatible con MacBook Air 13,6 Pulgadas M5 M4 M3 M2 2026",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 19.99,
+      "precio_actual": 13.37,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 6.62,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21vmQp8faSL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0B7DNT8DN?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "19:01"
+    },
+    {
+      "titulo": "Sony Oficial PlayStation VR2 + Horizon: Call of The Mountain - Horizon Bundle - IT (PS5)",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 668.1,
+      "precio_actual": 403.85,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 264.25,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31mI2qu78YL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BMG6F66Y?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "19:01"
+    },
+    {
+      "titulo": "Teléfono DECT Inalámbrico",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 46.78,
+      "precio_actual": 32.44,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 14.34,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41IWFN5KKEL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C82YMWPK?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "19:01"
+    },
+    {
+      "titulo": "FOMAX Cartera de piel para hombre con protección RFID, doble costura",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 27.47,
+      "precio_actual": 18.71,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 8.76,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51PV4X628iL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DW48R5CH?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "19:01"
+    },
+    {
+      "titulo": "SBS Powerbank",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 24.99,
+      "precio_actual": 17.44,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 7.55,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31pB+evUcHL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FDFDQBVJ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "19:01"
+    },
+    {
+      "titulo": "XIAOMI POCO X8 Pro",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 599.99,
+      "precio_actual": 422.08,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 177.91,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41OFXfcneUL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GHNT9LWR?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "19:01"
+    },
     {
       "titulo": "Intenso Batería Externa",
       "condicion": "Estado: Como Nuevo",
