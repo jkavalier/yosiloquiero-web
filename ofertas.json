@@ -1,6 +1,30 @@
 {
-  "actualizado": "2026-09-06T20:01:54+02:00",
+  "actualizado": "2026-09-06T20:03:26+02:00",
   "ofertas": [
+    {
+      "titulo": "RØDE Micrófono de Condensador de Gran diafragma",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 254,
+      "precio_actual": 160.85,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 93.15,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51H-YQL9KDL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0002PSCQM?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:03"
+    },
+    {
+      "titulo": "DELSEY Paris Carrousel Hardside Expandable Luggage with Spinner Wheels, Pink, Carry-on 21 Inch",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 455.51,
+      "precio_actual": 168.54,
+      "descuento_porcentaje": 63,
+      "ahorro_euros": 286.97,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31cxaOFH+ZL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B082VWKT6J?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:03"
+    },
     {
       "titulo": "TONOR Sistema de Microfono Inalambrico",
       "condicion": "Estado: Muy bueno",
