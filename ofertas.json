@@ -1,6 +1,78 @@
 {
-  "actualizado": "2026-09-06T17:02:03+02:00",
+  "actualizado": "2026-09-06T18:01:26+02:00",
   "ofertas": [
+    {
+      "titulo": "Intenso Batería Externa",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 15.17,
+      "precio_actual": 7.09,
+      "descuento_porcentaje": 53,
+      "ahorro_euros": 8.08,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41GGrrlcWxL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B089LM6GGC?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "18:01"
+    },
+    {
+      "titulo": "Levi'S Casual Classics Hunte Coin Bifold - Batwin Unisex",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 40.38,
+      "precio_actual": 22.31,
+      "descuento_porcentaje": 45,
+      "ahorro_euros": 18.07,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/11fTU9MQCpL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08BLSTYKJ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "18:01"
+    },
+    {
+      "titulo": "Gigaset Comfort 520HX DECT-Mobilteil mit Ladeschale, Titan-Schwarz",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 64.99,
+      "precio_actual": 32.77,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 32.22,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41R00TLvysL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09WDZP5JW?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "18:01"
+    },
+    {
+      "titulo": "molshine Soporte para mando a distancia con 5 compartime...",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 17.99,
+      "precio_actual": 12.67,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 5.32,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41s1Je3m-DL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BS16YR7K?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "18:01"
+    },
+    {
+      "titulo": "Apple iPad Pro de 11 Pulgadas (M4)",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 2189,
+      "precio_actual": 1515.15,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 673.85,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31kseu7vUlL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D3J8FTHS?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "18:01"
+    },
+    {
+      "titulo": "AMAZFIT Active 2 Reloj Inteligente Hombre y Mujer, Pago ...",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 128.31,
+      "precio_actual": 89.19,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 39.12,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41KwC6z5KVL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DSPVK9QJ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "18:01"
+    },
     {
       "titulo": "Fossil Derrick Set de Cartera de Piel o Poli茅ster para Hombre",
       "condicion": "Estado: Muy bueno",
