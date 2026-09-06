@@ -1,6 +1,54 @@
 {
-  "actualizado": "2026-09-06T19:01:48+02:00",
+  "actualizado": "2026-09-06T20:00:50+02:00",
   "ofertas": [
+    {
+      "titulo": "Debra Audio Pro UHF 4-Channel Wireless Microphone System...",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 159,
+      "precio_actual": 105.81,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 53.19,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/513ETTL-tgL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07YTCFYZ7?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:00"
+    },
+    {
+      "titulo": "Kensington Single Monitor Arm",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 47.76,
+      "precio_actual": 28.62,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 19.14,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/3181bitQGML.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09YCDN9KZ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:00"
+    },
+    {
+      "titulo": "Lancoon Reloj Despertador Digital 11 RGB Color Pantalla ...",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 21.99,
+      "precio_actual": 14.04,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 7.95,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41AxlR2HntL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D1FSZJP5?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:00"
+    },
+    {
+      "titulo": "Samsonite Spark SNG Eco, Maleta Blanda de 79 cm de tamañ...",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 279,
+      "precio_actual": 188.9,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 90.1,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31yyLzp97JL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FVF6VJVW?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:00"
+    },
     {
       "titulo": "Philips Vivid Edition Super Speed",
       "condicion": "Estado: Muy bueno",
