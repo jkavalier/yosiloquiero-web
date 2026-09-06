@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-09-06T20:01:03+02:00",
+  "actualizado": "2026-09-06T20:01:54+02:00",
   "ofertas": [
+    {
+      "titulo": "TONOR Sistema de Microfono Inalambrico",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 109.99,
+      "precio_actual": 63.13,
+      "descuento_porcentaje": 43,
+      "ahorro_euros": 46.86,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41HMBTk0EBL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CJTN4PQ9?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
     {
       "titulo": "Sintetizador de línea de bajo analógico Behringer TD-3-S...",
       "condicion": "Estado: Como Nuevo",
