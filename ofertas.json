@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-09-06T20:03:26+02:00",
+  "actualizado": "2026-09-06T21:01:50+02:00",
   "ofertas": [
+    {
+      "titulo": "RØDE Lavalier GO Micrófono de",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 83,
+      "precio_actual": 52.61,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 30.39,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31ndZ1l68-L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07WW38H74?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "21:01"
+    },
+    {
+      "titulo": "Brother ADS4100 Escáner de sobremesa con conexión USB",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 337.42,
+      "precio_actual": 227.01,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 110.41,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21hlxV4+8FL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09VH53ZMK?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "21:01"
+    },
+    {
+      "titulo": "Sony ZV-E1, Cámara vlogging mirrorless Full-Frame de Objetivo Intercambiable",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 2799,
+      "precio_actual": 1887.94,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 911.06,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31Dm0P5PpuL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BZPQM6LT?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "21:01"
+    },
+    {
+      "titulo": "BIBA | Maleta de Viaje Tipo Trolley, Maleta Ivo G, Asa Trolley, Cremallera y Cierre TSA, ABS",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 149,
+      "precio_actual": 94.81,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 54.19,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/311Bhk1EPPL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CD3W9L8B?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "21:01"
+    },
+    {
+      "titulo": "Lepro N1 AI Neon Tira LED",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 49.99,
+      "precio_actual": 35.05,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 14.94,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/518ThFgI+mL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CY28SLMH?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "21:01"
+    },
+    {
+      "titulo": "Apveelveer Marco de Fotos Digital WiFi con 32GB Memoria,...",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 85.99,
+      "precio_actual": 53.42,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 32.57,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41g+d78d-zL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D2CXTVT6?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "21:01"
+    },
+    {
+      "titulo": "HEROIC KNIGHT Mochila Ordenador Portatil 17 Pulgadas Expandible",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 59.99,
+      "precio_actual": 37.18,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 22.81,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41KcLsR-cxL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D8BJGYRQ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "21:01"
+    },
+    {
+      "titulo": "Panasonic HC-X1600E 4K 60p Videocámara Profesional con L...",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 1699,
+      "precio_actual": 1168.35,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 530.65,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31De13qEi0L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DTXS9CJ2?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "21:01"
+    },
     {
       "titulo": "RØDE Micrófono de Condensador de Gran diafragma",
       "condicion": "Estado: Como Nuevo",
