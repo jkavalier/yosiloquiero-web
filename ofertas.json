@@ -1,6 +1,90 @@
 {
-  "actualizado": "2026-09-06T21:01:50+02:00",
+  "actualizado": "2026-09-06T21:03:41+02:00",
   "ofertas": [
+    {
+      "titulo": "Audio-Technica PRO45 Micrófono Condensador cardioide Colgante",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 129,
+      "precio_actual": 56.53,
+      "descuento_porcentaje": 56,
+      "ahorro_euros": 72.47,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/311-9y1hj0L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0002BBOPC?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "21:03"
+    },
+    {
+      "titulo": "Crucial RAM CT4G4DFS8266 4GB DDR4 2666MHz",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 93.04,
+      "precio_actual": 43.22,
+      "descuento_porcentaje": 54,
+      "ahorro_euros": 49.82,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41w9u20upML.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08C4VHQV2?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "21:03"
+    },
+    {
+      "titulo": "Paulmann 94680 Luminaria exterior LED Plug & Shine strip...",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 110.19,
+      "precio_actual": 42.31,
+      "descuento_porcentaje": 62,
+      "ahorro_euros": 67.88,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41kK3mPh6nL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09YHDMS18?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "21:03"
+    },
+    {
+      "titulo": "BIBA | Maleta de Viaje Tipo Trolley, Maleta Lila G, Asa Trolley, Cierre con Cremallera, Poliéster",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 125,
+      "precio_actual": 55.45,
+      "descuento_porcentaje": 56,
+      "ahorro_euros": 69.55,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31aTAs6-cTL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BCH9R3LR?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "21:03"
+    },
+    {
+      "titulo": "Acer - AOpen QF23s Powered by Acer LCD LED Beamer - 1080...",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 183.38,
+      "precio_actual": 101.53,
+      "descuento_porcentaje": 45,
+      "ahorro_euros": 81.85,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31EaL19XuIL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BHRY1T83?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "21:03"
+    },
+    {
+      "titulo": "XIAOMI Redmi Note 13 Pro+ 5G Smartphone de 12+512GB Negro Batería 5000mAh",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 506.26,
+      "precio_actual": 258.13,
+      "descuento_porcentaje": 49,
+      "ahorro_euros": 248.13,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31mV7bM39wL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CLLX2GW6?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "21:03"
+    },
+    {
+      "titulo": "Fujifilm X-M5 Kit de Lentes de cámara Digital sin Espejo XC15-45mm F3.5-5.6 OIS PZ - Plata",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 1648.16,
+      "precio_actual": 909.25,
+      "descuento_porcentaje": 45,
+      "ahorro_euros": 738.91,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41EAQzmJaHL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DJQ2YK29?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "21:03"
+    },
     {
       "titulo": "RØDE Lavalier GO Micrófono de",
       "condicion": "Estado: Muy bueno",
