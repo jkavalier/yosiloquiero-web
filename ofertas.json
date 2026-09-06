@@ -1,6 +1,42 @@
 {
-  "actualizado": "2026-09-06T20:00:50+02:00",
+  "actualizado": "2026-09-06T20:01:03+02:00",
   "ofertas": [
+    {
+      "titulo": "Sintetizador de línea de bajo analógico Behringer TD-3-S...",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 106.76,
+      "precio_actual": 73.17,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 33.59,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51+9QxH9J9L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08GYC7P51?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Lifeventure Cartera con Cargador Protegido RFiD con Bate...",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 46.43,
+      "precio_actual": 14.63,
+      "descuento_porcentaje": 68,
+      "ahorro_euros": 31.8,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31weOdiI-PS.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08NKDYZJR?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Audibax Missouri Free Hand UHF - Micrófono de Diadema In...",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 69.99,
+      "precio_actual": 40.05,
+      "descuento_porcentaje": 43,
+      "ahorro_euros": 29.94,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/412evqBSi3L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09L8HF3SJ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
     {
       "titulo": "Debra Audio Pro UHF 4-Channel Wireless Microphone System...",
       "condicion": "Estado: Como Nuevo",
