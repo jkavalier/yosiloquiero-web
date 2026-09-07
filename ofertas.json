@@ -1,4 +1,125 @@
 {
-  "actualizado": "2026-09-07T08:02:01+02:00",
-  "ofertas": []
+  "actualizado": "2026-09-07T10:02:21+02:00",
+  "ofertas": [
+    {
+      "titulo": "SEVERIN - Tostadora",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 49.99,
+      "precio_actual": 32.71,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 17.28,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41MvosUkhxL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B007HMTKU0?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:02"
+    },
+    {
+      "titulo": "Russell Hobbs",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 49.99,
+      "precio_actual": 30.07,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 19.92,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41jqouXxl5L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B008Y6IN3S?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:02"
+    },
+    {
+      "titulo": "Function MaxLED RGBW",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 118.6,
+      "precio_actual": 55.47,
+      "descuento_porcentaje": 53,
+      "ahorro_euros": 63.13,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41J+z-mz8DL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B01HGJFU34?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:02"
+    },
+    {
+      "titulo": "Candy X-Range CMXG 25DCS, Microondas con Grill, 25L, 145...",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 152.15,
+      "precio_actual": 102.08,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 50.07,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41u+Vj56lHL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B01JDFMESS?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:02"
+    },
+    {
+      "titulo": "KARE Leonardo - Reloj de Pared",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 93.69,
+      "precio_actual": 50.71,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 42.98,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51OmB+qefPL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07QB61KQF?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:02"
+    },
+    {
+      "titulo": "Sony - Soundbar",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 239,
+      "precio_actual": 160.17,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 78.83,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21ZfSr8AybL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0876HM8TX?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:02"
+    },
+    {
+      "titulo": "Lenovo Tab Plus, Pantalla 2K de 11,5\" - (procesador Medi...",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 258.49,
+      "precio_actual": 179.35,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 79.14,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41eHDbPWjZL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D4ZK6BPK?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:02"
+    },
+    {
+      "titulo": "Technaxx TX-293, Aspirador inalámbrico de Mano con Plume...",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 59.99,
+      "precio_actual": 36.99,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 23,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/417Ob3eHvvL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DJDBXZ29?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:02"
+    },
+    {
+      "titulo": "Sony ULT Field 5, Altavoz portátil Bluetooth Potente, 25...",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 199,
+      "precio_actual": 134.72,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 64.28,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/2162HGuyLsL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DZ76ZRJ4?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:02"
+    },
+    {
+      "titulo": "Airefina Colchón Hinchable, Colchon Inflable con Bomba I...",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 89.99,
+      "precio_actual": 58.41,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 31.58,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41dzjJGpPSL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F3XFF2PS?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:02"
+    }
+  ]
 }
