@@ -13,6 +13,7 @@
 
   var contenedor = document.getElementById("contenedor-ofertas");
   var elementoActualizado = document.getElementById("ofertas-actualizado");
+  var elementoHora = document.getElementById("ofertas-hora");
   var elementoMensaje = document.getElementById("ofertas-mensaje");
 
   if (!contenedor) {
@@ -46,6 +47,22 @@
         hour: "2-digit",
         minute: "2-digit",
       }).format(fecha);
+    } catch (error) {
+      return null;
+    }
+  }
+
+  function formatearSoloHora(isoString) {
+    if (!isoString) return null;
+    var fecha = new Date(isoString);
+    if (isNaN(fecha.getTime())) return null;
+
+    try {
+      var hora = new Intl.DateTimeFormat("es-ES", {
+        hour: "2-digit",
+        minute: "2-digit",
+      }).format(fecha);
+      return "(actualizado a las " + hora + "h)";
     } catch (error) {
       return null;
     }
@@ -267,6 +284,11 @@
           elementoActualizado.textContent = fechaFormateada
             ? "Última actualización: " + fechaFormateada
             : "Última actualización no disponible todavía.";
+        }
+
+        if (elementoHora) {
+          var horaFormateada = formatearSoloHora(datos.actualizado);
+          elementoHora.textContent = horaFormateada || "";
         }
 
         if (datos.ofertas.length === 0) {
