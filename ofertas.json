@@ -1,6 +1,54 @@
 {
-  "actualizado": "2026-09-09T20:01:15+02:00",
+  "actualizado": "2026-09-09T21:01:01+02:00",
   "ofertas": [
+    {
+      "titulo": "ATEEZ Official LIGHTSTICK Ver.2 (+Regalo del Vendedor: Juego de Tarjetas fotográficas Ateez)",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 80.5,
+      "precio_actual": 45.85,
+      "descuento_porcentaje": 43,
+      "ahorro_euros": 34.65,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41U3PweODFL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BH8H87CT?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "21:01"
+    },
+    {
+      "titulo": "Lafuma Mobilier - R Clip PL AMZ - Silla Relax Gravedad C...",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 234.81,
+      "precio_actual": 130.79,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 104.02,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31EKLcINHzL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0G3B7PBG1?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "21:01"
+    },
+    {
+      "titulo": "XIAOMI POCO X8 Pro",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 649.99,
+      "precio_actual": 453.01,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 196.98,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41LwXn2q9DL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GHNJYM16?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "21:01"
+    },
+    {
+      "titulo": "ASUS ZenScreen - Monitor táctil portátil para juegos de ...",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 385.77,
+      "precio_actual": 270.63,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 115.14,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41PkuEDfcrL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GR6B24HL?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "21:01"
+    },
     {
       "titulo": "WiZ Tunable White Amber LED Lampe, Standardform E27, 50W, Vintage Design",
       "condicion": "Estado: Como Nuevo",
