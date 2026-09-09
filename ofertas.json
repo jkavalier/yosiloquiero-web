@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-09-09T19:01:49+02:00",
+  "actualizado": "2026-09-09T20:01:15+02:00",
   "ofertas": [
+    {
+      "titulo": "WiZ Tunable White Amber LED Lampe, Standardform E27, 50W, Vintage Design",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 31.39,
+      "precio_actual": 17.06,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 14.33,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41aYke4hJnL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08HQGR4WG?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "ASUS VA27EHF Eye Care Gaming Monitor – Full HD, Frameles...",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 234,
+      "precio_actual": 89.83,
+      "descuento_porcentaje": 62,
+      "ahorro_euros": 144.17,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41baw0TTaCL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09T98PB7K?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Jabra Speak2 75 Altavoz Inalámbrico",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 298.99,
+      "precio_actual": 180.21,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 118.78,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41K3mB2F8IL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BWKGQRT9?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Samsung Galaxy Official 10,000 mAh Wireless Battery Pack",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 43.6,
+      "precio_actual": 29.37,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 14.23,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/216FoW2sE-L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CN8JDYRQ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Letrero de Neón con Forma de Corazón, Letreros de Luz de...",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 20.99,
+      "precio_actual": 12.18,
+      "descuento_porcentaje": 42,
+      "ahorro_euros": 8.81,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/414chOf1mzL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CNCDPLMD?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
     {
       "titulo": "Sena SF1-01 Serie SF - Sistema de comunicación Bluetooth...",
       "condicion": "Estado: Como Nuevo",
