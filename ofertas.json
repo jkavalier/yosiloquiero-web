@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-09-10T21:02:10+02:00",
+  "actualizado": "2026-09-10T22:01:16+02:00",
   "ofertas": [
+    {
+      "titulo": "INTEX COLCHÓN Dura-Beam",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 34.6,
+      "precio_actual": 15.86,
+      "descuento_porcentaje": 54,
+      "ahorro_euros": 18.74,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31P1LrHQSHL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07M5GMWRG?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "De'Longhi Tasciugo AriaDry Multi",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 295,
+      "precio_actual": 204.38,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 90.62,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/3178uSq27UL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07NVW14H3?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "Amazon Basics Bote de basura",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 106.69,
+      "precio_actual": 72.23,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 34.46,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31Z-4Jn5VIL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0928WBZVM?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "Nilox nxm24crv01 Monitor 24\" 165hz hdmi DP mm curv",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 133.04,
+      "precio_actual": 76.01,
+      "descuento_porcentaje": 43,
+      "ahorro_euros": 57.03,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41PAwppqRdL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C7J2583H?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "Beats Studio Pro",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 259,
+      "precio_actual": 175.86,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 83.14,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41wrTp7Cm2L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C95KVZ8X?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
     {
       "titulo": "Aculon A30 Fernglas (8-fach, 25mm Frontlinsendurchmesser)",
       "condicion": "Estado: Como Nuevo",
