@@ -1,6 +1,90 @@
 {
-  "actualizado": "2026-09-11T22:01:37+02:00",
+  "actualizado": "2026-09-11T23:02:19+02:00",
   "ofertas": [
+    {
+      "titulo": "Festina Men's Classics Leather Watch Bracelet",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 69,
+      "precio_actual": 48.27,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 20.73,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31yDpnsLeUL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07T41868P?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:02"
+    },
+    {
+      "titulo": "instax SQ1 Square Cámara instantánea automática",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 120.81,
+      "precio_actual": 66.16,
+      "descuento_porcentaje": 45,
+      "ahorro_euros": 54.65,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31B+FRXrs1L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08H89FP2P?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:02"
+    },
+    {
+      "titulo": "ASUS Chromebook CX1505CTA - 15.6\" Full HD Laptop (Intel ...",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 359.31,
+      "precio_actual": 245.35,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 113.96,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/413Gs0CDJsL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BSKH2YQ1?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:02"
+    },
+    {
+      "titulo": "Nutribullet Pro 900 - Batidora Personal Multifunción, Bl...",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 115.74,
+      "precio_actual": 77.26,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 38.48,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41Q27PHN8vL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DB8JPX6P?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:02"
+    },
+    {
+      "titulo": "LEGO Sonic The Hedgehog Ciclón vs. Metal Sonic, Meca Rob...",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 29.95,
+      "precio_actual": 14.47,
+      "descuento_porcentaje": 52,
+      "ahorro_euros": 15.48,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41ZO5bPBfWL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DHSCYP7C?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:02"
+    },
+    {
+      "titulo": "SURFOU Timbre Inalámbrico Exterior Impermeable, Kit Door...",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 16.99,
+      "precio_actual": 11.85,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 5.14,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/414rkcEfCTL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DNJW2MDD?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:02"
+    },
+    {
+      "titulo": "Ultenic Robot Aspirador 6000PA con Fregado, LIDAR, 150Mi...",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 179.99,
+      "precio_actual": 97.4,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 82.59,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41321mRff0L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FP58T7G4?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:02"
+    },
     {
       "titulo": "Metronic - Auriculares inalámbricos ópticos, estéreo rec...",
       "condicion": "Estado: Muy bueno",
