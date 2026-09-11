@@ -1,6 +1,90 @@
 {
-  "actualizado": "2026-09-11T19:02:12+02:00",
+  "actualizado": "2026-09-11T20:01:46+02:00",
   "ofertas": [
+    {
+      "titulo": "LEGO Technic 8273",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 350,
+      "precio_actual": 154.5,
+      "descuento_porcentaje": 56,
+      "ahorro_euros": 195.5,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51O+ATYQmzL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B000NCE916?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Singer Simple 3210 - Máquina de coser mecánica",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 158.9,
+      "precio_actual": 102.31,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 56.59,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/411V5SV9C-L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B00G213S8C?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Zwilling - Botella",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 54.28,
+      "precio_actual": 29.01,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 25.27,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/518hNVlYVwL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B082PDQT3G?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Timex Pac-Man T80 - Reloj de 34 mm",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 73.65,
+      "precio_actual": 32.54,
+      "descuento_porcentaje": 56,
+      "ahorro_euros": 41.11,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41UGYGV46kL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08J9DNVMJ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "MSI PRO MP273QP - Monitor Profesional 27\", WQHD (2560x14...",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 280,
+      "precio_actual": 163.43,
+      "descuento_porcentaje": 42,
+      "ahorro_euros": 116.57,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41mL9Yg4mWL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09XX1CL9S?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Microsoft Surface Laptop",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 1399,
+      "precio_actual": 977.36,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 421.64,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31n0QB9OJKL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D1YMR5DM?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "XIAOMI POCO X8 Pro",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 499.99,
+      "precio_actual": 338.68,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 161.31,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41TQ6m0tQPL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GHNMMFQT?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
     {
       "titulo": "Orologio da polso sportivo con display. cronometro. cint...",
       "condicion": "Estado: Muy bueno",
