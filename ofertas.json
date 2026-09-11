@@ -1,6 +1,90 @@
 {
-  "actualizado": "2026-09-11T21:02:04+02:00",
+  "actualizado": "2026-09-11T22:01:37+02:00",
   "ofertas": [
+    {
+      "titulo": "Metronic - Auriculares inalámbricos ópticos, estéreo rec...",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 21.9,
+      "precio_actual": 13.44,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 8.46,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41daVbBOP3L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07611FMSJ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "TAurus Batidora de vaso",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 87.99,
+      "precio_actual": 60.54,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 27.45,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/313b456sExL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09ZZPFF8H?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "Sharp Altavoces Activos 2 vías",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 128.48,
+      "precio_actual": 73.98,
+      "descuento_porcentaje": 42,
+      "ahorro_euros": 54.5,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31+J34XY0rL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BQ3CGGLJ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "Moto G13 (Pantalla HD+ de 6.5 Pulgadas, 90 Hz, cámara de Cuatro píxeles de 50 MP)",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 309,
+      "precio_actual": 153.25,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 155.75,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41SaiKc0HKL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BVZT9LWP?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "Plus Plus Plus - Bloques de construcción de Juguetes y P...",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 15.89,
+      "precio_actual": 11.13,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 4.76,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41AtSTbjPfL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CR6NLBKB?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "CMF by Nothing Watch 3 Pro",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 77.84,
+      "precio_actual": 49.22,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 28.62,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41pPrrEyJrL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F66TFJY3?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "Fossil Pulsera brazalete de acero inoxidable con puño abierto para mujer",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 52.71,
+      "precio_actual": 34.93,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 17.78,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31YGhxCrz1L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FDB8CMPG?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
     {
       "titulo": "MOSISO Funda Portátil",
       "condicion": "Estado: Muy bueno",
