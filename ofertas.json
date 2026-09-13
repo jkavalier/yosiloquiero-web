@@ -1,6 +1,54 @@
 {
-  "actualizado": "2026-09-13T21:00:40+02:00",
+  "actualizado": "2026-09-13T22:01:05+02:00",
   "ofertas": [
+    {
+      "titulo": "Samsonite Omni PC Maleta rígida Extensible con Ruedas giratorias",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 242.02,
+      "precio_actual": 148.07,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 93.95,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31LpqMUtg8L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B071HFNFYP?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "SPC Fortune 2",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 28.9,
+      "precio_actual": 17.9,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 11,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41ZzrqfCCAL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09JGJRYWZ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "SANDISK Extreme Pro Portable SSD 4TB (Lectura y Escritur...",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 680.95,
+      "precio_actual": 428.9,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 252.05,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41bN3OfYsSL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F4RL52RZ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "SANDISK Optimus GX Pro 8100 PCIe Gen 5 NVMe SSD 4 TB (ve...",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 1181.99,
+      "precio_actual": 753.27,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 428.72,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31UCiVLFZPL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GHY9WB4F?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
     {
       "titulo": "Intenso microsdhc memory card",
       "condicion": "Estado: Como Nuevo",
