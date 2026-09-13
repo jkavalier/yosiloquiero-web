@@ -1,6 +1,78 @@
 {
-  "actualizado": "2026-09-13T19:02:02+02:00",
+  "actualizado": "2026-09-13T20:01:26+02:00",
   "ofertas": [
+    {
+      "titulo": "LG G6 32 GB Android UK SIM-Free Smartphone - Black",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 325,
+      "precio_actual": 194.98,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 130.02,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41HlkugUBQL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B06Y29Q5ZQ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "dji Controlador de Movimiento FPV.",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 167.73,
+      "precio_actual": 110.52,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 57.21,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31iVDBZESiL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07FSW42W9?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Intel® Core™ i3-10100F, procesadores para Equipos de sob...",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 177.99,
+      "precio_actual": 57.16,
+      "descuento_porcentaje": 68,
+      "ahorro_euros": 120.83,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31YcZcv+5KL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08L9NTKZG?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "EVOLAND - Bicicletas de ejercicio plegables con pantalla...",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 160.47,
+      "precio_actual": 75.32,
+      "descuento_porcentaje": 53,
+      "ahorro_euros": 85.15,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/418halpUY5L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08TBTVL7L?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "RORRY Cargador portátil de 10000 mAh, cargador portátil ...",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 41.35,
+      "precio_actual": 28.24,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 13.11,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31Statzx8HL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D9D7VFX9?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "ZMH Huoshaomu",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 64.99,
+      "precio_actual": 41.76,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 23.23,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41NoRyhKK+L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FGJRD3WB?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
     {
       "titulo": "LEGO Super Heroes - Guardianes de la Galaxia",
       "condicion": "Estado: Como Nuevo",
