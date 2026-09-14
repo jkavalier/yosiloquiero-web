@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-09-14T19:01:57+02:00",
+  "actualizado": "2026-09-14T20:01:10+02:00",
   "ofertas": [
+    {
+      "titulo": "A1Z Enchufe Inteligente ZigBee con Monitorización Energética, 16A, Control Remoto",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 21.84,
+      "precio_actual": 15.38,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 6.46,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41pzm1qTI8L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0054PSH0G?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "LG V40 ThinQ LMV405EBW 16,3 cm (6.4\") 6 GB 128 GB SIM Do...",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 279.99,
+      "precio_actual": 162.95,
+      "descuento_porcentaje": 42,
+      "ahorro_euros": 117.04,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31vjNQXMSnL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07LC1G47R?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Moleskine Smart Writing Set",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 16.15,
+      "precio_actual": 10.43,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 5.72,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31nQw5ak4uL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09NYFMNVX?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "SanDisk Ultra de 64 GB microSDXC UHS-I Tarjeta para Chro...",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 32.72,
+      "precio_actual": 11.4,
+      "descuento_porcentaje": 65,
+      "ahorro_euros": 21.32,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41ML8ZbPiiL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BFG8BPQF?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "FAUOSWUK Altavoz de Resonancia 50mm audio exciter Mini A...",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 13.04,
+      "precio_actual": 8.39,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 4.65,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31DArlx2Q+L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D4PPXKJP?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
     {
       "titulo": "Trust Gaming GXT 708B Resto Silla Giratoria Gaming Compl...",
       "condicion": "Estado: Muy bueno",
