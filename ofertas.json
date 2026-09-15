@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-09-15T22:02:02+02:00",
+  "actualizado": "2026-09-15T23:01:13+02:00",
   "ofertas": [
+    {
+      "titulo": "ALASSIO Pilotenkoffer",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 155.06,
+      "precio_actual": 69.4,
+      "descuento_porcentaje": 55,
+      "ahorro_euros": 85.66,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41mqjq3AXxL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B001ER6KDO?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:01"
+    },
+    {
+      "titulo": "BLUEAIR Purificador de aire para habitaciones de hasta 103 m²",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 337.83,
+      "precio_actual": 208.81,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 129.02,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/3141RcUm-5L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08KPHDKXS?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:01"
+    },
+    {
+      "titulo": "Dell 34 USB-C Monitor - S3423DWC, WQHD (3440x1440), 100Hz, VA, 4ms",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 500.2,
+      "precio_actual": 317.74,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 182.46,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41+Lzn92gNL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09WNFVJRJ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:01"
+    },
+    {
+      "titulo": "Liebeskind Berlin Reloj de Pulsera LT-0412-MQ IP Blue",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 127.24,
+      "precio_actual": 86.39,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 40.85,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31w9kyf7t4L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DCVW5Y9D?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:01"
+    },
+    {
+      "titulo": "Samsung Electronics CO.,LTD. Galaxy-A56",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 529,
+      "precio_actual": 360.33,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 168.67,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31QmPHypumL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DWFZ7JCG?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:01"
+    },
     {
       "titulo": "Technoline Wt 8000 Radio Reloj de pared Titan",
       "condicion": "Estado: Muy bueno",
