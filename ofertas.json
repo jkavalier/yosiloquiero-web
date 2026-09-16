@@ -1,6 +1,78 @@
 {
-  "actualizado": "2026-09-16T22:01:06+02:00",
+  "actualizado": "2026-09-16T23:01:55+02:00",
   "ofertas": [
+    {
+      "titulo": "Krups KT8501 Duothek - Cafetera doble térmica, color negro",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 136.11,
+      "precio_actual": 84.55,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 51.56,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31QvuGomhqL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B00ES4ENXY?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:00"
+    },
+    {
+      "titulo": "Turtle Beach Recon",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 24.99,
+      "precio_actual": 13.04,
+      "descuento_porcentaje": 48,
+      "ahorro_euros": 11.95,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41AYJBF8zmL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B00ZC3S818?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:00"
+    },
+    {
+      "titulo": "Hubelino 420381 Ball Run Track Elements Set from 4 Years 100% Compatible with Duplo 128 Pieces",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 97.08,
+      "precio_actual": 62.82,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 34.26,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51TYopgr3DL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B06W57YQ9N?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:00"
+    },
+    {
+      "titulo": "Emtec HUB 6 EN 1 USB Type-c",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 32.49,
+      "precio_actual": 21.33,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 11.16,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/314kq0rlsxL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07H8T7JWB?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:00"
+    },
+    {
+      "titulo": "NIN Xenoblade Chronicles 3 12",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 72.71,
+      "precio_actual": 45.33,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 27.38,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51vxQMKrbJL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09S6Q374D?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:00"
+    },
+    {
+      "titulo": "Huawei Watch GT 5 Diseño de Bordes Afilados, Nuevo Deporte para Correr y Ciclismo",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 197.31,
+      "precio_actual": 121.17,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 76.14,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51WU-E6P5uL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D9Y9WDRZ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:00"
+    },
     {
       "titulo": "SEVERIN - Cafetera de goteo para 10 tazas, Cafetera de f...",
       "condicion": "Estado: Muy bueno",
