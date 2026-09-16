@@ -1,6 +1,78 @@
 {
-  "actualizado": "2026-09-16T20:01:13+02:00",
+  "actualizado": "2026-09-16T21:01:34+02:00",
   "ofertas": [
+    {
+      "titulo": "Westinghouse 7818240 Comet - Ventilador de techo",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 170.6,
+      "precio_actual": 113.24,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 57.36,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31gJhlFYj8L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B001FAMEUS?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "21:00"
+    },
+    {
+      "titulo": "SanDisk Extreme PRO - Tarjeta de memoria microSDXC",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 25.49,
+      "precio_actual": 15.3,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 10.19,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41lUfq8+bYL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B06XYHN68L?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "21:00"
+    },
+    {
+      "titulo": "TEEHON Carteras para Hombre",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 22.99,
+      "precio_actual": 14.69,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 8.3,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41IU9eatNWL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B086MYTDHS?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "21:00"
+    },
+    {
+      "titulo": "COBI 5811 Bloques de Construcción Gris",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 72.25,
+      "precio_actual": 47.01,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 25.24,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41FPLgJCwBL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08YRTLC49?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "21:00"
+    },
+    {
+      "titulo": "Huawei Watch FIT 3, Pantalla AMOLED de 1.82 Pulgadas",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 151.24,
+      "precio_actual": 85.02,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 66.22,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41tt8UZX+BL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CYC5CCMH?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "21:00"
+    },
+    {
+      "titulo": "Filter Coffee Maker \"TYPE\" with glass jug, Beige",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 52.97,
+      "precio_actual": 33.1,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 19.87,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31E9ipKOKhL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DJ31Q78M?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "21:00"
+    },
     {
       "titulo": "Filter Coffee Maker with thermo jug, Black",
       "condicion": "Estado: Muy bueno",
