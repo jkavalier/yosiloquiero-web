@@ -1,6 +1,54 @@
 {
-  "actualizado": "2026-09-16T21:01:34+02:00",
+  "actualizado": "2026-09-16T22:01:06+02:00",
   "ofertas": [
+    {
+      "titulo": "SEVERIN - Cafetera de goteo para 10 tazas, Cafetera de f...",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 46.62,
+      "precio_actual": 32.25,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 14.37,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/310CjEFiUbL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07RRQKP1J?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:00"
+    },
+    {
+      "titulo": "Skullcandy Crusher EVO",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 161.3,
+      "precio_actual": 110.72,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 50.58,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41TzAhLBr0L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CD1F3WCC?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:00"
+    },
+    {
+      "titulo": "LEGO Fortnite Entrega de Suministros de Juguete – Minifi...",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 39.98,
+      "precio_actual": 26.91,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 13.07,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51w6njpn8BL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FPXF3G9L?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:00"
+    },
+    {
+      "titulo": "Apple Watch Ultra 3 (2025) natural titanium 49mm 5G natural titanium milanese Loop Size M",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 1191.65,
+      "precio_actual": 811.11,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 380.54,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51f2JdRUVyL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FQFW6R1X?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:00"
+    },
     {
       "titulo": "Westinghouse 7818240 Comet - Ventilador de techo",
       "condicion": "Estado: Muy bueno",
