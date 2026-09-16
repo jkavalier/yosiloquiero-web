@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-09-16T19:02:33+02:00",
+  "actualizado": "2026-09-16T20:01:13+02:00",
   "ofertas": [
+    {
+      "titulo": "Filter Coffee Maker with thermo jug, Black",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 53.9,
+      "precio_actual": 31.92,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 21.98,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31qJOqd9emL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BZCKH9Q1?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:00"
+    },
+    {
+      "titulo": "Samsung Galaxy SmartTag2 Blanco",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 17.04,
+      "precio_actual": 11.94,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 5.1,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21dFpxi30eL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CJWDCXWM?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:00"
+    },
+    {
+      "titulo": "Philips 27E2N1100L Monitor 27\" FHD, WLED, 100 Hz, VA, 1 ...",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 193,
+      "precio_actual": 101.91,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 91.09,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41d8XyMsVYL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CV4922DR?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:00"
+    },
+    {
+      "titulo": "Samsung Galaxy S25 Edge",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 747.65,
+      "precio_actual": 502.5,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 245.15,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31pDQ97YG1L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F1DP569F?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:00"
+    },
+    {
+      "titulo": "LEGO Star Wars - All-in-One Interactive Toy Set Incl. Sm...",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 165.62,
+      "precio_actual": 56.83,
+      "descuento_porcentaje": 66,
+      "ahorro_euros": 108.79,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51fuMRaH8yL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FPXSW7X1?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:00"
+    },
     {
       "titulo": "LEGO Star Wars",
       "condicion": "Estado: Como Nuevo",
