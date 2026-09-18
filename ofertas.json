@@ -1,6 +1,78 @@
 {
-  "actualizado": "2026-09-18T17:02:14+02:00",
+  "actualizado": "2026-09-18T18:01:45+02:00",
   "ofertas": [
+    {
+      "titulo": "Porta tarjetas gráficas ASUS ROG STRIX",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 69.97,
+      "precio_actual": 24.33,
+      "descuento_porcentaje": 65,
+      "ahorro_euros": 45.64,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41s+haX42IL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BQMDXHV6?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "18:01"
+    },
+    {
+      "titulo": "Router ASUS EBG15 Gigabit VPN",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 65.87,
+      "precio_actual": 40.78,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 25.09,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/317OXLLKi7L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CLDR5YNB?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "18:01"
+    },
+    {
+      "titulo": "Cochecito Foppapedretti Like Stone",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 268,
+      "precio_actual": 178.75,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 89.25,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31aVIP7G2IL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CTZF62TJ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "18:01"
+    },
+    {
+      "titulo": "Cámara exterior Xega 4G vigilancia",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 39.99,
+      "precio_actual": 18.07,
+      "descuento_porcentaje": 55,
+      "ahorro_euros": 21.92,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41mNhipRp-L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DRG9CGFB?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "18:01"
+    },
+    {
+      "titulo": "Soporte MagSafe SYNCWIRE coche",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 33.89,
+      "precio_actual": 14.71,
+      "descuento_porcentaje": 57,
+      "ahorro_euros": 19.18,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41Q22h+h42L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FCFPFF4T?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "18:01"
+    },
+    {
+      "titulo": "LEGO DREAMZzz submarino transformable",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 62.53,
+      "precio_actual": 42.89,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 19.64,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51iaWkFK4pL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FPXDS559?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "18:01"
+    },
     {
       "titulo": "Kit LEGO Movie Todoterreno Rextremo",
       "condicion": "Estado: Como Nuevo",
