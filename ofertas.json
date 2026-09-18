@@ -1,6 +1,42 @@
 {
-  "actualizado": "2026-09-18T18:01:45+02:00",
+  "actualizado": "2026-09-18T19:00:48+02:00",
   "ofertas": [
+    {
+      "titulo": "Juguete LEGO Vengadores moto con Black Panther y Thor",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 66.2,
+      "precio_actual": 45.54,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 20.66,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/512NucLI+GL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07W4KT756?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "19:00"
+    },
+    {
+      "titulo": "Marco digital CECGAN 10.1",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 74.48,
+      "precio_actual": 49.11,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 25.37,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51RVpX5XZjL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DSP23FMZ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "19:00"
+    },
+    {
+      "titulo": "Smartwatch Samsung Galaxy Watch8 44 mm plata",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 301,
+      "precio_actual": 205.22,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 95.78,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31p6bbbCgIL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FCG5DQ9J?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "19:00"
+    },
     {
       "titulo": "Porta tarjetas gráficas ASUS ROG STRIX",
       "condicion": "Estado: Como Nuevo",
