@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-09-18T23:02:26+02:00",
+  "actualizado": "2026-10-02T16:01:33+02:00",
   "ofertas": [
+    {
+      "titulo": "Raqueta ping pong Schildkröt ergonómica",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 19.99,
+      "precio_actual": 10.05,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 9.94,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41NgbygMk4L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B00PH2NFGW?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "LEGO Minecraft Castillo de Hielo 21186 Multicolor",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 122,
+      "precio_actual": 64.61,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 57.39,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51jrlJWqgdL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09QFNJ8ST?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Raqueta de bádminton Talbot Torro Isoforce 9051 Ultra Carbon4",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 64.5,
+      "precio_actual": 31.1,
+      "descuento_porcentaje": 52,
+      "ahorro_euros": 33.4,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/315tvJm0AqL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09RKK29GB?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Smartphone Xiaomi 13T Pro 512GB 12RAM",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 657.79,
+      "precio_actual": 341.51,
+      "descuento_porcentaje": 48,
+      "ahorro_euros": 316.28,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31I2+kDiV-L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CK2L5CQV?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Soporte suelo CCLIFE 4 bicis hasta 65 mm",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 45.99,
+      "precio_actual": 25.32,
+      "descuento_porcentaje": 45,
+      "ahorro_euros": 20.67,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31mXS7iuSaL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CP3GDNMM?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
     {
       "titulo": "Maletín Samsonite para portátil 15.6",
       "condicion": "Estado: Como Nuevo",
