@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-10-02T21:02:23+02:00",
+  "actualizado": "2026-10-02T22:01:54+02:00",
   "ofertas": [
+    {
+      "titulo": "Lámpara luz diurna Beurer TL 100",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 127.14,
+      "precio_actual": 67.56,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 59.58,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31XWxSTCseL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B015UWMKNW?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "Barbacoa Barbecook Loewy 45 negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 137.87,
+      "precio_actual": 97.08,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 40.79,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31iKwdIvaRL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B01AJLM9W6?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "Smartphone Xiaomi 17 Ultra 512GB Negro",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 1499.9,
+      "precio_actual": 1013.94,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 485.96,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41vpm2pCYsL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08N5S8CB6?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "Chancletas PUMA Divecat V2 LITE 48.5",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 22.95,
+      "precio_actual": 12.15,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 10.8,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31AxqHaNJxL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BDRKYRVK?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "Balón de fútbol Derbystar Bundesliga Blanco",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 31.18,
+      "precio_actual": 21.94,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 9.24,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51Wv5RTndEL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C885G8CT?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "Despertador digital TFA Dostmann Comic",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 10.25,
+      "precio_actual": 6.77,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 3.48,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51yroze6k7L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DGGFYVF6?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "Reloj GPS Polar Vantage M3 AMOLED 53g",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 357.57,
+      "precio_actual": 221.52,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 136.05,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41XYLigCPJL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DJT97Q5Q?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "Smartwatch Amazfit Active 2 44mm Negro",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 148.1,
+      "precio_actual": 97.9,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 50.2,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41rod+tSsWL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DSPWKJW4?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
     {
       "titulo": "Memoria RAM Micron 8GB (2x4GB) DDR3L 1600MT/s",
       "condicion": "Estado: Muy bueno",
