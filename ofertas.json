@@ -1,6 +1,90 @@
 {
-  "actualizado": "2026-10-02T22:01:54+02:00",
+  "actualizado": "2026-10-02T23:01:37+02:00",
   "ofertas": [
+    {
+      "titulo": "Puerta para mascotas Ferplast Swing 9 Blanco",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 49.6,
+      "precio_actual": 34.08,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 15.52,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41hZfmwQSqL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B01N7YEE50?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:01"
+    },
+    {
+      "titulo": "Telescopio terrestre SVBONY SV401 20-60x80mm",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 149.99,
+      "precio_actual": 95.88,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 54.11,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/311BjmDXDDL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07WRXBJKS?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:01"
+    },
+    {
+      "titulo": "Portátil Microsoft Surface Laptop 4 i7 512GB Negro",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 2706.36,
+      "precio_actual": 1479.69,
+      "descuento_porcentaje": 45,
+      "ahorro_euros": 1226.67,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31IB1pR8YHL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B096VMZB4Z?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:01"
+    },
+    {
+      "titulo": "Portátil Dell Latitude 3550 i7-1355U 16GB 512GB SSD",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 1281.04,
+      "precio_actual": 738.59,
+      "descuento_porcentaje": 42,
+      "ahorro_euros": 542.45,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41oLKlzsaYL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D9KBJJ9Q?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:01"
+    },
+    {
+      "titulo": "Batería externa INIU 20000mAh Negro",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 34.99,
+      "precio_actual": 20.13,
+      "descuento_porcentaje": 42,
+      "ahorro_euros": 14.86,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41UZQ9YDoAL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DCJXYKYD?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:01"
+    },
+    {
+      "titulo": "Cargador inalámbrico Belkin BoostCharge Pro 15W",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 119.59,
+      "precio_actual": 68.2,
+      "descuento_porcentaje": 43,
+      "ahorro_euros": 51.39,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41soqiD91BL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DQ1L5DXM?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:01"
+    },
+    {
+      "titulo": "Cámara Panasonic LUMIX G97 20.3MP 4K con lente 12-60mm",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 849.97,
+      "precio_actual": 588.46,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 261.51,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41JEsCYqZnL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DRYP6J4T?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:01"
+    },
     {
       "titulo": "Lámpara luz diurna Beurer TL 100",
       "condicion": "Estado: Como Nuevo",
