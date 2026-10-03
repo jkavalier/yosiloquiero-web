@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-03T15:01:15+02:00",
+  "actualizado": "2026-10-03T16:01:13+02:00",
   "ofertas": [
+    {
+      "titulo": "Figura LEGO Oso San Valentín 245 piezas",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 54.4,
+      "precio_actual": 31.99,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 22.41,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51t8MbtZcML.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08RXND3XP?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Intercomunicador Bluetooth Sena 20S-EVO-11",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 199,
+      "precio_actual": 115.53,
+      "descuento_porcentaje": 42,
+      "ahorro_euros": 83.47,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31t+T2RpdmS.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09JL8GH93?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Altavoz Bluetooth Woxter Rock'n'Roller ST 100W 4.5Ah",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 161.99,
+      "precio_actual": 93.97,
+      "descuento_porcentaje": 42,
+      "ahorro_euros": 68.02,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/311lzd2njML.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BXYBZDWL?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Smartphone Samsung Galaxy A14 64GB Negro",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 170.39,
+      "precio_actual": 95.09,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 75.3,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41jxDqOuo7L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BYWB6R4N?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Microondas Severin 19L inverter negro",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 139.9,
+      "precio_actual": 71.69,
+      "descuento_porcentaje": 49,
+      "ahorro_euros": 68.21,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31kUligOMvL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0G4N1RGNN?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
     {
       "titulo": "Portátil Acer Aspire 16 AI 512GB SSD 16GB RAM QWERTZ",
       "condicion": "Estado: Muy bueno",
