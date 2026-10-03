@@ -1,6 +1,90 @@
 {
-  "actualizado": "2026-10-03T22:00:55+02:00",
+  "actualizado": "2026-10-03T23:01:36+02:00",
   "ofertas": [
+    {
+      "titulo": "Maletín aluminio plata 455 x 120 x 330 mm",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 96.62,
+      "precio_actual": 60.28,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 36.34,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41FrLqTIgRL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B001JYHOBY?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:01"
+    },
+    {
+      "titulo": "Purificador de aire Blueair 3450i Max 103 m²",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 299,
+      "precio_actual": 205.15,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 93.85,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31VFzqvjfoL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08KPHSY69?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:01"
+    },
+    {
+      "titulo": "Smartwatch Samsung Galaxy Watch 6 40mm Oro",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 290.61,
+      "precio_actual": 189.79,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 100.82,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31Qx3QulSXL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CDTTH82D?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:01"
+    },
+    {
+      "titulo": "Generador de ozono FELLAT 600mg/h",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 75.06,
+      "precio_actual": 39.43,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 35.63,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/415-+nGh43L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CSDKMWQ3?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:01"
+    },
+    {
+      "titulo": "Tablet Samsung Galaxy Tab S10+ 256GB gris",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 923.31,
+      "precio_actual": 650.85,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 272.46,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/317Ohq6gjcL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DJB4SF41?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:01"
+    },
+    {
+      "titulo": "Aspiradora Proscenic F10 Ultra 60 min",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 235,
+      "precio_actual": 106.84,
+      "descuento_porcentaje": 55,
+      "ahorro_euros": 128.16,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31VMH-YokBL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FZ9XP52R?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:01"
+    },
+    {
+      "titulo": "Reloj pared Kare Leonardo 49 cm rojo/oro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 99,
+      "precio_actual": 66.18,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 32.82,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/517sDTu5JoL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0G2YL3YK8?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:01"
+    },
     {
       "titulo": "Micrófono diadema Pyle con cable 2k Ohm",
       "condicion": "Estado: Como Nuevo",
