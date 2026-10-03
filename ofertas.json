@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-03T14:01:10+02:00",
+  "actualizado": "2026-10-03T15:01:15+02:00",
   "ofertas": [
+    {
+      "titulo": "Portátil Acer Aspire 16 AI 512GB SSD 16GB RAM QWERTZ",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 997.58,
+      "precio_actual": 552.66,
+      "descuento_porcentaje": 45,
+      "ahorro_euros": 444.92,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/418IV1lxR3L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0B8QQC71J?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Zapatillas SEAC Splash 32 Gris/Negro",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 30.5,
+      "precio_actual": 12.63,
+      "descuento_porcentaje": 59,
+      "ahorro_euros": 17.87,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41hYtaWxzuL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DTZ2PY9N?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Smartwatch HUAWEI Watch FIT 4 Negro 27g",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 126.99,
+      "precio_actual": 86.24,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 40.75,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41LOw7lUZTL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F29Y67ZR?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Auriculares QCY Clip C30 Bluetooth 5.4 Negro",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 52.27,
+      "precio_actual": 26.16,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 26.11,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31HMRZu-qkL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FJMB8PSN?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Aspiradora robot Kärcher RVC 3 Comfort",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 349.95,
+      "precio_actual": 243.15,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 106.8,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31Ge9eWw03L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0G8HH1VSS?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
     {
       "titulo": "Maleta cabina Hauptstadtkoffer Alex 42L Negro",
       "condicion": "Estado: Muy bueno",
