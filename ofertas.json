@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-03T11:01:16+02:00",
+  "actualizado": "2026-10-03T12:01:15+02:00",
   "ofertas": [
+    {
+      "titulo": "Control acceso biométrico Anviz A350 BT-WiFi 3.5″",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 312.66,
+      "precio_actual": 112.97,
+      "descuento_porcentaje": 64,
+      "ahorro_euros": 199.69,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41sUcUgYrCL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0861YSYKN?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Monitor HP 22″ Full HD IPS 75Hz",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 172.36,
+      "precio_actual": 85.2,
+      "descuento_porcentaje": 51,
+      "ahorro_euros": 87.16,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/410v7bqTz7L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B094CRCF6W?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Zapatillas Clarks ATLTrekRun GTX Verde 43",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 150,
+      "precio_actual": 39.89,
+      "descuento_porcentaje": 73,
+      "ahorro_euros": 110.11,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41trpZYNL4L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BS6SPCSC?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Mochila HP 17L lavanda, acolchada y con candado",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 32.43,
+      "precio_actual": 13.3,
+      "descuento_porcentaje": 59,
+      "ahorro_euros": 19.13,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31guVrpB6WL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C31W8JXT?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Pelota Pilates Slim Panda 75cm morada antiexplosión",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 22.99,
+      "precio_actual": 10.51,
+      "descuento_porcentaje": 54,
+      "ahorro_euros": 12.48,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41HZ6bXeWbL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F99828BW?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
     {
       "titulo": "Escaleras gatos PawHut 3 escalones 45x40x48cm marrón",
       "condicion": "Estado: Como Nuevo",
