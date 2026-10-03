@@ -1,6 +1,42 @@
 {
-  "actualizado": "2026-10-03T21:01:35+02:00",
+  "actualizado": "2026-10-03T22:00:55+02:00",
   "ofertas": [
+    {
+      "titulo": "Micrófono diadema Pyle con cable 2k Ohm",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 32.99,
+      "precio_actual": 21.11,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 11.88,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31OTgKzX2oL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B00JEFNSJM?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:00"
+    },
+    {
+      "titulo": "Smartphone OnePlus Nord 5G 256GB",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 545,
+      "precio_actual": 282.03,
+      "descuento_porcentaje": 48,
+      "ahorro_euros": 262.97,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41OB3XJH3SL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B01LW1I27J?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:00"
+    },
+    {
+      "titulo": "Zuecos Yinka 37 EU azul marino",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 31.05,
+      "precio_actual": 12.3,
+      "descuento_porcentaje": 60,
+      "ahorro_euros": 18.75,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31ej3cKylWL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DFYLMYP8?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:00"
+    },
     {
       "titulo": "Tarjeta memoria microSD Samsung EVO Plus 32GB",
       "condicion": "Estado: Como Nuevo",
