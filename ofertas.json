@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-03T12:01:15+02:00",
+  "actualizado": "2026-10-03T13:01:17+02:00",
   "ofertas": [
+    {
+      "titulo": "Mesa plegable ACADGQ 60x40cm Negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 49.99,
+      "precio_actual": 31.73,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 18.26,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51GyHnMd7NL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08R3N6WYB?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Funda portátil HP 15.6″ neopreno",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 16.52,
+      "precio_actual": 10.5,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 6.02,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/313XwOFVROL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0946NYDSK?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Baloncesto Wilson NBA Giannis Antetokounmpo Talla 7",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 28.99,
+      "precio_actual": 17.71,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 11.28,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51kRG1oxrfL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09CKSPKZ5?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Smartphone Xiaomi Redmi Note 11 6GB 128GB",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 179.93,
+      "precio_actual": 93.08,
+      "descuento_porcentaje": 48,
+      "ahorro_euros": 86.85,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41wdQRnI-RL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09QS7K6CP?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Teclado Apple Magic para iPad Pro 11″ Francés Blanco",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 349,
+      "precio_actual": 195.85,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 153.15,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31ZoUwipmxL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D3J8CWXY?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
     {
       "titulo": "Control acceso biométrico Anviz A350 BT-WiFi 3.5″",
       "condicion": "Estado: Muy bueno",
