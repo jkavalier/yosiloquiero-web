@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-03T10:01:19+02:00",
+  "actualizado": "2026-10-03T11:01:16+02:00",
   "ofertas": [
+    {
+      "titulo": "Escaleras gatos PawHut 3 escalones 45x40x48cm marrón",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 41.99,
+      "precio_actual": 29.3,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 12.69,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51biH7DggAL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D9Y3JKK3?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Auriculares Samsung PA3",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 1430.98,
+      "precio_actual": 803.36,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 627.62,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/415EYoqfYCL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DPN8Z1VT?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Monitor MSI Pro MP252L 24.5″ FHD IPS 100Hz sin marco",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 137.38,
+      "precio_actual": 92.89,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 44.49,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41T6ENrCMnL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DQD48VBT?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Portátil Lenovo IdeaPad Slim 3i 14″ i5 16GB 512GB SSD",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 1076.4,
+      "precio_actual": 584.82,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 491.58,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31BfNrDijcL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F8F3NNS6?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Smartwatch Google Pixel Watch 4 41 mm Negro Mate",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 475.4,
+      "precio_actual": 324.1,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 151.3,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/418ibKwbzdL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FJFVDXSG?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
     {
       "titulo": "Soporte móvil para PC Maclean hasta 10 kg",
       "condicion": "Estado: Como Nuevo",
