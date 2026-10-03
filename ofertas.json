@@ -1,6 +1,78 @@
 {
-  "actualizado": "2026-10-03T20:02:12+02:00",
+  "actualizado": "2026-10-03T21:01:35+02:00",
   "ofertas": [
+    {
+      "titulo": "Tarjeta memoria microSD Samsung EVO Plus 32GB",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 34,
+      "precio_actual": 9.33,
+      "descuento_porcentaje": 73,
+      "ahorro_euros": 24.67,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41EGoaEy1DL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B06XFSZGCC?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "21:01"
+    },
+    {
+      "titulo": "Patines K2 Skate Trio LT 100 Negro/Verde 40",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 218.66,
+      "precio_actual": 146.89,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 71.77,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/413GbN-W3DL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09GX28CH5?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "21:01"
+    },
+    {
+      "titulo": "Cámara instantánea Polaroid Now Gen 2",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 87.99,
+      "precio_actual": 61.69,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 26.3,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31wfIXe5P8L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BVNG2Z9T?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "21:01"
+    },
+    {
+      "titulo": "Batería externa Hama Performance-10 10000 mAh gris",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 14.9,
+      "precio_actual": 10,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 4.9,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31YsfIcjQTL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CYN65VFL?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "21:01"
+    },
+    {
+      "titulo": "Smartwatch OPPO Watch X2 1.5″ AMOLED negro",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 349.9,
+      "precio_actual": 196.41,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 153.49,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41mW9gENyHL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DXQ77MKF?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "21:01"
+    },
+    {
+      "titulo": "Smartwatch HUAWEI GT 6 GPS 41 mm Brown",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 274.06,
+      "precio_actual": 177.67,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 96.39,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41Kc8ELXMSL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FK9QHDQR?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "21:01"
+    },
     {
       "titulo": "Calibrador de color Wacom EODIS3",
       "condicion": "Estado: Como Nuevo",
