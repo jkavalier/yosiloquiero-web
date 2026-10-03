@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-03T08:01:16+02:00",
+  "actualizado": "2026-10-03T09:01:12+02:00",
   "ofertas": [
+    {
+      "titulo": "Portátil Microsoft Surface AMD Ryzen 5",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 1142.29,
+      "precio_actual": 589.46,
+      "descuento_porcentaje": 48,
+      "ahorro_euros": 552.83,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31Ex7u3VT6L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B084LKHGTD?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Mancuernas hexagonales PhysKcal 12,5 kg",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 69.99,
+      "precio_actual": 39.65,
+      "descuento_porcentaje": 43,
+      "ahorro_euros": 30.34,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/413PULfFf1L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09NW7F6KB?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Soporte portátil Kensington SmartFit 50% reciclado",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 32.99,
+      "precio_actual": 19.59,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 13.4,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31TMPAwXRJL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DBZP85J4?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Zapatillas MUSTANG Hombre Moca 42",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 83.9,
+      "precio_actual": 33.57,
+      "descuento_porcentaje": 60,
+      "ahorro_euros": 50.33,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41NeIEBwySL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F5HF6BVC?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Batería electrónica infantil Lexibook Spider-Man",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 99.99,
+      "precio_actual": 40.16,
+      "descuento_porcentaje": 60,
+      "ahorro_euros": 59.83,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51CaHZG4AqL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FWKFW7XM?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
     {
       "titulo": "Hamaca Amazonas Lambada Tropical 210x140 cm",
       "condicion": "Estado: Muy bueno",
