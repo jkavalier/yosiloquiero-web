@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-04T08:01:12+02:00",
+  "actualizado": "2026-10-04T09:01:06+02:00",
   "ofertas": [
+    {
+      "titulo": "Máquina de coser Brother FS-40",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 345,
+      "precio_actual": 242.68,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 102.32,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31YMP+t1j8L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B00DAY5PSU?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Cámara Canon EOS M50 Kit 24.1MP 4K",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 999.9,
+      "precio_actual": 407.99,
+      "descuento_porcentaje": 59,
+      "ahorro_euros": 591.91,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51r1YbUWUmL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B079Y45KTJ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Interfaz audio Focusrite Scarlett Solo USB-C",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 114.99,
+      "precio_actual": 79.76,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 35.23,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31Ty6bmUmVL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07QR6Z1JB?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Cargador USB-C Seadmit 20W",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 35.99,
+      "precio_actual": 15.15,
+      "descuento_porcentaje": 58,
+      "ahorro_euros": 20.84,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41QcPQaYWJL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FJRNFNGB?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Memoria RAM GMR DDR3 8GB 1600MHz",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 54.86,
+      "precio_actual": 36.63,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 18.23,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31lk1Q04RKL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GHRX7KM3?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
     {
       "titulo": "Termostato Vemer VE453700 táctil programable 7 días",
       "condicion": "Estado: Como Nuevo",
