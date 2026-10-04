@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-04T13:01:16+02:00",
+  "actualizado": "2026-10-04T14:01:29+02:00",
   "ofertas": [
+    {
+      "titulo": "Micrófono dinámico Pyle PDMIC58 Negro",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 19.91,
+      "precio_actual": 11.47,
+      "descuento_porcentaje": 42,
+      "ahorro_euros": 8.44,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31bWEy+u00L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B003GEBGA0?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Soporte para micrófono Tiger",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 12.99,
+      "precio_actual": 7.29,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 5.7,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41y4fmcW2DL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07D7F5RHV?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Timbre inalámbrico Byron alcance 150 m",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 25.76,
+      "precio_actual": 12.94,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 12.82,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31OEIXWvYlL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08LY6CCDQ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Lámpara lectura Moses Coral",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 19.94,
+      "precio_actual": 12.02,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 7.92,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31sLWg+j0FL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09NNPBVTY?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Aparcabicicletas Maclean MC-998 30 kg",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 24.47,
+      "precio_actual": 12.11,
+      "descuento_porcentaje": 51,
+      "ahorro_euros": 12.36,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21mrIpYSirL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DLGSF98L?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
     {
       "titulo": "Preamplificador Cloud Microphones CL-4 Azul",
       "condicion": "Estado: Como Nuevo",
