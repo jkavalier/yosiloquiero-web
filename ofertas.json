@@ -1,6 +1,42 @@
 {
-  "actualizado": "2026-10-04T22:02:21+02:00",
+  "actualizado": "2026-10-04T23:00:56+02:00",
   "ofertas": [
+    {
+      "titulo": "Tabla hinchable FunWater Dolphin 10'6″ 7.9 kg",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 209.99,
+      "precio_actual": 146.95,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 63.04,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/519ir6tM27L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09XCBR65W?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:00"
+    },
+    {
+      "titulo": "Cámara 360° Insta360 ACE PRO",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 372.66,
+      "precio_actual": 210.04,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 162.62,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/413RtQPVa0L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CNGQYF5Z?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:00"
+    },
+    {
+      "titulo": "Smartwatch HUAWEI Band 11 1.62″ AMOLED Negro",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 59,
+      "precio_actual": 38.77,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 20.23,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41yb9pS4MNL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GGJJZX28?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:00"
+    },
     {
       "titulo": "Prismáticos Bushnell 20x50",
       "condicion": "Estado: Como Nuevo",
