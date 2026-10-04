@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-04T12:01:18+02:00",
+  "actualizado": "2026-10-04T13:01:16+02:00",
   "ofertas": [
+    {
+      "titulo": "Preamplificador Cloud Microphones CL-4 Azul",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 580.58,
+      "precio_actual": 289.87,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 290.71,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31DjzSZ9H8L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B00IX1B48A?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Micrófonos inalámbricos Samson XPD2m 20h 30m",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 344.69,
+      "precio_actual": 212.35,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 132.34,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41lYFI9AX-L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08X7HSXSH?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Sistema sonido Evans percusión sensorial 10 zonas",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 1718.64,
+      "precio_actual": 819.51,
+      "descuento_porcentaje": 52,
+      "ahorro_euros": 899.13,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41lUOji1caL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C6MYCJNJ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Soporte portátil Kensington SmartFit ajustable",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 32.99,
+      "precio_actual": 20,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 12.99,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31TMPAwXRJL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DBZP85J4?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Zapatos Moschino Oxford Mujer Talla 38",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 230,
+      "precio_actual": 72.05,
+      "descuento_porcentaje": 69,
+      "ahorro_euros": 157.95,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21Vw-7SUGoL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DN211YV1?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
     {
       "titulo": "Boquilla Vandoren SM603B saxofón alto",
       "condicion": "Estado: Muy bueno",
