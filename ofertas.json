@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-04T10:01:23+02:00",
+  "actualizado": "2026-10-04T11:01:26+02:00",
   "ofertas": [
+    {
+      "titulo": "Reloj HUGO BOSS Contender 44mm Negro",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 229,
+      "precio_actual": 136.29,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 92.71,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31nxzUreBGL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CTMQJBNZ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Ventilador techo ZMISHIBO 132 cm luz ajustable 3000K-6500K",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 112.99,
+      "precio_actual": 77.46,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 35.53,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41QEZlFgRBL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F9P34G26?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Monitor LG 27U411A-B 27″ FHD 120Hz IPS",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 122.61,
+      "precio_actual": 86.29,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 36.32,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41WbP6NQBnL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FKNKDNXN?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Smartphone Xiaomi Redmi Note 15 Pro+ 256GB Negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 513.05,
+      "precio_actual": 359.96,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 153.09,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41+FfDbW+XL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FY3W9QCG?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Tostadora Cuisinart SimpliTouch XL Ranuras XL Acero Inoxidable",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 65.01,
+      "precio_actual": 42.08,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 22.93,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41Uo12bxQHL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0G1586BZG?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
     {
       "titulo": "Despertador electrónico TFA con termómetro",
       "condicion": "Estado: Muy bueno",
