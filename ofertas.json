@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-04T15:01:25+02:00",
+  "actualizado": "2026-10-04T16:01:19+02:00",
   "ofertas": [
+    {
+      "titulo": "Funda bajo Tiger GGB35-BS con bolsillos",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 69.34,
+      "precio_actual": 22.54,
+      "descuento_porcentaje": 67,
+      "ahorro_euros": 46.8,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41IefPs7lWL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B005M2V2FI?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Amplificador PA Omnitronic XDA-2402 2400W",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 646,
+      "precio_actual": 237.91,
+      "descuento_porcentaje": 63,
+      "ahorro_euros": 408.09,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/313MubUtjlL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B01N4EV1SG?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Smartphone Samsung Galaxy S20 FE 128GB Azul",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 759,
+      "precio_actual": 197,
+      "descuento_porcentaje": 74,
+      "ahorro_euros": 562,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41DbHhSdIwL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08HN8F1MC?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Anillo de tungsteno plata 8 mm",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 40.47,
+      "precio_actual": 12.05,
+      "descuento_porcentaje": 70,
+      "ahorro_euros": 28.42,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41VFpO32fOL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C1483RSC?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Teclado mecánico Corsair K65 Pro Mini RGB",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 195.97,
+      "precio_actual": 56.95,
+      "descuento_porcentaje": 71,
+      "ahorro_euros": 139.02,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/416iLQp5MFL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C8NVNWSV?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
     {
       "titulo": "Cuerdas para bajo eléctrico D'Addario Prelude 1/2 escala tensión media",
       "condicion": "Estado: Como Nuevo",
