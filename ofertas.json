@@ -1,6 +1,90 @@
 {
-  "actualizado": "2026-10-04T23:00:56+02:00",
+  "actualizado": "2026-10-04T23:27:19+02:00",
   "ofertas": [
+    {
+      "titulo": "Lámpara de pie Gravis 40W Blanco",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 35.88,
+      "precio_actual": 17.74,
+      "descuento_porcentaje": 51,
+      "ahorro_euros": 18.14,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31xMM9MmJRL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B01JLWRB68?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:27"
+    },
+    {
+      "titulo": "Lámpara de pie LED B.K.Licht regulable 360°",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 54.99,
+      "precio_actual": 35.67,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 19.32,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/211tr4UXIbL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07TQLXRV4?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:27"
+    },
+    {
+      "titulo": "Zapatillas PUMA Ultra Ultimate Hybrid 43",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 84.65,
+      "precio_actual": 41.87,
+      "descuento_porcentaje": 51,
+      "ahorro_euros": 42.78,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41nNk9eROPL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BTTJKLD2?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:27"
+    },
+    {
+      "titulo": "Guantes de béisbol adidas Copa Glove Club Talla 8",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 38.89,
+      "precio_actual": 19.3,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 19.59,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41ZnuGTpGEL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DK79S6TV?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:27"
+    },
+    {
+      "titulo": "Lámpara de pie Rottogoon dimmable negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 52.17,
+      "precio_actual": 35.92,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 16.25,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41DFm4UniEL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FD3MP1M6?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:27"
+    },
+    {
+      "titulo": "Guante portero Rinat Aries X Pro Azul",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 69.59,
+      "precio_actual": 43.6,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 25.99,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41fAohQzesL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FJ2L7PQM?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:27"
+    },
+    {
+      "titulo": "Auriculares gaming SteelSeries Arctis Nova 7X Wireless 50h",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 219.95,
+      "precio_actual": 137.57,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 82.38,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31X8lu69IwL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FS7JG7WM?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:27"
+    },
     {
       "titulo": "Tabla hinchable FunWater Dolphin 10'6″ 7.9 kg",
       "condicion": "Estado: Como Nuevo",
