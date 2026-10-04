@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-04T14:01:29+02:00",
+  "actualizado": "2026-10-04T15:01:25+02:00",
   "ofertas": [
+    {
+      "titulo": "Cuerdas para bajo eléctrico D'Addario Prelude 1/2 escala tensión media",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 118,
+      "precio_actual": 57.38,
+      "descuento_porcentaje": 51,
+      "ahorro_euros": 60.62,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41ncY6qYw+L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B002FVG8ZS?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Zapatillas senderismo Salomon X Ultra Pioneer Mid Gore-Tex Mujer 36",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 114.3,
+      "precio_actual": 47.82,
+      "descuento_porcentaje": 58,
+      "ahorro_euros": 66.48,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41QtZozy5ML.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09N3PVQCZ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Auriculares inalámbricos Mackie MP-20TWS cancelación ruido",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 138.75,
+      "precio_actual": 78.88,
+      "descuento_porcentaje": 43,
+      "ahorro_euros": 59.87,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31clQPG9RFL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BH9JGTJ4?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Almohadilla baterista Tipatyard 30,5 cm",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 51.54,
+      "precio_actual": 27.43,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 24.11,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31ZZBgCOqfL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C6MJ6V5H?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Ratón Sharkoon FIREGLIDER One Negro",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 44.52,
+      "precio_actual": 23.18,
+      "descuento_porcentaje": 48,
+      "ahorro_euros": 21.34,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21UF1+Z4t2L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GW88DK62?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
     {
       "titulo": "Micrófono dinámico Pyle PDMIC58 Negro",
       "condicion": "Estado: Muy bueno",
