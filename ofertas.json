@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-04T11:01:26+02:00",
+  "actualizado": "2026-10-04T12:01:18+02:00",
   "ofertas": [
+    {
+      "titulo": "Boquilla Vandoren SM603B saxofón alto",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 169.29,
+      "precio_actual": 43.12,
+      "descuento_porcentaje": 75,
+      "ahorro_euros": 126.17,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21LWSqscBqL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0002CZR4A?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Soporte aluminio altavoz OnStage SS7761B negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 168.1,
+      "precio_actual": 34.09,
+      "descuento_porcentaje": 80,
+      "ahorro_euros": 134.01,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31SwbP0JRJL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0002T67KG?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Altavoz PA Behringer VP1220F 800W negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 323.41,
+      "precio_actual": 91.39,
+      "descuento_porcentaje": 72,
+      "ahorro_euros": 232.02,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41nlUnmAUVL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0029RRGHC?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Pelota de ejercicio Fitvids XL 75 cm azul",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 43.45,
+      "precio_actual": 11.82,
+      "descuento_porcentaje": 73,
+      "ahorro_euros": 31.63,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41kksweh2QL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07RZ2W3FW?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Plancha Viola Voilá F8.0",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 299,
+      "precio_actual": 73.52,
+      "descuento_porcentaje": 75,
+      "ahorro_euros": 225.48,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41ZRuiZwRRL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CJJSZKJN?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
     {
       "titulo": "Reloj HUGO BOSS Contender 44mm Negro",
       "condicion": "Estado: Muy bueno",
