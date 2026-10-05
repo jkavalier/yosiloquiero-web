@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-05T11:01:08+02:00",
+  "actualizado": "2026-10-05T12:01:24+02:00",
   "ofertas": [
+    {
+      "titulo": "Memoria USB SanDisk Ultra 32GB",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 20.33,
+      "precio_actual": 8.11,
+      "descuento_porcentaje": 60,
+      "ahorro_euros": 12.22,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41sAt4BZydL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B01LXHKR4T?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Monitor Philips 21.5″ FHD 60Hz TN",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 154,
+      "precio_actual": 81.87,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 72.13,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51J4TV1yFnL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07CRS9DV5?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Móvil resistente Samsung Galaxy Xcover 5 64GB Negro",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 230.85,
+      "precio_actual": 93.61,
+      "descuento_porcentaje": 59,
+      "ahorro_euros": 137.24,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41FYJTGVWNL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08YDYGXYJ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Pelota Pilates EDIFIT 65cm Violeta",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 15.06,
+      "precio_actual": 7.6,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 7.46,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41FcNNfZVHL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09MKRLGYX?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Auriculares inalámbricos Apple AirPods 3 blanco",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 238.94,
+      "precio_actual": 116.27,
+      "descuento_porcentaje": 51,
+      "ahorro_euros": 122.67,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31ppRifV99L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BDJ6QBTL?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
     {
       "titulo": "Cámara web Elgato Facecam 4K60",
       "condicion": "Estado: Muy bueno",
