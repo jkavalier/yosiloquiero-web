@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-05T08:01:26+02:00",
+  "actualizado": "2026-10-05T09:01:13+02:00",
   "ofertas": [
+    {
+      "titulo": "SSD NAS Western Digital Red 2TB M.2 SATA",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 428.95,
+      "precio_actual": 239,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 189.95,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31Tj05IEI9L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07YFG451Q?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Router TP-Link Archer AX73 WiFi 6 AX5400",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 127.46,
+      "precio_actual": 82.54,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 44.92,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/411z2-qkIFL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08P94H63W?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Bombillas LED inteligentes Philips Hue E27 2U",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 100.02,
+      "precio_actual": 45.31,
+      "descuento_porcentaje": 55,
+      "ahorro_euros": 54.71,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41ZHbW3GI-L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B099NP74QF?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Portátil HP EliteBook 830 G6 13.3″ 8GB 256GB SSD",
+      "condicion": "Estado: Reacondicionado",
+      "precio_anterior": 480,
+      "precio_actual": 296.99,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 183.01,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41yCfPVXEVL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C5TYFXLP?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Tarjeta memoria SanDisk Extreme Go 64GB",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 24.49,
+      "precio_actual": 16.4,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 8.09,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41zP4IATKdL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DCW9LSYJ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
     {
       "titulo": "Cafetera goteo PHILIPS 15 tazas acero inoxidable",
       "condicion": "Estado: Muy bueno",
