@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-05T14:06:59+02:00",
+  "actualizado": "2026-10-05T15:01:23+02:00",
   "ofertas": [
+    {
+      "titulo": "Soporte ergonómico para monitor ComfortCove",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 18.99,
+      "precio_actual": 11.11,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 7.88,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41hrpiGYINL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CPW1H2ZY?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Entrenadores Skechers On-The-Go Encore Blair 37 EU",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 79.01,
+      "precio_actual": 35.2,
+      "descuento_porcentaje": 55,
+      "ahorro_euros": 43.81,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31FgCXpdyQL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D4V2C532?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Reloj Polar Vantage M3 GPS AMOLED 53g",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 362.64,
+      "precio_actual": 219.28,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 143.36,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41XYLigCPJL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DJT97Q5Q?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Panel solar FlexSolar 30W plegable",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 59.99,
+      "precio_actual": 37.92,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 22.07,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41vs-IeS5PL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DRJ6GYBB?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Tablet Lenovo Idea Tab 11″ 256GB Polar Blue",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 486.34,
+      "precio_actual": 299.03,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 187.31,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31Rn3tuanlL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FCMC11X1?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
     {
       "titulo": "Lámpara LED Paladone Super Mario Bros 33cm",
       "condicion": "Estado: Muy bueno",
