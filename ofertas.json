@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-05T12:01:24+02:00",
+  "actualizado": "2026-10-05T13:01:16+02:00",
   "ofertas": [
+    {
+      "titulo": "Botines ARA Mujer Negro Talla 42.5",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 134.51,
+      "precio_actual": 32.43,
+      "descuento_porcentaje": 76,
+      "ahorro_euros": 102.08,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/318CoyGy68L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DX2HZ4PL?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Tarjeta gráfica ASUS TUF RTX 5070 12GB GDDR7",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 1011.64,
+      "precio_actual": 695.34,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 316.3,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41NGG1EMo8L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DYPGW2KB?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Monitor Gigabyte G25F2 24.5″ FHD 200Hz",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 169.66,
+      "precio_actual": 100.7,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 68.96,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41ream6W0eL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F4ZSDLC6?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Cadenas de nieve Michelin X6 14-19″",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 85.08,
+      "precio_actual": 58.68,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 26.4,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51PBiFzVu9L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FL2RBVQR?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Cargador Xiaomi 45W 2 puertos USB-C",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 26.61,
+      "precio_actual": 17.67,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 8.94,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31rD3ma9V0L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GKT36DWD?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
     {
       "titulo": "Memoria USB SanDisk Ultra 32GB",
       "condicion": "Estado: Muy bueno",
