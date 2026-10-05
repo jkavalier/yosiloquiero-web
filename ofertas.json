@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-05T10:01:09+02:00",
+  "actualizado": "2026-10-05T11:01:08+02:00",
   "ofertas": [
+    {
+      "titulo": "Cámara web Elgato Facecam 4K60",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 273.99,
+      "precio_actual": 161.49,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 112.5,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31AxBrFts8L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DVZG36J8?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Smartphone Hammer H Ranger 5000 mAh IP69 50 MP",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 305.11,
+      "precio_actual": 210.16,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 94.95,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41f8FSDQ7KL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FMRSBMGR?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Zapatillas G-STAR Recruit III Lea M 42",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 58.13,
+      "precio_actual": 27.41,
+      "descuento_porcentaje": 53,
+      "ahorro_euros": 30.72,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21BzS7MumJL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FQQHL2HG?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Cafetera KRUPS Sensation 5 bebidas",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 409.99,
+      "precio_actual": 224.32,
+      "descuento_porcentaje": 45,
+      "ahorro_euros": 185.67,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41e+e-FFQBL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FX5FXFRX?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Atornillador Bosch PSR SELECT 4V 2.0Ah",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 76.29,
+      "precio_actual": 51.42,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 24.87,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41TJyYplWrL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GXFL8DKF?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
     {
       "titulo": "Correas DMoose Fitness para abdominales y brazos gris",
       "condicion": "Estado: Como Nuevo",
