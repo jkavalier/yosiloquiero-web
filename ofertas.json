@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-06T14:01:16+02:00",
+  "actualizado": "2026-10-06T15:01:28+02:00",
   "ofertas": [
+    {
+      "titulo": "Árbol gatos ClevaHome 85 cm azul",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 39.99,
+      "precio_actual": 26.76,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 13.23,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41oTPDx-swL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DF2FK29V?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Cámara de salpicadero BOTSLAB 4K con visión nocturna y GPS",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 189.99,
+      "precio_actual": 125.92,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 64.07,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41oXv3mWMOL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DSZRL2W9?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Cámara instantánea Polaroid Now+ Gen3 Bluetooth",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 123.14,
+      "precio_actual": 80.13,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 43.01,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31p5CPC-DnL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DTTMZDFR?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Botines Blowfish Malibu Mujer Talla 39 Marrón",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 75.84,
+      "precio_actual": 32.14,
+      "descuento_porcentaje": 58,
+      "ahorro_euros": 43.7,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/418jGRyh6mL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F9Q1S9HF?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Impresora Canon TS7550I Wi-Fi ADF 35 hojas",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 115,
+      "precio_actual": 63.39,
+      "descuento_porcentaje": 45,
+      "ahorro_euros": 51.61,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31sjcJLpZCL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GT281VRC?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
     {
       "titulo": "Timbre inalámbrico Honeywell Home DC915S Blanco",
       "condicion": "Estado: Como Nuevo",
