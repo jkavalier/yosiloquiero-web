@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-06T10:01:26+02:00",
+  "actualizado": "2026-10-06T11:01:23+02:00",
   "ofertas": [
+    {
+      "titulo": "Aspiradora FAMIVAC 65KPA 600W",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 159.99,
+      "precio_actual": 99.56,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 60.43,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41oVdGHOwxL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DM8M1B4B?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Televisor Hisense 43E7Q QLED 43″ Dolby Vision",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 441.14,
+      "precio_actual": 241,
+      "descuento_porcentaje": 45,
+      "ahorro_euros": 200.14,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41xk+43X1wL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F1MSX2W7?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Barra sonido JBL Cinema SB595 Dolby Atmos",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 399.99,
+      "precio_actual": 236.05,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 163.94,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31Yk19ky21L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FZVQ7HQZ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Monitor Gigabyte GS24F14A 24″ FHD 175Hz",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 128.78,
+      "precio_actual": 84.48,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 44.3,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/414FnZo17LL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GR7RLPYH?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Placa inducción Cecotec Full Magma Slim Pure 2000W",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 52.45,
+      "precio_actual": 34.1,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 18.35,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31AsdmoNBdL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GXVY635B?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
     {
       "titulo": "Reloj inteligente VTech Kidizoom DX2 Azul",
       "condicion": "Estado: Como Nuevo",
