@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-06T20:02:06+02:00",
+  "actualizado": "2026-10-06T21:01:25+02:00",
   "ofertas": [
+    {
+      "titulo": "Altavoces Sharp CP-SS30(BR) 60W Bluetooth 5.3 Marrón",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 126.07,
+      "precio_actual": 75.26,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 50.81,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41MTcSdHfJL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BQ3CZDT1?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "21:01"
+    },
+    {
+      "titulo": "SSD PCIe Gen4 Ediloca EN870 1TB 7450MB/s",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 159.99,
+      "precio_actual": 63.29,
+      "descuento_porcentaje": 60,
+      "ahorro_euros": 96.7,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31XZ+seWpOL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C7ZBJYQ5?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "21:01"
+    },
+    {
+      "titulo": "Silla ergonómica TONFARY respaldo alto malla 150 kg",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 179.99,
+      "precio_actual": 118.84,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 61.15,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51HRrJQoXAL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D8K9KLFV?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "21:01"
+    },
+    {
+      "titulo": "Tabla paddle surf hinchable HUIIKE 10' 2 plazas",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 259.99,
+      "precio_actual": 155.44,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 104.55,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51wyM9DCgUL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D8KXXV56?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "21:01"
+    },
+    {
+      "titulo": "Tablet Apple iPad Mini 128GB",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 1188.08,
+      "precio_actual": 545.37,
+      "descuento_porcentaje": 54,
+      "ahorro_euros": 642.71,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41TWPbEtdNL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DK3Z3S7T?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "21:01"
+    },
     {
       "titulo": "Radio portátil CRT PNI-CRTFP00B 1600 mAh",
       "condicion": "Estado: Como Nuevo",
