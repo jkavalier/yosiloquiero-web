@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-06T15:01:28+02:00",
+  "actualizado": "2026-10-06T16:01:16+02:00",
   "ofertas": [
+    {
+      "titulo": "Soporte pared HFTEK monitor 15-27″ VESA 75/100 8kg",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 103.01,
+      "precio_actual": 39.71,
+      "descuento_porcentaje": 61,
+      "ahorro_euros": 63.3,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/4127pKQ2oeL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B015ZIDYMW?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Repetidor WiFi NETGEAR EX6110 1.2 Gbit/s",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 47.68,
+      "precio_actual": 15.53,
+      "descuento_porcentaje": 67,
+      "ahorro_euros": 32.15,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31CD44Q6nzL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B077BSSYPX?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Máquina de coser Singer Haute Couture 80 puntadas",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 297.79,
+      "precio_actual": 169.2,
+      "descuento_porcentaje": 43,
+      "ahorro_euros": 128.59,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31MD3xJGiFL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08LQLQ3DW?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Casco esquí Uvex Wanted Talla 54-58 cm Negro mate",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 94.87,
+      "precio_actual": 53.36,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 41.51,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41Pwazyyl0L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09QMKB9V6?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Cámara exterior Baseus X1 Pro 3K IA solar",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 183.92,
+      "precio_actual": 108.99,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 74.93,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31YrqqaGydL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FX9FDKWF?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
     {
       "titulo": "Árbol gatos ClevaHome 85 cm azul",
       "condicion": "Estado: Como Nuevo",
