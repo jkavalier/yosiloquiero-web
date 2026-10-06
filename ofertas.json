@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-06T11:01:23+02:00",
+  "actualizado": "2026-10-06T12:01:24+02:00",
   "ofertas": [
+    {
+      "titulo": "Cubos organizadores Amazon Essentials 4U gris",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 26.37,
+      "precio_actual": 12.01,
+      "descuento_porcentaje": 54,
+      "ahorro_euros": 14.36,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31C4U1ndNPL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B014VBI5MS?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Memoria RAM Timetec 16GB (2x8GB) DDR3 1600MHz",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 46.99,
+      "precio_actual": 20.85,
+      "descuento_porcentaje": 56,
+      "ahorro_euros": 26.14,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51s5NIsDDrL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B01N7WGQBX?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Monitor LG UltraWide 34″ 3440x1440",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 928.26,
+      "precio_actual": 248.72,
+      "descuento_porcentaje": 73,
+      "ahorro_euros": 679.54,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41j7PopSl3L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07R81NDR5?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Maleta rígida HAUPTSTADTKOFFER 74L TSA 65cm Verde Agua",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 179.95,
+      "precio_actual": 70.72,
+      "descuento_porcentaje": 61,
+      "ahorro_euros": 109.23,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31uxa2giGBL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07VXPCBCB?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Bolsa olores FIREDOG gris 21.5″x10″x12″",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 99.96,
+      "precio_actual": 41.78,
+      "descuento_porcentaje": 58,
+      "ahorro_euros": 58.18,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41T2ZIm9btL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B091DLBY7B?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
     {
       "titulo": "Aspiradora FAMIVAC 65KPA 600W",
       "condicion": "Estado: Como Nuevo",
