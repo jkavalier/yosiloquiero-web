@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-06T12:01:24+02:00",
+  "actualizado": "2026-10-06T13:01:26+02:00",
   "ofertas": [
+    {
+      "titulo": "Tableta gráfica HUION Inspiroy H1161 negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 89,
+      "precio_actual": 42.74,
+      "descuento_porcentaje": 52,
+      "ahorro_euros": 46.26,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31gIQfSTMuL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07VJFR9LB?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Figura Tortugas Ninja Shredder 11cm",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 37.99,
+      "precio_actual": 18.34,
+      "descuento_porcentaje": 52,
+      "ahorro_euros": 19.65,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41lD-AJ+sXL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BNW8GDGQ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Zapatos ART 1683 GRAZ Negro 40",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 150,
+      "precio_actual": 43.8,
+      "descuento_porcentaje": 71,
+      "ahorro_euros": 106.2,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31LC2aOSmEL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CMVBP18Z?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Teclado y ratón Trust ODY II QWERTZ",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 27.99,
+      "precio_actual": 11.47,
+      "descuento_porcentaje": 59,
+      "ahorro_euros": 16.52,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/318rW3B9XLL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DGGG4T78?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Filtro ND variable para iPhone 67mm",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 54.99,
+      "precio_actual": 33.82,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 21.17,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41P1ZuyHQZL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FBRG2T5T?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
     {
       "titulo": "Cubos organizadores Amazon Essentials 4U gris",
       "condicion": "Estado: Muy bueno",
