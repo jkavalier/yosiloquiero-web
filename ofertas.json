@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-06T08:01:20+02:00",
+  "actualizado": "2026-10-06T09:01:20+02:00",
   "ofertas": [
+    {
+      "titulo": "Mochila GOOTIUM lona 30L negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 55.55,
+      "precio_actual": 35.51,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 20.04,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41ywny0K7kL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0188UMWD6?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Termómetro infrarrojo Klein Tools IR10 -650°C",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 199.7,
+      "precio_actual": 120.92,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 78.78,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41hQIPWqKgL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07K1JB9TQ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Mochila de trekking Osprey Renn 65L",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 199.98,
+      "precio_actual": 127.79,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 72.19,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31YQCDJZxnL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C62GYKXY?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Portátil Lenovo V17 G4 512GB SSD 180°",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 1214.44,
+      "precio_actual": 653.31,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 561.13,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41lE+24qdmL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FMYJG7QC?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Cámara interior Eve CAM 1080p HomeKit Secure Video",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 299.9,
+      "precio_actual": 175.47,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 124.43,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41c0H1PTVhL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0H6WRZQWG?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
     {
       "titulo": "Freidora de aire Ariete 7L 1800W",
       "condicion": "Estado: Muy bueno",
