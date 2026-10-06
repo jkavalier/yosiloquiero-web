@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-06T22:02:23+02:00",
+  "actualizado": "2026-10-06T23:01:12+02:00",
   "ofertas": [
+    {
+      "titulo": "Smartphone Xiaomi Mi 11 Lite 5G 128GB Negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 269.99,
+      "precio_actual": 168.21,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 101.78,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41NRpa9XlUL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09BNY8JZM?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:01"
+    },
+    {
+      "titulo": "Teléfono Panasonic KX-TU160EXB 2G con botón SOS",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 54.89,
+      "precio_actual": 32.93,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 21.96,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31Q8KQEk5lL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09C1X76CG?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:01"
+    },
+    {
+      "titulo": "Panel solar monocristalino enjoy solar 210W 36V",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 106.64,
+      "precio_actual": 74.79,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 31.85,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41XH0xbBQUL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0B7CVB996?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:01"
+    },
+    {
+      "titulo": "Smartphone Apple iPhone 14 128GB",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 904.75,
+      "precio_actual": 566.65,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 338.1,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/310ouGwV1YL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BDJH7J5C?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:01"
+    },
+    {
+      "titulo": "Smartphone Xiaomi A2 32GB 2GB RAM Negro",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 198.95,
+      "precio_actual": 60.93,
+      "descuento_porcentaje": 69,
+      "ahorro_euros": 138.02,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31Ldm9WTTQL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BW68WVK3?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:01"
+    },
     {
       "titulo": "Hamaca Amazonas Paradiso 200 kg",
       "condicion": "Estado: Muy bueno",
