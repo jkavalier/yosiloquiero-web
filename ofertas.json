@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-06T13:01:26+02:00",
+  "actualizado": "2026-10-06T14:01:16+02:00",
   "ofertas": [
+    {
+      "titulo": "Timbre inalámbrico Honeywell Home DC915S Blanco",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 59.99,
+      "precio_actual": 38.35,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 21.64,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41WcElwnMVL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B018E9CT3E?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Router 4G Tenda 4G03 Pro 150Mbps",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 75.89,
+      "precio_actual": 37.29,
+      "descuento_porcentaje": 51,
+      "ahorro_euros": 38.6,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41+3sMotNwL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09M2LNDC1?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Báscula Terraillon TSQUARE 180kg",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 20.03,
+      "precio_actual": 13.72,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 6.31,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21YOqlExFRL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BTT2BM7Y?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Funda Nintendo Switch 2 Spigen Frost Black",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 24.99,
+      "precio_actual": 15.44,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 9.55,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41qoEGGBkiL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FFF3MK71?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Gafas esquí JQF Gear OTG Negro-Rojo",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 30.99,
+      "precio_actual": 11.13,
+      "descuento_porcentaje": 64,
+      "ahorro_euros": 19.86,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41OV8ah3zmL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FPFZVD78?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
     {
       "titulo": "Tableta gráfica HUION Inspiroy H1161 negro",
       "condicion": "Estado: Como Nuevo",
