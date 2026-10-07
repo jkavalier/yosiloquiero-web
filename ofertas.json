@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-07T15:01:34+02:00",
+  "actualizado": "2026-10-07T16:01:39+02:00",
   "ofertas": [
+    {
+      "titulo": "Espejo baño HOKO 60 cm negro LED antiniebla",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 174,
+      "precio_actual": 76.69,
+      "descuento_porcentaje": 56,
+      "ahorro_euros": 97.31,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41diDbnu2wL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B087C2YNQY?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Memoria RAM Kingston FURY Beast 32GB DDR4 3200MHz",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 360.82,
+      "precio_actual": 121,
+      "descuento_porcentaje": 66,
+      "ahorro_euros": 239.82,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41Ul68J4b2L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B097K2WKZW?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Folio teclado Apple iPad 10.ª generación Blanco",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 299,
+      "precio_actual": 87.72,
+      "descuento_porcentaje": 71,
+      "ahorro_euros": 211.28,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41epFRl-TCL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BJMHST21?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Ratón inalámbrico Hama MW-500",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 24.17,
+      "precio_actual": 11.54,
+      "descuento_porcentaje": 52,
+      "ahorro_euros": 12.63,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31oo8ifD+KL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C2PGLMGX?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Smartphone Samsung Galaxy S24 256GB",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 969,
+      "precio_actual": 435.37,
+      "descuento_porcentaje": 55,
+      "ahorro_euros": 533.63,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21ZwjZQsI4L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CSV8T4JH?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
     {
       "titulo": "Barra sonido Speedlink RGB Bluetooth Negro",
       "condicion": "Estado: Como Nuevo",
