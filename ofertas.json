@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-07T08:01:20+02:00",
+  "actualizado": "2026-10-07T09:01:14+02:00",
   "ofertas": [
+    {
+      "titulo": "Mancuernas ProsourceFit Neoprene 4LB Hexagonales",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 14.72,
+      "precio_actual": 10.18,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 4.54,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41SdIbpeiBL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B00NI44TRA?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Macuto Amazon Essentials plegable 150L negro",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 26.76,
+      "precio_actual": 18.83,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 7.93,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31WmmWCp0EL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B01GGNW2WI?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Bombilla inteligente WiZ Filamento LED E27 6,7W luz regulable",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 15.99,
+      "precio_actual": 10.18,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 5.81,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41CCh4BrmdL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08FKB7CY1?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Entrenador de agarre para guitarristas D'Addario Varigrip+",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 32.89,
+      "precio_actual": 19.04,
+      "descuento_porcentaje": 42,
+      "ahorro_euros": 13.85,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31PLZHVDzqL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09TQ3YBRB?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Enchufe inteligente Meross blanco",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 20.26,
+      "precio_actual": 12.31,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 7.95,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31C5DQ5QluL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CGKKBR4P?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
     {
       "titulo": "Cuerda de batalla Yes4All 9m 50mm",
       "condicion": "Estado: Como Nuevo",
