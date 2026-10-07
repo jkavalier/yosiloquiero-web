@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-07T10:01:26+02:00",
+  "actualizado": "2026-10-07T11:01:28+02:00",
   "ofertas": [
+    {
+      "titulo": "Mochila Port Designs 48 cm Negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 41.01,
+      "precio_actual": 22.49,
+      "descuento_porcentaje": 45,
+      "ahorro_euros": 18.52,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41BmCbRxXTL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B00DDIBHJ4?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Cargador inalámbrico INIU 15W",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 17.99,
+      "precio_actual": 11.8,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 6.19,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41GaTw0PJgL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09H2S98MK?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Zapatillas Reebok Glide 34.5 EU",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 37.83,
+      "precio_actual": 16.94,
+      "descuento_porcentaje": 55,
+      "ahorro_euros": 20.89,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41oxAp4cC4L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BGD3DPZ3?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Hervidor eléctrico Severin KA 4325 1.7L",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 30.48,
+      "precio_actual": 14.57,
+      "descuento_porcentaje": 52,
+      "ahorro_euros": 15.91,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31McDEbkI0L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CSJQX9D9?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Empuñaduras Meta Quest 3/3S negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 35.99,
+      "precio_actual": 23.37,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 12.62,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/411hgGCBQAL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DFXW7JTN?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
     {
       "titulo": "Memoria RAM Micron 8GB (2x4GB) DDR3L 1600MT/s",
       "condicion": "Estado: Como Nuevo",
