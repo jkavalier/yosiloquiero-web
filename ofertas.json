@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-07T12:01:20+02:00",
+  "actualizado": "2026-10-07T13:01:18+02:00",
   "ofertas": [
+    {
+      "titulo": "Funda portátil Trust 17.3″ Camuflaje",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 38.84,
+      "precio_actual": 7.76,
+      "descuento_porcentaje": 80,
+      "ahorro_euros": 31.08,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41GZ86d2ufL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07TX97Q5D?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Maleta rígida ROLL ROAD Flex 35L azul",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 49.99,
+      "precio_actual": 34.9,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 15.09,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31xO0HMmzfL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CX9R8D4P?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Botas de fútbol Hummel HmlStar Elite HB",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 35.5,
+      "precio_actual": 24.1,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 11.4,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/419UDZUTY2L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D5DCB7RX?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Altavoz Bluetooth Energy Sistem 40W TWS 12h IPX6",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 46.5,
+      "precio_actual": 32.4,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 14.1,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41ApuNOjRxL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DCFGBX72?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Zapatos minimalistas HOBIBEAR 36 EU marrón",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 56.43,
+      "precio_actual": 17.41,
+      "descuento_porcentaje": 69,
+      "ahorro_euros": 39.02,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41KPejXvgrL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FD7JB1LP?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
     {
       "titulo": "Tostadora KitchenAid 2 rebanadas ranuras extraanchas",
       "condicion": "Estado: Muy bueno",
