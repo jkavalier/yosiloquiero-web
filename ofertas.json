@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-10-07T21:02:16+02:00",
+  "actualizado": "2026-10-07T22:01:58+02:00",
   "ofertas": [
+    {
+      "titulo": "Taburete ergonómico Piqueras y Crespo regulable altura",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 173,
+      "precio_actual": 75.18,
+      "descuento_porcentaje": 57,
+      "ahorro_euros": 97.82,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31f5xqAaXlL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B01C8T7M92?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "Adaptador PoE TP-Link Gigabit Ethernet 48V",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 30.04,
+      "precio_actual": 15.84,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 14.2,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/313a8YoIi1L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07JCB5XWF?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "Adaptador Bluetooth Yealink BT51-A USB-A",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 34.64,
+      "precio_actual": 17.84,
+      "descuento_porcentaje": 48,
+      "ahorro_euros": 16.8,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21+mVaxUBRL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BGCF5FL5?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "Auriculares Samsung PA3",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 1431.46,
+      "precio_actual": 779.41,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 652.05,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41t2oW274wL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DPN7XJWZ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "Smartwatch Samsung Galaxy Watch7 44 mm 4G Verde",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 301.75,
+      "precio_actual": 180.52,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 121.23,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31JofSfpMNL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F2XNF4N1?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "Zapatillas deportivas BOSS Mujer 39 EU Blanco",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 111.85,
+      "precio_actual": 51.78,
+      "descuento_porcentaje": 54,
+      "ahorro_euros": 60.07,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31iDsd-Tr0L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F79K536Q?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "Aspirador robot Lefant M3 MAX 20.000 Pa",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 1099.99,
+      "precio_actual": 505.18,
+      "descuento_porcentaje": 54,
+      "ahorro_euros": 594.81,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41NFHOdvJyL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0G81LDXNR?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "Cargador magnético 1°edo 65W",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 39.99,
+      "precio_actual": 22.62,
+      "descuento_porcentaje": 43,
+      "ahorro_euros": 17.37,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31M+uy64fjL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GHRJS5ZX?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
     {
       "titulo": "Raquetas ping pong JOOLA Carbon Pro 174g",
       "condicion": "Estado: Muy bueno",
