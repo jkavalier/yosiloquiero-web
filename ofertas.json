@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-07T11:01:28+02:00",
+  "actualizado": "2026-10-07T12:01:20+02:00",
   "ofertas": [
+    {
+      "titulo": "Tostadora KitchenAid 2 rebanadas ranuras extraanchas",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 165.14,
+      "precio_actual": 77.77,
+      "descuento_porcentaje": 53,
+      "ahorro_euros": 87.37,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41yxLvPgx0L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B00JGMNXKC?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Maleta fotográfica VANGUARD Veo Bib Divider S53 Negro",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 169.9,
+      "precio_actual": 85.26,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 84.64,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/316Ha459jML.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0B5V5VGV9?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Purificador de aire Kärcher AF 20 20m²",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 172.2,
+      "precio_actual": 73.79,
+      "descuento_porcentaje": 57,
+      "ahorro_euros": 98.41,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31IIanGs+FL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BJ663D77?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Smartphone Xiaomi Redmi Note 13 Pro+ 200MP 256GB Morado",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 359.99,
+      "precio_actual": 199.55,
+      "descuento_porcentaje": 45,
+      "ahorro_euros": 160.44,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41qUwuFlLLL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CQZ4BK6C?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Portátil Microsoft Surface Laptop Copilot+ 13″ 256GB",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 1455.88,
+      "precio_actual": 783.95,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 671.93,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41y9-cqhqTL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DYDVFVTJ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
     {
       "titulo": "Mochila Port Designs 48 cm Negro",
       "condicion": "Estado: Como Nuevo",
