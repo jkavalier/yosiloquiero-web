@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-07T13:01:18+02:00",
+  "actualizado": "2026-10-07T14:01:13+02:00",
   "ofertas": [
+    {
+      "titulo": "Proyector Touchjet Pond táctil 2m",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 404.36,
+      "precio_actual": 198.27,
+      "descuento_porcentaje": 51,
+      "ahorro_euros": 206.09,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/316N1YjqVoL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B00PLKRLV0?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Tarjeta expansión Xbox Seagate 1TB PCIe Gen4 NVMe",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 309.39,
+      "precio_actual": 216.55,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 92.84,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31DTEJFR7iL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08K3S6WJM?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Tapa accesorio Moulinex Extra Crisp para Cookeo",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 81,
+      "precio_actual": 55.37,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 25.63,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41TcgkZPgyL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08XZ4XMWK?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Videocámara bebé Gigaset Baby 700 Full HD 5.5″",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 323.33,
+      "precio_actual": 98.77,
+      "descuento_porcentaje": 69,
+      "ahorro_euros": 224.56,
+      "valoracion": 4.8,
+      "imagen_url": "",
+      "url_producto": "https://www.amazon.es/dp/B0F6T63L9F?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Aire freidor Moulinex Easy Fry POP Amarillo 5L",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 94.38,
+      "precio_actual": 49.67,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 44.71,
+      "valoracion": 4.9,
+      "imagen_url": "",
+      "url_producto": "https://www.amazon.es/dp/B0FVYG89BT?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
     {
       "titulo": "Funda portátil Trust 17.3″ Camuflaje",
       "condicion": "Estado: Muy bueno",
