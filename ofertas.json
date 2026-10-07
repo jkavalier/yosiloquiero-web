@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-07T14:01:13+02:00",
+  "actualizado": "2026-10-07T15:01:34+02:00",
   "ofertas": [
+    {
+      "titulo": "Barra sonido Speedlink RGB Bluetooth Negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 36.34,
+      "precio_actual": 21.64,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 14.7,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31P+ZBVo8DL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0B6WDJQCX?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Medidor láser Bosch EasyDistance 20 m",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 50.37,
+      "precio_actual": 32.16,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 18.21,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31gj7lK8MLL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CS6SFFT7?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Pulsera deportiva HUAWEI Band 10 Negro",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 47.41,
+      "precio_actual": 25.45,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 21.96,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41Cuc3Rn5DL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DX2M6W5X?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Barbacoa portátil Charmline 35 x 23 cm",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 39.99,
+      "precio_actual": 25.24,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 14.75,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/412q8rzx2dL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DZX9ZT39?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Zapatillas FZJIALI Mujer 44 Verde",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 29.99,
+      "precio_actual": 12.6,
+      "descuento_porcentaje": 58,
+      "ahorro_euros": 17.39,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41ZJ+Yt7C3L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F3BXRZXB?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
     {
       "titulo": "Proyector Touchjet Pond táctil 2m",
       "condicion": "Estado: Muy bueno",
