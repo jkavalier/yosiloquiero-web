@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-07T09:01:14+02:00",
+  "actualizado": "2026-10-07T10:01:26+02:00",
   "ofertas": [
+    {
+      "titulo": "Memoria RAM Micron 8GB (2x4GB) DDR3L 1600MT/s",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 39.9,
+      "precio_actual": 27.85,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 12.05,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41lTWGN+oFL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B005NU49DG?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Lavadora y curadora 3D ANYCUBIC Wash & Cure 3 4L",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 99,
+      "precio_actual": 63.55,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 35.45,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41Afud9OHZL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B083J7FYBM?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "SSD NVMe WD_BLACK SN770 2TB 5150MB/s",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 483.56,
+      "precio_actual": 216.64,
+      "descuento_porcentaje": 55,
+      "ahorro_euros": 266.92,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/310UZVOtlfL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09QV5KJHV?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Funda rígida para arrancador Boost HD GB70",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 30.99,
+      "precio_actual": 19.7,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 11.29,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41lEQEFqXmL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DYH73ZT3?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Regleta HAFINO 10 en 1 con interruptor individual",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 47.67,
+      "precio_actual": 22.34,
+      "descuento_porcentaje": 53,
+      "ahorro_euros": 25.33,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31DAhDGcmjL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GFDTK4XY?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
     {
       "titulo": "Mancuernas ProsourceFit Neoprene 4LB Hexagonales",
       "condicion": "Estado: Como Nuevo",
