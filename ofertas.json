@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-08T13:01:20+02:00",
+  "actualizado": "2026-10-08T14:01:25+02:00",
   "ofertas": [
+    {
+      "titulo": "Filtros recambio AquaCalcium Ecosoft",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 41,
+      "precio_actual": 24.41,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 16.59,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41JcI0CebIL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BT51NJ9K?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Maleta Mandarina Duck Flyduck Blanco",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 181.75,
+      "precio_actual": 106.44,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 75.31,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21fsHfOHKpL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C5R6M8GQ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Tarjeta memoria Lexar GOLD 128GB UHS-II",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 81.99,
+      "precio_actual": 49.62,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 32.37,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41Mu+fjKYOL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D6BJ2W1Q?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Calculadora científica Canon KS-125KB",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 23.5,
+      "precio_actual": 16.43,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 7.07,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41C+BW4uLbL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D6ZBN5JG?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Tableta gráfica Apple Magic Trackpad Negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 167.95,
+      "precio_actual": 69.29,
+      "descuento_porcentaje": 59,
+      "ahorro_euros": 98.66,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21UhOjVdrVL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DL6W3MQX?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
     {
       "titulo": "Dispensador de aceite OXO Good Grips 5 onzas",
       "condicion": "Estado: Muy bueno",
