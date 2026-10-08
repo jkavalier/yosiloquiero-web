@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-08T12:01:16+02:00",
+  "actualizado": "2026-10-08T13:01:20+02:00",
   "ofertas": [
+    {
+      "titulo": "Dispensador de aceite OXO Good Grips 5 onzas",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 19.31,
+      "precio_actual": 10.95,
+      "descuento_porcentaje": 43,
+      "ahorro_euros": 8.36,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31Cxg0osqIL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07WF9KJL2?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Proyector aurora YunLone con altavoz Bluetooth",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 36.99,
+      "precio_actual": 21.12,
+      "descuento_porcentaje": 43,
+      "ahorro_euros": 15.87,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51rqFnjoy3L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09XJ9N3HY?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Botón inteligente WiZ Blanco",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 28.99,
+      "precio_actual": 17.64,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 11.35,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31GAMfJFn+L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09YV7JB5F?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Botellas de vidrio Mikken 6x250ml con dosificador verde/marrón",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 25.98,
+      "precio_actual": 12.78,
+      "descuento_porcentaje": 51,
+      "ahorro_euros": 13.2,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41bzkRi69wL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DXL7MP1G?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Altavoz Bluetooth Anker Soundcore 2 12W Beige",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 29.99,
+      "precio_actual": 16.1,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 13.89,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31BRYL8O8jL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FRRMD96F?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
     {
       "titulo": "Microondas Sharp con grill 20L",
       "condicion": "Estado: Como Nuevo",
