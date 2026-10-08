@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-08T08:01:26+02:00",
+  "actualizado": "2026-10-08T09:01:20+02:00",
   "ofertas": [
+    {
+      "titulo": "Pilas alcalinas Amazon Basics AAA 1.5V 40 uds",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 12.7,
+      "precio_actual": 8.41,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 4.29,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41a1yugUPPL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07MLDJF3B?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Taladro atornillador Parkside 12V 2 velocidades",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 57,
+      "precio_actual": 35.23,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 21.77,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41AumCIIH0L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08CS18T3V?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Memoria USB Lexar JumpDrive S80 128GB",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 29.99,
+      "precio_actual": 16.27,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 13.72,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31KDtn6BoGL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08H1GHLR2?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Freidora de aire Crux 1L acero inoxidable",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 45.72,
+      "precio_actual": 29.96,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 15.76,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41Cw3dgrvdL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BKL9DMD6?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Juguete LEGO Pastelería Canina 42677",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 29.99,
+      "precio_actual": 16.34,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 13.65,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51vZ3LUl8dL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FPXF1CJ5?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
     {
       "titulo": "Lámpara de pie Eglo Oneda dorada",
       "condicion": "Estado: Como Nuevo",
