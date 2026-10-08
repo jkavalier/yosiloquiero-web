@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-08T10:01:23+02:00",
+  "actualizado": "2026-10-08T11:01:21+02:00",
   "ofertas": [
+    {
+      "titulo": "Bicicleta Reverse Components Gazzetta 52",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 14.9,
+      "precio_actual": 5.97,
+      "descuento_porcentaje": 60,
+      "ahorro_euros": 8.93,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41Df0MS741L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B00GJSV1GE?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Cafetera de goteo HERCHR con filtro acero inoxidable",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 22.59,
+      "precio_actual": 14.84,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 7.75,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41trBQBQdiL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08FT8TN4X?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Pilas alcalinas Duracell Plus AA 24 unidades",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 23.69,
+      "precio_actual": 14.02,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 9.67,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51d8yDkB2aL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B093C9B1HK?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Báscula Xiaomi S200 Bluetooth gris",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 26,
+      "precio_actual": 17.08,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 8.92,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31QB1ngPQVL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F7SCD618?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Timbre inalámbrico AIMAX Blanco 400 m",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 25.99,
+      "precio_actual": 17.22,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 8.77,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31Y5R81m0cL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FXLRJLTD?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
     {
       "titulo": "Memoria RAM Integral 32GB DDR4 2400MHz",
       "condicion": "Estado: Como Nuevo",
