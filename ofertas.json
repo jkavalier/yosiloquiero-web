@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-08T14:01:25+02:00",
+  "actualizado": "2026-10-08T15:01:44+02:00",
   "ofertas": [
+    {
+      "titulo": "Webcam ToLuLu Full HD 1080p 110°",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 36.55,
+      "precio_actual": 23.7,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 12.85,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41+cDDNF6wL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B084ZJFNKN?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Candado portátiles Kensington NanoSaver Negro",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 39.99,
+      "precio_actual": 27.59,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 12.4,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31aTmwV+A2L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08H51M3LK?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Pelota de entrenamiento Puma Orbita 5 HYB Lite 290g",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 36.94,
+      "precio_actual": 25.11,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 11.83,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51W1c+kexDL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09ZCJR3B5?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Regleta EMOS 2 enchufes + 3 USB 2m",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 23.89,
+      "precio_actual": 12.46,
+      "descuento_porcentaje": 48,
+      "ahorro_euros": 11.43,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31qpkFR-lWL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D6Z8J43Y?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Reloj pared Moiubik 20 cm verde",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 19.97,
+      "precio_actual": 9.57,
+      "descuento_porcentaje": 52,
+      "ahorro_euros": 10.4,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41FZOHL8bLL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F61XS7RG?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
     {
       "titulo": "Filtros recambio AquaCalcium Ecosoft",
       "condicion": "Estado: Como Nuevo",
