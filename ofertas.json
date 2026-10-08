@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-08T11:01:21+02:00",
+  "actualizado": "2026-10-08T12:01:16+02:00",
   "ofertas": [
+    {
+      "titulo": "Microondas Sharp con grill 20L",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 158.44,
+      "precio_actual": 75.34,
+      "descuento_porcentaje": 52,
+      "ahorro_euros": 83.1,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31qwzkiMLrL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B007XS5AEI?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Organizador escritorio DEAYOU 5 cajones transparentes",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 78.87,
+      "precio_actual": 32.68,
+      "descuento_porcentaje": 59,
+      "ahorro_euros": 46.19,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/419UypkCvHL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09MKGYYKP?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Tarjeta gráfica MSI Radeon RX 6500 XT 4G OC",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 360.5,
+      "precio_actual": 137.24,
+      "descuento_porcentaje": 62,
+      "ahorro_euros": 223.26,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41PleGStZTL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09R1RVN3R?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Smartphone Motorola Moto G35 5G 128GB Negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 182.73,
+      "precio_actual": 86.87,
+      "descuento_porcentaje": 52,
+      "ahorro_euros": 95.86,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41sTtBOJR0L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DQ2NVN9J?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Monitor gaming Lenovo Legion R34w-30 34″ 180Hz curvado",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 480.09,
+      "precio_actual": 235.24,
+      "descuento_porcentaje": 51,
+      "ahorro_euros": 244.85,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41Aq7qRNMBL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FDKYSXNX?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
     {
       "titulo": "Bicicleta Reverse Components Gazzetta 52",
       "condicion": "Estado: Muy bueno",
