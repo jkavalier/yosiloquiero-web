@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-09T10:01:14+02:00",
+  "actualizado": "2026-10-09T11:01:28+02:00",
   "ofertas": [
+    {
+      "titulo": "Localizador Bluetooth Life360 Tile Slim",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 50.33,
+      "precio_actual": 22.18,
+      "descuento_porcentaje": 56,
+      "ahorro_euros": 28.15,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/2143v-v6BzL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09B2NYJ3T?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Botella para smoothie Bosch ToGo 0.6L",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 29,
+      "precio_actual": 16.48,
+      "descuento_porcentaje": 43,
+      "ahorro_euros": 12.52,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/213+0czEw6L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09CL55JXM?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Plancha Senya 2200W 51×25 cm antiadherente",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 60.32,
+      "precio_actual": 32.21,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 28.11,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41aX5INqfCL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D6YYMG55?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Cargador USB-C 25W con cable",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 18.79,
+      "precio_actual": 10.1,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 8.69,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31SRShcVukL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FJQX24MK?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Base refrigerante MOOJAY C52 con 9 ventiladores y RGB",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 39.99,
+      "precio_actual": 17.38,
+      "descuento_porcentaje": 57,
+      "ahorro_euros": 22.61,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41NxV8A2IWL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GZVW5L4K?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
     {
       "titulo": "Bolsa de viaje Eastpak 58L Black Denim",
       "condicion": "Estado: Muy bueno",
