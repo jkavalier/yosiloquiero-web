@@ -1,6 +1,78 @@
 {
-  "actualizado": "2026-10-09T21:01:08+02:00",
+  "actualizado": "2026-10-09T22:01:30+02:00",
   "ofertas": [
+    {
+      "titulo": "Jarra filtro agua PearlCo Astra 3L antracita",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 22.9,
+      "precio_actual": 14.78,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 8.12,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31pwhZwTvtL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B005TGL0KE?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "Cámara instantánea Polaroid Now+ Gen 2 Blanco",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 146.81,
+      "precio_actual": 70.7,
+      "descuento_porcentaje": 52,
+      "ahorro_euros": 76.11,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41S2aCXmedL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BVNJHMVQ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "Silla ergonómica Marsail escritorio negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 119.99,
+      "precio_actual": 83.65,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 36.34,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41wAQt0e2hL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D46C1JK2?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "Gafas esquí POC Zonula campo amplio UV400",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 151.76,
+      "precio_actual": 68.71,
+      "descuento_porcentaje": 55,
+      "ahorro_euros": 83.05,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31K4fZ87wgL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DWN9Q9ZL?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "Zapatillas Skechers Glide-Step Elevate 39.5 EU",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 84,
+      "precio_actual": 45.77,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 38.23,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/413skYeXlUL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FDCLND7B?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "Cargador inalámbrico Belkin UltraCharge Pro 25W Negro",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 189.52,
+      "precio_actual": 98.94,
+      "descuento_porcentaje": 48,
+      "ahorro_euros": 90.58,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31FiA-0lDqL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GZWM4PWS?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
     {
       "titulo": "Soporte multipantalla StarTech 4 monitores 32″",
       "condicion": "Estado: Como Nuevo",
