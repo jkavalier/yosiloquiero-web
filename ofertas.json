@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-09T13:01:23+02:00",
+  "actualizado": "2026-10-09T14:01:24+02:00",
   "ofertas": [
+    {
+      "titulo": "Radio PMR Midland G9 Pro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 345.93,
+      "precio_actual": 103.16,
+      "descuento_porcentaje": 70,
+      "ahorro_euros": 242.77,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31qo8pgGAzL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07RHBBXT9?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "SSD Acer SA100 960GB SATA 2.5″",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 124.82,
+      "precio_actual": 85.05,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 39.77,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/318FbI8-UGL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08YYQMNNX?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Anillo de peso Yes4All 10 lbs rosa",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 99.66,
+      "precio_actual": 62.86,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 36.8,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31FiBuoh+fL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0B1MK33K4?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Impresora instantánea Fujifilm instax Mini LINK2",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 133.51,
+      "precio_actual": 83.46,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 50.05,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31xhG8rXBUL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0B1QV5Q5T?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Monitor HP Series 3 Pro 21.45″ Full HD",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 123.32,
+      "precio_actual": 80.04,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 43.28,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31jI2ZsK7SL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FR3RWQY2?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
     {
       "titulo": "Chaleco CAP Barbell ajustable 20 kg",
       "condicion": "Estado: Como Nuevo",
