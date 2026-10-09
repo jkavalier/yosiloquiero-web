@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-09T11:01:28+02:00",
+  "actualizado": "2026-10-09T12:01:13+02:00",
   "ofertas": [
+    {
+      "titulo": "Cámara vigilancia interior Tenda CP7 V2.0 1080p",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 24.94,
+      "precio_actual": 11.44,
+      "descuento_porcentaje": 54,
+      "ahorro_euros": 13.5,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41ao1vkz9OL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09M26RLC8?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Enchufe inteligente LEDVANCE Zigbee 4 unidades",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 97.58,
+      "precio_actual": 35.67,
+      "descuento_porcentaje": 63,
+      "ahorro_euros": 61.91,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41OmgBoal3L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BFJZXJL7?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Smartphone Motorola Moto G13 4/128GB Azul Lavanda",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 309,
+      "precio_actual": 136.02,
+      "descuento_porcentaje": 56,
+      "ahorro_euros": 172.98,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41SaiKc0HKL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BVZT9LWP?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Batería externa Hama 10000mAh",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 17.99,
+      "precio_actual": 9.31,
+      "descuento_porcentaje": 48,
+      "ahorro_euros": 8.68,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21LWJDvl9JL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CYN61RVZ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Lámpara pared Eglo Olivandino brazo flexible blanco",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 39.9,
+      "precio_actual": 19.03,
+      "descuento_porcentaje": 52,
+      "ahorro_euros": 20.87,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31khot9gMLL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F62NJG62?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
     {
       "titulo": "Localizador Bluetooth Life360 Tile Slim",
       "condicion": "Estado: Como Nuevo",
