@@ -1,6 +1,54 @@
 {
-  "actualizado": "2026-10-09T20:02:12+02:00",
+  "actualizado": "2026-10-09T21:01:08+02:00",
   "ofertas": [
+    {
+      "titulo": "Soporte multipantalla StarTech 4 monitores 32″",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 327.55,
+      "precio_actual": 197.44,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 130.11,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/412XHZNtKwL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07YVYSLBL?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "21:01"
+    },
+    {
+      "titulo": "Smartwatch Huawei GT4 46 mm Acero Inoxidable",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 345,
+      "precio_actual": 115,
+      "descuento_porcentaje": 67,
+      "ahorro_euros": 230,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41HfdvjRQcL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CFPQVNVC?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "21:01"
+    },
+    {
+      "titulo": "Tablet Microsoft Surface Pro 13″ 256GB Platino",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 1511.09,
+      "precio_actual": 1039.32,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 471.77,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31sGQfiQtiL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DQTTXJGW?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "21:01"
+    },
+    {
+      "titulo": "Smartphone Samsung Galaxy A26 5G 256GB",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 369,
+      "precio_actual": 246.09,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 122.91,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31wGdEhG3cL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DWFY6M3Z?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "21:01"
+    },
     {
       "titulo": "Consola Nintendo Wii Blanca",
       "condicion": "Estado: Como Nuevo",
