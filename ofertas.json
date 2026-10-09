@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-09T15:01:29+02:00",
+  "actualizado": "2026-10-09T16:01:25+02:00",
   "ofertas": [
+    {
+      "titulo": "Giradiscos DENON DP-29",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 165,
+      "precio_actual": 87.1,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 77.9,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31YXc1PjjuL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0918YQ3BL?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Máquina karaoke Moukey MTs10-2 con subwoofer 10″",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 238.93,
+      "precio_actual": 125.09,
+      "descuento_porcentaje": 48,
+      "ahorro_euros": 113.84,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/511GuqizbWL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BTM1YQ2W?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Monitor portátil Verbatim 14″ Full HD táctil",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 155.49,
+      "precio_actual": 82.37,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 73.12,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41iHv1IMbqL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BVKY9CW7?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Máquina café monodosis PHILIPS Senseo Maestro 2 tazas",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 114.86,
+      "precio_actual": 59.22,
+      "descuento_porcentaje": 48,
+      "ahorro_euros": 55.64,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41YueKe9WkL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BZ8QK24N?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Maleta Wenger Skyon 45L expandible 4 ruedas",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 159,
+      "precio_actual": 75.21,
+      "descuento_porcentaje": 53,
+      "ahorro_euros": 83.79,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31IzkzaWUBL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D9QJWRHF?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
     {
       "titulo": "Camiseta Real Madrid Niños Talla 12",
       "condicion": "Estado: Como Nuevo",
