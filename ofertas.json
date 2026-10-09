@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-09T09:01:25+02:00",
+  "actualizado": "2026-10-09T10:01:14+02:00",
   "ofertas": [
+    {
+      "titulo": "Bolsa de viaje Eastpak 58L Black Denim",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 51.38,
+      "precio_actual": 34.33,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 17.05,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41qArthny5L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07X51FCK2?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Regleta Brennenstuhl 6 enchufes + USB",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 39.91,
+      "precio_actual": 27.04,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 12.87,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41tO4YpQ0yL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08X7799W3?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Tablet Lenovo Idea Tab Pro 12,7″ 3K 144Hz 8GB 128GB verde",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 459.99,
+      "precio_actual": 320.42,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 139.57,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41QgzjlD3aL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DSQ4N5TL?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Teclado Apple Magic para iPad Air 11″ M3 Inglés británico",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 320.49,
+      "precio_actual": 201.31,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 119.18,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41StKNtQ8uL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DZ74MS4K?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Router Deutsche Telekom Speed Home WLAN 6 Negro",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 108.16,
+      "precio_actual": 68.72,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 39.44,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31jcRG4l-gL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0G49SHKR2?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
     {
       "titulo": "Pilas alcalinas Amazon Basics AAA 36 uds",
       "condicion": "Estado: Muy bueno",
