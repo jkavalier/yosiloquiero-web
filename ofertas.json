@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-09T08:01:16+02:00",
+  "actualizado": "2026-10-09T09:01:25+02:00",
   "ofertas": [
+    {
+      "titulo": "Pilas alcalinas Amazon Basics AAA 36 uds",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 14.39,
+      "precio_actual": 9.43,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 4.96,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41VtUi6pMDL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B00LH3DMUO?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Adaptador SSD M.2 DIGITUS PCIe 3.0",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 14.24,
+      "precio_actual": 7.39,
+      "descuento_porcentaje": 48,
+      "ahorro_euros": 6.85,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41uvJ+HA0VL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08BPJ5T2V?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Cadenas nieve Erma Talla 520 Negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 32.37,
+      "precio_actual": 9.47,
+      "descuento_porcentaje": 71,
+      "ahorro_euros": 22.9,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41DY-djI1TL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09TSZVYVB?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Exprimidor eléctrico BEHOME JC700 700 ml",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 16.19,
+      "precio_actual": 10.38,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 5.81,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41qU5Nh-lfL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09XMRSBZC?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Pilas recargables eneloop Pro AA 2500 mAh",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 29.98,
+      "precio_actual": 13.99,
+      "descuento_porcentaje": 53,
+      "ahorro_euros": 15.99,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51twl3D9ZdL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09ZL8R2DN?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
     {
       "titulo": "Despertador infantil Pabobo Kid'Sleep Moon",
       "condicion": "Estado: Como Nuevo",
