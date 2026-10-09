@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-09T14:01:24+02:00",
+  "actualizado": "2026-10-09T15:01:29+02:00",
   "ofertas": [
+    {
+      "titulo": "Camiseta Real Madrid Niños Talla 12",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 44.99,
+      "precio_actual": 30.56,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 14.43,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31+jvGGOT5L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D54B54N3?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Freidora aire Russell Hobbs 5L negra",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 82.26,
+      "precio_actual": 45.13,
+      "descuento_porcentaje": 45,
+      "ahorro_euros": 37.13,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31qqMZtKPlL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D93YP9NM?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Regleta HoniHom 5 tomas francesas con USB-C",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 31.99,
+      "precio_actual": 21.4,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 10.59,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/318uJzUYo3L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DFWW41CS?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Cámara exterior OSRAM Smart+ WiFi 4MP solar",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 104.46,
+      "precio_actual": 48.02,
+      "descuento_porcentaje": 54,
+      "ahorro_euros": 56.44,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51eui5IYtLL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FGD6BCVH?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Unidad externa CD/DVD BENEWY rosa",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 37.72,
+      "precio_actual": 18.65,
+      "descuento_porcentaje": 51,
+      "ahorro_euros": 19.07,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31AdkvSLbOL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GT9SD6QT?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
     {
       "titulo": "Radio PMR Midland G9 Pro",
       "condicion": "Estado: Como Nuevo",
