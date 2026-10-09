@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-09T12:01:13+02:00",
+  "actualizado": "2026-10-09T13:01:23+02:00",
   "ofertas": [
+    {
+      "titulo": "Chaleco CAP Barbell ajustable 20 kg",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 56.64,
+      "precio_actual": 30.23,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 26.41,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41zxgW-mGPL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B017O7Q4UG?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Teclado inalámbrico Rapoo QWERTY portugués",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 48.3,
+      "precio_actual": 12.47,
+      "descuento_porcentaje": 74,
+      "ahorro_euros": 35.83,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41AzMtQG42L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C6Q8YTF8?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Temporizador visual dinosaurio Yunbaoit 60 min",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 23.56,
+      "precio_actual": 16.44,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 7.12,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41GalnOyP+L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CQXFYZK5?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Luz nocturna LED LEXIBOOK Sonic Hedgehog",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 17.98,
+      "precio_actual": 11.2,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 6.78,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41DgnT2jHWL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DHL5CZPM?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Ventilador techo Cecotec Aero 300 Air Invisible luz",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 139,
+      "precio_actual": 48.4,
+      "descuento_porcentaje": 65,
+      "ahorro_euros": 90.6,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21BIh0JJV0L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GJTNKQLB?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
     {
       "titulo": "Cámara vigilancia interior Tenda CP7 V2.0 1080p",
       "condicion": "Estado: Como Nuevo",
