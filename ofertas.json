@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-10T11:01:23+02:00",
+  "actualizado": "2026-10-10T12:01:20+02:00",
   "ofertas": [
+    {
+      "titulo": "Hub USB 2.0 industrial StarTech 4 puertos negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 81.26,
+      "precio_actual": 32.81,
+      "descuento_porcentaje": 60,
+      "ahorro_euros": 48.45,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41FLQMb0XIL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B001H7AFO6?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Auriculares inalámbricos Apple AirPods 3 blanco",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 246.25,
+      "precio_actual": 122.2,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 124.05,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31ppRifV99L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BDJ6QBTL?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Monitor portátil KOORUI 15.6″ FHD",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 129.99,
+      "precio_actual": 59.38,
+      "descuento_porcentaje": 54,
+      "ahorro_euros": 70.61,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41ssg8e-deL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DPHHZBD6?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Cámara instantánea Canal Toys Creator 2.0 100 fotos",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 68.38,
+      "precio_actual": 24.74,
+      "descuento_porcentaje": 64,
+      "ahorro_euros": 43.64,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51fGQbr2HGL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FDBM8SV8?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Portátil Dell Pro 16 512GB Plata",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 1897.77,
+      "precio_actual": 927.11,
+      "descuento_porcentaje": 51,
+      "ahorro_euros": 970.66,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41M3yHtkRWL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0G39PWKYB?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
     {
       "titulo": "Mochila Pepe Jeans 15.6″ Negro",
       "condicion": "Estado: Muy bueno",
