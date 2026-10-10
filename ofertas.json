@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-10T09:01:26+02:00",
+  "actualizado": "2026-10-10T10:01:17+02:00",
   "ofertas": [
+    {
+      "titulo": "Monitor Acer B247Ybmiprx 23.8″ IPS FHD",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 407.36,
+      "precio_actual": 205.48,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 201.88,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41yjMX2osnL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B079Y2TW82?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Aspiradora robot Xiaomi MI Robot Vacuum-MOP 2 Ultra",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 33.45,
+      "precio_actual": 21.39,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 12.06,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21KQPwOk-ML.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09TWN5VP5?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Cámara exterior Tapo C510W 360° 2K",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 60.6,
+      "precio_actual": 35.14,
+      "descuento_porcentaje": 42,
+      "ahorro_euros": 25.46,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/415lCoBYkaL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BZMLKXL4?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Tableta gráfica Apple Magic Trackpad Negro",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 149,
+      "precio_actual": 70.78,
+      "descuento_porcentaje": 52,
+      "ahorro_euros": 78.22,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21UhOjVdrVL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DL6W3MQX?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Freidora de aire Moulinex Easy Fry Max 5L",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 74.99,
+      "precio_actual": 51.67,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 23.32,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/312vDk-SirL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FDKTQ17D?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
     {
       "titulo": "Inyector PoE TP-Link POE150S 1000Mbps",
       "condicion": "Estado: Muy bueno",
