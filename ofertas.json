@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-10T14:01:25+02:00",
+  "actualizado": "2026-10-10T15:01:24+02:00",
   "ofertas": [
+    {
+      "titulo": "Tostadora Braun 2 ranuras 8 niveles tostado negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 47.9,
+      "precio_actual": 21.36,
+      "descuento_porcentaje": 55,
+      "ahorro_euros": 26.54,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41+qXyypUzL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BCKRXMYS?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Calculadora Texas Instruments 106II solar azul",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 15.99,
+      "precio_actual": 9.74,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 6.25,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/415HE3aJmnL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CG9CXWNJ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Auriculares DJ OneOdio Pro 10 con cable Hi-Res",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 34.99,
+      "precio_actual": 22.68,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 12.31,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41x6Z7sBdWL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CJR98QNP?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Pulsera actividad HUAWEI Band 9 AMOLED 1.47″ Rosa",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 48.97,
+      "precio_actual": 16.9,
+      "descuento_porcentaje": 65,
+      "ahorro_euros": 32.07,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41nyal96+sL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CYCCTP5Y?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Luz LED portátil AiQInu 128LED 2000mAh",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 19.99,
+      "precio_actual": 6.39,
+      "descuento_porcentaje": 68,
+      "ahorro_euros": 13.6,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41MFnkzr15L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FQJLZKGT?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
     {
       "titulo": "Hervidor Russell Hobbs 1,7L 2400W",
       "condicion": "Estado: Como Nuevo",
