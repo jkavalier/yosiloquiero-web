@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-10T08:01:23+02:00",
+  "actualizado": "2026-10-10T09:01:26+02:00",
   "ofertas": [
+    {
+      "titulo": "Inyector PoE TP-Link POE150S 1000Mbps",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 21.94,
+      "precio_actual": 15.32,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 6.62,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31JqsoFDUHL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B001PS9E5I?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Pilas alcalinas Amazon Basics 36 unidades AA 1.5V",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 17.31,
+      "precio_actual": 10.95,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 6.36,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41jn2OZHUBL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B094D541XW?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Reloj despertador digital Harry Potter negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 27.95,
+      "precio_actual": 16.47,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 11.48,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41paSAwmkQL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C5PGF6CF?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Enchufe inteligente LEDVANCE SMART+ WiFi 2300W",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 24.71,
+      "precio_actual": 15.25,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 9.46,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41k7QwjJVRL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D9M98VLF?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "LEGO Messi Fenómenos Fútbol 43011",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 29.99,
+      "precio_actual": 18.21,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 11.78,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/410HoX9EzPL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FPXFBL13?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
     {
       "titulo": "Soporte portátil Fellowes I-Spire Blanco 7 ángulos",
       "condicion": "Estado: Muy bueno",
