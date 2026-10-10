@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-10T13:01:25+02:00",
+  "actualizado": "2026-10-10T14:01:25+02:00",
   "ofertas": [
+    {
+      "titulo": "Hervidor Russell Hobbs 1,7L 2400W",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 46.5,
+      "precio_actual": 25.48,
+      "descuento_porcentaje": 45,
+      "ahorro_euros": 21.02,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41eploB6YFL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07HJPZ1DJ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Controlador MIDI Novation Launchkey Mini MK3 25 teclas",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 99.99,
+      "precio_actual": 59.83,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 40.16,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41oqOhmOiOL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07WJZCPT3?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Pilas alcalinas Varta AAA 100 uds",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 39.99,
+      "precio_actual": 25.14,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 14.85,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51NR0I+oQJL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B084ZKCFFV?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Monitor Samsung S36GD 24″ FHD 100Hz",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 177.57,
+      "precio_actual": 91.92,
+      "descuento_porcentaje": 48,
+      "ahorro_euros": 85.65,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41IWYwcMLYL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DCCBXQXJ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Regleta KEMELO 11 enchufes vertical 2M",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 29.99,
+      "precio_actual": 19.22,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 10.77,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31Ap5QLLpaL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FWQZKQ78?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
     {
       "titulo": "Altavoz Trust Gemi 2.0 LED RGB 12W",
       "condicion": "Estado: Como Nuevo",
