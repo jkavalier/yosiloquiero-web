@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-10T10:01:17+02:00",
+  "actualizado": "2026-10-10T11:01:23+02:00",
   "ofertas": [
+    {
+      "titulo": "Mochila Pepe Jeans 15.6″ Negro",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 42.75,
+      "precio_actual": 25.65,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 17.1,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31DlZnPMNHL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08C2SM8FJ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "SSD Intenso 250GB SATA III",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 52.05,
+      "precio_actual": 29.8,
+      "descuento_porcentaje": 43,
+      "ahorro_euros": 22.25,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41y9EC259ML.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09ZDRV1SC?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Figura coleccionable Funko Freddy Shazam 2",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 9.99,
+      "precio_actual": 4.23,
+      "descuento_porcentaje": 58,
+      "ahorro_euros": 5.76,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41fb7xGQetL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0B12PXB8B?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Adaptador Bluetooth Sennheiser BTD 600 USB-A/USB-C",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 69.39,
+      "precio_actual": 32.76,
+      "descuento_porcentaje": 53,
+      "ahorro_euros": 36.63,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21nTmCZUJCL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BFBZ71PL?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Reloj ONE",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 119,
+      "precio_actual": 52.29,
+      "descuento_porcentaje": 56,
+      "ahorro_euros": 66.71,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31E+TcbvqnL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F98XBQM4?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
     {
       "titulo": "Monitor Acer B247Ybmiprx 23.8″ IPS FHD",
       "condicion": "Estado: Como Nuevo",
