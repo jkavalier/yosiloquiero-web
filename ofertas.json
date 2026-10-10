@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-10T12:01:20+02:00",
+  "actualizado": "2026-10-10T13:01:25+02:00",
   "ofertas": [
+    {
+      "titulo": "Altavoz Trust Gemi 2.0 LED RGB 12W",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 18.99,
+      "precio_actual": 10.72,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 8.27,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41xohZHdnHL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07JW42BPG?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Unidad externa DVD/CD Amicool USB 3.0",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 33.93,
+      "precio_actual": 23.27,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 10.66,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31Bedn0PvBL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07QG9JN79?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Bombilla LED inteligente Philips Hue Blanco Cálido E27",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 41.65,
+      "precio_actual": 27.83,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 13.82,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41Tj+CER7xL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0B599LWM9?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Filtros agua Aquafloow 6 uds compatibles Brita",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 19.96,
+      "precio_actual": 13.85,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 6.11,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41dEw36HbtL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CB485DN9?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Almohadilla refrigeración AIMIUZI 5 ventiladores 12-15.6″",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 33,
+      "precio_actual": 22.5,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 10.5,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51uaAp0-YIL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CL7FZ5NV?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
     {
       "titulo": "Hub USB 2.0 industrial StarTech 4 puertos negro",
       "condicion": "Estado: Como Nuevo",
