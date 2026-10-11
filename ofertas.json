@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-11T12:01:12+02:00",
+  "actualizado": "2026-10-11T13:01:19+02:00",
   "ofertas": [
+    {
+      "titulo": "Impresora instax Link Azul",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 118.29,
+      "precio_actual": 71.94,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 46.35,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41A-dVcpmcL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07XQQDK6K?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Auriculares USB Sandberg 126-16 Negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 32.99,
+      "precio_actual": 9.53,
+      "descuento_porcentaje": 71,
+      "ahorro_euros": 23.46,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31oSPFljb9L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B089S2MZR4?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Monitor MSI MP2412DE 23.8″ FHD 100Hz",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 99.7,
+      "precio_actual": 62.1,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 37.6,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31x1DZ65GuL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CLB7RXGQ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Ratón Apple Magic Mouse Negro Multi-Touch",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 117.95,
+      "precio_actual": 76.2,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 41.75,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21T-vFtbMTL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DL74RTZN?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Adaptador Bluetooth Sennheiser BTD 700 aptX Lossless",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 73.38,
+      "precio_actual": 47.95,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 25.43,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31-7Q4KxbhL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FBCV9M7C?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
     {
       "titulo": "Smartwatch HUAWEI Watch FIT 3 Negro",
       "condicion": "Estado: Como Nuevo",
