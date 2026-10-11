@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-11T15:05:48+02:00",
+  "actualizado": "2026-10-11T16:01:19+02:00",
   "ofertas": [
+    {
+      "titulo": "Micrófono condensador AKG C7 azul grisáceo",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 283,
+      "precio_actual": 158.24,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 124.76,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41RMYy2wYQL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B01MU7JCMC?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Soporte ergonómico Vivo STAND-V101O negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 69.8,
+      "precio_actual": 27.81,
+      "descuento_porcentaje": 60,
+      "ahorro_euros": 41.99,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31inkKzXEOL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07TWYHCZH?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Freidora aire Tefal EY5058 XL",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 118.59,
+      "precio_actual": 64.31,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 54.28,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31GXCgEA0YL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09DL7KV24?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Monitor Lenovo D24-40 23.8″ FHD 75Hz",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 196.43,
+      "precio_actual": 105.45,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 90.98,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41qEnEMF9NL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CCWBWYHG?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Auriculares Jabra Evolve2 40 SE con cancelación de ruido",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 113.05,
+      "precio_actual": 67.05,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 46,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/319n5CRIAdL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F4L1DJC3?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
     {
       "titulo": "Barra sonido Redragon GS550 Orpheus USB",
       "condicion": "Estado: Muy Bueno",
