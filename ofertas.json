@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-11T11:01:23+02:00",
+  "actualizado": "2026-10-11T12:01:12+02:00",
   "ofertas": [
+    {
+      "titulo": "Smartwatch HUAWEI Watch FIT 3 Negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 159,
+      "precio_actual": 79.68,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 79.32,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41AaHwS-VUL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B081XBDK35?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Ventilador Ryobi 18V ONE+ 3 velocidades verde",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 97.82,
+      "precio_actual": 48.5,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 49.32,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41EgobQidnL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0B9XN755Z?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Kit casco Cardo Packtalk Edge/Neo JBL negro",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 68.43,
+      "precio_actual": 30.75,
+      "descuento_porcentaje": 55,
+      "ahorro_euros": 37.68,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31cG3TPg-qL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CK8LYPYX?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Cafetera Lavazza A Modo Mio Jolie Evo 36% reciclado",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 144.5,
+      "precio_actual": 78.2,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 66.3,
+      "valoracion": 4.5,
+      "imagen_url": "",
+      "url_producto": "https://www.amazon.es/dp/B0CXPVLJPB?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Ventilador techo Kviflon 132 cm luz LED regulable",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 275.47,
+      "precio_actual": 121.41,
+      "descuento_porcentaje": 56,
+      "ahorro_euros": 154.06,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31M2d0Aj6xL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F8BFZ6HJ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
     {
       "titulo": "Despertador analógico TFA Picco Blanco",
       "condicion": "Estado: Como Nuevo",
