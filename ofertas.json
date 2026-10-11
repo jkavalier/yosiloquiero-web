@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-11T09:01:20+02:00",
+  "actualizado": "2026-10-11T10:01:25+02:00",
   "ofertas": [
+    {
+      "titulo": "Inyector PoE+ Gigabit TRENDnet TI-IG30 30W",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 64.61,
+      "precio_actual": 42.5,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 22.11,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41rli1gI71L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B01860MTNG?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Smartphone Xiaomi Redmi Note 12 Pro+ 5G 256GB Blanco",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 457.53,
+      "precio_actual": 215.61,
+      "descuento_porcentaje": 53,
+      "ahorro_euros": 241.92,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/416W6HkTO8L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BWRNCLG8?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Smartwatch HUAWEI GT4 41mm Acero Inoxidable Blanco",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 228.96,
+      "precio_actual": 101.29,
+      "descuento_porcentaje": 56,
+      "ahorro_euros": 127.67,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41Q9jfCfFIL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CFPK9TJJ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Monitor Samsung ViewFinity S32D604U 32″ 2K",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 382.88,
+      "precio_actual": 244.62,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 138.26,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41cYaLwlCRL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DTR15V87?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Regleta KEMELO 12 enchufes + 4 USB (2m, negro)",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 59,
+      "precio_actual": 27,
+      "descuento_porcentaje": 54,
+      "ahorro_euros": 32,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31v5b+opOZL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FNCPT3B5?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
     {
       "titulo": "Protector Fender Strat 11 agujeros blanco",
       "condicion": "Estado: Muy bueno",
