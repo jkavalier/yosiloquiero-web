@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-11T10:01:25+02:00",
+  "actualizado": "2026-10-11T11:01:23+02:00",
   "ofertas": [
+    {
+      "titulo": "Despertador analógico TFA Picco Blanco",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 24.03,
+      "precio_actual": 12.54,
+      "descuento_porcentaje": 48,
+      "ahorro_euros": 11.49,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41p1VOwneeL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B011CVPYVA?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Teclado y ratón Trust Taro QWERTY español",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 16.99,
+      "precio_actual": 9.69,
+      "descuento_porcentaje": 43,
+      "ahorro_euros": 7.3,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41edusSAIEL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08DG6YDXW?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Batidora de mano MEGAWISE 5 en 1 400W Negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 44.68,
+      "precio_actual": 26.11,
+      "descuento_porcentaje": 42,
+      "ahorro_euros": 18.57,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41psF7Xc3DL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B091F41D3C?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Lámpara de pie Briloner LED 12W negro",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 39.95,
+      "precio_actual": 21.24,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 18.71,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31RH2uEyMoL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F9X6MSGB?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Base carga inalámbrica Mukiya 3 en 1",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 34.98,
+      "precio_actual": 22.96,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 12.02,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41WzbaF8pAL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FG6ZC2WQ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
     {
       "titulo": "Inyector PoE+ Gigabit TRENDnet TI-IG30 30W",
       "condicion": "Estado: Como Nuevo",
