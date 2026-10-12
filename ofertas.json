@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-12T13:01:33+02:00",
+  "actualizado": "2026-10-12T14:01:28+02:00",
   "ofertas": [
+    {
+      "titulo": "Maletín rígido TOMcase 14-18″ impermeable",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 129,
+      "precio_actual": 87.76,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 41.24,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/415ITx2jPZL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07F3WCKK1?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Aspiradora robot Xiaomi MI Robot Vacuum-MOP 2 Ultra",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 33.45,
+      "precio_actual": 21.39,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 12.06,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21KQPwOk-ML.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09TWN5VP5?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Freidora de aire Princess SlimFry 8L 2000W",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 93.74,
+      "precio_actual": 59.53,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 34.21,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31Ecr16s5CL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F6VQBY29?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Pilas alcalinas Duracell Plus AAA 30 unidades",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 27.99,
+      "precio_actual": 19.11,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 8.88,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51W+GVzgQML.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FG7S82VH?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Smartphone Motorola Edge 70 512GB 5G verde oliva",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 783.99,
+      "precio_actual": 387.79,
+      "descuento_porcentaje": 51,
+      "ahorro_euros": 396.2,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/415aiZm43-L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0G83LCG8T?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
     {
       "titulo": "Unidad externa DVD/CD Amicool USB 3.0",
       "condicion": "Estado: Muy Bueno",
