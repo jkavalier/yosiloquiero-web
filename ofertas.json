@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-12T15:01:33+02:00",
+  "actualizado": "2026-10-12T16:01:31+02:00",
   "ofertas": [
+    {
+      "titulo": "Teclado Nilox NXKBIT000013 negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 33.54,
+      "precio_actual": 8.26,
+      "descuento_porcentaje": 75,
+      "ahorro_euros": 25.28,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31Q-+4j-TWL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CZTV5XYN?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Auriculares Razer Kraken Kitty V2 Blanco",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 111.04,
+      "precio_actual": 32.09,
+      "descuento_porcentaje": 71,
+      "ahorro_euros": 78.95,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31h3FTOadGL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DVZ8HHPH?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Tarjeta gráfica ASUS RTX 5070 Ti 16GB GDDR7",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 3161.95,
+      "precio_actual": 1086.35,
+      "descuento_porcentaje": 66,
+      "ahorro_euros": 2075.6,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41BE4jXFfwL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DX6FT5MM?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Aspirador Tineco Floor One S6 Stretch 13 cm",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 501.68,
+      "precio_actual": 205.87,
+      "descuento_porcentaje": 59,
+      "ahorro_euros": 295.81,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/310lWnUowfL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F8ZVPSSH?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Tablet Lenovo Idea Tab Plus 12.1″ 256GB",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 600,
+      "precio_actual": 270.44,
+      "descuento_porcentaje": 55,
+      "ahorro_euros": 329.56,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41WRm6OV7LL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FW1YL754?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
     {
       "titulo": "Regleta Brennenstuhl Ecolor 4 enchufes + 2 USB negro",
       "condicion": "Estado: Muy Bueno",
