@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-12T10:01:19+02:00",
+  "actualizado": "2026-10-12T11:01:15+02:00",
   "ofertas": [
+    {
+      "titulo": "Lámpara luz diurna Beurer TL 30 10000 lux",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 55.95,
+      "precio_actual": 35.25,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 20.7,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51vOlzO+D6L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B00MOIWOAK?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Rodillo abdominal H&S con almohadilla rodillas",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 23.37,
+      "precio_actual": 12.42,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 10.95,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31Lyu0yu4mL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B01648O8CM?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Exprimidor eléctrico Cecotec Zitra Steel 1L",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 26.9,
+      "precio_actual": 16.38,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 10.52,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/4158-qe0lrL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CFLXGCG4?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Medidor láser Bosch EasyDistance 20 m",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 53.32,
+      "precio_actual": 34.15,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 19.17,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21n4lRl6hsL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CS6R4611?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Altavoz Bluetooth Energy Sistem 40W TWS 12h IPX6",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 48.9,
+      "precio_actual": 34.1,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 14.8,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41ApuNOjRxL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DCFGBX72?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
     {
       "titulo": "Smartphone Samsung Galaxy X Cover Pro 64GB",
       "condicion": "Estado: Como Nuevo",
