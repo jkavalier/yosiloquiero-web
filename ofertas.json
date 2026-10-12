@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-12T12:01:22+02:00",
+  "actualizado": "2026-10-12T13:01:33+02:00",
   "ofertas": [
+    {
+      "titulo": "Unidad externa DVD/CD Amicool USB 3.0",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 33.93,
+      "precio_actual": 22.48,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 11.45,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31Bedn0PvBL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07QG9JN79?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Batidora de vaso Girmi FR03 170W",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 25.27,
+      "precio_actual": 17.21,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 8.06,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/311NDolX3FL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08FSK3RMF?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Jarra filtrante BRITA Style azul 2.4L",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 47.08,
+      "precio_actual": 25.25,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 21.83,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41+d+dfrh8L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BSXBT416?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Etiqueta inteligente Samsung",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 24.6,
+      "precio_actual": 17.01,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 7.59,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31xahpAe8dL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CG7JHFKY?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Pulsera inteligente HUAWEI Band 10 rosa",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 48.74,
+      "precio_actual": 29.01,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 19.73,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31DSNlKSMPL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DX32QLSY?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
     {
       "titulo": "Tableta dibujo Wacom One Black",
       "condicion": "Estado: Como Nuevo",
