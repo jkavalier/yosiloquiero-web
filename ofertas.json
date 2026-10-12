@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-12T11:01:15+02:00",
+  "actualizado": "2026-10-12T12:01:22+02:00",
   "ofertas": [
+    {
+      "titulo": "Tableta dibujo Wacom One Black",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 92.58,
+      "precio_actual": 44.04,
+      "descuento_porcentaje": 52,
+      "ahorro_euros": 48.54,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41-DXJ3I6jL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07N525974?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Smartphone OnePlus 8T 5G 128GB Plata Lunar",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 905,
+      "precio_actual": 389.99,
+      "descuento_porcentaje": 57,
+      "ahorro_euros": 515.01,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31JESQ4klDL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08HJGQ9ZS?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Monitor Lenovo L32p-30 31.5″ 4K UHD IPS",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 672.31,
+      "precio_actual": 345.39,
+      "descuento_porcentaje": 49,
+      "ahorro_euros": 326.92,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41s2rGodqHL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09D3Z7CGW?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Smartwatch Samsung Galaxy Watch 5 40mm Gris",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 199.89,
+      "precio_actual": 87.85,
+      "descuento_porcentaje": 56,
+      "ahorro_euros": 112.04,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/316Q+fpSzgL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BCP91JMV?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Tarjeta microSD Amazon Basics 512GB UHS-I",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 148.43,
+      "precio_actual": 77.25,
+      "descuento_porcentaje": 48,
+      "ahorro_euros": 71.18,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31fLAg1byVL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DB4Z1LKX?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
     {
       "titulo": "Lámpara luz diurna Beurer TL 30 10000 lux",
       "condicion": "Estado: Como Nuevo",
