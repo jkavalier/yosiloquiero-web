@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-12T09:01:32+02:00",
+  "actualizado": "2026-10-12T10:01:19+02:00",
   "ofertas": [
+    {
+      "titulo": "Smartphone Samsung Galaxy X Cover Pro 64GB",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 399,
+      "precio_actual": 254.99,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 144.01,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51+L7xNqEsL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B084BZQGGR?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Tarjeta gráfica Gigabyte RTX 4060 8GB GDDR6",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 689.98,
+      "precio_actual": 464.34,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 225.64,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/516s5LgtKpL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C8ZS7N73?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Tablet Blackview Active 8 Pro 10.3″ 8GB/256GB",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 285,
+      "precio_actual": 197.56,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 87.44,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41PjFVy7zrL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CMTVKTPM?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Adaptador Powerline Strong AV600 600 Mbit/s",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 44.99,
+      "precio_actual": 30.66,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 14.33,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31Kso+3haYL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FQB5XHR5?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Cámara de acción 360° AKASO con 256GB",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 379.99,
+      "precio_actual": 246.72,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 133.27,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51ndTjTLcgL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FSQFJG8G?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
     {
       "titulo": "Báscula digital Soehnle Roma 5 kg plata",
       "condicion": "Estado: Muy Bueno",
