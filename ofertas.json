@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-12T14:01:28+02:00",
+  "actualizado": "2026-10-12T15:01:33+02:00",
   "ofertas": [
+    {
+      "titulo": "Regleta Brennenstuhl Ecolor 4 enchufes + 2 USB negro",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 18.25,
+      "precio_actual": 10.26,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 7.99,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31p0ShxMj8L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07K75LPJ5?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Cargador inalámbrico Hama 10W USB-C",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 22.59,
+      "precio_actual": 14.07,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 8.52,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31E8oF1kdjL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BL1VSNK4?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Lámpara Disney Stitch 11 cm",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 13.64,
+      "precio_actual": 6.8,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 6.84,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31A0rPaER6L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BPMGHG3X?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Calculadora científica Casio FX-991DE CW alemán",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 48.98,
+      "precio_actual": 24.13,
+      "descuento_porcentaje": 51,
+      "ahorro_euros": 24.85,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41KII6E27uL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BWDNXP1K?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Reloj cronómetro Stoptec RW-110 fútbol negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 36.23,
+      "precio_actual": 25.3,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 10.93,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41vYAY-FrTL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D6GR1P7B?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
     {
       "titulo": "Maletín rígido TOMcase 14-18″ impermeable",
       "condicion": "Estado: Muy Bueno",
