@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-13T08:01:33+02:00",
+  "actualizado": "2026-10-13T09:01:22+02:00",
   "ofertas": [
+    {
+      "titulo": "Enchufe inteligente WiZ Tipo F 230V",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 12,
+      "precio_actual": 6.13,
+      "descuento_porcentaje": 49,
+      "ahorro_euros": 5.87,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41hAmtbYafL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08HLQ8PK1?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Plancha de vapor Rowenta Pure Pop 1300W Amarillo",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 43.35,
+      "precio_actual": 28.42,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 14.93,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31RDhBSqBCL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BY94HNKF?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Cargador USB-C 30W GaN",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 19.43,
+      "precio_actual": 12.13,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 7.3,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21VxvIiJ7hL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CYNDGSVM?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Gafas polarizadas OPULIZERA UV400",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 18,
+      "precio_actual": 12.57,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 5.43,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/416p1m7uvaL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F3NZHGSP?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "LEGO Harry Potter Duendecillo de Cornualles 76461",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 29.99,
+      "precio_actual": 18.61,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 11.38,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/518VGfWp1zL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FPXGPT4J?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
     {
       "titulo": "Dispensador cerveza Krups 5L Negro",
       "condicion": "Estado: Como Nuevo",
