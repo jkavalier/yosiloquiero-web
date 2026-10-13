@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-13T09:01:36+02:00",
+  "actualizado": "2026-10-13T10:01:33+02:00",
   "ofertas": [
+    {
+      "titulo": "Tarjeta gráfica ASUS GeForce RTX 3050 6GB",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 336.95,
+      "precio_actual": 213.62,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 123.33,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/412Tq9fWJrL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09T9H1YNV?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Smartphone OPPO Find X5 Pro 256GB",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 1279,
+      "precio_actual": 549.99,
+      "descuento_porcentaje": 57,
+      "ahorro_euros": 729.01,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41rByHeEP1L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09TBG1S1Y?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Smartwatch Xiaomi Redmi Watch 3 1,75″ Negro",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 214.71,
+      "precio_actual": 45.42,
+      "descuento_porcentaje": 79,
+      "ahorro_euros": 169.29,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41uy04uMOaL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BXPZRNJS?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Tablet Microsoft Surface Pro 11 512GB Negro",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 2358.65,
+      "precio_actual": 1169.93,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 1188.72,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31o1Yoq2dTL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DQTVQNYD?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Portátil Lenovo IdeaPad Slim 3 Chrome 14″ 64GB SSD AZERTY",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 330,
+      "precio_actual": 159.75,
+      "descuento_porcentaje": 52,
+      "ahorro_euros": 170.25,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41gZ427YToL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FHB5Z82W?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
     {
       "titulo": "Teléfono Samsung Galaxy XCover 4S 32GB Negro",
       "condicion": "Estado: Como Nuevo",
