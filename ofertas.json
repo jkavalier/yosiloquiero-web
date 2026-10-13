@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-13T10:01:48+02:00",
+  "actualizado": "2026-10-13T11:01:22+02:00",
   "ofertas": [
+    {
+      "titulo": "Patinete eléctrico Segway-Ninebot F2 Pro E",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 840.12,
+      "precio_actual": 400.82,
+      "descuento_porcentaje": 52,
+      "ahorro_euros": 439.3,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21H8gERHywL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0B3RZ8ZMR?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Portátil Lenovo P16 i7-12800HX 512GB SSD 16″",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 2227.66,
+      "precio_actual": 1557.43,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 670.23,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31vG+ng7zhL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C25VX6NP?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Smartphone Apple iPhone 16 128GB Negro",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 1162.17,
+      "precio_actual": 771.59,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 390.58,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31tRyMC1N7L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DGHY5KG8?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Cámara Sony ZV-1A 20.1MP 4K",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 799,
+      "precio_actual": 506.36,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 292.64,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31vJud41LjL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DPN7CGR6?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Reloj Inteligente Apple Watch Series 11 46mm 4G",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 615.31,
+      "precio_actual": 419.3,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 196.01,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41I0Ijv11dL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FQG9L67Q?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
     {
       "titulo": "Cargador USB-C rápido LUOATIP 20W",
       "condicion": "Estado: Como Nuevo",
