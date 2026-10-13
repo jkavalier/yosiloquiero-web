@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-13T12:01:16+02:00",
+  "actualizado": "2026-10-13T12:01:31+02:00",
   "ofertas": [
+    {
+      "titulo": "Smartphone Samsung Galaxy S10+ 128GB Negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 349.1,
+      "precio_actual": 207.9,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 141.2,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31gm1kDNo4L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07NDD7W23?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
     {
       "titulo": "Ventilador techo Westinghouse Portland 90 cm cromo",
       "condicion": "Estado: Como Nuevo",
