@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-13T09:01:22+02:00",
+  "actualizado": "2026-10-13T09:01:36+02:00",
   "ofertas": [
+    {
+      "titulo": "Teléfono Samsung Galaxy XCover 4S 32GB Negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 249,
+      "precio_actual": 164.99,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 84.01,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/5186WTRaytL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07TP75452?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
     {
       "titulo": "Enchufe inteligente WiZ Tipo F 230V",
       "condicion": "Estado: Como Nuevo",
