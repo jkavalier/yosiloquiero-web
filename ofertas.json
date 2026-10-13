@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-13T10:01:33+02:00",
+  "actualizado": "2026-10-13T10:01:48+02:00",
   "ofertas": [
+    {
+      "titulo": "Cargador USB-C rápido LUOATIP 20W",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 49.45,
+      "precio_actual": 14.55,
+      "descuento_porcentaje": 71,
+      "ahorro_euros": 34.9,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/213zff7AvnL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B085Y2MNPT?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
     {
       "titulo": "Tarjeta gráfica ASUS GeForce RTX 3050 6GB",
       "condicion": "Estado: Como Nuevo",
