@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-14T11:01:25+02:00",
+  "actualizado": "2026-10-14T12:39:24+02:00",
   "ofertas": [
+    {
+      "titulo": "Enchufe inteligente NOUS A1T Tasmota",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 36.82,
+      "precio_actual": 14.55,
+      "descuento_porcentaje": 60,
+      "ahorro_euros": 22.27,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31eaRuDs6RL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0054PSIPA?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:39"
+    },
+    {
+      "titulo": "Adaptador Powerline TP-Link Nano AV600",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 70.93,
+      "precio_actual": 27.49,
+      "descuento_porcentaje": 61,
+      "ahorro_euros": 43.44,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31Ccrwe3HdL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B01BECPIMC?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:39"
+    },
+    {
+      "titulo": "Lámpara LEDVANCE SMART+ WIFI 8W 540lm",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 99.95,
+      "precio_actual": 29.04,
+      "descuento_porcentaje": 71,
+      "ahorro_euros": 70.91,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31sb7z9faJL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BGJTCFF7?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:39"
+    },
+    {
+      "titulo": "Memoria USB Intenso 64GB (5 unidades)",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 48.7,
+      "precio_actual": 24.9,
+      "descuento_porcentaje": 49,
+      "ahorro_euros": 23.8,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41WnM38sNtL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DBHTP6TF?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:39"
+    },
+    {
+      "titulo": "Auriculares inalámbricos Fachixy FC-300 Azul Sombra",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 101.68,
+      "precio_actual": 14.76,
+      "descuento_porcentaje": 85,
+      "ahorro_euros": 86.92,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41EjFsJCBXL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FY55ZL1G?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:39"
+    },
     {
       "titulo": "Teclado Cherry G83-6105 Lunde-2 DT USB",
       "condicion": "Estado: Como Nuevo",
