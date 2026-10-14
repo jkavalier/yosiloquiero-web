@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-10-14T18:02:22+02:00",
+  "actualizado": "2026-10-14T19:01:54+02:00",
   "ofertas": [
+    {
+      "titulo": "SSD Samsung 870 EVO 250GB 2.5″",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 129.54,
+      "precio_actual": 78.71,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 50.83,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21L8-0XGPvL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08PC3PGZM?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "19:01"
+    },
+    {
+      "titulo": "Pilas alcalinas AA ItsPREMIUM 10 uds",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 12.42,
+      "precio_actual": 7.99,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 4.43,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41NieJeeVoL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CP4CZR6M?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "19:01"
+    },
+    {
+      "titulo": "Mochila portátil 17″ Amazon Basics Negro",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 37.5,
+      "precio_actual": 26.31,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 11.19,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31LXg7X9mJL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CZ1S8T3X?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "19:01"
+    },
+    {
+      "titulo": "Impresora Canon SELPHY QX20",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 129,
+      "precio_actual": 86.94,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 42.06,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/316N6ntGtpL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DG8LLL9N?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "19:01"
+    },
+    {
+      "titulo": "Espejo baño LED Baklon 80x60 cm antivaho",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 139.99,
+      "precio_actual": 96.37,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 43.62,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51eIXs4mhiL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DJVJCMJK?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "19:01"
+    },
+    {
+      "titulo": "Monitor BenQ GW2491E 24″ IPS 1080p 100Hz",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 99,
+      "precio_actual": 67.95,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 31.05,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41wDMJx3UDL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DVZ1R2W6?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "19:01"
+    },
+    {
+      "titulo": "Batidora Xiaomi Pro",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 75.61,
+      "precio_actual": 47.94,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 27.67,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21khC0AhqqL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F555ZK27?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "19:01"
+    },
+    {
+      "titulo": "Impresora multifunción Canon TR4755i Wi-Fi",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 85,
+      "precio_actual": 55.86,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 29.14,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41S6SuXIKiL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FJSLRQMK?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "19:01"
+    },
     {
       "titulo": "Sistema Bluetooth motocicleta Sena SMH10R",
       "condicion": "Estado: Muy Bueno",
