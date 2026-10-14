@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-14T10:37:27+02:00",
+  "actualizado": "2026-10-14T11:01:25+02:00",
   "ofertas": [
+    {
+      "titulo": "Teclado Cherry G83-6105 Lunde-2 DT USB",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 43.42,
+      "precio_actual": 11.79,
+      "descuento_porcentaje": 73,
+      "ahorro_euros": 31.63,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41IV8LCLgQL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B00016264Q?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Teclado multimedia Dell AZERTY",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 52.89,
+      "precio_actual": 7.66,
+      "descuento_porcentaje": 86,
+      "ahorro_euros": 45.23,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21O4YW98s2L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B01DPJ78NY?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Aceitera y vinagrera Relaxdays 2 en 1 375 ml",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 24.99,
+      "precio_actual": 7.34,
+      "descuento_porcentaje": 71,
+      "ahorro_euros": 17.65,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41Kl9f3STBL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B086DLLRW7?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Soporte portátil Leitz 13-17″ ergonómico",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 29.28,
+      "precio_actual": 12.81,
+      "descuento_porcentaje": 56,
+      "ahorro_euros": 16.47,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41swj5rJs8L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0964276DS?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Bandas elásticas EVOLAND 3 niveles",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 14.76,
+      "precio_actual": 10.22,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 4.54,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51xJOIyroZL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0B6FPXXC8?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
     {
       "titulo": "Pelota Togu 26 cm",
       "condicion": "Estado: Muy Bueno",
