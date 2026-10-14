@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-13T23:02:15+02:00",
+  "actualizado": "2026-10-14T10:37:27+02:00",
   "ofertas": [
+    {
+      "titulo": "Pelota Togu 26 cm",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 30.95,
+      "precio_actual": 8.85,
+      "descuento_porcentaje": 71,
+      "ahorro_euros": 22.1,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41CVEwZOFcL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B000FCQMCS?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:37"
+    },
+    {
+      "titulo": "Regleta Brennenstuhl 5 enchufes + 2 USB, interruptor",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 23.2,
+      "precio_actual": 14.63,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 8.57,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31qiTekf5xL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07K77MPZZ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:37"
+    },
+    {
+      "titulo": "Cámara de seguridad TP-Link Tapo C210 3MP Wi-Fi",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 39.54,
+      "precio_actual": 23.97,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 15.57,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/410DTuFKs-L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08ZNTM1X1?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:37"
+    },
+    {
+      "titulo": "Smartwatch Blackview 1.85″ Negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 29.99,
+      "precio_actual": 19.59,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 10.4,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/419MyCpCs-L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CJR1Y8GM?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:37"
+    },
+    {
+      "titulo": "Placa Raspberry Pi 5 4GB",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 149.99,
+      "precio_actual": 91.55,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 58.44,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41WpP-0tXnL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CK3L9WD3?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:37"
+    },
     {
       "titulo": "Monocular Bresser 10x25 verde",
       "condicion": "Estado: Como Nuevo",
