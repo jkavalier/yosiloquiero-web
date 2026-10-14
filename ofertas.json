@@ -1,6 +1,78 @@
 {
-  "actualizado": "2026-10-14T19:01:54+02:00",
+  "actualizado": "2026-10-14T20:01:36+02:00",
   "ofertas": [
+    {
+      "titulo": "Monedero Levi's Vintage Two Horse en cuero",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 45.39,
+      "precio_actual": 22.97,
+      "descuento_porcentaje": 49,
+      "ahorro_euros": 22.42,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/516p8im667L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B00JGMK8I2?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Termostato Homematic IP HmIP-BWTH Blanco",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 114.14,
+      "precio_actual": 29.09,
+      "descuento_porcentaje": 75,
+      "ahorro_euros": 85.05,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31oMSZsEVxL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0719FHCQ2?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Tarjeta gráfica Dpofirs HD6450 2GB",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 109.47,
+      "precio_actual": 61.37,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 48.1,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41CcBEmDVmL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08QCWVVVK?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Reloj inteligente HUAWEI Watch FIT 3 1.82″ AMOLED",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 145.11,
+      "precio_actual": 90.56,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 54.55,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41tt8UZX+BL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CYC5CCMH?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Monitor Acer Nitro VG240YP6 24″ Full HD 144Hz",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 135.54,
+      "precio_actual": 82.19,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 53.35,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41a0-0jpAHL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DS69LVW6?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "TV Stick Strong Leap-UNA Android 11 HDR10+",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 64,
+      "precio_actual": 41.18,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 22.82,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41z6C17bZiL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DVH337PM?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
     {
       "titulo": "SSD Samsung 870 EVO 250GB 2.5″",
       "condicion": "Estado: Como Nuevo",
