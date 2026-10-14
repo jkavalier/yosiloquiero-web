@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-14T12:39:24+02:00",
+  "actualizado": "2026-10-14T13:01:28+02:00",
   "ofertas": [
+    {
+      "titulo": "Mochila Eastpak 24L vegana gris",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 44,
+      "precio_actual": 30.52,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 13.48,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41Fydr0AUHL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B003OJ8RAE?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Destornillador eléctrico HYCHIKA 6N.m 2000mAh",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 28.51,
+      "precio_actual": 17.38,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 11.13,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/513HyISorIL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B086SQK2RK?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Tarjeta gráfica ZOTAC GT 710 2GB GDDR3",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 69.96,
+      "precio_actual": 45.48,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 24.48,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41boTjVMkML.jpg",
+      "url_producto": "https://www.amazon.es/dp/B088X1NTB4?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Teclado y ratón inalámbrico Trust Qwertz negro",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 48.96,
+      "precio_actual": 8.4,
+      "descuento_porcentaje": 83,
+      "ahorro_euros": 40.56,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/410BqjAYzEL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BG5BWN2V?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Auriculares diadema Lenovo Bluetooth",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 91.85,
+      "precio_actual": 48.7,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 43.15,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31M+JR57PtL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D6JMDJH4?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
     {
       "titulo": "Enchufe inteligente NOUS A1T Tasmota",
       "condicion": "Estado: Como Nuevo",
