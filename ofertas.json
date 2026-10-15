@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-15T15:01:33+02:00",
+  "actualizado": "2026-10-15T16:01:30+02:00",
   "ofertas": [
+    {
+      "titulo": "Auriculares Plantronics Calisto 3200 USB-A",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 94.14,
+      "precio_actual": 39.43,
+      "descuento_porcentaje": 58,
+      "ahorro_euros": 54.71,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41o5aM7xipL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07L9WGRY8?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Bicicleta estática Himaly ajustable",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 62.23,
+      "precio_actual": 27.05,
+      "descuento_porcentaje": 57,
+      "ahorro_euros": 35.18,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41pYXi+UdUL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08Q33T1PD?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Portátil Acer Aspire 1 15,6″ Full HD 128GB Gris",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 432.43,
+      "precio_actual": 151.8,
+      "descuento_porcentaje": 65,
+      "ahorro_euros": 280.63,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41WXlj3lnEL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0B1QDNQMF?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Monitor Gaming HP OMEN 27″ QHD 240Hz IPS",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 376.5,
+      "precio_actual": 184.96,
+      "descuento_porcentaje": 51,
+      "ahorro_euros": 191.54,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41JN0VZBXqL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C4F3DZZN?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Smartphone Motorola G54 256GB Gris",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 374,
+      "precio_actual": 180.84,
+      "descuento_porcentaje": 52,
+      "ahorro_euros": 193.16,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/214uMWh+ByL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CRF77622?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
     {
       "titulo": "Micrófono diadema Pyle condensador omnidireccional",
       "condicion": "Estado: Muy Bueno",
