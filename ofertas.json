@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-15T13:01:36+02:00",
+  "actualizado": "2026-10-15T14:01:39+02:00",
   "ofertas": [
+    {
+      "titulo": "Mochila Deuter Trail Pro 34 SL ergonómica mujer",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 272.08,
+      "precio_actual": 149.19,
+      "descuento_porcentaje": 45,
+      "ahorro_euros": 122.89,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41U8bhcqPfL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08JQYLQ4L?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Calientacamas Daga 150x137 cm Beige",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 99.99,
+      "precio_actual": 68.63,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 31.36,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/4167AUBvqKL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0B9SWMNJ6?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Bolsa de viaje MODOKER 45L cuero sintético azul",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 65.45,
+      "precio_actual": 46.12,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 19.33,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31DMiRfr2aL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BQ5Y818S?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Entrenadores agarre COVVY 4 niveles resistencia plata",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 25.37,
+      "precio_actual": 17.68,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 7.69,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51yhc5VkAiL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C143MTCT?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Regleta Electraline 3 enchufes + 3 USB (PD20W + QuickCharge)",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 41.55,
+      "precio_actual": 24.37,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 17.18,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41kxkv8-oGL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CKBXGQSF?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
     {
       "titulo": "Auriculares supraaurales Yamaha HPH-100 Negro",
       "condicion": "Estado: Como Nuevo",
