@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-15T10:01:26+02:00",
+  "actualizado": "2026-10-15T11:01:26+02:00",
   "ofertas": [
+    {
+      "titulo": "Peluche proyector Chicco Osito 30x14x36 cm Beige",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 37.51,
+      "precio_actual": 24.13,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 13.38,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31DhQUStOpL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0749LDBQJ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Adaptador Powerline Devolo Magic 1 1200 Mbit/s",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 64.9,
+      "precio_actual": 16.92,
+      "descuento_porcentaje": 74,
+      "ahorro_euros": 47.98,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31L1KSO07rL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07GBPJ5L8?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Exprimidor eléctrico Severin CP 3535 1L",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 22.6,
+      "precio_actual": 12.28,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 10.32,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31eMGNuJY7L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07QTL83QM?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Portabebés Infantino Flip 4-en-1 3.6-14.5 kg Arcoíris",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 42.99,
+      "precio_actual": 27.77,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 15.22,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41HGRMSdNTL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BXBCZN8V?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Bandas elásticas Fokky 3 resistencias 8-65LBS",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 14.99,
+      "precio_actual": 9.67,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 5.32,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51kpEHV3gBL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DDL1QN2Q?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
     {
       "titulo": "Panificadora Tefal PF240E38 3 tamaños",
       "condicion": "Estado: Muy Bueno",
