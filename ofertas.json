@@ -1,6 +1,42 @@
 {
-  "actualizado": "2026-10-15T22:01:34+02:00",
+  "actualizado": "2026-10-15T23:01:06+02:00",
   "ofertas": [
+    {
+      "titulo": "Smartphone OnePlus 8T 256GB 12GB RAM",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 462.36,
+      "precio_actual": 268.66,
+      "descuento_porcentaje": 42,
+      "ahorro_euros": 193.7,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41qQjWQRUjL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08HJLH3F7?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:01"
+    },
+    {
+      "titulo": "Monitor ASUS VA259HGA 25″ IPS 120Hz",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 102.95,
+      "precio_actual": 71.74,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 31.21,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41-kIUu0XlL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DSW1V861?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:01"
+    },
+    {
+      "titulo": "Consola Nintendo Switch Lite Azul con Animal Crossing",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 314.99,
+      "precio_actual": 208.7,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 106.29,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/418qXh4b4QL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FQC3P2Y1?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:01"
+    },
     {
       "titulo": "Monitor Philips 22″ Full HD 75Hz VA",
       "condicion": "Estado: Como Nuevo",
