@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-15T09:01:38+02:00",
+  "actualizado": "2026-10-15T10:01:26+02:00",
   "ofertas": [
+    {
+      "titulo": "Panificadora Tefal PF240E38 3 tamaños",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 143.45,
+      "precio_actual": 90.4,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 53.05,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31kyrlIwlHS.jpg",
+      "url_producto": "https://www.amazon.es/dp/B01I6H17XW?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Regleta Brennenstuhl 4 enchufes USB cocina",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 34.49,
+      "precio_actual": 19.99,
+      "descuento_porcentaje": 42,
+      "ahorro_euros": 14.5,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41bZwa0bqAL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0883PS8LD?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Adaptador universal Skross Mundo Pro 2 en 1",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 41.21,
+      "precio_actual": 24.52,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 16.69,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41Yt8Db+4zL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09WMX7ZYJ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Reloj inteligente HUAWEI Watch GT 4 41mm Verde",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 207.14,
+      "precio_actual": 70.59,
+      "descuento_porcentaje": 66,
+      "ahorro_euros": 136.55,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41BRuukzrbL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CYC6LHP2?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Adaptador Android Auto inalámbrico WityEye Negro Oscuro",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 49.99,
+      "precio_actual": 34.17,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 15.82,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/418JDMoppAL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0H5B53G7W?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
     {
       "titulo": "Pilas alcalinas Intenso AAA 40 uds",
       "condicion": "Estado: Como Nuevo",
