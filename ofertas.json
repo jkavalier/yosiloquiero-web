@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-16T14:01:37+02:00",
+  "actualizado": "2026-10-16T15:01:32+02:00",
   "ofertas": [
+    {
+      "titulo": "Megáfono Pyle portátil 30V",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 17.99,
+      "precio_actual": 12.02,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 5.97,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41NJX35KWnL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B002PAZZIK?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Adaptador OMRON HHP-CM01 para tensiómetros y nebulizador",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 20.75,
+      "precio_actual": 12.27,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 8.48,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21c5zynEzqL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07PFFF8HY?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Soporte pantalla táctil iiyama Marco Abierto 34″ Plateado",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 29.41,
+      "precio_actual": 18.14,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 11.27,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31KZRCJ0g+L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08LC1VCSM?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Guantes Under Armour entrenamiento hombre",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 26,
+      "precio_actual": 18.15,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 7.85,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21ZfnhqZX6L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09JNBSRL6?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Regleta Brennenstuhl ALU-Office-Line 4 enchufes + USB",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 38.39,
+      "precio_actual": 21.18,
+      "descuento_porcentaje": 45,
+      "ahorro_euros": 17.21,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21qx5T2vZEL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09XR268YJ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
     {
       "titulo": "Sillón colgante Amazonas Brasil 160x130 cm amarillo",
       "condicion": "Estado: Muy Bueno",
