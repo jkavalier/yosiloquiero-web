@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-16T15:01:32+02:00",
+  "actualizado": "2026-10-16T16:01:35+02:00",
   "ofertas": [
+    {
+      "titulo": "Maletín Samsonite piel 15.6″",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 537.36,
+      "precio_actual": 121.48,
+      "descuento_porcentaje": 77,
+      "ahorro_euros": 415.88,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41VnFy77dTL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B007VJ5XAU?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Silla ergonómica Flash Kelista Malla Verde",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 196.29,
+      "precio_actual": 76.42,
+      "descuento_porcentaje": 61,
+      "ahorro_euros": 119.87,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41YxOZ0STWL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07XHB2F4R?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Silla paseo Nania LILI gris 0-36 meses",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 219.99,
+      "precio_actual": 76.06,
+      "descuento_porcentaje": 65,
+      "ahorro_euros": 143.93,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41xOXTozidL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08BZQQFFV?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Soporte doble monitor One For All 13-35″ 10 kg Blanco",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 136.17,
+      "precio_actual": 62.99,
+      "descuento_porcentaje": 54,
+      "ahorro_euros": 73.18,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21+TI-af4qL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CZGXF1SL?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Freidora aire Emerio XL 5L 2000W",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 107.89,
+      "precio_actual": 41.15,
+      "descuento_porcentaje": 62,
+      "ahorro_euros": 66.74,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31Haf9uxsbL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D98JPRSM?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
     {
       "titulo": "Megáfono Pyle portátil 30V",
       "condicion": "Estado: Como Nuevo",
