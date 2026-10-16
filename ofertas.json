@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-16T08:01:38+02:00",
+  "actualizado": "2026-10-16T09:01:35+02:00",
   "ofertas": [
+    {
+      "titulo": "Bombilla LED WiZ E27 7W luz regulable",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 14.99,
+      "precio_actual": 7.9,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 7.09,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41SPYq9m63L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08HLR4BKH?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Cama redonda para perros Lionto 55 cm gris",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 18.62,
+      "precio_actual": 12.83,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 5.79,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41AtETEQnUL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08T7BNJ72?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Adaptador V-TAC 12V 18W IP44",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 9.99,
+      "precio_actual": 6.93,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 3.06,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41oUraZ5vML.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BRQHJ3Z7?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Lámpara decorativa Minecraft Allay",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 16.5,
+      "precio_actual": 8.97,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 7.53,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31DqidHT3uL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D5MGPQ9K?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Organizador de escritorio Relaxdays 7 compartimentos",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 21.38,
+      "precio_actual": 12.99,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 8.39,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31zBUA9iEtL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FT3YNLTZ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
     {
       "titulo": "Hervidor Ariete Vintage 1.7L Beige",
       "condicion": "Estado: Como Nuevo",
