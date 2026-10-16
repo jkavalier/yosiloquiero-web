@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-16T13:01:37+02:00",
+  "actualizado": "2026-10-16T14:01:37+02:00",
   "ofertas": [
+    {
+      "titulo": "Sillón colgante Amazonas Brasil 160x130 cm amarillo",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 67.28,
+      "precio_actual": 42.63,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 24.65,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41Ih09fAz-L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0001URK3O?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Smartwatch HUAWEI Watch GT 4 46mm Verde",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 161.65,
+      "precio_actual": 111.11,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 50.54,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51Og0Eg6VyL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CG9QLYSD?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Caja organizadora Kiykzi con regletas y USB",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 38.99,
+      "precio_actual": 20.62,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 18.37,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41KoDSdhQaL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CMV3JH6T?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Marco digital CECGAN 10.1″ 32GB WiFi",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 75.23,
+      "precio_actual": 42.44,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 32.79,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51RVpX5XZjL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DSP23FMZ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Mochila HPLQQ 24L Rosa Violeta",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 56.99,
+      "precio_actual": 37.34,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 19.65,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41OLv5eYszL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GS4SMF82?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
     {
       "titulo": "Cable entrenamiento SKLZ rojo",
       "condicion": "Estado: Como Nuevo",
