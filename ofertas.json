@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-17T13:01:32+02:00",
+  "actualizado": "2026-10-17T14:01:32+02:00",
   "ofertas": [
+    {
+      "titulo": "Sistema audio conferencia Yealink WH62 Mono UC",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 288.04,
+      "precio_actual": 90.19,
+      "descuento_porcentaje": 69,
+      "ahorro_euros": 197.85,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31aAXaKNaaL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08XLBRRY5?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Auriculares EPOS Adapt 165 USB II",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 111.99,
+      "precio_actual": 42.11,
+      "descuento_porcentaje": 62,
+      "ahorro_euros": 69.88,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31aaVMvthXL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B092KCKWWC?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Regleta Brennenstuhl 3 tomas temporizador USB",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 38.21,
+      "precio_actual": 18.15,
+      "descuento_porcentaje": 52,
+      "ahorro_euros": 20.06,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31nPzYy62HL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DT9WSHG6?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Maleta Disney ABS 37L Azul 40x55x20",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 115,
+      "precio_actual": 44.36,
+      "descuento_porcentaje": 61,
+      "ahorro_euros": 70.64,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41Q99hHhrAL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FGY89TSK?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Cámara exterior Strong 3K 5MP visión nocturna",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 101.17,
+      "precio_actual": 25.06,
+      "descuento_porcentaje": 75,
+      "ahorro_euros": 76.11,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31gpn7zLRLL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FR4SD83P?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
     {
       "titulo": "Adaptador Powerline TP-Link Gigabit 1Gbps",
       "condicion": "Estado: Como Nuevo",
