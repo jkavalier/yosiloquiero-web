@@ -1,6 +1,54 @@
 {
-  "actualizado": "2026-10-17T21:02:06+02:00",
+  "actualizado": "2026-10-17T22:01:14+02:00",
   "ofertas": [
+    {
+      "titulo": "Smartwatch Amazfit Bip S Lite 30 días batería azul",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 75.41,
+      "precio_actual": 49.34,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 26.07,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41qsM3qLLpL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08C2HQLNR?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "Smartphone Samsung Galaxy S20 FE 128GB",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 259.99,
+      "precio_actual": 181.99,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 78,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/314WzQahxeL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08GPDX7RY?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "Cámara mirrorless Canon EOS R100 24,1 MP Negro",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 639,
+      "precio_actual": 450.37,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 188.63,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/312oOmKzZdL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CVYLY7TG?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "Cámara Panasonic Lumix G97 20.3MP 4K",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 699,
+      "precio_actual": 443.85,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 255.15,
+      "valoracion": 4.9,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41X0W4i3c3L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DRYNRCCC?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
     {
       "titulo": "Mochila Eastpak 100% nailon negro",
       "condicion": "Estado: Como Nuevo",
