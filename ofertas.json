@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-17T11:01:34+02:00",
+  "actualizado": "2026-10-17T12:01:29+02:00",
   "ofertas": [
+    {
+      "titulo": "Micrófono USB TONOR Q9 con brazo",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 49.99,
+      "precio_actual": 32.91,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 17.08,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41FPA5aD9RL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07NMJ84FW?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Base de carga Bose Portable Home Speaker Negro",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 39,
+      "precio_actual": 27.09,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 11.91,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31znjKvZtbL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07WPG4QDK?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Teclado y ratón inalámbrico Rapoo QWERTZ alemán",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 98.45,
+      "precio_actual": 31.16,
+      "descuento_porcentaje": 68,
+      "ahorro_euros": 67.29,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31D49NFMZKL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B081FGSXFY?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Figura Funko POP! Venom Gwenpool 9,5 cm",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 36.29,
+      "precio_actual": 13.51,
+      "descuento_porcentaje": 63,
+      "ahorro_euros": 22.78,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/315qfGDO3VL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0946ZF525?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Cargador inalámbrico Club3D Qi2 25W Blanco",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 57.08,
+      "precio_actual": 30.17,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 26.91,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21XyOAf2zkL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0G81ZGVSF?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
     {
       "titulo": "Tarjeta gráfica Gigabyte Radeon RX 580 8GB Negro",
       "condicion": "Estado: Como Nuevo",
