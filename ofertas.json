@@ -1,6 +1,30 @@
 {
-  "actualizado": "2026-10-17T22:01:14+02:00",
+  "actualizado": "2026-10-17T23:00:57+02:00",
   "ofertas": [
+    {
+      "titulo": "Calculadora científica Sharp EL-W531XGYR",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 30.1,
+      "precio_actual": 17.08,
+      "descuento_porcentaje": 43,
+      "ahorro_euros": 13.02,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41Xqr+HMuWL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B004LLH5M0?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:00"
+    },
+    {
+      "titulo": "Aspiradora sin cable SMOTURE 650W 55KPA",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 151.76,
+      "precio_actual": 97.99,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 53.77,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41A0ogeISiL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GGBKVFWC?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:00"
+    },
     {
       "titulo": "Smartwatch Amazfit Bip S Lite 30 días batería azul",
       "condicion": "Estado: Como Nuevo",
