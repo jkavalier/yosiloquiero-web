@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-17T09:01:40+02:00",
+  "actualizado": "2026-10-17T10:01:28+02:00",
   "ofertas": [
+    {
+      "titulo": "Lámpara TRIO Hostel negro mate 35 cm",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 102.28,
+      "precio_actual": 25.04,
+      "descuento_porcentaje": 76,
+      "ahorro_euros": 77.24,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21GYXUucF5L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07FNPYRWZ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Báscula Xiaomi Mi Body 2 Blanco",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 56,
+      "precio_actual": 25.79,
+      "descuento_porcentaje": 54,
+      "ahorro_euros": 30.21,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21V6DPX1ZeL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07VD9F419?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Reloj pared madera 34cm Océano",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 27.99,
+      "precio_actual": 19.03,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 8.96,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51J8kCht9+L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07ZB3M2MH?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Freidora aire Tefal Jamie Oliver 4,2L acero inoxidable",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 115.49,
+      "precio_actual": 40.33,
+      "descuento_porcentaje": 65,
+      "ahorro_euros": 75.16,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/317gcAdE91L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D4ZJMGKR?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Regleta ACT con 3 enchufes tipo F, USB-C 30W y abrazadera",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 62.97,
+      "precio_actual": 42.35,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 20.62,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41+aQVZxOXL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0G57HK1FN?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
     {
       "titulo": "Teclado mecánico Cherry G80-3000 QWERTZ Negro",
       "condicion": "Estado: Como Nuevo",
