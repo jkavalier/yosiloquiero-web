@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-17T10:01:28+02:00",
+  "actualizado": "2026-10-17T11:01:34+02:00",
   "ofertas": [
+    {
+      "titulo": "Tarjeta gráfica Gigabyte Radeon RX 580 8GB Negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 789.24,
+      "precio_actual": 240.79,
+      "descuento_porcentaje": 69,
+      "ahorro_euros": 548.45,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51FPK1iT1mL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B071Y7XJY4?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Altavoz JBL Clip 4 Bluetooth 10h rojo",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 90.2,
+      "precio_actual": 44.2,
+      "descuento_porcentaje": 51,
+      "ahorro_euros": 46,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41QzGYUyJ2L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08HRWYJSX?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Máquina de café cápsulas PHILIPS CSA240/30",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 102.78,
+      "precio_actual": 72.01,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 30.77,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/412rVEEMXKL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08THLY8HB?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Pádel HEAD EVO Speed 2023",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 123.07,
+      "precio_actual": 73.75,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 49.32,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41XCxiNvsML.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0B5ZRBNVL?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Monitor Samsung Odyssey G30D 27″ 180Hz",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 174.59,
+      "precio_actual": 82.64,
+      "descuento_porcentaje": 53,
+      "ahorro_euros": 91.95,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41toWVB8ZZL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D4QYD65C?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
     {
       "titulo": "Lámpara TRIO Hostel negro mate 35 cm",
       "condicion": "Estado: Como Nuevo",
