@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-17T08:01:31+02:00",
+  "actualizado": "2026-10-17T09:01:40+02:00",
   "ofertas": [
+    {
+      "titulo": "Teclado mecánico Cherry G80-3000 QWERTZ Negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 130.07,
+      "precio_actual": 45.25,
+      "descuento_porcentaje": 65,
+      "ahorro_euros": 84.82,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31iu3wUlozL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B000NDD524?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Juguete LEGO City Rescate Helicóptero",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 163.53,
+      "precio_actual": 53.59,
+      "descuento_porcentaje": 67,
+      "ahorro_euros": 109.94,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41BjW1fnFVL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B006ZS4J4E?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Adaptadores Brennenstuhl 7 clavijas 150 países",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 19.87,
+      "precio_actual": 9.16,
+      "descuento_porcentaje": 54,
+      "ahorro_euros": 10.71,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31SfyMo8HJL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B007WVHL5M?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Mando domótico FRITZ!DECT 440 Blanco",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 157.89,
+      "precio_actual": 84.93,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 72.96,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/318NWTWB+3L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08CZYZPVK?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "LEGO Árbol Navidad 40573 Multicolor",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 44.99,
+      "precio_actual": 27.58,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 17.41,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51-OAJJJpxL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BCP2HHBC?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
     {
       "titulo": "Barrera virtual iRobot para Roomba 8/9 Series",
       "condicion": "Estado: Como Nuevo",
