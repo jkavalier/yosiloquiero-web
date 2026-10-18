@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-18T14:01:33+02:00",
+  "actualizado": "2026-10-18T15:01:28+02:00",
   "ofertas": [
+    {
+      "titulo": "Teléfono fijo inalámbrico Panasonic KX-TG6822",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 146.23,
+      "precio_actual": 31.58,
+      "descuento_porcentaje": 78,
+      "ahorro_euros": 114.65,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51T8MIfR07L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B00BT01LWG?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Bolsos bandolera NICOLE & DORIS rosado",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 51.99,
+      "precio_actual": 33.96,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 18.03,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41td+T5n9HL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07PX13B6X?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Reloj despertador TFA proyección 270° negro",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 51.98,
+      "precio_actual": 32.13,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 19.85,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41wZVO8-2rL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BRNPM4FT?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Regleta TESSAN 3 USB A 1 USB C 2m",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 35.99,
+      "precio_actual": 25.08,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 10.91,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31JBsqrD4YL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CFXYCGZ7?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Interfaz de audio Elgato XLR Dock para Stream Deck +",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 193.44,
+      "precio_actual": 96.51,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 96.93,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21huewpYnvL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D7M9821X?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
     {
       "titulo": "Regleta encastrable EMUCA 3 enchufes + 2 USB",
       "condicion": "Estado: Muy Bueno",
