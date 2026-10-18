@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-18T15:01:28+02:00",
+  "actualizado": "2026-10-18T16:01:13+02:00",
   "ofertas": [
+    {
+      "titulo": "Soporte escritorio Ergosolid 12 kg 22-35″",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 56.55,
+      "precio_actual": 38.79,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 17.76,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21NqKM0fIrL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B097Y3PCTD?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Luz nocturna EMOS detector movimiento blanco",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 36.37,
+      "precio_actual": 14.31,
+      "descuento_porcentaje": 61,
+      "ahorro_euros": 22.06,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/413HjEfHcwL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BS12DYTK?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Reloj despertador Hama Skye sin tictac dorado",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 24.28,
+      "precio_actual": 15.32,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 8.96,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31kyZILGh-L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DQ1KX8SK?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Cargador inalámbrico Belkin BoostCharge 15W plegable",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 42.99,
+      "precio_actual": 29.85,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 13.14,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31cArBbV4iL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F9Z46NPP?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Freidora aire Hisense 11L Negro",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 157.74,
+      "precio_actual": 66.17,
+      "descuento_porcentaje": 58,
+      "ahorro_euros": 91.57,
+      "valoracion": 4.3,
+      "imagen_url": "",
+      "url_producto": "https://www.amazon.es/dp/B0FN85RFTN?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
     {
       "titulo": "Teléfono fijo inalámbrico Panasonic KX-TG6822",
       "condicion": "Estado: Muy Bueno",
