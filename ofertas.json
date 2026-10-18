@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-18T09:01:27+02:00",
+  "actualizado": "2026-10-18T10:01:31+02:00",
   "ofertas": [
+    {
+      "titulo": "Exprimidor eléctrico Cuisinart acero inoxidable",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 50.52,
+      "precio_actual": 33.54,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 16.98,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31I5xJKcm0L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B003JEPCTI?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Batidora Taurus Robot 500W Inox",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 44.99,
+      "precio_actual": 24.18,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 20.81,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31EUptjHREL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B082ZP5D9B?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Cargador portátil Samsung USB-C 15W negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 17.07,
+      "precio_actual": 10,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 7.07,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31u+vvUm9uL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09NQ459K3?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Regleta Brennenstuhl 6 tomas protección 60.000A",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 111.3,
+      "precio_actual": 48.06,
+      "descuento_porcentaje": 57,
+      "ahorro_euros": 63.24,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31xCsYjvrGL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09S6PPYJF?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Chaleco de entrenamiento AmStaff Fitness 12 lbs negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 81.48,
+      "precio_actual": 34.62,
+      "descuento_porcentaje": 58,
+      "ahorro_euros": 46.86,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41V0qIque+L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CW48YYT3?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
     {
       "titulo": "Cargador Ansmann baterías plomo 2-24V",
       "condicion": "Estado: Como Nuevo",
