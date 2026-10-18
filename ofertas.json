@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-18T08:01:41+02:00",
+  "actualizado": "2026-10-18T09:01:27+02:00",
   "ofertas": [
+    {
+      "titulo": "Cargador Ansmann baterías plomo 2-24V",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 34.99,
+      "precio_actual": 16.03,
+      "descuento_porcentaje": 54,
+      "ahorro_euros": 18.96,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41GEjGK-gdL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B000KAMDF0?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "LEGO Minecraft Aldea Abandonada 21190",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 128.9,
+      "precio_actual": 49.49,
+      "descuento_porcentaje": 62,
+      "ahorro_euros": 79.41,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51qav5NF9bL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09QFMXC5K?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Adaptador enchufe UK BigFish 2 unidades",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 12.99,
+      "precio_actual": 6.85,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 6.14,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41lj3v3DL5L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DRFD95ZL?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Despertador luz diurna Hiromeco con 25 sonidos naturales",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 169.99,
+      "precio_actual": 70.81,
+      "descuento_porcentaje": 58,
+      "ahorro_euros": 99.18,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41wo-ap-etL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FN44QN59?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Batería externa Belkin BoostCharge 5000 mAh magnética",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 54.99,
+      "precio_actual": 35.39,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 19.6,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31o+0+2FnoL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GKP5G1T2?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
     {
       "titulo": "Espejo cosmético Wenko 5X",
       "condicion": "Estado: Muy Bueno",
