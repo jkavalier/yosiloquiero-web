@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-18T18:02:27+02:00",
+  "actualizado": "2026-10-18T18:02:51+02:00",
   "ofertas": [
+    {
+      "titulo": "Teclado Bluetooth BRIMFORD plegable Negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 49.99,
+      "precio_actual": 30,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 19.99,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41WMRpH8ioL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FY2WWNJM?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "18:02"
+    },
     {
       "titulo": "Arrocera Tefal Classic 1.8L Antiadherente",
       "condicion": "Estado: Como Nuevo",
