@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-18T12:01:17+02:00",
+  "actualizado": "2026-10-18T13:01:24+02:00",
   "ofertas": [
+    {
+      "titulo": "Consola educativa VTech Rockit Twist",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 123,
+      "precio_actual": 84.2,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 38.8,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/513opUsWvKL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07TQ81XF5?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Máquina de tambor Behringer RD-6-SR",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 136.02,
+      "precio_actual": 82.35,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 53.67,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41lmhs5cOYL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08HR9MY2B?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Correa cardio Garmin HRM-Pro Plus Negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 243.64,
+      "precio_actual": 128.69,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 114.95,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31KJ3-bKYXL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0B3PNFK9H?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Tablet Lenovo Tab P11 2ª Gen 128GB Gris",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 333,
+      "precio_actual": 175.8,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 157.2,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41aiNFbgKWL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BMLN5PTT?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Memoria USB SanDisk 64GB iPhone",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 59.99,
+      "precio_actual": 41.57,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 18.42,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31ahp1wJtNL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DDQJZVHW?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
     {
       "titulo": "Batidora vaso Russell Hobbs 700W 15 piezas",
       "condicion": "Estado: Como Nuevo",
