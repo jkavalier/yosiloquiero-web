@@ -1,6 +1,54 @@
 {
-  "actualizado": "2026-10-18T22:02:16+02:00",
+  "actualizado": "2026-10-18T23:01:12+02:00",
   "ofertas": [
+    {
+      "titulo": "Hervidor eléctrico ProfiCook 1.7L acero inoxidable",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 91.89,
+      "precio_actual": 22.17,
+      "descuento_porcentaje": 76,
+      "ahorro_euros": 69.72,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/418WjP5BtRL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B01N6TX2SG?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:01"
+    },
+    {
+      "titulo": "Portátil Lenovo ThinkPad X1 Carbon Gen 9 i7 512GB SSD",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 2706.08,
+      "precio_actual": 1588,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 1118.08,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41GcwWgGVZL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B098TV9DRH?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:01"
+    },
+    {
+      "titulo": "Batidora portátil Ninja Blast Max 570 ml gris",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 115.97,
+      "precio_actual": 77.59,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 38.38,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31TxKBm0PhL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DM6J84LM?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:01"
+    },
+    {
+      "titulo": "Maleta American Tourister 77cm 129L azul",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 119,
+      "precio_actual": 69.26,
+      "descuento_porcentaje": 42,
+      "ahorro_euros": 49.74,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31col8MTFEL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FLF5JQMK?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:01"
+    },
     {
       "titulo": "Despertador CGV Aruna con radio FM",
       "condicion": "Estado: Muy Bueno",
