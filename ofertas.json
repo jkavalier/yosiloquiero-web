@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-19T12:01:33+02:00",
+  "actualizado": "2026-10-19T13:01:24+02:00",
   "ofertas": [
+    {
+      "titulo": "Mochila Inateck 30L portátil 17″ negro",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 57.99,
+      "precio_actual": 40.33,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 17.66,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31ddp1cX+rL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08KFXC85C?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Batería externa Belkin BoostCharge 10000 mAh",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 24.9,
+      "precio_actual": 13.71,
+      "descuento_porcentaje": 45,
+      "ahorro_euros": 11.19,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21kfT6SeGBL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0928LVPNW?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "SSD externo Samsung T7 Shield 1TB IP65",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 235.86,
+      "precio_actual": 117.99,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 117.87,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31+kS2JmWXL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09SBJJ4JW?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Organizador de maleta BAGAIL 8 piezas verde",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 27.99,
+      "precio_actual": 17.31,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 10.68,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41j5hh7LqXL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C58697GB?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Monitor Samsung ViewFinity S70D 32″ 4K IPS",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 451.61,
+      "precio_actual": 226.62,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 224.99,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51l64B5x4sL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D4C681HF?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
     {
       "titulo": "Jarra filtrante Brita Maxtra+ Blanco 6 filtros",
       "condicion": "Estado: Como Nuevo",
