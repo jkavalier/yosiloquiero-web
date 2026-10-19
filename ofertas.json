@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-19T13:01:24+02:00",
+  "actualizado": "2026-10-19T14:01:30+02:00",
   "ofertas": [
+    {
+      "titulo": "Mesa portátil Relaxdays bambú 17″ ajustable 5 niveles",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 44.99,
+      "precio_actual": 31.43,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 13.56,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41FfG5f-cwL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07FNW7TKS?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Máquina cápsulas café Philips Senseo 2 tazas rojo",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 100.38,
+      "precio_actual": 61.65,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 38.73,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41j3Lj0wC3L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08THKBMX2?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Mando inalámbrico Nacon",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 47.21,
+      "precio_actual": 10.41,
+      "descuento_porcentaje": 78,
+      "ahorro_euros": 36.8,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/4114WtaoJjL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CSZ64HXH?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Cargador GaN AISENS 140W 3 puertos",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 40.62,
+      "precio_actual": 28.58,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 12.04,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31bSTmofokL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D36251K5?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Regleta KEMELO 12 en 1 Blanco",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 29.99,
+      "precio_actual": 15.88,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 14.11,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31tpDYocZNL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F5N28Z9M?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
     {
       "titulo": "Mochila Inateck 30L portátil 17″ negro",
       "condicion": "Estado: Muy Bueno",
