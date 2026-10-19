@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-19T08:01:35+02:00",
+  "actualizado": "2026-10-19T09:01:41+02:00",
   "ofertas": [
+    {
+      "titulo": "Báscula digital EMOS Blanco",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 18.92,
+      "precio_actual": 12.82,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 6.1,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41S2N+TM2pL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B00YX2R1LC?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Urna cremación HLC Azul 3 pies cúbicos grabada a mano",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 77.13,
+      "precio_actual": 15.58,
+      "descuento_porcentaje": 80,
+      "ahorro_euros": 61.55,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41IJ6ph1qgL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B099X2MHVX?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Reloj pared Dankeit 16″ Cuarzo Blanco y Negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 96.45,
+      "precio_actual": 34.7,
+      "descuento_porcentaje": 64,
+      "ahorro_euros": 61.75,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51evNfu+6KL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C7TLGRWR?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "LEGO Disney Stitch 43249 Multicolor",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 55.29,
+      "precio_actual": 37.18,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 18.11,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41QutgwmOqL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CFVZG5TR?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Enchufe inteligente Brennenstuhl exterior IP44 negro",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 29.76,
+      "precio_actual": 20.41,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 9.35,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41wMEjQNWjL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D6N6FRRG?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
     {
       "titulo": "Vigilabebés Angelcare AC423-D blanco",
       "condicion": "Estado: Muy Bueno",
