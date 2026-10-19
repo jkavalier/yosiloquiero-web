@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-19T15:01:38+02:00",
+  "actualizado": "2026-10-19T16:01:33+02:00",
   "ofertas": [
+    {
+      "titulo": "Chaleco de entrenamiento ajustable ProsourceFit 8lb Negro",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 28.99,
+      "precio_actual": 16.27,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 12.72,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41BbWbaIxoL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07V5KGYCZ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Batidora Electrolux 500W 1.5L",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 62.68,
+      "precio_actual": 28.03,
+      "descuento_porcentaje": 55,
+      "ahorro_euros": 34.65,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31qiol-8viS.jpg",
+      "url_producto": "https://www.amazon.es/dp/B092MXPYBP?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "SSD interno Crucial P3 Plus 500GB PCIe Gen4",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 208.45,
+      "precio_actual": 73.14,
+      "descuento_porcentaje": 65,
+      "ahorro_euros": 135.31,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/310VhurvvuL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0B25NTRGD?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Maleta rígida Movom Noon Azul 72L",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 94.99,
+      "precio_actual": 66.84,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 28.15,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31XTE51AbiL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F4DXTRMQ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Maleta de cabina Disney Stitch 37L Lila",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 85,
+      "precio_actual": 40.66,
+      "descuento_porcentaje": 52,
+      "ahorro_euros": 44.34,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41n0j8lEkfL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FGY862Y5?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
     {
       "titulo": "Procesador Intel Xeon E5-2699 V3 LGA 2011-v3",
       "condicion": "Estado: Como Nuevo",
