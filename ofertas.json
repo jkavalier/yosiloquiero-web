@@ -1,6 +1,90 @@
 {
-  "actualizado": "2026-10-19T21:01:47+02:00",
+  "actualizado": "2026-10-19T22:01:58+02:00",
   "ofertas": [
+    {
+      "titulo": "Deshumidificador Comfee 20L",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 255.85,
+      "precio_actual": 159.02,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 96.83,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21-82qInv4L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07MSL8YN7?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "Dockingstation Dell Thunderbolt 3 180W",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 390.66,
+      "precio_actual": 103.8,
+      "descuento_porcentaje": 73,
+      "ahorro_euros": 286.86,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21UStM2GREL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08BYJ47Z4?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "Reloj despertador Batman luz nocturna",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 34.99,
+      "precio_actual": 23.44,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 11.55,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41TrjnhPUWL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09SZ7VR7J?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "Cafetera Bosch Tassimo Finesse 70 bebidas IntensityBoost",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 84.93,
+      "precio_actual": 49.25,
+      "descuento_porcentaje": 42,
+      "ahorro_euros": 35.68,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31pcbxt2XrL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BB7YSRBX?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "Calculadora científica Casio FX-85DE CW",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 38.3,
+      "precio_actual": 19.25,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 19.05,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41-wKBwwqSL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BWDNVRZR?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "Smartwatch Hama 5000 Rosa",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 41.36,
+      "precio_actual": 18.69,
+      "descuento_porcentaje": 55,
+      "ahorro_euros": 22.67,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31JOg8zLk2L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DG59DNDK?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "Smartphone Samsung Galaxy S25 FE 512GB Negro Intenso",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 939,
+      "precio_actual": 631.26,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 307.74,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41Eoi2ilyoL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FLDLRG94?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
     {
       "titulo": "Parrilla portátil Barbecook",
       "condicion": "Estado: Como Nuevo",
