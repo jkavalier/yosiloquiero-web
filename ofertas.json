@@ -1,6 +1,54 @@
 {
-  "actualizado": "2026-10-19T19:02:33+02:00",
+  "actualizado": "2026-10-19T20:01:43+02:00",
   "ofertas": [
+    {
+      "titulo": "Pulseras de pesas TopEsct 1 lb x2",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 23.74,
+      "precio_actual": 15.94,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 7.8,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31xL3VC0G1L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B093GNRV8R?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Base cargador inalámbrico INIU 15W",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 29.95,
+      "precio_actual": 15.31,
+      "descuento_porcentaje": 49,
+      "ahorro_euros": 14.64,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41bNPDegNmL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09GYCC1N7?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Espejo baño LED KWW 600mm sin marco",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 149,
+      "precio_actual": 93.55,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 55.45,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51GG25bzS8L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09K6Y193H?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Smartphone Google Pixel 8a 256GB Obsidiana",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 609,
+      "precio_actual": 374.7,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 234.3,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41REAmnop6L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CXJBCY77?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
     {
       "titulo": "Monitor Z-Edge Curvo 27″ FHD 1080P 100Hz",
       "condicion": "Estado: Como Nuevo",
