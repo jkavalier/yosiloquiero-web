@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-10-19T22:01:58+02:00",
+  "actualizado": "2026-10-19T23:02:03+02:00",
   "ofertas": [
+    {
+      "titulo": "Organizador escritorio Amazon Basics negro",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 30.39,
+      "precio_actual": 19.03,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 11.36,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51SI4ohKeXL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B087B69492?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:02"
+    },
+    {
+      "titulo": "Grabadora DVD externa ASUS ZenDrive U8M USB-C",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 51.8,
+      "precio_actual": 32.04,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 19.76,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31PTl1kLPwL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B099JXTW9D?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:02"
+    },
+    {
+      "titulo": "Monitor ASUS TUF Gaming 27\" 180Hz",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 164.48,
+      "precio_actual": 108.48,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 56,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/416dWMtIY-L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09T9M4SVH?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:02"
+    },
+    {
+      "titulo": "Mezclador Yamaha AG03MK2 3 canales",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 166,
+      "precio_actual": 106.93,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 59.07,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41zoBQOA4YL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09VFF9L5P?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:02"
+    },
+    {
+      "titulo": "Smartphone Samsung Galaxy M13 64GB",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 226.59,
+      "precio_actual": 113.61,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 112.98,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31ldGBo4g0L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0B1VDGS1K?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:02"
+    },
+    {
+      "titulo": "Raqueta tenis mesa Butterfly Advance 5 capas",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 25.07,
+      "precio_actual": 17.12,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 7.95,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/315GcxXCMJL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CRZ97F66?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:02"
+    },
+    {
+      "titulo": "Tableta Samsung Galaxy Tab S6 Lite 64GB 10.4″ Gris",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 581.58,
+      "precio_actual": 250,
+      "descuento_porcentaje": 57,
+      "ahorro_euros": 331.58,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31cdEb5kNrL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CWXKTZXB?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:02"
+    },
+    {
+      "titulo": "Smartwatch Hama 5000 Negro",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 41.23,
+      "precio_actual": 20.87,
+      "descuento_porcentaje": 49,
+      "ahorro_euros": 20.36,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31FrCDiedFL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DG5MFX2P?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:02"
+    },
     {
       "titulo": "Deshumidificador Comfee 20L",
       "condicion": "Estado: Muy Bueno",
