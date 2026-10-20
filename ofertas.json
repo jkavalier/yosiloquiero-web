@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-20T09:01:40+02:00",
+  "actualizado": "2026-10-20T10:01:34+02:00",
   "ofertas": [
+    {
+      "titulo": "Batidora Moulinex 300W con vaso 1,3L",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 64.99,
+      "precio_actual": 31.94,
+      "descuento_porcentaje": 51,
+      "ahorro_euros": 33.05,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41KdaE5wJlL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07BCNS9YB?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Lámpara camping BoloShine LED recargable",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 16.99,
+      "precio_actual": 11.37,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 5.62,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31aClm708sL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0932BC1HT?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Vigilabebés Alecto DECT alcance 300 m",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 43,
+      "precio_actual": 29.98,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 13.02,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31IrN5cNUbL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B094NB95PG?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Lámpara exterior Eglo 40 cm cubo blanco",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 171.07,
+      "precio_actual": 53.91,
+      "descuento_porcentaje": 68,
+      "ahorro_euros": 117.16,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21YdTbYIbBL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BL68M4XP?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Teclado Bluestork KB Office R2 AZERTY 70 h autonomía",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 72.14,
+      "precio_actual": 15.11,
+      "descuento_porcentaje": 79,
+      "ahorro_euros": 57.03,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/414MhJSJ3pL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FG3FSH2M?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
     {
       "titulo": "Atornillador Einhell 500W con portapuntas magnético",
       "condicion": "Estado: Como Nuevo",
