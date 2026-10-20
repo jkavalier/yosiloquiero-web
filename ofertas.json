@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-20T08:01:34+02:00",
+  "actualizado": "2026-10-20T09:01:40+02:00",
   "ofertas": [
+    {
+      "titulo": "Atornillador Einhell 500W con portapuntas magnético",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 53.67,
+      "precio_actual": 32.01,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 21.66,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31YYorR0U9L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B00IYEESUM?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Juego de construcción LEGO Carruaje Real Cenicienta",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 100.65,
+      "precio_actual": 39.59,
+      "descuento_porcentaje": 61,
+      "ahorro_euros": 61.06,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51ibS86+bBL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08G55QRGC?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Batidora Bosch ErgoMaster 1000W",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 57.51,
+      "precio_actual": 39.82,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 17.69,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21i87CMI4HL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BBH3LDXZ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Aspiradora sin cable ANYSON 45KPa 1.6L",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 892.28,
+      "precio_actual": 184.29,
+      "descuento_porcentaje": 79,
+      "ahorro_euros": 707.99,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41-sydZh9DL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CZRTHM6T?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Purificador de aire Rowenta filtro HEPA",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 59.99,
+      "precio_actual": 41.36,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 18.63,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31AW7S-lDuL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GNS6JNXS?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
     {
       "titulo": "Monitor gaming ASUS TUF 24″ Full HD 180Hz",
       "condicion": "Estado: Muy Bueno",
