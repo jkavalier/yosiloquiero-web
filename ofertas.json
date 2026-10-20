@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-20T11:01:32+02:00",
+  "actualizado": "2026-10-20T12:01:29+02:00",
   "ofertas": [
+    {
+      "titulo": "Altavoces de sobremesa Amazon Basics 10W Negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 22.49,
+      "precio_actual": 15.04,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 7.45,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41II1NBqghL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07D924NF5?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Soporte mancuernas Marbo Sport ajustable 250 kg",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 99.28,
+      "precio_actual": 65.53,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 33.75,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31a0VjfJ3EL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07L3CH6Z8?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Cámara instantánea Polaroid Now Gen 2 40% reciclada",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 186.44,
+      "precio_actual": 72.37,
+      "descuento_porcentaje": 61,
+      "ahorro_euros": 114.07,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41274yPcPgL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BW9PTPL5?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Router Wi-Fi 6 TP-Link VX231v 1,8 Gbps",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 116.38,
+      "precio_actual": 74.04,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 42.34,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31ElfRiAYXL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BWYZVJCV?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Consola Nintendo Switch Lite Animal Crossing 32GB",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 449.5,
+      "precio_actual": 211.51,
+      "descuento_porcentaje": 53,
+      "ahorro_euros": 237.99,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41XfYTFbklL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CHF3FBNV?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
     {
       "titulo": "Altavoz Sonkir Bluetooth 1500mAh",
       "condicion": "Estado: Como Nuevo",
