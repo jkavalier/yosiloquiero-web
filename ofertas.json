@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-20T15:01:39+02:00",
+  "actualizado": "2026-10-20T16:01:38+02:00",
   "ofertas": [
+    {
+      "titulo": "Maleta rígida HAUPTSTADTKOFFER 75 cm Morado",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 109.95,
+      "precio_actual": 76.88,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 33.07,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31+CXBG1GBL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B00FXP0ORG?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Videoportero Bticino con pantalla 5″",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 241.57,
+      "precio_actual": 115.53,
+      "descuento_porcentaje": 52,
+      "ahorro_euros": 126.04,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41i86jI1EeL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07SD4ZX3M?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Memoria USB Kingston 128GB USB 3.2",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 15.8,
+      "precio_actual": 10.47,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 5.33,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21jz1oWW-XL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08JD4TBM3?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Pedalera estática Uten plegable",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 59.41,
+      "precio_actual": 28.87,
+      "descuento_porcentaje": 51,
+      "ahorro_euros": 30.54,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41rMf6iGHJL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08Q4CJYZ5?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Maleta de cabina Movom 37L Champagne",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 105,
+      "precio_actual": 53.52,
+      "descuento_porcentaje": 49,
+      "ahorro_euros": 51.48,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/312ilSy3Q7L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0B71RDJTR?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
     {
       "titulo": "Soporte monitor Ergotron rápido desmontaje",
       "condicion": "Estado: Muy Bueno",
