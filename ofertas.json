@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-20T10:01:34+02:00",
+  "actualizado": "2026-10-20T11:01:32+02:00",
   "ofertas": [
+    {
+      "titulo": "Altavoz Sonkir Bluetooth 1500mAh",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 20.39,
+      "precio_actual": 14.27,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 6.12,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41xKVPf0RjL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07T52Y487?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Cartera plegable AOXONEL RFID 16 ranuras",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 26.26,
+      "precio_actual": 17.85,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 8.41,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41EpAI22RIL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07T83BCKY?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Tarjeta microSD Kingston 256GB UHS-I A2",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 97.99,
+      "precio_actual": 24.47,
+      "descuento_porcentaje": 75,
+      "ahorro_euros": 73.52,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31C9TUKgROL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08589RK3M?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "SSD para Xbox Series X|S Seagate 1TB",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 478.74,
+      "precio_actual": 153.89,
+      "descuento_porcentaje": 68,
+      "ahorro_euros": 324.85,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31DTEJFR7iL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08K48F6QZ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Luz cuello recargable LiebeWH 3 niveles brillo",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 24.48,
+      "precio_actual": 12.17,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 12.31,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21QniF3PyoL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BNNV5BBM?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
     {
       "titulo": "Batidora Moulinex 300W con vaso 1,3L",
       "condicion": "Estado: Muy Bueno",
