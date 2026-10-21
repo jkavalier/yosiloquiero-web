@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-21T10:01:38+02:00",
+  "actualizado": "2026-10-21T12:01:34+02:00",
   "ofertas": [
+    {
+      "titulo": "Auriculares gaming Razer BlackShark V3 X 270g",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 118.19,
+      "precio_actual": 68,
+      "descuento_porcentaje": 42,
+      "ahorro_euros": 50.19,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41VRqM-GV6L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0G493BZ64?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Patines Rollerblade Fury talla 33-38 EU",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 131.99,
+      "precio_actual": 68.89,
+      "descuento_porcentaje": 48,
+      "ahorro_euros": 63.1,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51O7MHQZUgL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BN282GVW?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Batidora portátil Ninja vaso 530 ml recargable",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 74.01,
+      "precio_actual": 48.55,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 25.46,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41S2hNQ8UYL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CXQ6TZRQ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Pelota de fitness BODYMATE antirreventones 65 cm",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 28.68,
+      "precio_actual": 18.21,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 10.47,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31cmwcuONQL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0B9BKSF49?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Altavoz Bluetooth Ortizan con luz LED e IPX7",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 29.99,
+      "precio_actual": 13.16,
+      "descuento_porcentaje": 56,
+      "ahorro_euros": 16.83,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51V78cIVN9L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08FDPW8KR?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
     {
       "titulo": "Accesorios freidora aire Cecotec 8 uds antiadherentes",
       "condicion": "Estado: Muy Bueno",
