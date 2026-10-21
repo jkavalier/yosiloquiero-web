@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-21T23:02:41+02:00",
+  "actualizado": "2026-10-21T23:03:02+02:00",
   "ofertas": [
+    {
+      "titulo": "Micrófono streaming Streamplify con RGB",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 65.06,
+      "precio_actual": 43.07,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 21.99,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41yuiy5iQ9L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D5DCXSJX?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:03"
+    },
     {
       "titulo": "Micrófono Razer Seiren Mini ultracompacto",
       "condicion": "Estado: Como Nuevo",
