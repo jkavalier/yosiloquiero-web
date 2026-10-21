@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-21T12:01:34+02:00",
+  "actualizado": "2026-10-21T13:01:32+02:00",
   "ofertas": [
+    {
+      "titulo": "Router Ubiquiti AmpliFi Alien WiFi 6",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 477.41,
+      "precio_actual": 142.43,
+      "descuento_porcentaje": 70,
+      "ahorro_euros": 334.98,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41xdURmyGuL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08VMTTK82?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Olla cocción lenta Russell Hobbs 2 L acero inoxidable",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 49.25,
+      "precio_actual": 30.58,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 18.67,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41bcmJW008L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07NFHNGYL?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Cinturón ergonómico Velites para halterofilia negro",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 49.99,
+      "precio_actual": 27.08,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 22.91,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41PGvf1sWlL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C9DD2VYV?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Mochila BANGE ergonómica para portátil 15.6″",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 84,
+      "precio_actual": 52.41,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 31.59,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/415TtcGKpOL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09ZD8S6LL?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Smartwatch Huawei Watch FIT 3 1,82″ AMOLED",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 225.9,
+      "precio_actual": 88.02,
+      "descuento_porcentaje": 61,
+      "ahorro_euros": 137.88,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41VbolUE5-L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CYC72YW2?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
     {
       "titulo": "Auriculares gaming Razer BlackShark V3 X 270g",
       "condicion": "Estado: Muy Bueno",
