@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-21T13:01:32+02:00",
+  "actualizado": "2026-10-21T14:01:31+02:00",
   "ofertas": [
+    {
+      "titulo": "Báscula digital UNIWEIGH 200g precisión 0,01g",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 19.99,
+      "precio_actual": 8.68,
+      "descuento_porcentaje": 57,
+      "ahorro_euros": 11.31,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51ISHHpp3jL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0B5T1NLFK?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Radiodespertador Philips con doble alarma y brillo ajustable",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 27.99,
+      "precio_actual": 13.09,
+      "descuento_porcentaje": 53,
+      "ahorro_euros": 14.9,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/313fXc+1oXS.jpg",
+      "url_producto": "https://www.amazon.es/dp/B096XZHK49?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Bolsa de viaje Amazon Essentials 63,5cm ergonómica",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 36.5,
+      "precio_actual": 25.56,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 10.94,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31kdvlse-KL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DRZTKQWL?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Cámara vigilancia WOLFANG 2K 360° PTZ",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 24.99,
+      "precio_actual": 14.34,
+      "descuento_porcentaje": 43,
+      "ahorro_euros": 10.65,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41sRaUE0jCL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GSZJCYQ5?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Batería externa SBS 5000mAh USB-C Negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 14.99,
+      "precio_actual": 9.32,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 5.67,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21VbiL3ZDaL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DJP22PF8?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
     {
       "titulo": "Router Ubiquiti AmpliFi Alien WiFi 6",
       "condicion": "Estado: Como Nuevo",
