@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-22T15:01:40+02:00",
+  "actualizado": "2026-10-22T16:01:43+02:00",
   "ofertas": [
+    {
+      "titulo": "Monitor HP 27″ Full HD curvo 75Hz",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 342.22,
+      "precio_actual": 122.77,
+      "descuento_porcentaje": 64,
+      "ahorro_euros": 219.45,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51ZBbTnopaL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0B8PDJD3Z?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Hélices para dron DJI Flip 4.0×2.2″",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 18.99,
+      "precio_actual": 8.64,
+      "descuento_porcentaje": 55,
+      "ahorro_euros": 10.35,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31FtqaTW4XL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DN2356CM?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Cargador Apple USB-C 70W blanco",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 78.06,
+      "precio_actual": 54.17,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 23.89,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21ax-oMqAUL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DCP37V1Q?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Tocadiscos Victrola portátil con Bluetooth y 3 velocidades",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 99.99,
+      "precio_actual": 44.86,
+      "descuento_porcentaje": 55,
+      "ahorro_euros": 55.13,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/419WhS84ctL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DGMVJJQB?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Disco SSD Integral 512GB negro",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 145.91,
+      "precio_actual": 80.08,
+      "descuento_porcentaje": 45,
+      "ahorro_euros": 65.83,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/319P3glCMxL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0B2KKPX83?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
     {
       "titulo": "Procesador Intel Core2 Quad 2,4 GHz",
       "condicion": "Estado: Muy Bueno",
