@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-22T14:01:39+02:00",
+  "actualizado": "2026-10-22T15:01:40+02:00",
   "ofertas": [
+    {
+      "titulo": "Procesador Intel Core2 Quad 2,4 GHz",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 183.01,
+      "precio_actual": 49.28,
+      "descuento_porcentaje": 73,
+      "ahorro_euros": 133.73,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/417SvsRSWcL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B00180DQP2?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Soporte monitor RICOO elevador doble 100x26cm",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 54.98,
+      "precio_actual": 28.7,
+      "descuento_porcentaje": 48,
+      "ahorro_euros": 26.28,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31zfFHZBN7L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08Q8H5QMB?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Batidora personal Duronic 500W vaso 570 ml",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 24.99,
+      "precio_actual": 14.99,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 10,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41eW75mXwzL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BG662VQ3?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Paleta tenis de mesa STIGA carbono",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 108,
+      "precio_actual": 72.52,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 35.48,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41IIN3VRliL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B00EFY9F9E?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Temporizador Cuteefun hexagonal 60 min",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 19.99,
+      "precio_actual": 13.81,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 6.18,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31xIM+Av7+L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DP2NL2JK?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
     {
       "titulo": "Licuadora Moulinex 2L con programas automáticos",
       "condicion": "Estado: Como Nuevo",
