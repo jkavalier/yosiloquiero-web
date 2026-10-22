@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-22T11:01:37+02:00",
+  "actualizado": "2026-10-22T12:01:40+02:00",
   "ofertas": [
+    {
+      "titulo": "Ordenador portátil HP Chromebook 14″ 8GB RAM",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 429,
+      "precio_actual": 199.16,
+      "descuento_porcentaje": 54,
+      "ahorro_euros": 229.84,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31suuhenyHL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DBM72YV5?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Kit Pilates Fokky con barra ajustable y 6 gomas 20-180 LBS",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 30.99,
+      "precio_actual": 15.83,
+      "descuento_porcentaje": 49,
+      "ahorro_euros": 15.16,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51Io-Rg9nJL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F5X1F73B?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Altavoz Sharp PS-931 con micrófono y luces LED",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 146.79,
+      "precio_actual": 101.91,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 44.88,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/311vdK2eOSL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D41RYYND?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Luz nocturna Hama con sensor crepuscular RGB",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 14.99,
+      "precio_actual": 10.15,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 4.84,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/219o9aeQ2SL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DY33D1Z8?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Monitor ASUS ZenScreen 15.6″ portátil Full HD",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 159.67,
+      "precio_actual": 109.9,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 49.77,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41Ph9lWuQFL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0H3R5JN52?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "12:01"
+    },
     {
       "titulo": "Ventilador de cuello JISULIFE 4000 mAh",
       "condicion": "Estado: Muy Bueno",
