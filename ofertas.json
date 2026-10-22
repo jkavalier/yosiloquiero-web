@@ -1,6 +1,30 @@
 {
-  "actualizado": "2026-10-22T23:02:36+02:00",
+  "actualizado": "2026-10-22T23:03:03+02:00",
   "ofertas": [
+    {
+      "titulo": "Auriculares Sony MDR-MV1 de monitorización espacial",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 395,
+      "precio_actual": 270.31,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 124.69,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31hHl2pNL+L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C33VF7KM?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:03"
+    },
+    {
+      "titulo": "Robot aspirador Lefant M3 Max 20000Pa",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 999.99,
+      "precio_actual": 320.07,
+      "descuento_porcentaje": 68,
+      "ahorro_euros": 679.92,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41FGeLrTbWL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GQH7W41C?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:03"
+    },
     {
       "titulo": "Robot aspirador y fregasuelos Lefant 5500Pa",
       "condicion": "Estado: Como Nuevo",
