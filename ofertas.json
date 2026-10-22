@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-22T13:01:37+02:00",
+  "actualizado": "2026-10-22T14:01:39+02:00",
   "ofertas": [
+    {
+      "titulo": "Licuadora Moulinex 2L con programas automáticos",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 246.29,
+      "precio_actual": 111.16,
+      "descuento_porcentaje": 55,
+      "ahorro_euros": 135.13,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21qhzH93ytL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07X13DB9B?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Ventilador de techo M mimotec 132 cm blanco",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 119.99,
+      "precio_actual": 59.9,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 60.09,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31ZHoZMPguL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CCJSR1LR?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Batería externa Belkin 20000 mAh con pantalla",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 44.99,
+      "precio_actual": 30.06,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 14.93,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21ua49CEeaL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F4DZPSWJ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Sillón suelo ergonómico bonVIVO plegable",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 69.99,
+      "precio_actual": 46.86,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 23.13,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/414r6dYkkrL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08F7TBJQX?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Lámpara de lectura Energizer recargable USB",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 17.99,
+      "precio_actual": 11.23,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 6.76,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31+37b3vBBL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FQPPZ5TM?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
     {
       "titulo": "Cámara de seguridad Tapo con giro 360° y visión nocturna",
       "condicion": "Estado: Muy Bueno",
