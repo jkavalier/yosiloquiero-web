@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-22T12:01:40+02:00",
+  "actualizado": "2026-10-22T13:01:37+02:00",
   "ofertas": [
+    {
+      "titulo": "Cámara de seguridad Tapo con giro 360° y visión nocturna",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 51.99,
+      "precio_actual": 25.65,
+      "descuento_porcentaje": 51,
+      "ahorro_euros": 26.34,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41gJa8vcwQL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07XR2NWZC?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Filtros de agua Wessper 10 unidades compatibles BRITA",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 23.99,
+      "precio_actual": 16.82,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 7.17,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31zOKXq84tL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B072KRVCFC?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Altavoces PC GXTrust Javv con iluminación RGB",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 24.99,
+      "precio_actual": 13.63,
+      "descuento_porcentaje": 45,
+      "ahorro_euros": 11.36,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/61im9IZNnJL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CHK4V4XQ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Filtro purificador aire Krug & Priester 360° gris",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 151.45,
+      "precio_actual": 78.05,
+      "descuento_porcentaje": 48,
+      "ahorro_euros": 73.4,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/318HUELvXnL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07LGW68J2?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Router FRITZ!Box 7590 WiFi AC 1733 Mbps",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 309,
+      "precio_actual": 75.57,
+      "descuento_porcentaje": 76,
+      "ahorro_euros": 233.43,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31KPwewITLL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B071W8R4PS?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
     {
       "titulo": "Ordenador portátil HP Chromebook 14″ 8GB RAM",
       "condicion": "Estado: Muy Bueno",
