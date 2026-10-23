@@ -1,6 +1,90 @@
 {
-  "actualizado": "2026-10-23T21:02:37+02:00",
+  "actualizado": "2026-10-23T22:02:08+02:00",
   "ofertas": [
+    {
+      "titulo": "Cámara EVIL Sony Alpha 6100 enfoque 0.02s",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 744.9,
+      "precio_actual": 508.14,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 236.76,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41XEgpHFWfL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DPN615YM?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:02"
+    },
+    {
+      "titulo": "Memoria USB SanDisk Ultra Flair 64GB negro",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 15.99,
+      "precio_actual": 7.07,
+      "descuento_porcentaje": 56,
+      "ahorro_euros": 8.92,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31ZClWSgLzL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B015CH1NAQ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:02"
+    },
+    {
+      "titulo": "Ciclocomputador Wahoo Fitness ELEMNT Roam",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 479.26,
+      "precio_actual": 288.5,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 190.76,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41wrz245M2L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BGP9JBFJ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:02"
+    },
+    {
+      "titulo": "Pilas alcalinas Energizer Max 20 unidades AAA",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 13.95,
+      "precio_actual": 9.1,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 4.85,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51LKa4SRfuL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CHFP7XZ2?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:02"
+    },
+    {
+      "titulo": "Adaptador Powerline Devolo Magic 2 WiFi 6 3000 Mbps",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 219.9,
+      "precio_actual": 147.75,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 72.15,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/310rjzijbcL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FC7PZNXC?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:02"
+    },
+    {
+      "titulo": "Smartphone Samsung Galaxy A57 5G 256GB",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 659,
+      "precio_actual": 454.17,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 204.83,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41KKsj3YReL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GNNTX269?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:02"
+    },
+    {
+      "titulo": "Smartwatch Apple Watch Series 11 42mm GPS",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 504.95,
+      "precio_actual": 349.29,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 155.66,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41LjJ1zc3tL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FQGGF3L8?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:02"
+    },
     {
       "titulo": "Mesa portátil SAIJI ajustable 24-32 cm gris",
       "condicion": "Estado: Muy Bueno",
