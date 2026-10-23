@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-23T12:01:44+02:00",
+  "actualizado": "2026-10-23T13:01:53+02:00",
   "ofertas": [
+    {
+      "titulo": "Auriculares Plantronics Voyager 4310 mono negro",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 128.51,
+      "precio_actual": 37.02,
+      "descuento_porcentaje": 71,
+      "ahorro_euros": 91.49,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31c1a2Z2fDL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09BBWGM4T?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Router Talius RT-2100GLAN WiFi doble banda",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 54.65,
+      "precio_actual": 38.47,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 16.18,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31VKZwxSGpL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07KFNBK94?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Memoria RAM Crucial 8GB DDR3L 1600MHz",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 35.88,
+      "precio_actual": 23.21,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 12.67,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31Tu0ITu5hL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B008KSHQBU?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Calientacamas Imetec algodón 150x80 cm",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 94.99,
+      "precio_actual": 40.08,
+      "descuento_porcentaje": 58,
+      "ahorro_euros": 54.91,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41b443s6AfL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07Y8GR1WS?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Soporte ventosa cámara ULANZI 4.5″ hasta 3 kg",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 59.99,
+      "precio_actual": 30.12,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 29.87,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31MGQnnpbAL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BSVB2T66?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:01"
+    },
     {
       "titulo": "Memoria USB SanDisk Ultra Flair 256GB metal",
       "condicion": "Estado: Muy Bueno",
