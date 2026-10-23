@@ -1,6 +1,42 @@
 {
-  "actualizado": "2026-10-23T22:02:08+02:00",
+  "actualizado": "2026-10-23T23:01:12+02:00",
   "ofertas": [
+    {
+      "titulo": "Tarjeta gráfica ASUS Dual RTX 4060 8GB",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 655.65,
+      "precio_actual": 321.01,
+      "descuento_porcentaje": 51,
+      "ahorro_euros": 334.64,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41V5kBFS1tL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B086ZTB81P?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:01"
+    },
+    {
+      "titulo": "Batidora portátil KitchenAid 473ml negro",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 174.29,
+      "precio_actual": 87.45,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 86.84,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21uVc38-Q9L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D31FMCPN?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:01"
+    },
+    {
+      "titulo": "Smartphone Samsung Galaxy A56 5G 256GB Negro",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 529,
+      "precio_actual": 352.8,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 176.2,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31QmPHypumL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DWFZ7JCG?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:01"
+    },
     {
       "titulo": "Cámara EVIL Sony Alpha 6100 enfoque 0.02s",
       "condicion": "Estado: Como Nuevo",
