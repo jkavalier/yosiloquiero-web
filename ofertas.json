@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-23T15:01:53+02:00",
+  "actualizado": "2026-10-23T16:01:52+02:00",
   "ofertas": [
+    {
+      "titulo": "Repetidor Wi-Fi TP-Link doble banda 1750Mbps",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 59.9,
+      "precio_actual": 34.9,
+      "descuento_porcentaje": 42,
+      "ahorro_euros": 25,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41ZxwVvH+wL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B010RXXY48?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Auricular monoaural Jabra Evolve 20 con cancelación de ruido",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 45,
+      "precio_actual": 24.99,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 20.01,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31Tg1dtLKsL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B00O1A9BWI?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Altavoces exterior Pyle 6,5″ 500W resistentes agua",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 80.46,
+      "precio_actual": 43.83,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 36.63,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51qjN2+-VDL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B000NJDO4M?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Barra de sonido GXTrust Rhox con iluminación RGB",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 32.99,
+      "precio_actual": 14.84,
+      "descuento_porcentaje": 55,
+      "ahorro_euros": 18.15,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51PdXtKtcXL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FH252S5P?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Jarra filtrante BRITA 2,4L con 6 filtros MAXTRA PRO",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 97.46,
+      "precio_actual": 42.24,
+      "descuento_porcentaje": 57,
+      "ahorro_euros": 55.22,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41Q0XToLk8L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BT1K3HZT?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "16:01"
+    },
     {
       "titulo": "Soporte monitor ergonómico Ergounion hasta 40″",
       "condicion": "Estado: Muy Bueno",
