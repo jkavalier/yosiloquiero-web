@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-23T13:01:53+02:00",
+  "actualizado": "2026-10-23T14:27:26+02:00",
   "ofertas": [
+    {
+      "titulo": "Memoria USB Integral 32GB USB-C negro",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 18.9,
+      "precio_actual": 11.01,
+      "descuento_porcentaje": 42,
+      "ahorro_euros": 7.89,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31br3Cwx+OL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GS9H3229?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:27"
+    },
+    {
+      "titulo": "Cafetera de goteo Severin jarra de cristal beige",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 65.94,
+      "precio_actual": 28.7,
+      "descuento_porcentaje": 56,
+      "ahorro_euros": 37.24,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31E9ipKOKhL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DJ31Q78M?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:27"
+    },
+    {
+      "titulo": "Hervidor eléctrico Kenwood 0,5L acero inoxidable",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 62.73,
+      "precio_actual": 28.62,
+      "descuento_porcentaje": 54,
+      "ahorro_euros": 34.11,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31RLa7euzXL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B001R4Z2Y2?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:27"
+    },
+    {
+      "titulo": "Pelota de gimnasia Core Balance 55 cm antirreventón",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 19.99,
+      "precio_actual": 13.82,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 6.17,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41iVTPM0NfL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07R61Z2PG?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:27"
+    },
+    {
+      "titulo": "Batería externa Charmast 20000 mAh morada",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 43.9,
+      "precio_actual": 30.25,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 13.65,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/310nXgX-oNL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CQ8FHVD3?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:27"
+    },
     {
       "titulo": "Auriculares Plantronics Voyager 4310 mono negro",
       "condicion": "Estado: Muy Bueno",
