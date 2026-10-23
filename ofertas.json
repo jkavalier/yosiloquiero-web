@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-23T14:27:26+02:00",
+  "actualizado": "2026-10-23T15:01:53+02:00",
   "ofertas": [
+    {
+      "titulo": "Soporte monitor ergonómico Ergounion hasta 40″",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 124.99,
+      "precio_actual": 52.12,
+      "descuento_porcentaje": 58,
+      "ahorro_euros": 72.87,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51MtxFMWVJL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BR8W9T53?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Batidora Bosch 1200W jarra 1,5L Tritán",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 91.42,
+      "precio_actual": 63.86,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 27.56,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31Upgjx5W0L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08DHZB3YF?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Bolsa de viaje Eastpak 55x34x26 cm 41L",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 98.98,
+      "precio_actual": 61.98,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 37,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31xEqCEyUyL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07KY8Q9GC?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Lámpara nocturna LED Mr.Go 16 colores 6″",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 39.8,
+      "precio_actual": 20.19,
+      "descuento_porcentaje": 49,
+      "ahorro_euros": 19.61,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/414kft6YL8L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07FG7Q2SF?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Smartwatch Samsung Galaxy Watch4 40 mm oro rosa",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 158,
+      "precio_actual": 70.37,
+      "descuento_porcentaje": 55,
+      "ahorro_euros": 87.63,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/4185hOpMMvL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09QQGBHZS?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "15:01"
+    },
     {
       "titulo": "Memoria USB Integral 32GB USB-C negro",
       "condicion": "Estado: Muy Bueno",
