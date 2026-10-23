@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-23T08:01:33+02:00",
+  "actualizado": "2026-10-23T09:01:43+02:00",
   "ofertas": [
+    {
+      "titulo": "Trampolín fitness Relaxdays plegable 102 cm",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 99.99,
+      "precio_actual": 53.51,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 46.48,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31C-pBeBW4L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0G44VRPTP?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Cargador inalámbrico Belkin 2 en 1 15W negro",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 110.11,
+      "precio_actual": 58.59,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 51.52,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31CGEGhXPeL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DZCZ9KQD?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Adaptador universal Skross para más de 200 países",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 28.72,
+      "precio_actual": 17.18,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 11.54,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41xeviVcidL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09WMVBVHG?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Webcam Logitech StreamCam Full HD 60 fps",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 287.23,
+      "precio_actual": 114.19,
+      "descuento_porcentaje": 60,
+      "ahorro_euros": 173.04,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41ZSnUSnrgL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07W4DHS5B?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Set construcción LEGO Disney Princesa Bella 43177",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 109.45,
+      "precio_actual": 19.79,
+      "descuento_porcentaje": 82,
+      "ahorro_euros": 89.66,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51E7NLF4GWL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07W4KTD62?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
     {
       "titulo": "Reloj de pared HZDHCLH 30 cm silencioso",
       "condicion": "Estado: Muy Bueno",
