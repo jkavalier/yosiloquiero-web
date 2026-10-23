@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-23T10:01:38+02:00",
+  "actualizado": "2026-10-23T11:01:44+02:00",
   "ofertas": [
+    {
+      "titulo": "Cesta bici frontal TRIXIE para perros hasta 6 kg",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 132.73,
+      "precio_actual": 74.81,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 57.92,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41o7Qx6AEbL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07QN9GZXT?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Pilas alcalinas AAA Varta pack 40 uds",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 18.99,
+      "precio_actual": 11.29,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 7.7,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51yl1Ubd-3L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07P6XNG7D?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Reproductor multimedia 4K Strong Leap-S3 Pro 4GB+32GB",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 174.73,
+      "precio_actual": 68.7,
+      "descuento_porcentaje": 61,
+      "ahorro_euros": 106.03,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21VT7M0ZHbL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DVCQS477?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Smartwatch Samsung Galaxy Watch6 40mm dorado",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 229.99,
+      "precio_actual": 112.41,
+      "descuento_porcentaje": 51,
+      "ahorro_euros": 117.58,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31Qx3QulSXL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CLKCHNY1?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Arrancador auxiliar GYS 18000mAh 12V",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 138.99,
+      "precio_actual": 72.35,
+      "descuento_porcentaje": 48,
+      "ahorro_euros": 66.64,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41udZ3-BI5L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B00U7WRN6K?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
     {
       "titulo": "Calculadora científica Texas Instruments pantalla 4 líneas",
       "condicion": "Estado: Como Nuevo",
