@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-24T21:02:34+02:00",
+  "actualizado": "2026-10-24T22:01:58+02:00",
   "ofertas": [
+    {
+      "titulo": "Telescopio Celestron 100 mm con adaptador smartphone",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 399,
+      "precio_actual": 277,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 122,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31+o7U06UsL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B01L0EQPLC?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "Memoria USB Philips 32GB",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 15.65,
+      "precio_actual": 9.11,
+      "descuento_porcentaje": 42,
+      "ahorro_euros": 6.54,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41JKW+w3WpL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0047CPANE?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "Reloj de pared Yamazaki diseño japonés acero y madera",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 56.3,
+      "precio_actual": 23.93,
+      "descuento_porcentaje": 57,
+      "ahorro_euros": 32.37,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/417C0S+ofzL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07HCN2DNP?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "Tablet Blackview Mega 2 12GB RAM 256GB 12″ 2K",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 239.99,
+      "precio_actual": 136.13,
+      "descuento_porcentaje": 43,
+      "ahorro_euros": 103.86,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51NFfruFLWL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F9T7B765?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "Videoconferencia Logitech Group HD 1080p",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 498.95,
+      "precio_actual": 294.96,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 203.99,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/417pL1D3YQL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B01BL9JAQ8?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "22:01"
+    },
     {
       "titulo": "Micrófono USB HyperX SoloCast con sensor táctil",
       "condicion": "Estado: Como Nuevo",
