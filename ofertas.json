@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-24T09:01:38+02:00",
+  "actualizado": "2026-10-24T10:01:32+02:00",
   "ofertas": [
+    {
+      "titulo": "Auriculares gaming SteelSeries Arctis Nova 3X 40h batería",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 103.29,
+      "precio_actual": 64.74,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 38.55,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41YV4Y-FvxL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F6CVPVQQ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Accesorio bici para perros Trixie talla S–M",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 33.99,
+      "precio_actual": 21.32,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 12.67,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31dpUIpBJbL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B00121UG64?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Almohadilla ergonómica para barra CampTeck 44 cm",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 26.34,
+      "precio_actual": 13.35,
+      "descuento_porcentaje": 49,
+      "ahorro_euros": 12.99,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/415NDeQztrL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07CZC6MC8?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Radio despertador Karcher DAB 9000CDi con CD y WiFi negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 181.84,
+      "precio_actual": 98.44,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 83.4,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41TtFHWyZzL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07Y2K65BH?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Enchufe inteligente OSRAM WiFi Matter 2300W",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 63.99,
+      "precio_actual": 41.72,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 22.27,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/414P4Iz2FJL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DQVJM7YG?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "10:01"
+    },
     {
       "titulo": "Teclado Perixx compacto y ligero",
       "condicion": "Estado: Muy Bueno",
