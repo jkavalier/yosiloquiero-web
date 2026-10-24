@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-24T10:01:32+02:00",
+  "actualizado": "2026-10-24T11:01:38+02:00",
   "ofertas": [
+    {
+      "titulo": "Soporte manillar SP CONNECT Micro Stem negro",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 9.99,
+      "precio_actual": 7.02,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 2.97,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/211Q8SjyAwL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0B721LZ6Z?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Monitor Philips 32″ 4K UHD ergonómico negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 346.99,
+      "precio_actual": 188.87,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 158.12,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/419JpHU6OVL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DLGTKXTQ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Barra dominadas HandsOnic ajustable 65-95 cm",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 37.59,
+      "precio_actual": 25.9,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 11.69,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51BBFZ5wGHL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F59XVBS8?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Bandas de resistencia CFX 3 niveles antideslizantes",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 18.86,
+      "precio_actual": 12.6,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 6.26,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51ic0lND-cL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08RJ98P2N?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Reloj deportivo Garmin Instinct 2S resistente al agua",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 389.03,
+      "precio_actual": 211.17,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 177.86,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41R5NHLroQL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09MTNYT7B?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "11:01"
+    },
     {
       "titulo": "Auriculares gaming SteelSeries Arctis Nova 3X 40h batería",
       "condicion": "Estado: Muy Bueno",
