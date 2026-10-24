@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-10-24T17:02:40+02:00",
+  "actualizado": "2026-10-24T18:02:16+02:00",
   "ofertas": [
+    {
+      "titulo": "Timbre inalámbrico SURFOU alcance 400m",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 34.99,
+      "precio_actual": 21.64,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 13.35,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41kmnAcA5cL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DNJTWSPK?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "18:02"
+    },
+    {
+      "titulo": "Cargador USB C JBL 20W",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 101.23,
+      "precio_actual": 56.68,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 44.55,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/314y2bxqrAL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C7K256X8?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "18:02"
+    },
+    {
+      "titulo": "Tablet Samsung Galaxy Tab A11+ 256GB 8GB RAM",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 399,
+      "precio_actual": 279.56,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 119.44,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/415qNA3oqCL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0G157R16T?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "18:02"
+    },
+    {
+      "titulo": "Ducha de mano Hansgrohe cromada 12,2 cm",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 216.74,
+      "precio_actual": 101.05,
+      "descuento_porcentaje": 53,
+      "ahorro_euros": 115.69,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21xZTsDb3HL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07G61QDSW?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "18:02"
+    },
+    {
+      "titulo": "Patines Rollerblade RB Pro X talla 44.5",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 246.08,
+      "precio_actual": 167.63,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 78.45,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41iTC3YJZpL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08PDHT83T?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "18:02"
+    },
+    {
+      "titulo": "Mochila cabina Aerolite 40x20x25 cm ligera",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 25.26,
+      "precio_actual": 15.31,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 9.95,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41cQS23yIuL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07KCF3GLN?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "18:02"
+    },
+    {
+      "titulo": "Bandolera de cuero ergonómica befen para móvil hasta 6,7″",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 36.99,
+      "precio_actual": 19.11,
+      "descuento_porcentaje": 48,
+      "ahorro_euros": 17.88,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41KXWqlSPIL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08864QDZQ?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "18:02"
+    },
+    {
+      "titulo": "Smartphone Xiaomi 15T 256GB gris con lente Leica",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 649.9,
+      "precio_actual": 439.98,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 209.92,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41-DmoEYaGL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08N9PM7MT?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "18:02"
+    },
     {
       "titulo": "Gafas VR PlayStation con juego Horizon Call of The Mountain",
       "condicion": "Estado: Muy Bueno",
