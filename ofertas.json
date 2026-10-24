@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-24T12:01:32+02:00",
+  "actualizado": "2026-10-24T13:02:39+02:00",
   "ofertas": [
+    {
+      "titulo": "Soporte monitor bebé JAMUILS cuello de cisne",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 16.99,
+      "precio_actual": 11.89,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 5.1,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41MzO5RxzML.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DRV3BBKV?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:02"
+    },
+    {
+      "titulo": "Altavoces gaming 2.1 GXTrust Tytan 120 W",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 92.78,
+      "precio_actual": 56.26,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 36.52,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41Thw9ikAWL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B008C1BSZ0?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:02"
+    },
+    {
+      "titulo": "Router móvil Huawei 4G+ 300 Mbps",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 139.75,
+      "precio_actual": 74.76,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 64.99,
+      "valoracion": 4.5,
+      "imagen_url": "",
+      "url_producto": "https://www.amazon.es/dp/B0FKBFYBFB?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:02"
+    },
+    {
+      "titulo": "Patines K2 Marlee Pro talla 32-37 EU",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 143.56,
+      "precio_actual": 94.5,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 49.06,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/515SO1dHhxL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08GSMHXSP?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:02"
+    },
+    {
+      "titulo": "Despertador LEXIBOOK Pitufos con luz nocturna",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 34.99,
+      "precio_actual": 14.71,
+      "descuento_porcentaje": 58,
+      "ahorro_euros": 20.28,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41--OVvRdpL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F4XCD9KV?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "13:02"
+    },
     {
       "titulo": "Calculadora científica Casio FX-92PLUS College",
       "condicion": "Estado: Muy Bueno",
