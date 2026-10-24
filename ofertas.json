@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-24T22:01:58+02:00",
+  "actualizado": "2026-10-24T23:01:36+02:00",
   "ofertas": [
+    {
+      "titulo": "Base carga inalámbrica Belkin 3 en 1 Qi2 25W",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 150.47,
+      "precio_actual": 83.18,
+      "descuento_porcentaje": 45,
+      "ahorro_euros": 67.29,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31Qu+tFOHXL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GZWS85YV?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:01"
+    },
+    {
+      "titulo": "Billetera Kipling ligera plata",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 53.56,
+      "precio_actual": 25.77,
+      "descuento_porcentaje": 52,
+      "ahorro_euros": 27.79,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31HB4+J38yL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07TWSKLD1?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:01"
+    },
+    {
+      "titulo": "Batidora de vaso Philips 350W 0,6L",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 53.99,
+      "precio_actual": 33.47,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 20.52,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31SJfySePBL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09VLJ2PPR?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:01"
+    },
+    {
+      "titulo": "Tarjeta SD Samsung 512GB resistente",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 127.9,
+      "precio_actual": 60.59,
+      "descuento_porcentaje": 53,
+      "ahorro_euros": 67.31,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31ckXw22iYL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D1CHNC49?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:01"
+    },
+    {
+      "titulo": "Altavoz Bluetooth Squeak SQ1000 20W",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 48.99,
+      "precio_actual": 32.51,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 16.48,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41MsogTrD6L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CPLX76WV?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "23:01"
+    },
     {
       "titulo": "Telescopio Celestron 100 mm con adaptador smartphone",
       "condicion": "Estado: Muy Bueno",
