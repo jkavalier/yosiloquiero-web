@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-24T08:01:37+02:00",
+  "actualizado": "2026-10-24T09:01:38+02:00",
   "ofertas": [
+    {
+      "titulo": "Teclado Perixx compacto y ligero",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 46.2,
+      "precio_actual": 15.49,
+      "descuento_porcentaje": 66,
+      "ahorro_euros": 30.71,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41YLm0vw3vL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F6YHF165?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Lámpara de pie Briloner de madera con pantalla blanca",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 89.95,
+      "precio_actual": 33.7,
+      "descuento_porcentaje": 63,
+      "ahorro_euros": 56.25,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31+YyoVgsxL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07R8V2R95?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Grabadora DVD externa ORIGBELIE con adaptador Ethernet",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 45.99,
+      "precio_actual": 30.11,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 15.88,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41RwK+PGhbL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DDCGV89H?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Adaptador universal Skross 45W 2 puertos USB-C",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 55.11,
+      "precio_actual": 35.18,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 19.93,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41eKmyN60OL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CX5GZV1T?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Exprimidor Russell Hobbs acero inoxidable",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 37.12,
+      "precio_actual": 24.03,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 13.09,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31sHxmBb7EL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B00XVRL0WG?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "09:01"
+    },
     {
       "titulo": "Mando gaming CRKD NEO S Purple Wave 5 trastes",
       "condicion": "Estado: Como Nuevo",
