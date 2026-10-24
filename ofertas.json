@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-24T13:21:43+02:00",
+  "actualizado": "2026-10-24T14:01:32+02:00",
   "ofertas": [
+    {
+      "titulo": "Monitor bebé Babysense con 2 sensores",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 144.99,
+      "precio_actual": 98.15,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 46.84,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31bdkr9FLVL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07JWHLR7F?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Memoria USB Hama 32GB dual USB-C y USB-A",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 20.16,
+      "precio_actual": 10.6,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 9.56,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21L+2WGFdwL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C5JSHLXP?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Monitor ASUS 23,8″ IPS 100Hz negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 133.9,
+      "precio_actual": 94.24,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 39.66,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/3170hOmaDKL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CMDHMH4W?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Purificador aire Coway AIRMEGA 150 73m²",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 249.99,
+      "precio_actual": 166.59,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 83.4,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51qy1QJJslL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08YZF8LJS?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Regleta Brennenstuhl 3 tomas USB retráctil aluminio",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 42.99,
+      "precio_actual": 24.46,
+      "descuento_porcentaje": 43,
+      "ahorro_euros": 18.53,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/311l4AiqHQL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B01J5BGKZS?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "14:01"
+    },
     {
       "titulo": "Monitor gaming Iiyama 27″ QHD 240Hz",
       "condicion": "Estado: Como Nuevo",
