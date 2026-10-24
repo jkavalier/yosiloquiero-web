@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-24T19:02:28+02:00",
+  "actualizado": "2026-10-24T20:01:30+02:00",
   "ofertas": [
+    {
+      "titulo": "Monitor ASUS ProArt 24,1″ IPS 1920x1200",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 293.69,
+      "precio_actual": 198.41,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 95.28,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51ENmpFc8WL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BWKF89J4?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Monitor Dell 24″ Full HD IPS 100Hz blanco",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 189.95,
+      "precio_actual": 125.13,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 64.82,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/416Q2WPaHKL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CZ6G8WN7?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Batidora NutriBullet Ultra 1200W negro",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 149.9,
+      "precio_actual": 98.84,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 51.06,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31ZF9eyOS+L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F6YTJC71?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Smartphone HUAWEI Pura 80 Pro 512GB Negro",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 999,
+      "precio_actual": 696.07,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 302.93,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41a7wcD0baL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0G48F6W4B?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Consola portátil MSI Claw 8 AI+ 1TB SSD",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 1206.9,
+      "precio_actual": 848.86,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 358.04,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41XdTQxgRrL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DQ16LS96?tag=yosiloquiero-wa-21&ref=nosim",
+      "hora": "20:01"
+    },
     {
       "titulo": "Tienda de campaña Relaxdays unicornios 220x79 cm",
       "condicion": "Estado: Como Nuevo",
