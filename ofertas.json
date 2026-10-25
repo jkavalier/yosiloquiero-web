@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-25T11:01:12+01:00",
+  "actualizado": "2026-10-25T12:01:35+01:00",
   "ofertas": [
+    {
+      "titulo": "Router industrial Teltonika 4G LTE",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 217.2,
+      "precio_actual": 120.02,
+      "descuento_porcentaje": 45,
+      "ahorro_euros": 97.18,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31k12owzsDL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CLH3SC4Q?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Tablet Lenovo Tab M11 128GB 11″ 8GB RAM",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 349.99,
+      "precio_actual": 217.38,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 132.61,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41KxgnZ3OTL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D45M2SNB?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Pelota de gimnasia Core Balance 65 cm",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 21.99,
+      "precio_actual": 15.47,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 6.52,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41mUUPKYIzL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07R72CML3?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Mando a distancia radio 1 canal Schellenberg Blanco",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 54.99,
+      "precio_actual": 20.04,
+      "descuento_porcentaje": 64,
+      "ahorro_euros": 34.95,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31935XQxpwL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B00D03DCB8?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Reloj infantil VTech con cámara y podómetro",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 145.83,
+      "precio_actual": 89.88,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 55.95,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/411WnGB7q2L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B06WV87CL1?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
     {
       "titulo": "Calculadora científica Casio FX-82DE CW 310 funciones",
       "condicion": "Estado: Muy Bueno",
