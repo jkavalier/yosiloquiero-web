@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-25T14:01:34+01:00",
+  "actualizado": "2026-10-25T15:01:38+01:00",
   "ofertas": [
+    {
+      "titulo": "Disco duro externo LaCie Rugged 1TB naranja",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 135.15,
+      "precio_actual": 91.26,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 43.89,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/311zpVTZiyL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B01N7BN0YF?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Bolsa de viaje Osprey 90L con ruedas",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 279.58,
+      "precio_actual": 193.63,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 85.95,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31Kdxz0MxcL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D4QZVCQQ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Batidora Girmi 170W con cuchillas inox",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 32.98,
+      "precio_actual": 16.55,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 16.43,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31cnu5jPBZL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08FSZK8GJ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Monitor ASRock 32″ QHD 180Hz IPS",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 349.84,
+      "precio_actual": 232.07,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 117.77,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51MdzsqMUGL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GY18G5F5?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Cargador Apple USB-C 20W blanco",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 31.17,
+      "precio_actual": 18.43,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 12.74,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21YiadVxIgL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08L5TKW3?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
     {
       "titulo": "Jarra eléctrica Waterdrop 6 L ergonómica",
       "condicion": "Estado: Muy Bueno",
