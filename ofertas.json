@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-25T21:02:47+01:00",
+  "actualizado": "2026-10-25T21:03:11+01:00",
   "ofertas": [
+    {
+      "titulo": "Lámpara de pie Relaxdays estilo retro 155 cm",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 99.99,
+      "precio_actual": 57.59,
+      "descuento_porcentaje": 42,
+      "ahorro_euros": 42.4,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21h66bQdKrL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08X4VZB5G?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "21:03"
+    },
     {
       "titulo": "Organizador de escritorio SUPTIDY 5 compartimentos negro",
       "condicion": "Estado: Como Nuevo",
