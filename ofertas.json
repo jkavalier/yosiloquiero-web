@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-25T08:01:38+01:00",
+  "actualizado": "2026-10-25T09:01:40+01:00",
   "ofertas": [
+    {
+      "titulo": "Reloj despertador Majestic doble alarma LED",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 20.57,
+      "precio_actual": 12.26,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 8.31,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41z+C0Enw+S.jpg",
+      "url_producto": "https://www.amazon.es/dp/B081CZ9L1G?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Adaptador universal Skross para 200 países",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 19.56,
+      "precio_actual": 13.69,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 5.87,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41QQILBuL3L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08Y18WLZ8?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Enchufe inteligente OSRAM WiFi 2300W",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 17.99,
+      "precio_actual": 8.62,
+      "descuento_porcentaje": 52,
+      "ahorro_euros": 9.37,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/317wdl5tzkL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DQVJT2LY?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Pulsera de acero inoxidable Fossil plateada",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 49.71,
+      "precio_actual": 32.8,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 16.91,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31R2EGFveRL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D8QGH9T5?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Juego de construcción LEGO Creator 3en1 Barco Pirata 1260 piezas",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 165.16,
+      "precio_actual": 93.78,
+      "descuento_porcentaje": 43,
+      "ahorro_euros": 71.38,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51Z7XC9axDL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0858FSQ3M?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
     {
       "titulo": "Cama hinchable Intex doble con almohadas 152x203x25 cm",
       "condicion": "Estado: Muy Bueno",
