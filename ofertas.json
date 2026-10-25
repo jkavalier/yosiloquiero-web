@@ -1,6 +1,30 @@
 {
-  "actualizado": "2026-10-25T13:01:34+01:00",
+  "actualizado": "2026-10-25T13:48:33+01:00",
   "ofertas": [
+    {
+      "titulo": "Procesador Intel Core Ultra 5 225F 10 núcleos",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 260,
+      "precio_actual": 127.82,
+      "descuento_porcentaje": 51,
+      "ahorro_euros": 132.18,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41fCcQBM2cL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DT7CW7VR?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:48"
+    },
+    {
+      "titulo": "Placa base MSI B860M WiFi 7 DDR5 PCIe 5.0",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 565.3,
+      "precio_actual": 183.89,
+      "descuento_porcentaje": 67,
+      "ahorro_euros": 381.41,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41De7j8tqZL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DRWH2CG2?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:48"
+    },
     {
       "titulo": "Soporte pared monitor IMtKotW 17-32″ doble",
       "condicion": "Estado: Como Nuevo",
