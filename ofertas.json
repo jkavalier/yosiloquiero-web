@@ -1,6 +1,42 @@
 {
-  "actualizado": "2026-10-25T10:01:36+01:00",
+  "actualizado": "2026-10-25T11:01:12+01:00",
   "ofertas": [
+    {
+      "titulo": "Calculadora científica Casio FX-82DE CW 310 funciones",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 31.12,
+      "precio_actual": 17.49,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 13.63,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41x75CdTl-L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BWDQ685F?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Monitor curvo iiyama 34″ UWQHD negro",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 379,
+      "precio_actual": 239.68,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 139.32,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/410toMGrM+L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DVZM8ZM6?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Smartphone Motorola 256GB 5G",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 230.43,
+      "precio_actual": 160.78,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 69.65,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31JVuuXS68L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F7RHZ9Q4?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
     {
       "titulo": "Cámara deportiva GoPro HERO12 5.3K60 estabilizada",
       "condicion": "Estado: Muy Bueno",
