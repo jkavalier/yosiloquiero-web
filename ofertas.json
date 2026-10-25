@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-25T15:01:38+01:00",
+  "actualizado": "2026-10-25T16:01:34+01:00",
   "ofertas": [
+    {
+      "titulo": "Smartphone Samsung Galaxy A06 128GB Negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 160.43,
+      "precio_actual": 101.83,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 58.6,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41arFUf6UWL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DHLCDJNR?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Báscula inteligente Healthkeep con 15 métricas",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 41.39,
+      "precio_actual": 18.84,
+      "descuento_porcentaje": 54,
+      "ahorro_euros": 22.55,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41O4cuBGBoL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09YRNK4GP?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Barra de sonido Redragon Adiemus RGB",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 43.46,
+      "precio_actual": 29.78,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 13.68,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31ako0RhHkL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0999NHJQ6?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Altavoces estantería Jamo S7-15B con woofer 14 cm",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 260.11,
+      "precio_actual": 137.95,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 122.16,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31c+jUbXmbL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BS47H76Y?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Altavoz torre Energy Sistem 100W 2.1",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 129,
+      "precio_actual": 72.36,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 56.64,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21x3fbWuTnL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DHHFS61W?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:01"
+    },
     {
       "titulo": "Disco duro externo LaCie Rugged 1TB naranja",
       "condicion": "Estado: Como Nuevo",
