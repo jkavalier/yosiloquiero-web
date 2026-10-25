@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-10-25T18:02:41+01:00",
+  "actualizado": "2026-10-25T18:03:01+01:00",
   "ofertas": [
+    {
+      "titulo": "Figura Funko Pop Queen of Hearts",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 57.9,
+      "precio_actual": 23.6,
+      "descuento_porcentaje": 59,
+      "ahorro_euros": 34.3,
+      "valoracion": 4.9,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41KJeM6HCnL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B06Y5HB3SN?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "18:03"
+    },
     {
       "titulo": "Set LEGO Camioneta vintage años 50 1677 piezas",
       "condicion": "Estado: Como Nuevo",
