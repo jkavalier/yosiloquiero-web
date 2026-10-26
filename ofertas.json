@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-26T14:01:42+01:00",
+  "actualizado": "2026-10-26T15:01:50+01:00",
   "ofertas": [
+    {
+      "titulo": "Regleta Brennenstuhl 8 enchufes USB negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 49.99,
+      "precio_actual": 31.99,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 18,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41SkTnfW4-L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F1Z17DDT?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Mochila con ruedas Samsonite 45 cm",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 132.71,
+      "precio_actual": 69.29,
+      "descuento_porcentaje": 48,
+      "ahorro_euros": 63.42,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31CMMFZolYL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07KYRFJYD?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Batidora Magic Bullet 200W vaso 560ml",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 52.9,
+      "precio_actual": 37.03,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 15.87,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41lO3ks5sML.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CVLH1RHQ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Teleducha Hansa anticalcárea 95 mm",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 38.99,
+      "precio_actual": 17.6,
+      "descuento_porcentaje": 55,
+      "ahorro_euros": 21.39,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31j2M9jg1EL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B071VBXTXG?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Estantería metálica Simon Rack 180x80x30 cm",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 88.79,
+      "precio_actual": 42.9,
+      "descuento_porcentaje": 52,
+      "ahorro_euros": 45.89,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/314wIa1tdJL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0B42K2MHW?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
     {
       "titulo": "Auriculares OPPO Enco Free 2i ANC 42dB",
       "condicion": "Estado: Como Nuevo",
