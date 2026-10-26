@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-26T09:01:46+01:00",
+  "actualizado": "2026-10-26T10:01:38+01:00",
   "ofertas": [
+    {
+      "titulo": "Regleta Miratic con 2 USB y cable 1,5 m",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 47.49,
+      "precio_actual": 15.04,
+      "descuento_porcentaje": 68,
+      "ahorro_euros": 32.45,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31FDgkwlTKL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CQPFPFV8?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Ventilador portátil COKUNST con nebulización",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 25.99,
+      "precio_actual": 9.29,
+      "descuento_porcentaje": 64,
+      "ahorro_euros": 16.7,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41mcUNW-H4L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GRV1HQM2?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Cafetera cápsulas KRUPS Genio S 0,8L blanca",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 103,
+      "precio_actual": 64.92,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 38.08,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41OsXyjK33L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CG6BLJ37?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Cámara instantánea Polaroid Now+ Gen 3 16 fotos",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 169.99,
+      "precio_actual": 84.86,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 85.13,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41-NP9fQz6L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DTTPR5T3?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Router 4G HUAWEI 4 puertos Gigabit",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 146.68,
+      "precio_actual": 85.6,
+      "descuento_porcentaje": 42,
+      "ahorro_euros": 61.08,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21HIeGunr8S.jpg",
+      "url_producto": "https://www.amazon.es/dp/B083X1L1YK?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
     {
       "titulo": "Smartphone Samsung Galaxy A05s 64GB",
       "condicion": "Estado: Como Nuevo",
