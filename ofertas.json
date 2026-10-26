@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-26T12:01:41+01:00",
+  "actualizado": "2026-10-26T13:01:42+01:00",
   "ofertas": [
+    {
+      "titulo": "Guantes portero GK Saver corte negativo talla 8",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 59.65,
+      "precio_actual": 40.23,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 19.42,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41sCewQgbaL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07CWC34Z3?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Banco abdominal plegable InnovaGoods 120 kg",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 70.98,
+      "precio_actual": 48.77,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 22.21,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31+16QrG7RL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09VL8NK8Z?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Luz sensorial hexagonal Emberela 7 uds",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 79.97,
+      "precio_actual": 51.4,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 28.57,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41U6Jq81xRL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BCPNQDPD?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Aspiradora Bissell sin cable 200W 40 min autonomía",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 199.99,
+      "precio_actual": 115.71,
+      "descuento_porcentaje": 42,
+      "ahorro_euros": 84.28,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41Tvk+GQmFL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DPXQN7R1?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Pendrive SanDisk Extreme Pro 512GB negro",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 162.99,
+      "precio_actual": 94.49,
+      "descuento_porcentaje": 42,
+      "ahorro_euros": 68.5,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/216IMvayyNL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FCG1WFPY?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
     {
       "titulo": "Altavoz Bluetooth JAHAO con luz nocturna y carga inalámbrica",
       "condicion": "Estado: Como Nuevo",
