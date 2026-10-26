@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-10-26T19:31:51+01:00",
+  "actualizado": "2026-10-26T20:02:11+01:00",
   "ofertas": [
+    {
+      "titulo": "Maleta Disney Mickey 70L ABS 4 ruedas dobles",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 115,
+      "precio_actual": 65.22,
+      "descuento_porcentaje": 43,
+      "ahorro_euros": 49.78,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31gzzNTQmAL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BSSDLXRK?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:02"
+    },
+    {
+      "titulo": "Maleta HAUPTSTADTKOFFER Spree 3 uds plateada",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 299.95,
+      "precio_actual": 170.72,
+      "descuento_porcentaje": 43,
+      "ahorro_euros": 129.23,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/414KMsUWdEL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09F3HV1JT?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:02"
+    },
+    {
+      "titulo": "Base carga inalámbrica SP CONNECT magnética",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 54.97,
+      "precio_actual": 33.73,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 21.24,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31jfeIxl2NL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BBVJ688Q?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:02"
+    },
+    {
+      "titulo": "Base carga 3 en 1 Mukiya morado",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 39.99,
+      "precio_actual": 25.7,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 14.29,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/413oTdFjNwL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FXB2FK89?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:02"
+    },
+    {
+      "titulo": "Radio despertador TechniSat con carga inalámbrica",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 57.73,
+      "precio_actual": 23.22,
+      "descuento_porcentaje": 60,
+      "ahorro_euros": 34.51,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31BOPgiUVTL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09TWCL2XJ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:02"
+    },
+    {
+      "titulo": "Auricular inalámbrico Jabra Pro 920 negro",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 277.11,
+      "precio_actual": 119.42,
+      "descuento_porcentaje": 57,
+      "ahorro_euros": 157.69,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31EXpueEnKL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0069P3V3S?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:02"
+    },
+    {
+      "titulo": "Reloj de pared Nextime Station 35 cm blanco",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 59.5,
+      "precio_actual": 28.28,
+      "descuento_porcentaje": 52,
+      "ahorro_euros": 31.22,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41-m0wRmmWL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B00BQAGAIY?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:02"
+    },
+    {
+      "titulo": "Reloj pared TFA diseño rojo 40 cm",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 34.94,
+      "precio_actual": 20.06,
+      "descuento_porcentaje": 43,
+      "ahorro_euros": 14.88,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41AoGWel6yL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CK2JHS6K?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:02"
+    },
     {
       "titulo": "Tarjeta gráfica AMD Radeon Pro W7800 32GB",
       "condicion": "Estado: Muy Bueno",
