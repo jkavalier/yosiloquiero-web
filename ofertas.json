@@ -1,6 +1,90 @@
 {
-  "actualizado": "2026-10-26T19:02:20+01:00",
+  "actualizado": "2026-10-26T19:31:51+01:00",
   "ofertas": [
+    {
+      "titulo": "Tarjeta gráfica AMD Radeon Pro W7800 32GB",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 2586.38,
+      "precio_actual": 1775.02,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 811.36,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41y8Kgn3XaL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C5DLBMTP?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:31"
+    },
+    {
+      "titulo": "Módulo TPM 2.0 LiebeWH 12 pines",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 13.9,
+      "precio_actual": 6.41,
+      "descuento_porcentaje": 54,
+      "ahorro_euros": 7.49,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/415btKppuuL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09YDNMWS8?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:31"
+    },
+    {
+      "titulo": "Placa base Gigabyte B760 DS3H DDR4",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 181.67,
+      "precio_actual": 97.96,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 83.71,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51HFCtZNpgL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BPMHQ1ND?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:31"
+    },
+    {
+      "titulo": "Placa base Gigabyte Z790 Eagle AX DDR5",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 186.95,
+      "precio_actual": 103.45,
+      "descuento_porcentaje": 45,
+      "ahorro_euros": 83.5,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41wFC+kM-GL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CTMYKLL2?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:31"
+    },
+    {
+      "titulo": "Caja PC Mini ITX Thermaltake TR100 verde matcha",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 193.87,
+      "precio_actual": 104.18,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 89.69,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31EquI6K61L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DTKDMC98?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:31"
+    },
+    {
+      "titulo": "Caja PC Corsair Frame 5000D RS ARGB blanco",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 154.95,
+      "precio_actual": 85.53,
+      "descuento_porcentaje": 45,
+      "ahorro_euros": 69.42,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41e48TfJRBL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F3XMTVLV?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:31"
+    },
+    {
+      "titulo": "Caja PC Mini ITX Thermaltake TR100 negra",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 148.59,
+      "precio_actual": 91.79,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 56.8,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31HrUTyUxsL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DTKG2R93?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:31"
+    },
     {
       "titulo": "SSD externo SanDisk Extreme 500GB NVMe",
       "condicion": "Estado: Como Nuevo",
