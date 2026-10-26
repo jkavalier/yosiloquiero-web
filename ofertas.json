@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-26T13:01:42+01:00",
+  "actualizado": "2026-10-26T14:01:42+01:00",
   "ofertas": [
+    {
+      "titulo": "Auriculares OPPO Enco Free 2i ANC 42dB",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 39.2,
+      "precio_actual": 23.58,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 15.62,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31h1NV+uApL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0B88FZ5VM?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Regleta JSVER 8 tomas USB 4 puertos",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 24.99,
+      "precio_actual": 16.57,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 8.42,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41zZS+FOoFL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B096FJ6Z1Q?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Gafas de esquí HEAD talla L antivaho",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 70,
+      "precio_actual": 18.51,
+      "descuento_porcentaje": 74,
+      "ahorro_euros": 51.49,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31MaNmn0WdL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D5C3QFB6?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Kit fitness ZZGO con banda elástica y barra aluminio",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 46.99,
+      "precio_actual": 18.88,
+      "descuento_porcentaje": 60,
+      "ahorro_euros": 28.11,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41pOEffeFNL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0B185WDXF?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Cargador Samsung 25W USB-C blanco",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 29.95,
+      "precio_actual": 18.26,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 11.69,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/315Fa37YhVL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BC1RJ6NT?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
     {
       "titulo": "Guantes portero GK Saver corte negativo talla 8",
       "condicion": "Estado: Como Nuevo",
