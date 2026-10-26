@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-26T11:01:30+01:00",
+  "actualizado": "2026-10-26T12:01:41+01:00",
   "ofertas": [
+    {
+      "titulo": "Altavoz Bluetooth JAHAO con luz nocturna y carga inalámbrica",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 32.29,
+      "precio_actual": 20.47,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 11.82,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/414VdtTqNeL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BJDPYG1R?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Pulsera inteligente Xiaomi Smart Band 10 1,72″",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 77.29,
+      "precio_actual": 53.56,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 23.73,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31AxvU8MyML.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F2JHZCQQ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Monitor gaming ASUS TUF 27″ Full HD 180Hz",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 159.9,
+      "precio_actual": 91.52,
+      "descuento_porcentaje": 43,
+      "ahorro_euros": 68.38,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41wKniGNSvL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09T99RXPR?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Mando gaming 8Bitdo Bluetooth blanco",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 39.99,
+      "precio_actual": 26.46,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 13.53,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31lKdwMMwqL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DK6VCGBC?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Smart TV OLED LG 48C45LA 48″ 4K",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 1035.13,
+      "precio_actual": 562.84,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 472.29,
+      "valoracion": 4.9,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51Le9orQChL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F4KV8QZB?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
     {
       "titulo": "Tarjeta microSD SanDisk Extreme 512GB",
       "condicion": "Estado: Muy Bueno",
