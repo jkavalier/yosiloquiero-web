@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-26T08:01:42+01:00",
+  "actualizado": "2026-10-26T09:01:46+01:00",
   "ofertas": [
+    {
+      "titulo": "Smartphone Samsung Galaxy A05s 64GB",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 216.49,
+      "precio_actual": 99.7,
+      "descuento_porcentaje": 54,
+      "ahorro_euros": 116.79,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31nOpzcPf8L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CN137WV2?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Hervidor SEVERIN 1,5L 2200W negro",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 34.99,
+      "precio_actual": 14.99,
+      "descuento_porcentaje": 57,
+      "ahorro_euros": 20,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31u3Z6B3LmL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B06WVCXKLJ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Soporte portátil Razer ajustable hasta 18″ aluminio",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 69.99,
+      "precio_actual": 29.35,
+      "descuento_porcentaje": 58,
+      "ahorro_euros": 40.64,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31-UPTBPiDL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DV9WF826?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Set LEGO Botanicals Lirio de la Paz",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 59.99,
+      "precio_actual": 30.4,
+      "descuento_porcentaje": 49,
+      "ahorro_euros": 29.59,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/415t33B38JL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FPXCX4H7?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Calculadora científica Casio FX-991ES Plus 2ª edición",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 39.96,
+      "precio_actual": 27.51,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 12.45,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41UwiqzW6eL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0846D5CBP?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
     {
       "titulo": "Organizador escritorio Relaxdays 8 compartimentos",
       "condicion": "Estado: Muy Bueno",
