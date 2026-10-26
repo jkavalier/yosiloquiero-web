@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-26T22:02:35+01:00",
+  "actualizado": "2026-10-26T23:01:43+01:00",
   "ofertas": [
+    {
+      "titulo": "Gafas FPV DJI V2 transmisión HD baja latencia",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 841.95,
+      "precio_actual": 452.37,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 389.58,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31yEWuoDx7L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08SC8MVB1?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "23:01"
+    },
+    {
+      "titulo": "Maleta portátil Wenger 38,1cm ergonómica",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 145.99,
+      "precio_actual": 97.91,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 48.08,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41P3Euw0eFL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B002USMTWC?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "23:01"
+    },
+    {
+      "titulo": "Cafetera Braun 1000W con filtro de agua",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 90.09,
+      "precio_actual": 36.43,
+      "descuento_porcentaje": 60,
+      "ahorro_euros": 53.66,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21a+vpBhjcL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0727SMKNL?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "23:01"
+    },
+    {
+      "titulo": "Cafetera Moulinex 1.25 L programable",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 58.18,
+      "precio_actual": 30.61,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 27.57,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41RGKRn+jcS.jpg",
+      "url_producto": "https://www.amazon.es/dp/B00P0GE2D0?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "23:01"
+    },
+    {
+      "titulo": "Monocular Pentax VM 6x21 WP negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 279.97,
+      "precio_actual": 178.32,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 101.65,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31RZWUjIa-L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08DXTZ1RD?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "23:01"
+    },
     {
       "titulo": "SSD externo Lexar Armor 700 4TB negro",
       "condicion": "Estado: Muy Bueno",
