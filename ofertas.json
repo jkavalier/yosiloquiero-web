@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-26T15:01:50+01:00",
+  "actualizado": "2026-10-26T16:01:32+01:00",
   "ofertas": [
+    {
+      "titulo": "Maleta Rockland ABS expandible 22″",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 130.33,
+      "precio_actual": 67.09,
+      "descuento_porcentaje": 49,
+      "ahorro_euros": 63.24,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41UuDVK+eSL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B00Z70KYLS?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Bolsa playa Simple Modern 47x28x30cm",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 80.74,
+      "precio_actual": 54.8,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 25.94,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31-D2l+F7WL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C82W178W?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Cronómetro EXTECH resistente al agua",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 30.25,
+      "precio_actual": 13.62,
+      "descuento_porcentaje": 55,
+      "ahorro_euros": 16.63,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31sbPvrbSvL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0000WU1B6?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Chimenea eléctrica NETTA efecto llama real",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 115.22,
+      "precio_actual": 74.73,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 40.49,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41dS3V4c-fL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C69WK72W?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Silla gaming Drift Gaming reposabrazos 4D ergonómica",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 204,
+      "precio_actual": 110.84,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 93.16,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31icwccvIBL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0B4PN1X53?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:01"
+    },
     {
       "titulo": "Regleta Brennenstuhl 8 enchufes USB negro",
       "condicion": "Estado: Como Nuevo",
