@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-26T10:01:38+01:00",
+  "actualizado": "2026-10-26T11:01:30+01:00",
   "ofertas": [
+    {
+      "titulo": "Tarjeta microSD SanDisk Extreme 512GB",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 146.87,
+      "precio_actual": 39.35,
+      "descuento_porcentaje": 73,
+      "ahorro_euros": 107.52,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/413LN9U+WuL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09X7C2GBC?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Batería externa RORRY 10000mAh con cables integrados",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 40.91,
+      "precio_actual": 25.55,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 15.36,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31JOAje7j5L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D9D9ZNDQ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Pesas muñeca/tobillo TopEsct 2x0.45kg ajustables",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 22.32,
+      "precio_actual": 15.62,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 6.7,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31xonuFESuS.jpg",
+      "url_producto": "https://www.amazon.es/dp/B093GP49HH?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Pilas Energizer Max AA 20 unidades",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 13.95,
+      "precio_actual": 9.52,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 4.43,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51J+p9sYN5L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CHBQF1Z9?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Monitor gaming Samsung Odyssey G30D 27″ 180Hz",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 208.16,
+      "precio_actual": 109.04,
+      "descuento_porcentaje": 48,
+      "ahorro_euros": 99.12,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41rGJlUtheL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D31Q1BQZ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
     {
       "titulo": "Regleta Miratic con 2 USB y cable 1,5 m",
       "condicion": "Estado: Como Nuevo",
