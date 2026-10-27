@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-27T08:01:40+01:00",
+  "actualizado": "2026-10-27T09:01:43+01:00",
   "ofertas": [
+    {
+      "titulo": "Smartwatch Samsung Galaxy Watch 4 44mm",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 328.9,
+      "precio_actual": 114.46,
+      "descuento_porcentaje": 65,
+      "ahorro_euros": 214.44,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41Tj9OPzEeL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09QSQ53ZB?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Pelota de ejercicio ProBody Pilates 65 cm",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 41.2,
+      "precio_actual": 28.41,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 12.79,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/419MNc88YbL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07PH2P42F?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Router Tenda N300 con antenas 5dBi",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 30.47,
+      "precio_actual": 12.43,
+      "descuento_porcentaje": 59,
+      "ahorro_euros": 18.04,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41CYteAAGLL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B01CA5SN1K?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Altavoces gaming Mars Gaming con subwoofer 10W",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 10.99,
+      "precio_actual": 6.61,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 4.38,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41sH32UrfuL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B00KDA4HYW?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Auriculares Paekole con traducción en 198 idiomas",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 145.99,
+      "precio_actual": 59.08,
+      "descuento_porcentaje": 60,
+      "ahorro_euros": 86.91,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51ikBJu0aBL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FQ5QGNSZ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
     {
       "titulo": "Auriculares Sony con micrófono y mando",
       "condicion": "Estado: Muy Bueno",
