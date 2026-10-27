@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-27T10:01:37+01:00",
+  "actualizado": "2026-10-27T11:01:44+01:00",
   "ofertas": [
+    {
+      "titulo": "Tarjeta microSD Lexar 128GB hasta 100MB/s",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 32.99,
+      "precio_actual": 10.2,
+      "descuento_porcentaje": 69,
+      "ahorro_euros": 22.79,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41iJ6Gw3BuL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08XZ7FXGR?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Mochila Pepe Jeans ergonómica 15,6″ rosa",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 54.99,
+      "precio_actual": 25.24,
+      "descuento_porcentaje": 54,
+      "ahorro_euros": 29.75,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31DJutd3hAL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D7WF961K?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Mochila NEVEQ ergonómica con USB púrpura",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 41,
+      "precio_actual": 27.71,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 13.29,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51ibBmx5xxL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07VDTB5HJ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Camiseta Funko con minifigura SpongeBob",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 37.7,
+      "precio_actual": 8.1,
+      "descuento_porcentaje": 79,
+      "ahorro_euros": 29.6,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41l7b98RIzL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09M8RKLY4?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Soporte monitor WALI para pantallas 13-32″",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 32.88,
+      "precio_actual": 22.56,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 10.32,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41heNrQcQjL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0779JSRH5?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
     {
       "titulo": "Auriculares Belkin resistentes a caídas 85 dB",
       "condicion": "Estado: Muy Bueno",
