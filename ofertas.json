@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-27T15:02:05+01:00",
+  "actualizado": "2026-10-27T16:02:05+01:00",
   "ofertas": [
+    {
+      "titulo": "Tarjeta microSD Silicon Power 1TB UHS 3",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 189.99,
+      "precio_actual": 83.26,
+      "descuento_porcentaje": 56,
+      "ahorro_euros": 106.73,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/411w6WrDu+L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08NCDG9X9?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:02"
+    },
+    {
+      "titulo": "Lámpara monitor Quntis 41cm con mando",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 49.99,
+      "precio_actual": 25.89,
+      "descuento_porcentaje": 48,
+      "ahorro_euros": 24.1,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31sB9eHtciL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08DKQ3JG1?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:02"
+    },
+    {
+      "titulo": "Batidora Bosch ErgoMixx 600W con picador",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 49.99,
+      "precio_actual": 34.17,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 15.82,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31H8AGUOEUL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B007KIVDLK?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:02"
+    },
+    {
+      "titulo": "Reloj proyector LEXIBOOK Mario Kart",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 44.99,
+      "precio_actual": 28.47,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 16.52,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51Eo8ougPeL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08HVJTYJM?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:02"
+    },
+    {
+      "titulo": "Hub USB DIGITUS 7 puertos alta velocidad",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 36.39,
+      "precio_actual": 13.39,
+      "descuento_porcentaje": 63,
+      "ahorro_euros": 23,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41u-HDEEA0L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B009RYCT40?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:02"
+    },
     {
       "titulo": "Linterna camping Lepro 1000 lúmenes",
       "condicion": "Estado: Muy Bueno",
