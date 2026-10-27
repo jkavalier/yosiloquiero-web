@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-27T11:01:44+01:00",
+  "actualizado": "2026-10-27T12:01:42+01:00",
   "ofertas": [
+    {
+      "titulo": "Disco duro externo Western Digital 2TB",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 210,
+      "precio_actual": 92.82,
+      "descuento_porcentaje": 56,
+      "ahorro_euros": 117.18,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31GkVh9Ub0L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07GKFHVC5?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Organizador maleta OSDUE 8 en 1 gris",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 14.49,
+      "precio_actual": 8.58,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 5.91,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41f1Ybw+ajL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BBZWY8KF?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Mini nevera SENSIOHOME 10L fría/caliente",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 105.03,
+      "precio_actual": 59.87,
+      "descuento_porcentaje": 43,
+      "ahorro_euros": 45.16,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41gajsJRZ0L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B083FWS986?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Auriculares HUAWEI FreeBuds 6 morado",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 146.99,
+      "precio_actual": 68.2,
+      "descuento_porcentaje": 54,
+      "ahorro_euros": 78.79,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41SR2i7AFfL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F68YX7TS?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Hamaca radiador para gatos lionto beige",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 32.05,
+      "precio_actual": 18.71,
+      "descuento_porcentaje": 42,
+      "ahorro_euros": 13.34,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/314xfH6I-qL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B082SZ3YZV?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
     {
       "titulo": "Tarjeta microSD Lexar 128GB hasta 100MB/s",
       "condicion": "Estado: Muy Bueno",
