@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-27T12:01:42+01:00",
+  "actualizado": "2026-10-27T13:01:54+01:00",
   "ofertas": [
+    {
+      "titulo": "Soporte móvil moto iMESTOU Negro 3,5-6,1″",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 50.99,
+      "precio_actual": 14.33,
+      "descuento_porcentaje": 72,
+      "ahorro_euros": 36.66,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41FSLSyxZWL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09JP69KHG?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Calientacamas Beurer XXL 150x160cm ergonómico",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 257.54,
+      "precio_actual": 118.37,
+      "descuento_porcentaje": 54,
+      "ahorro_euros": 139.17,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31hyxsD5sbL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B00GSQJQWS?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Despertador LEXIBOOK con proyector Harry Potter",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 44.99,
+      "precio_actual": 25.15,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 19.84,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41a5F5DCBDL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FWKB6GPQ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Auriculares EarFun volumen limitado 85dB",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 21.99,
+      "precio_actual": 11.61,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 10.38,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41eFyN5UwlL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DDT9HVR2?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Almohadillas SOULWIT para Sony WH-XB910N gel refrigerante",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 23.95,
+      "precio_actual": 12.57,
+      "descuento_porcentaje": 48,
+      "ahorro_euros": 11.38,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/414TRYhASmL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CXT4HPRV?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
     {
       "titulo": "Disco duro externo Western Digital 2TB",
       "condicion": "Estado: Muy Bueno",
