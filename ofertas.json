@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-28T15:01:41+01:00",
+  "actualizado": "2026-10-28T15:04:57+01:00",
   "ofertas": [
+    {
+      "titulo": "Power Bank Hama 20.000 mAh USB-C y 2 USB-A",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 27.34,
+      "precio_actual": 13.93,
+      "descuento_porcentaje": 49,
+      "ahorro_euros": 13.41,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31su5-+zXtL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CYN6KNF2?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:04"
+    },
+    {
+      "titulo": "Regleta TESSAN 8 enchufes 4 USB 5m gris",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 37.99,
+      "precio_actual": 26.37,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 11.62,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31KwGsb4M3L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CKPTM6Z2?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:04"
+    },
+    {
+      "titulo": "Mochila Outplea 15.6″ ergonómica rosa",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 49.31,
+      "precio_actual": 34.48,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 14.83,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31FLk4xcd2L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DZ6L8CVQ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:04"
+    },
+    {
+      "titulo": "Guantes fitness Silverton XXL ergonómicos",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 29.99,
+      "precio_actual": 16.07,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 13.92,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51E2eBrVksL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B007X1FU72?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:04"
+    },
+    {
+      "titulo": "Alcoholímetro ACE A precisión 99,8%",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 89.4,
+      "precio_actual": 54.65,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 34.75,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/318sbByt4BL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B014DQ78MY?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:04"
+    },
     {
       "titulo": "Base conexión Sigma L-Mount UD-11",
       "condicion": "Estado: Muy Bueno",
