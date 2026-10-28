@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-28T09:01:47+01:00",
+  "actualizado": "2026-10-28T10:01:45+01:00",
   "ofertas": [
+    {
+      "titulo": "Bombilla LED Philips Hue E27 multicolor",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 84.99,
+      "precio_actual": 59.73,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 25.26,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41U9KPJsTML.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BFWT4BF1?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Regleta Electraline 3 enchufes + 3 USB 2m",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 43.98,
+      "precio_actual": 30.96,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 13.02,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41Ho3NoOWhL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CH8JCZ3R?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Microondas Panasonic 31L con grill y plato 340mm",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 419.99,
+      "precio_actual": 138.81,
+      "descuento_porcentaje": 67,
+      "ahorro_euros": 281.18,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31aNm7wTP7L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07QJZJ2DH?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Cadenas nieve textil Enerfero XXL",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 39.99,
+      "precio_actual": 16.48,
+      "descuento_porcentaje": 59,
+      "ahorro_euros": 23.51,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41oSHVWGBnL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BQ7KGB3F?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Telémetro láser Bosch GLM 50-25 G verde",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 170.8,
+      "precio_actual": 120.29,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 50.51,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/311qVEzbiZL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09QC8QGZM?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
     {
       "titulo": "Teléfono móvil Emporia botón emergencia",
       "condicion": "Estado: Muy Bueno",
