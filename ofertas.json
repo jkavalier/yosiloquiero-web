@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-28T08:01:38+01:00",
+  "actualizado": "2026-10-28T09:01:47+01:00",
   "ofertas": [
+    {
+      "titulo": "Teléfono móvil Emporia botón emergencia",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 104.77,
+      "precio_actual": 64.51,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 40.26,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31JythaDqrL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08NXWRVV2?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Mochila Inateck 20L ergonómica para portátil 15,6″",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 69.99,
+      "precio_actual": 44.79,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 25.2,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41nTR02NSjL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09NJHDB15?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Lámpara LED con despertador INSSISAIN 10 sonidos",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 49.99,
+      "precio_actual": 25.11,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 24.88,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/515MPV88ILL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C77RQMHN?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Firewall ZYXEL USGFLEX100H 25 usuarios",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 676.75,
+      "precio_actual": 230.04,
+      "descuento_porcentaje": 66,
+      "ahorro_euros": 446.71,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41gM-NkCNwL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C3X98ZLN?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Set LEGO Casco F1 Charles Leclerc",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 71.99,
+      "precio_actual": 46.93,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 25.06,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/411bv4++bhL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FPXFDFV8?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
     {
       "titulo": "Tocadiscos Energy Sistem Bluetooth 33/45/78 RPM",
       "condicion": "Estado: Como Nuevo",
