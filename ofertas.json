@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-28T13:01:39+01:00",
+  "actualizado": "2026-10-28T14:01:48+01:00",
   "ofertas": [
+    {
+      "titulo": "Cinturón powerlifting SINOVATI cuero 10 cm",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 69.49,
+      "precio_actual": 33.71,
+      "descuento_porcentaje": 51,
+      "ahorro_euros": 35.78,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41+nErkfPCL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07VB5P1N7?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Estación fitness Sportsroyals hasta 204 kg",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 139.99,
+      "precio_actual": 98.07,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 41.92,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41HFAE80bwL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DJSYBQWS?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Chaleco lastrado RUNmax hasta 63,5 kg",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 148.51,
+      "precio_actual": 33.39,
+      "descuento_porcentaje": 78,
+      "ahorro_euros": 115.12,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41Ul0Sy8cQL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B01AJ12ML4?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Monitor gaming Z-Edge 27″ 280Hz curvo blanco",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 169.99,
+      "precio_actual": 117.75,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 52.24,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41v8MItUWiL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F8V96S8G?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Grabadora digital OM SYSTEM 4GB memoria interna",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 115.16,
+      "precio_actual": 48.68,
+      "descuento_porcentaje": 58,
+      "ahorro_euros": 66.48,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41Ju2Zp+hhL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BZ14B3CS?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
     {
       "titulo": "Smartphone Xiaomi Redmi 15 128GB morado",
       "condicion": "Estado: Como Nuevo",
