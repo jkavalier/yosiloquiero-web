@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-28T11:01:43+01:00",
+  "actualizado": "2026-10-28T12:01:37+01:00",
   "ofertas": [
+    {
+      "titulo": "SSD externo SanDisk 1TB resistente a golpes",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 223.23,
+      "precio_actual": 126.08,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 97.15,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41slAHwfDaL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F4RM3WZS?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Portabebés Momcozy ergonómico con asiento cadera gris",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 77.02,
+      "precio_actual": 54.13,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 22.89,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41SjoqgB94L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CJCGC7C8?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Webcam Logitech StreamCam Full HD 60 fps",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 280,
+      "precio_actual": 155.19,
+      "descuento_porcentaje": 45,
+      "ahorro_euros": 124.81,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41CU-up9vfL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07W4DHNBF?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Bicicleta estática Cecotec plegable 3 kg inercia",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 109,
+      "precio_actual": 76.13,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 32.87,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31bunS0vQ-L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BQ1XLHC1?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Panificadora Moulinex 17 programas 1Kg",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 138.21,
+      "precio_actual": 90.72,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 47.49,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/313gr7NN6QL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B01CHVXOIO?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
     {
       "titulo": "Cámara instantánea Polaroid Now Gen 3 edición MoMA",
       "condicion": "Estado: Muy Bueno",
