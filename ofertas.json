@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-29T08:01:46+01:00",
+  "actualizado": "2026-10-29T09:01:37+01:00",
   "ofertas": [
+    {
+      "titulo": "Bombilla LED WiZ Vela E14 4.9W RGB",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 34.8,
+      "precio_actual": 13.23,
+      "descuento_porcentaje": 62,
+      "ahorro_euros": 21.57,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41bWwrIDADL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08HLP59MD?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Panel solar monocristalino enjoy solar 150W 36V",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 101.95,
+      "precio_actual": 49.68,
+      "descuento_porcentaje": 51,
+      "ahorro_euros": 52.27,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41LZEBwU4LL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0893Y9RCT?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Monitor MSI 23,8″ Full HD 100Hz",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 140.62,
+      "precio_actual": 72.68,
+      "descuento_porcentaje": 48,
+      "ahorro_euros": 67.94,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41x6hQ8pB3L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BV2CPF1M?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Set LEGO Disney Princesas Anna y Elsa 133p",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 95.01,
+      "precio_actual": 21.96,
+      "descuento_porcentaje": 77,
+      "ahorro_euros": 73.05,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51sbvrJ6u6L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07W6QB979?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Soporte monitor suptek ajustable 27″ blanco",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 29.99,
+      "precio_actual": 15.42,
+      "descuento_porcentaje": 49,
+      "ahorro_euros": 14.57,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21kk9F-SepL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0G51PZ669?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
     {
       "titulo": "Tarjeta microSD Kingston Industrial 8GB pSLC",
       "condicion": "Estado: Como Nuevo",
