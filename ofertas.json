@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-29T09:01:37+01:00",
+  "actualizado": "2026-10-29T10:01:42+01:00",
   "ofertas": [
+    {
+      "titulo": "Disco duro externo Toshiba 2TB USB 3.2",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 125.67,
+      "precio_actual": 69.51,
+      "descuento_porcentaje": 45,
+      "ahorro_euros": 56.16,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31L3enuP8AL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BMGTK46D?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Cámara vigilancia ABUS EasyLook con giro e inclinación",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 199,
+      "precio_actual": 76.82,
+      "descuento_porcentaje": 61,
+      "ahorro_euros": 122.18,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31nhxSXksQL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D2RSMLVT?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Regleta Brennenstuhl 5 enchufes 2 USB blanco",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 20.4,
+      "precio_actual": 14.17,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 6.23,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31otAfRYL8L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07K785MZN?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Teclado MIDI M-AUDIO Oxygen 61 MKV 61 teclas",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 169,
+      "precio_actual": 94.19,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 74.81,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41dn7SnSArL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B092XDPSXM?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Cama mascota Ferplast ergonómica 80x50cm marrón",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 78.7,
+      "precio_actual": 51.88,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 26.82,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/413Ep+PVvKL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B00BEF0TTM?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
     {
       "titulo": "Bombilla LED WiZ Vela E14 4.9W RGB",
       "condicion": "Estado: Muy Bueno",
