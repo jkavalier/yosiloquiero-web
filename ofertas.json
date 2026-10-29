@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-29T14:01:38+01:00",
+  "actualizado": "2026-10-29T15:01:40+01:00",
   "ofertas": [
+    {
+      "titulo": "Báscula OMRON diseño extraplano turquesa",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 25.66,
+      "precio_actual": 18.03,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 7.63,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31KBSrHDGzL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B00HEDASU8?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Cargador portátil RORRY 5000 mAh con cable",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 37.05,
+      "precio_actual": 25.47,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 11.58,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41Xq7sIYCuL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D9HC15Q3?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Auriculares Beats PowerBeats Pro 2 con sensor cardíaco",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 109.68,
+      "precio_actual": 73.14,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 36.54,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31BmJQMBscL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DT4VXDXM?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Tablet Lenovo Idea Tab 11″ 2.5K 8GB+256GB",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 371.67,
+      "precio_actual": 218.91,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 152.76,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31Ann2X909L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FCM85YXY?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Monitor Philips 24″ curvo 1500R Full HD",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 121.16,
+      "precio_actual": 71.24,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 49.92,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41KCwAcZGHL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07YN77C3R?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
     {
       "titulo": "Pulsera actividad Fitbit Charge 6 7 días batería",
       "condicion": "Estado: Muy Bueno",
