@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-29T12:01:39+01:00",
+  "actualizado": "2026-10-29T13:01:36+01:00",
   "ofertas": [
+    {
+      "titulo": "Smartwatch HUAWEI Band 9 1,47″ rosa",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 69,
+      "precio_actual": 48.02,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 20.98,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41nyal96+sL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CYBWWX8Y?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Calientacamas Imetec 150×120 cm algodón",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 178.91,
+      "precio_actual": 105.05,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 73.86,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41b443s6AfL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07Y8FDGDQ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Unidad DVD externa ASUS ZenDrive V1M USB-C",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 46.99,
+      "precio_actual": 32.76,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 14.23,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31Yys4Y34pL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09RFH7B4B?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Monitor gaming ASUS TUF 27″ Full HD 240Hz",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 171.73,
+      "precio_actual": 119.5,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 52.23,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41q4cNwN7OL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0B6JLST8M?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Altavoz suelo Polk Audio XT60 6.5″",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 243.15,
+      "precio_actual": 135.56,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 107.59,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21i5zIU9F0L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09BMX2DQN?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
     {
       "titulo": "Proyector PVO YG300ProMax inalámbrico",
       "condicion": "Estado: Como Nuevo",
