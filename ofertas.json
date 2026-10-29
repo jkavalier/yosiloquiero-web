@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-29T11:01:37+01:00",
+  "actualizado": "2026-10-29T12:01:39+01:00",
   "ofertas": [
+    {
+      "titulo": "Proyector PVO YG300ProMax inalámbrico",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 79.99,
+      "precio_actual": 43.77,
+      "descuento_porcentaje": 45,
+      "ahorro_euros": 36.22,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41A+3r+62EL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D2MR2VHC?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Lámpara infantil GIACOMO silicona recargable",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 19.99,
+      "precio_actual": 11.2,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 8.79,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31LBg1PYDiL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CDPWPJGG?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Consola Nintendo Switch Lite gris",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 380.16,
+      "precio_actual": 209.99,
+      "descuento_porcentaje": 45,
+      "ahorro_euros": 170.17,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41KvYsEj00L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07V5JHK4?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Pendrive PNY 32GB USB 3.0 gris",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 34.8,
+      "precio_actual": 19.9,
+      "descuento_porcentaje": 43,
+      "ahorro_euros": 14.9,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41Xo8yNs2gL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B075D2LB9T?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Altavoz Bluetooth Pyle con trípode y bolsa",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 129.99,
+      "precio_actual": 77.02,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 52.97,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41aOSz8Bu0L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DNGFZWZ7?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
     {
       "titulo": "Webcam Elgato Facecam Full HD 60 fps",
       "condicion": "Estado: Muy Bueno",
