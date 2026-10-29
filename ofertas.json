@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-29T15:01:40+01:00",
+  "actualizado": "2026-10-29T16:01:41+01:00",
   "ofertas": [
+    {
+      "titulo": "Maleta cabina Disney Minnie 34L ABS 38x55x20 cm",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 99.99,
+      "precio_actual": 41.15,
+      "descuento_porcentaje": 59,
+      "ahorro_euros": 58.84,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41g4fPwkNPL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BH52LD6R?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Cartera conisy cuero suave protección RFID",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 27.89,
+      "precio_actual": 14.39,
+      "descuento_porcentaje": 48,
+      "ahorro_euros": 13.5,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51Q9Fm201bL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07SJYTWNV?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Mancuernas U Can 2x4,5 kg hexagonales",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 33.99,
+      "precio_actual": 23.84,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 10.15,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31eTnGoKn3L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CLH89S5Y?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Pilas Duracell Plus AAA alcalinas 18 uds",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 19.99,
+      "precio_actual": 13.33,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 6.66,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51Vd2A-VEaL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B094R6BDN6?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Cable USB Samsung carga rápida 1,8 m",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 31.77,
+      "precio_actual": 22.3,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 9.47,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31vSM50zNeL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CWXQ1LSW?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:01"
+    },
     {
       "titulo": "Báscula OMRON diseño extraplano turquesa",
       "condicion": "Estado: Muy Bueno",
