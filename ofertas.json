@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-30T11:02:05+01:00",
+  "actualizado": "2026-10-30T12:01:47+01:00",
   "ofertas": [
+    {
+      "titulo": "Teclado y ratón inalámbricos CHERRY DW 3000",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 37.98,
+      "precio_actual": 22.84,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 15.14,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/312wkcfDSrL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07J375H5J?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Teclado gaming Turtle Beach Vulcan II Mini Air",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 179.99,
+      "precio_actual": 68.42,
+      "descuento_porcentaje": 62,
+      "ahorro_euros": 111.57,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31tAsHG0VhL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D185QNM7?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Juego Nintendo Switch Ubisoft Monopoly + Madness",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 72.36,
+      "precio_actual": 29.63,
+      "descuento_porcentaje": 59,
+      "ahorro_euros": 42.73,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51ku4GJzzHL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09LVGGZWF?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Funda Nintendo Switch Lite con protector",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 43.75,
+      "precio_actual": 20.15,
+      "descuento_porcentaje": 54,
+      "ahorro_euros": 23.6,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31309+MTsaL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07V5JKSQ1?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Auriculares gaming Turtle Beach Airlite Fit",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 23.99,
+      "precio_actual": 12.89,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 11.1,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31n52o8F7DL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FDTLRZSH?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
     {
       "titulo": "Figura Funko Pop Eleven Stranger Things edición luz negra",
       "condicion": "Estado: Como Nuevo",
