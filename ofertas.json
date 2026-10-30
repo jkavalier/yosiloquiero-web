@@ -1,6 +1,54 @@
 {
-  "actualizado": "2026-10-30T10:01:36+01:00",
+  "actualizado": "2026-10-30T11:01:40+01:00",
   "ofertas": [
+    {
+      "titulo": "Mando Switch HELLCOOL Hall Joysticks RGB Negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 23.99,
+      "precio_actual": 16.87,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 7.12,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41plgx1WBPL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F4JMJB6C?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Figura coleccionable POP Nicky Santoro Casino 9,5 cm",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 14.2,
+      "precio_actual": 3.96,
+      "descuento_porcentaje": 72,
+      "ahorro_euros": 10.24,
+      "valoracion": 4.9,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41nC5jWOCVL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CYCJGLTN?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Figura Funko Pop The Sopranos Christopher 9,5 cm",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 23.76,
+      "precio_actual": 6.7,
+      "descuento_porcentaje": 72,
+      "ahorro_euros": 17.06,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51fZBRlJSbL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B095HWF8J1?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Funda Nintendo Switch Konix 8 juegos diseño Jujutsu Kaisen",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 13.37,
+      "precio_actual": 9.06,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 4.31,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/412D4EjCqgL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BL1HJCVL?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
     {
       "titulo": "Bombilla LED Philips Hue E27 1100 lm",
       "condicion": "Estado: Como Nuevo",
