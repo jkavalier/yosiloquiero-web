@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-30T15:01:59+01:00",
+  "actualizado": "2026-10-30T16:01:33+01:00",
   "ofertas": [
+    {
+      "titulo": "Cámara vigilancia Trust 360° visión nocturna",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 28.4,
+      "precio_actual": 11.71,
+      "descuento_porcentaje": 59,
+      "ahorro_euros": 16.69,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21S8ZZ8P7LL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DTJ7S85F?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Arrocera Lauben 1,5L antiadherente",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 109.99,
+      "precio_actual": 70.3,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 39.69,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31WGs3rXxGL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08JGJTW2?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Termostato WiFi Bticino Smarther2 empotrable",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 160,
+      "precio_actual": 61.62,
+      "descuento_porcentaje": 61,
+      "ahorro_euros": 98.38,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31O4xtdtuBL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B086NL5ZHF?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Robot aspirador Lefant M330 Pro 5000Pa gris",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 132.99,
+      "precio_actual": 80.62,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 52.37,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41AKDxmPpNL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F5HR3FJ9?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Cargador Belkin USB-C 45W carga rápida",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 28.18,
+      "precio_actual": 16.67,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 11.51,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21ycyTlCX4L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F6Y4TKLH?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:01"
+    },
     {
       "titulo": "Smartwatch Samsung Galaxy Fit 3 40mm",
       "condicion": "Estado: Como Nuevo",
