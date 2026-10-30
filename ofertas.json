@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-10-30T20:32:25+01:00",
+  "actualizado": "2026-10-30T21:02:15+01:00",
   "ofertas": [
+    {
+      "titulo": "Smartwatch CMF by Nothing Pro 2 1.32″ naranja",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 74.96,
+      "precio_actual": 51.9,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 23.06,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/419ECRtRqiL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D5422CBB?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "21:02"
+    },
+    {
+      "titulo": "Maleta BIBA 76x51x28 cm ABS ergonómica",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 149,
+      "precio_actual": 69.62,
+      "descuento_porcentaje": 53,
+      "ahorro_euros": 79.38,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/311Bhk1EPPL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CD3W9L8B?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "21:02"
+    },
+    {
+      "titulo": "Maleta MAX hermética con espuma a cubetas 538x405x245mm",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 194.31,
+      "precio_actual": 119.48,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 74.83,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41jqfRL9DdL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B00PUL4Q22?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "21:02"
+    },
+    {
+      "titulo": "Tocadiscos JBL Spinner BT con Bluetooth aptX-HD",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 374,
+      "precio_actual": 231.08,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 142.92,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31LtqmmsoDL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CQSZN5RS?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "21:02"
+    },
+    {
+      "titulo": "Giradiscos Denon DP-400 negro",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 445.88,
+      "precio_actual": 301.84,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 144.04,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31MEoQjNBXL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07GPWWNGV?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "21:02"
+    },
+    {
+      "titulo": "Microondas Candy 23L 900W plato giratorio",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 200.17,
+      "precio_actual": 85.51,
+      "descuento_porcentaje": 57,
+      "ahorro_euros": 114.66,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41voSIuo9BL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CZF78NWV?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "21:02"
+    },
+    {
+      "titulo": "Microondas Toshiba 25L con tecnología Inverter",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 136.04,
+      "precio_actual": 94.36,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 41.68,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/316fdWxZVeL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GR9QTHPL?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "21:02"
+    },
+    {
+      "titulo": "Reposamuñecas ergonómico Kensington azul/negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 31.09,
+      "precio_actual": 19.27,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 11.82,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31lwqCE26wL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0178FBICI?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "21:02"
+    },
     {
       "titulo": "Zapatos ECCO Elaina Oxford cuero 42 EU",
       "condicion": "Estado: Muy Bueno",
