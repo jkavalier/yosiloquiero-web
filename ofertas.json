@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-30T08:01:39+01:00",
+  "actualizado": "2026-10-30T09:01:32+01:00",
   "ofertas": [
+    {
+      "titulo": "Organizadores maleta BillyBath 11p beige",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 21.99,
+      "precio_actual": 14.29,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 7.7,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31Z9fNpOYsL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DJVHT7D2?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Minifrigorífico Bomann 45L con congelador 4L",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 160.13,
+      "precio_actual": 90.6,
+      "descuento_porcentaje": 43,
+      "ahorro_euros": 69.53,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41xCEtw0tfL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09X7BJY7V?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Lámpara PlayStation Paladone 30 cm multicolor",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 49.27,
+      "precio_actual": 27.09,
+      "descuento_porcentaje": 45,
+      "ahorro_euros": 22.18,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41O0dvF1LmL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07XRP3PCW?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Estación de inmersión Fuel Pureformance acero",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 52.59,
+      "precio_actual": 34.5,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 18.09,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31POsSAR1NL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B01880ODTW?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Radiodespertador iCES con doble alarma",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 19.99,
+      "precio_actual": 11.11,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 8.88,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41CkKJGoTaL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B00VFP2T62?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
     {
       "titulo": "Máquina arcade Pac-Man Mini TFT color",
       "condicion": "Estado: Muy Bueno",
