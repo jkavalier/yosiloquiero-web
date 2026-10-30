@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-30T14:01:39+01:00",
+  "actualizado": "2026-10-30T15:01:59+01:00",
   "ofertas": [
+    {
+      "titulo": "Smartwatch Samsung Galaxy Fit 3 40mm",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 60.99,
+      "precio_actual": 38.23,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 22.76,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31sZyHMldOL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CVNXMP6T?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Batería externa INIU 10000mAh USB-C",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 27.53,
+      "precio_actual": 17.51,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 10.02,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/314sVj3vzNL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08JTQ66K7?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Tableta gráfica XP-Pen Artist13.3 Pro V2 16384 niveles presión",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 283.62,
+      "precio_actual": 172.42,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 111.2,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41bkf5MpopL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DHGVXB59?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Tostadora WMF Bueno Pro 870W acero inoxidable",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 64.44,
+      "precio_actual": 33.79,
+      "descuento_porcentaje": 48,
+      "ahorro_euros": 30.65,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31M4fClR89L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07GSYK5Q5?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Cinta correr eléctrica DXIII DELUXE13 1000W plegable",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 219,
+      "precio_actual": 152.38,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 66.62,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31BKcUXl26L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B074P54KWK?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
     {
       "titulo": "Lámpara mesa Comely estilo vintage madera 14×14×21.5 cm",
       "condicion": "Estado: Muy Bueno",
