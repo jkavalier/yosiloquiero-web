@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-30T13:01:36+01:00",
+  "actualizado": "2026-10-30T14:01:39+01:00",
   "ofertas": [
+    {
+      "titulo": "Lámpara mesa Comely estilo vintage madera 14×14×21.5 cm",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 28.99,
+      "precio_actual": 19.15,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 9.84,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51ctKmpRagL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C7TW47M1?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Alzador coche Bebeconfort 128–150 cm",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 29.99,
+      "precio_actual": 17.99,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 12,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/416ZCNbxTAL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0013PUO02?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Panel solar flexible Technaxx 100W negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 89.69,
+      "precio_actual": 51.02,
+      "descuento_porcentaje": 43,
+      "ahorro_euros": 38.67,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/411gp6nAdaL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BPYT7Q8R?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Cafetera cápsulas Krups Piccolo XS 0.8L negra",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 119,
+      "precio_actual": 60.22,
+      "descuento_porcentaje": 49,
+      "ahorro_euros": 58.78,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41Aknabj4XL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08717WZHT?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Kit fotografía móvil Xiaomi 67mm",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 119.99,
+      "precio_actual": 81.93,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 38.06,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31iVfMnSVSL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CY3P1NQL?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
     {
       "titulo": "Sintetizador KORG Volca Keys 3 voces analógico",
       "condicion": "Estado: Como Nuevo",
