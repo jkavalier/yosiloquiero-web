@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-31T15:01:37+01:00",
+  "actualizado": "2026-10-31T16:01:30+01:00",
   "ofertas": [
+    {
+      "titulo": "Soporte móvil manillar aluminio cellularline",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 29.97,
+      "precio_actual": 17.05,
+      "descuento_porcentaje": 43,
+      "ahorro_euros": 12.92,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41XjjNkVwnL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B094XTWVK6?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Batería externa Anker 26800 mAh",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 59.21,
+      "precio_actual": 39.39,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 19.82,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31q8H4HGBwL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B01JIWQPMW?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Báscula cocina Mesko acero inoxidable 5kg",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 23.95,
+      "precio_actual": 16.73,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 7.22,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41jMTFkmzyL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B01BOTHOXQ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Cafetera Bosch MyMoment 1,25L rojo",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 66.42,
+      "precio_actual": 37,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 29.42,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41Y+eOkrNfL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CF2SFW53?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Caja fuerte camuflada SEKAM 24×15×5.5 cm",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 27.53,
+      "precio_actual": 7.33,
+      "descuento_porcentaje": 73,
+      "ahorro_euros": 20.2,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51NFSrZJlcL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D6YJTH4S?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:01"
+    },
     {
       "titulo": "Báscula inteligente Laica con análisis corporal",
       "condicion": "Estado: Muy Bueno",
