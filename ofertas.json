@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-31T09:01:37+01:00",
+  "actualizado": "2026-10-31T10:01:43+01:00",
   "ofertas": [
+    {
+      "titulo": "Dron DJI Neo cámara 4K UHD",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 169,
+      "precio_actual": 114.77,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 54.23,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31bAkX3rDIL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07FTPX71F?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Pala de pádel COCO Padel fibra de carbono 3K",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 150,
+      "precio_actual": 95.78,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 54.22,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41fZiqrUzqL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0B4KJWWTP?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "MicroSD Samsung PRO Ultimate 256GB",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 138.6,
+      "precio_actual": 42.28,
+      "descuento_porcentaje": 69,
+      "ahorro_euros": 96.32,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31HZRE3mqKL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CBMFQJMR?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Ejercitador pecho y brazos ajustable 30-50 kg",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 15.69,
+      "precio_actual": 9.36,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 6.33,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41QFM0jp3LL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GJDGNYKB?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Funda Nintendo Switch 2 con ranuras para 12 juegos",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 19.99,
+      "precio_actual": 14.04,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 5.95,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31hsqMcUTpL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F8WRHMGT?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
     {
       "titulo": "Marco digital 15,6″ Yalilia 64GB táctil",
       "condicion": "Estado: Como Nuevo",
