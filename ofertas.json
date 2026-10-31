@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-31T08:01:40+01:00",
+  "actualizado": "2026-10-31T09:01:37+01:00",
   "ofertas": [
+    {
+      "titulo": "Marco digital 15,6″ Yalilia 64GB táctil",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 187.26,
+      "precio_actual": 115.19,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 72.07,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41GzAPRXadL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0G7JP59H5?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Filtro purificador Levoit EverestAir 3 en 1",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 100.63,
+      "precio_actual": 45.59,
+      "descuento_porcentaje": 55,
+      "ahorro_euros": 55.04,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41lezIJzTmL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D3T4L4R6?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Barra dominadas Purrgrit ajustable 74-95cm",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 39.99,
+      "precio_actual": 26.47,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 13.52,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41fz1-qGrcL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FH53Z8Q4?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Guitarra acústica Pyle escala ½ 34″",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 64.99,
+      "precio_actual": 41.34,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 23.65,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/418AIIQFVkL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09BZS9W92?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Soporte monitor doble Fellowes negro",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 68.29,
+      "precio_actual": 22.19,
+      "descuento_porcentaje": 68,
+      "ahorro_euros": 46.1,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31AsdudVk4S.jpg",
+      "url_producto": "https://www.amazon.es/dp/B076NL4F43?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
     {
       "titulo": "Mochila WENIG 17.3″ impermeable y antirrobo",
       "condicion": "Estado: Muy Bueno",
