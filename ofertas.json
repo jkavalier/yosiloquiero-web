@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-31T14:01:44+01:00",
+  "actualizado": "2026-10-31T15:01:37+01:00",
   "ofertas": [
+    {
+      "titulo": "Báscula inteligente Laica con análisis corporal",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 37.87,
+      "precio_actual": 22.59,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 15.28,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31Zi6NizJDL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08JZ7VS67?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Panel solar monocristalino 100W enjoy solar Full Black",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 74.95,
+      "precio_actual": 46.81,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 28.14,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41xNCCn6asL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B077SBYL18?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Regleta empotrable HANNELORE con carga inalámbrica 15W",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 98.85,
+      "precio_actual": 58.4,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 40.45,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41cyLWlZUPL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DSZPW2FF?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Balón fútbol adidas Al Rihla League talla 21",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 52.95,
+      "precio_actual": 23.69,
+      "descuento_porcentaje": 55,
+      "ahorro_euros": 29.26,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41scb1bLozL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09GS3HKCF?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Batidora de mano LACOR 500W profesional",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 245.56,
+      "precio_actual": 115.19,
+      "descuento_porcentaje": 53,
+      "ahorro_euros": 130.37,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31ddUidOsGL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B078MM5KP9?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
     {
       "titulo": "Smartwatch Xiaomi Redmi Watch 6 24 días batería",
       "condicion": "Estado: Como Nuevo",
