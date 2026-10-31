@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-10-31T13:01:37+01:00",
+  "actualizado": "2026-10-31T14:01:44+01:00",
   "ofertas": [
+    {
+      "titulo": "Smartwatch Xiaomi Redmi Watch 6 24 días batería",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 120.86,
+      "precio_actual": 82.17,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 38.69,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41WHu3OPf1L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GQLQF6GH?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Prismáticos OM SYSTEM 8-16x40 zoom óptica BaK-7",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 159,
+      "precio_actual": 85.44,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 73.56,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41-k9ItSzWL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FCL43QC2?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Cámara web LogiLink gran angular 120°",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 49.8,
+      "precio_actual": 34.15,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 15.65,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41ELPukgFuL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08QD7QDTJ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Regleta meta-ant 3 enchufes 4 USB 17W",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 19.99,
+      "precio_actual": 13.13,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 6.86,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31UPstErSGL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DTF9Y9L1?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Interfaz audio PreSonus Quantum ES 2 24-bit/192kHz",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 214.15,
+      "precio_actual": 104.82,
+      "descuento_porcentaje": 51,
+      "ahorro_euros": 109.33,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41FOHzAGfNL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CTFN85W3?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
     {
       "titulo": "Docking Station MOKiN 12 puertos USB C",
       "condicion": "Estado: Muy Bueno",
