@@ -1,6 +1,54 @@
 {
-  "actualizado": "2026-11-01T19:02:24+01:00",
+  "actualizado": "2026-11-01T19:31:17+01:00",
   "ofertas": [
+    {
+      "titulo": "Placa base ASUS TUF Gaming Z890-PRO WiFi DDR5",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 316.65,
+      "precio_actual": 158.74,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 157.91,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41Ya6YM5qzL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DJDG5GGN?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:31"
+    },
+    {
+      "titulo": "Placa base MSI MPG X870E Edge TI WiFi DDR5",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 410.68,
+      "precio_actual": 262.88,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 147.8,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51jSqY7PsKL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BSLKWC3R?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:31"
+    },
+    {
+      "titulo": "Placa base ASUS ROG Crosshair X870E Hero DDR5",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 620,
+      "precio_actual": 404.2,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 215.8,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41q5pabgRlL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09L7HPLMX?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:31"
+    },
+    {
+      "titulo": "Caja PC gaming MSI Pano M100R micro ATX negra",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 267,
+      "precio_actual": 178.89,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 88.11,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41uHRkA5LTL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CPRMV8T6?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:31"
+    },
     {
       "titulo": "Altavoz Bluetooth TIMU resistente agua IPX7",
       "condicion": "Estado: Como Nuevo",
