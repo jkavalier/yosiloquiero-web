@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-11-01T11:01:33+01:00",
+  "actualizado": "2026-11-01T12:01:25+01:00",
   "ofertas": [
+    {
+      "titulo": "Cochecito Foppapedretti plegable 1 mano",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 196.48,
+      "precio_actual": 105.26,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 91.22,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31Z7UolJy3L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CTZS6JSD?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Cámara instantánea Polaroid Now Gen2 Negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 162.85,
+      "precio_actual": 66.52,
+      "descuento_porcentaje": 59,
+      "ahorro_euros": 96.33,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31quq4i0B6L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BVNMK48Q?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Aspiradora escoba H.Koenig 50 min autonomía",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 149.9,
+      "precio_actual": 98.28,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 51.62,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41epYoBEUKL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FQWDRV25?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Consola Nintendo Switch Lite gris",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 320.61,
+      "precio_actual": 209.99,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 110.62,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41KvYsEj00L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07V5JHK4?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Altavoces Bose Surround Blanco",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 359.91,
+      "precio_actual": 249.06,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 110.85,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/515b0kd9JVL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07G8QB8JS?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
     {
       "titulo": "Disco duro externo Sonnics 500GB",
       "condicion": "Estado: Como Nuevo",
