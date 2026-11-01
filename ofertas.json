@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-11-01T13:01:37+01:00",
+  "actualizado": "2026-11-01T14:01:39+01:00",
   "ofertas": [
+    {
+      "titulo": "Smartphone resistente Ulefone 10200mAh",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 253,
+      "precio_actual": 147.06,
+      "descuento_porcentaje": 42,
+      "ahorro_euros": 105.94,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51N+KlZEw5L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FRXT44G9?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Cámara vigilancia GARZA 360° 1296P",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 44.99,
+      "precio_actual": 29.59,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 15.4,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31kN6oHJNDL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DH85THNL?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Hamaca Amazonas Arte algodón 230x150 cm",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 61.75,
+      "precio_actual": 43.13,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 18.62,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31kzsPPNJrL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B077JXS481?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Altavoces Polk Audio Monitor XT15 Negro",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 179,
+      "precio_actual": 115.31,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 63.69,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41zgNmSRm0L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09BMXVQFT?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Lector tarjetas USB Cherry ST-1144",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 34.99,
+      "precio_actual": 24.52,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 10.47,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21J9A5rOVrL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B01KEGJBAO?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
     {
       "titulo": "Filtro purificador Dyson H13 HEPA y carbón 2 uds",
       "condicion": "Estado: Muy Bueno",
