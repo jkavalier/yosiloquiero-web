@@ -1,6 +1,54 @@
 {
-  "actualizado": "2026-11-02T18:02:39+01:00",
+  "actualizado": "2026-11-02T19:01:29+01:00",
   "ofertas": [
+    {
+      "titulo": "Intercomunicador moto Sena SF1-01 Negro",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 124.94,
+      "precio_actual": 65.83,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 59.11,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31ejWLuymNS.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07DVQM595?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:01"
+    },
+    {
+      "titulo": "Intercomunicador moto Sena con radio FM",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 116.03,
+      "precio_actual": 64.5,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 51.53,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/3152fzCSrXS.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0971L1127?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:01"
+    },
+    {
+      "titulo": "Filtro agua Waterdrop 6ud para Jura Capresso",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 33.33,
+      "precio_actual": 16.95,
+      "descuento_porcentaje": 49,
+      "ahorro_euros": 16.38,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41NX5EpWbEL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07FM1MR92?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:01"
+    },
+    {
+      "titulo": "Filtro agua BRITA Maxtra Pro 4 uds",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 30.99,
+      "precio_actual": 18.1,
+      "descuento_porcentaje": 42,
+      "ahorro_euros": 12.89,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41ztBFsKhOL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BZSRJWXZ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:01"
+    },
     {
       "titulo": "Funda para altavoz Sony ULT Field 1 naranja",
       "condicion": "Estado: Muy Bueno",
