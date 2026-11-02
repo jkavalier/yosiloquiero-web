@@ -1,6 +1,90 @@
 {
-  "actualizado": "2026-11-02T19:32:15+01:00",
+  "actualizado": "2026-11-02T20:02:16+01:00",
   "ofertas": [
+    {
+      "titulo": "Organizador escritorio Relaxdays 9 compartimentos",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 20.02,
+      "precio_actual": 13.46,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 6.56,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/516FcOWNUuL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07C8GCYBB?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:02"
+    },
+    {
+      "titulo": "Mochila EASTPAK tejido resistente al agua",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 99,
+      "precio_actual": 58.01,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 40.99,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31vsYG9-HFL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F62WTWR4?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:02"
+    },
+    {
+      "titulo": "Tocadiscos Energy Sistem Retrospin 40W Bluetooth",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 79.99,
+      "precio_actual": 48.43,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 31.56,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41n99+r3KYL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FS7VSY45?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:02"
+    },
+    {
+      "titulo": "Soporte pared HFTEK para monitores 15-27″",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 89.99,
+      "precio_actual": 37.73,
+      "descuento_porcentaje": 58,
+      "ahorro_euros": 52.26,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/4127pKQ2oeL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B015ZIDYMW?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:02"
+    },
+    {
+      "titulo": "Soporte pared monitor y bandeja teclado DIGITUS",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 102.19,
+      "precio_actual": 63.08,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 39.11,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31r1jcKHgIL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B01HODAZUU?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:02"
+    },
+    {
+      "titulo": "Silla oficina Shally Dogan ergonómica con soporte lumbar",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 79.9,
+      "precio_actual": 51.48,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 28.42,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31chsM-hrqL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CZTGVGP7?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:02"
+    },
+    {
+      "titulo": "Timbre inalámbrico SURFOU alcance 400 m",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 26.44,
+      "precio_actual": 16.03,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 10.41,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41g3zl-birL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CP45N7CN?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:02"
+    },
     {
       "titulo": "Portátil Lenovo IdeaPad 1 16GB RAM 512GB SSD",
       "condicion": "Estado: Muy Bueno",
