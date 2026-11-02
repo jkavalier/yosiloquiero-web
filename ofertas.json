@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-11-02T11:02:47+01:00",
+  "actualizado": "2026-11-02T12:02:07+01:00",
   "ofertas": [
+    {
+      "titulo": "Smartwatch Samsung Galaxy Watch Ultra 47mm",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 472.01,
+      "precio_actual": 318.95,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 153.06,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31ar5MXCTML.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D4DXJGTN?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:02"
+    },
+    {
+      "titulo": "Smartphone Samsung Galaxy A36 256GB Negro",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 449,
+      "precio_actual": 278.02,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 170.98,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/318HCub6-eL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DWFYQPJN?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:02"
+    },
+    {
+      "titulo": "Smartphone vivo V70 FE 5G 256GB cámara 200MP",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 449,
+      "precio_actual": 295.68,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 153.32,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41HxAO+mH0L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GRHV8WC8?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:02"
+    },
+    {
+      "titulo": "Grabadora DVD ASUS ZenDrive 8X ultradelgada",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 52.24,
+      "precio_actual": 34.17,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 18.07,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31oiKANpttL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0774L36BY?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:02"
+    },
+    {
+      "titulo": "Consola Nintendo Switch + Ring Fit Adventure",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 499.65,
+      "precio_actual": 263.69,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 235.96,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/514qQtquQaL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08NYB27Y7?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:02"
+    },
+    {
+      "titulo": "Consola Nintendo Switch Lite gris",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 320.61,
+      "precio_actual": 209.99,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 110.62,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41KvYsEj00L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07V5JHK4?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:02"
+    },
+    {
+      "titulo": "Consola retro Mega Drive Sonic 1 edición coleccionista",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 39.36,
+      "precio_actual": 15.2,
+      "descuento_porcentaje": 61,
+      "ahorro_euros": 24.16,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41LRZmq2fbL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FN4DH72B?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:02"
+    },
+    {
+      "titulo": "Figura coleccionable Street Fighter rojo",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 19.99,
+      "precio_actual": 11.06,
+      "descuento_porcentaje": 45,
+      "ahorro_euros": 8.93,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31XT+6-5jFL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FN4DRRFW?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:02"
+    },
     {
       "titulo": "Smartphone Huawei P20 Pro 128GB Negro",
       "condicion": "Estado: Muy Bueno",
