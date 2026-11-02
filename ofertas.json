@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-11-02T13:01:00+01:00",
+  "actualizado": "2026-11-02T14:01:48+01:00",
   "ofertas": [
+    {
+      "titulo": "Báscula Terrailon cristal plata 180 kg",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 22.07,
+      "precio_actual": 13.86,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 8.21,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21oAa-Zx9bL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DG34M3VX?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Webcam Full HD 1080p con micrófono integrado",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 48.23,
+      "precio_actual": 23.7,
+      "descuento_porcentaje": 51,
+      "ahorro_euros": 24.53,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41+cDDNF6wL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B084ZJFNKN?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Regleta Brennenstuhl 5 tomas USB negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 27.6,
+      "precio_actual": 14.56,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 13.04,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31qiTekf5xL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07K77MPZZ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Regleta TESSAN 8 tomas 3 USB C 2m cable",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 35.99,
+      "precio_actual": 24.89,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 11.1,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/314uIamBfFL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D6TZ4SHB?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Tableta gráfica Wacom One Small con lápiz sin batería",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 107.53,
+      "precio_actual": 58,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 49.53,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31xrECkOpwL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CC2XKNZQ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
     {
       "titulo": "Smartphone Apple iPhone 14 128GB",
       "condicion": "Estado: Muy Bueno",
