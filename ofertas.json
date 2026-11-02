@@ -1,6 +1,30 @@
 {
-  "actualizado": "2026-11-02T12:02:07+01:00",
+  "actualizado": "2026-11-02T13:01:00+01:00",
   "ofertas": [
+    {
+      "titulo": "Smartphone Apple iPhone 14 128GB",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 904.75,
+      "precio_actual": 596.76,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 307.99,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/310ouGwV1YL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BDJH7J5C?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:00"
+    },
+    {
+      "titulo": "Smartphone OnePlus 8 256GB Glacial Green",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 355.95,
+      "precio_actual": 248.19,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 107.76,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41NXbfKx36L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07XY6KRTD?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:00"
+    },
     {
       "titulo": "Smartwatch Samsung Galaxy Watch Ultra 47mm",
       "condicion": "Estado: Muy Bueno",
