@@ -1,6 +1,42 @@
 {
-  "actualizado": "2026-11-03T19:08:39+01:00",
+  "actualizado": "2026-11-03T20:01:19+01:00",
   "ofertas": [
+    {
+      "titulo": "Proyector Epson 3500 lúmenes 3LCD",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 1780.7,
+      "precio_actual": 344.48,
+      "descuento_porcentaje": 81,
+      "ahorro_euros": 1436.22,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31vGXe8q3FL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B01MXGMNYG?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Smartphone Samsung Galaxy S25 512GB Azul Marino",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 1089,
+      "precio_actual": 716.9,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 372.1,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41XmvqH1wbL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DPXMFDNS?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Guitarra acústica Enya Nova Go 35,8″ fibra carbono",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 239.99,
+      "precio_actual": 139.67,
+      "descuento_porcentaje": 42,
+      "ahorro_euros": 100.32,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41tPK8V9HoL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09H4457HX?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:01"
+    },
     {
       "titulo": "Cámara vigilancia ieGeek 2K 355° visión nocturna",
       "condicion": "Estado: Muy Bueno",
