@@ -1,6 +1,78 @@
 {
-  "actualizado": "2026-11-03T12:01:38+01:00",
+  "actualizado": "2026-11-03T13:01:49+01:00",
   "ofertas": [
+    {
+      "titulo": "Tarjeta microSD SanDisk Ultra 512GB",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 112.8,
+      "precio_actual": 71.37,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 41.43,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/4195-0HEZxL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0B7NVXLLM?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Cartera piel ANDOILT RFID 6 ranuras marrón",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 62.3,
+      "precio_actual": 20.82,
+      "descuento_porcentaje": 67,
+      "ahorro_euros": 41.48,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41yop7BdmEL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BYCM3DRR?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Cartera Marc Jacobs de cuero Saffiano",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 120.79,
+      "precio_actual": 68,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 52.79,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51vAJ1pjh+L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FT3DW7R9?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Batidora Electrolux 600W tecnología TruFlow",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 54.83,
+      "precio_actual": 27.09,
+      "descuento_porcentaje": 51,
+      "ahorro_euros": 27.74,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31YmPPqlRvS.jpg",
+      "url_producto": "https://www.amazon.es/dp/B092MWV7G1?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Batidora Moulinex 350W acero inoxidable",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 39.98,
+      "precio_actual": 19.9,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 20.08,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31-fNe-dXrL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07WP2CPLK?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Altavoz estantería Pyle 200W 4″",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 46.27,
+      "precio_actual": 28.79,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 17.48,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41mOL78POHL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B000MCEL1K?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
     {
       "titulo": "Smartwatch Samsung Galaxy Watch7 44mm plateado",
       "condicion": "Estado: Como Nuevo",
