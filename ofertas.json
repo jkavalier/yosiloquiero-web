@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-11-03T21:02:50+01:00",
+  "actualizado": "2026-11-03T22:01:41+01:00",
   "ofertas": [
+    {
+      "titulo": "Rompecabezas 3D Ravensburger caballos 15,5 cm",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 28.6,
+      "precio_actual": 18.14,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 10.46,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51NpRB+8ZFL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FNNB2ZMT?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "Smartphone Hammer H Ranger 256GB resistente",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 310.97,
+      "precio_actual": 214.7,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 96.27,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41VO6qq9qML.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FMRSBMGR?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "Fitball EDIFIT 55 cm ergonómica rosa",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 13.99,
+      "precio_actual": 9.78,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 4.21,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/418KEo2zF4L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09MKQ95KD?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "Monitor gaming ASUS ROG Swift OLED 34″ curvo 240Hz",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 1449,
+      "precio_actual": 1021.12,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 427.88,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51PFHeJsSqL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07M6J1F5R?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "Señal suelo mojado plegable Relaxdays 59x29 cm",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 29.99,
+      "precio_actual": 16.3,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 13.69,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41N4e6gSubL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BYSZBT31?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "22:01"
+    },
     {
       "titulo": "Consola arcade portátil My Arcade Street Fighter II",
       "condicion": "Estado: Muy Bueno",
