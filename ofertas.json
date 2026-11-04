@@ -1,6 +1,90 @@
 {
-  "actualizado": "2026-11-04T16:02:19+01:00",
+  "actualizado": "2026-11-04T17:02:09+01:00",
   "ofertas": [
+    {
+      "titulo": "Raqueta tenis mesa Butterfly Ovtcharov Expert gomas 2,0 mm",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 40.31,
+      "precio_actual": 25.76,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 14.55,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41bDLsGCdCL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CSKCMTW5?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "17:02"
+    },
+    {
+      "titulo": "Prismáticos Celestron Outland X 10x25",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 89.28,
+      "precio_actual": 46.89,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 42.39,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31H+I2339UL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B004KLAW30?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "17:02"
+    },
+    {
+      "titulo": "Prismáticos Steiner 10x42 visión nocturna",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 354.8,
+      "precio_actual": 197.7,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 157.1,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41xzvJcDoSL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07NQ41B6F?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "17:02"
+    },
+    {
+      "titulo": "Smartphone Xiaomi POCO X8 Pro 256GB verde",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 429.9,
+      "precio_actual": 300.2,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 129.7,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41pRK2MUWRL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GHNNV9LD?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "17:02"
+    },
+    {
+      "titulo": "Hamaca Amazonas Paradiso unisex 200 kg",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 144.69,
+      "precio_actual": 55.56,
+      "descuento_porcentaje": 62,
+      "ahorro_euros": 89.13,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41TipbUZdaL.jpg",
+      "url_producto": "https://www.amazon.es/dp/3910198007?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "17:02"
+    },
+    {
+      "titulo": "Sillón colgante Amazonas 150 kg capacidad",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 105.62,
+      "precio_actual": 47.45,
+      "descuento_porcentaje": 55,
+      "ahorro_euros": 58.17,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41LekGOYDvL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B00024BIUA?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "17:02"
+    },
+    {
+      "titulo": "Repetidor WiFi MERCUSYS AC1200 doble banda",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 29.99,
+      "precio_actual": 18.99,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 11,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/41ilSFH9bkL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0971K7H8L?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "17:02"
+    },
     {
       "titulo": "Smartwatch HUAWEI Watch FIT 3 1.82″ rosa",
       "condicion": "Estado: Muy Bueno",
