@@ -1,6 +1,78 @@
 {
-  "actualizado": "2026-11-05T16:31:54+01:00",
+  "actualizado": "2026-11-05T17:01:55+01:00",
   "ofertas": [
+    {
+      "titulo": "Pulsera HUAWEI Band 10 aluminio 14 días batería",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 80.58,
+      "precio_actual": 49.31,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 31.27,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41drJ3myT9L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DX34SY67?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "17:01"
+    },
+    {
+      "titulo": "Smartphone Motorola Moto E15 64GB Azul",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 169.99,
+      "precio_actual": 86.47,
+      "descuento_porcentaje": 49,
+      "ahorro_euros": 83.52,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/315wBQfz1xL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DTTW2KP3?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "17:01"
+    },
+    {
+      "titulo": "Tablet Samsung Galaxy Tab A9 128GB 8GB RAM",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 359.99,
+      "precio_actual": 158.69,
+      "descuento_porcentaje": 56,
+      "ahorro_euros": 201.3,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21DYnjIVatL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CP18XF4Z?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "17:01"
+    },
+    {
+      "titulo": "Sistema WiFi Mesh TP-Link Deco XE75 Pro 3uds",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 723.09,
+      "precio_actual": 367.23,
+      "descuento_porcentaje": 49,
+      "ahorro_euros": 355.86,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31UsHcYY2QL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BF5GK7TD?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "17:01"
+    },
+    {
+      "titulo": "Teclado Apple Magic Keyboard Folio blanco",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 299,
+      "precio_actual": 200.63,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 98.37,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/413h3B+NFmL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BJM3MBRJ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "17:01"
+    },
+    {
+      "titulo": "Repetidor WiFi 6 Devolo 5400 Mbps",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 134,
+      "precio_actual": 91.64,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 42.36,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/213AIefRLOL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09TR67N6V?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "17:01"
+    },
     {
       "titulo": "SSD externo Samsung T9 1TB Negro",
       "condicion": "Estado: Como Nuevo",
