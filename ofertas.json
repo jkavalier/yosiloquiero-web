@@ -1,6 +1,90 @@
 {
-  "actualizado": "2026-11-05T14:02:26+01:00",
+  "actualizado": "2026-11-05T15:02:09+01:00",
   "ofertas": [
+    {
+      "titulo": "Kit entrenamiento con barra aluminio 7-16 kg",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 28.99,
+      "precio_actual": 17.89,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 11.1,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41C6PAusbLL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0B185WDXF?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:02"
+    },
+    {
+      "titulo": "Karaoke portátil HWWR con 2 micrófonos",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 79.27,
+      "precio_actual": 50.45,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 28.82,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51sw5ytLbpL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CGWPMTS9?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:02"
+    },
+    {
+      "titulo": "Luz selfie NEEWER magnética plegable Negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 26.99,
+      "precio_actual": 16.96,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 10.03,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41My8T6S+tL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DTYJQT9P?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:02"
+    },
+    {
+      "titulo": "Webcam Logitech C925e Full HD negro",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 149.99,
+      "precio_actual": 86.3,
+      "descuento_porcentaje": 42,
+      "ahorro_euros": 63.69,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41VwI60DZ9L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B06WWQ5LF4?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:02"
+    },
+    {
+      "titulo": "Ratón Port Designs ergonómico negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 25.69,
+      "precio_actual": 18.08,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 7.61,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31AhtPP5-2L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08HVPZ395?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:02"
+    },
+    {
+      "titulo": "Auriculares HUAWEI FreeBuds Pro 3 Verde",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 331.29,
+      "precio_actual": 185.31,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 145.98,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41DaOQzpV5L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CJX84JLV?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:02"
+    },
+    {
+      "titulo": "Monitor bebé Babysense con 2 sensores",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 144.99,
+      "precio_actual": 96.4,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 48.59,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31bdkr9FLVL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07JWHLR7F?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:02"
+    },
     {
       "titulo": "Smartwatch OKYUK con GPS y llamadas 4G",
       "condicion": "Estado: Muy Bueno",
