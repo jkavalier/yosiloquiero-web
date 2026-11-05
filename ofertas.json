@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-11-05T19:32:45+01:00",
+  "actualizado": "2026-11-05T20:02:02+01:00",
   "ofertas": [
+    {
+      "titulo": "Smartphone vivo V70 FE 5G 256GB cámara 200MP",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 449,
+      "precio_actual": 298.72,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 150.28,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41HxAO+mH0L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GRHV8WC8?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:02"
+    },
+    {
+      "titulo": "Cargador inalámbrico Belkin 2 en 1 15W MagSafe",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 134.31,
+      "precio_actual": 63.7,
+      "descuento_porcentaje": 53,
+      "ahorro_euros": 70.61,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/315d-mkQK8L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CRRPHFLZ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:02"
+    },
+    {
+      "titulo": "Adaptador Powerline Devolo Magic 1 LAN 1200 Mbit/s",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 64.9,
+      "precio_actual": 18.37,
+      "descuento_porcentaje": 72,
+      "ahorro_euros": 46.53,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31L1KSO07rL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07GBPJ5L8?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:02"
+    },
+    {
+      "titulo": "Termostato Homematic IP Compacto programable",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 124.21,
+      "precio_actual": 70.22,
+      "descuento_porcentaje": 43,
+      "ahorro_euros": 53.99,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21l8gOBxRLL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08QNGM8XG?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:02"
+    },
+    {
+      "titulo": "Grabadora DVD externa ASUS ZenDrive U8M USB-C",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 44.3,
+      "precio_actual": 28.04,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 16.26,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/313DjA1OSaL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B099KH3RK2?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:02"
+    },
+    {
+      "titulo": "Robot aspirador Ultenic 6000PA con fregado",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 139.99,
+      "precio_actual": 89.86,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 50.13,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41321mRff0L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FP58T7G4?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:02"
+    },
+    {
+      "titulo": "Monitor iiyama 23.8″ IPS 100Hz regulable",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 258.96,
+      "precio_actual": 119.19,
+      "descuento_porcentaje": 54,
+      "ahorro_euros": 139.77,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41f0PTOEvUL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CRF2627L?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:02"
+    },
+    {
+      "titulo": "Reloj de pared Plumeet 40.6cm Negro",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 33.99,
+      "precio_actual": 21.58,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 12.41,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51zrDWdwQuL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CR2VX81Q?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:02"
+    },
     {
       "titulo": "Portátil Lenovo Chromebook 64GB SSD 4GB RAM",
       "condicion": "Estado: Muy Bueno",
