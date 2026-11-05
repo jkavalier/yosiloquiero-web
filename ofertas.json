@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-11-05T12:01:37+01:00",
+  "actualizado": "2026-11-05T13:02:21+01:00",
   "ofertas": [
+    {
+      "titulo": "SSD externo Verbatim 128GB negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 86.11,
+      "precio_actual": 59.91,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 26.2,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21Td16GT+9L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0H29TPD6T?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:02"
+    },
+    {
+      "titulo": "Foco LED exterior Philips Hue Lily 8W Negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 164.47,
+      "precio_actual": 104.74,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 59.73,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31Lzo-MCNML.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07CDYNMW1?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:02"
+    },
+    {
+      "titulo": "Lámpara de mesa Minecraft con sonidos 11 cm",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 15.75,
+      "precio_actual": 10.61,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 5.14,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41KiTPyJFVL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B084B4F1LZ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:02"
+    },
+    {
+      "titulo": "Despertador ThreeH con proyector 180°",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 30.49,
+      "precio_actual": 9.99,
+      "descuento_porcentaje": 67,
+      "ahorro_euros": 20.5,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51PcoHnTGBL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CF1PWVSD?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:02"
+    },
+    {
+      "titulo": "Despertador LEXIBOOK Angel con luz nocturna",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 34.97,
+      "precio_actual": 22.14,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 12.83,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41oow6R0nlL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DHGQKRBN?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:02"
+    },
+    {
+      "titulo": "Plancha eléctrica BELLA 27×51cm antiadherente",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 23.83,
+      "precio_actual": 15.99,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 7.84,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/41kddeaYFNL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CX9KFD4K?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:02"
+    },
+    {
+      "titulo": "Anillo inteligente OURA Ceramic Petal talla 8",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 406.59,
+      "precio_actual": 283.84,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 122.75,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/416JINL+f0L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FKQWNK37?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:02"
+    },
+    {
+      "titulo": "Cámara OM SYSTEM OM-5 Mark II 20MP IP53",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 1314.9,
+      "precio_actual": 918.28,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 396.62,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41INFhtTcHL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FBGSSTVM?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:02"
+    },
     {
       "titulo": "Maleta Wenger Skyon 35/45 l expandible lavanda",
       "condicion": "Estado: Muy Bueno",
