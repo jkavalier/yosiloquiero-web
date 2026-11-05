@@ -1,6 +1,78 @@
 {
-  "actualizado": "2026-11-05T18:01:43+01:00",
+  "actualizado": "2026-11-05T19:01:54+01:00",
   "ofertas": [
+    {
+      "titulo": "Proyector WiMiUS 1080P con autofocus y Dolby Audio",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 305.2,
+      "precio_actual": 197.43,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 107.77,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51IF3hwpjcL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FDVFCG62?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:01"
+    },
+    {
+      "titulo": "Smartphone Samsung Galaxy S25 Ultra 512GB Titanio",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 1501,
+      "precio_actual": 917.1,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 583.9,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/11LcZT61azL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DVCD9LB9?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:01"
+    },
+    {
+      "titulo": "Tostadora Bosch acero inoxidable 2 rebanadas",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 59.61,
+      "precio_actual": 25.72,
+      "descuento_porcentaje": 57,
+      "ahorro_euros": 33.89,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41SzwbFdKSL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B083YJCVTJ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:01"
+    },
+    {
+      "titulo": "Tostadora Bosch con inserto para sándwiches",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 56.55,
+      "precio_actual": 27.48,
+      "descuento_porcentaje": 51,
+      "ahorro_euros": 29.07,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41Xed2+XlLL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CF2NJ2PJ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:01"
+    },
+    {
+      "titulo": "Arrocera Cuisinart 6 raciones acero inox",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 70.99,
+      "precio_actual": 48.1,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 22.89,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31PNyRCjFfL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B000RVYIF0?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:01"
+    },
+    {
+      "titulo": "Calentador de manos Zippo recargable cromo",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 32.61,
+      "precio_actual": 18.14,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 14.47,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31OFTzTzXVL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B00ZZV9T60?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:01"
+    },
     {
       "titulo": "Smartwatch Samsung Galaxy Watch 6 Classic 47mm",
       "condicion": "Estado: Como Nuevo",
