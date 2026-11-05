@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-11-05T20:32:36+01:00",
+  "actualizado": "2026-11-05T21:02:23+01:00",
   "ofertas": [
+    {
+      "titulo": "Smartwatch Hama 1.43″ GPS música 110 deportes",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 112.88,
+      "precio_actual": 63.98,
+      "descuento_porcentaje": 43,
+      "ahorro_euros": 48.9,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41QqokIIqwL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DTQ8DBHY?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "21:02"
+    },
+    {
+      "titulo": "Smartphone Samsung Galaxy A05s 64GB",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 184.34,
+      "precio_actual": 120.31,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 64.03,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31nOpzcPf8L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CN137WV2?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "21:02"
+    },
+    {
+      "titulo": "Micrófono moto Interphone repuesto",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 16.35,
+      "precio_actual": 8.25,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 8.1,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51xQMtu+D+L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07GS2RH7W?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "21:02"
+    },
+    {
+      "titulo": "Filtro agua Grünbeck 100 µm 2 uds",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 46.8,
+      "precio_actual": 29.88,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 16.92,
+      "valoracion": 4.8,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31VbwOGILgL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07D73KVVF?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "21:02"
+    },
+    {
+      "titulo": "Monitor gaming AOC 27″ 180Hz Full HD",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 188.43,
+      "precio_actual": 112.99,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 75.44,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41j5lAwNKRL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CXY3JRQN?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "21:02"
+    },
+    {
+      "titulo": "Altavoz exterior OSD Audio 6,3 cm",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 212.51,
+      "precio_actual": 29.42,
+      "descuento_porcentaje": 86,
+      "ahorro_euros": 183.09,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31KsMiHEIJL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07DJZ6389?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "21:02"
+    },
+    {
+      "titulo": "Cargador USB C Belkin 45W carga rápida",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 28.18,
+      "precio_actual": 16.99,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 11.19,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21ycyTlCX4L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F6Y4TKLH?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "21:02"
+    },
+    {
+      "titulo": "Videojuego PS5 Lollipop Chainsaw RePOP",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 64.59,
+      "precio_actual": 44.98,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 19.61,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51KIIBVPRyL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D6V74YZM?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "21:02"
+    },
     {
       "titulo": "Botas Dr. Martens veganas talla 36 EU",
       "condicion": "Estado: Como Nuevo",
