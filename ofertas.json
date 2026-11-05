@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-11-05T17:01:55+01:00",
+  "actualizado": "2026-11-05T18:01:43+01:00",
   "ofertas": [
+    {
+      "titulo": "Smartwatch Samsung Galaxy Watch 6 Classic 47mm",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 224.07,
+      "precio_actual": 129.33,
+      "descuento_porcentaje": 42,
+      "ahorro_euros": 94.74,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51BVkZgmozL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CDTSNHQP?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "18:01"
+    },
+    {
+      "titulo": "Enchufe inalámbrico Brennenstuhl 3+1 blanco",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 38.44,
+      "precio_actual": 17.47,
+      "descuento_porcentaje": 55,
+      "ahorro_euros": 20.97,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31gHrqhqhCL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B099653MQ4?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "18:01"
+    },
+    {
+      "titulo": "Monitor Iiyama 27″ QHD 100Hz",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 483.07,
+      "precio_actual": 168.92,
+      "descuento_porcentaje": 65,
+      "ahorro_euros": 314.15,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41YhxWSdrkL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DDY29BB2?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "18:01"
+    },
+    {
+      "titulo": "Coche LEGO Creator Fiat 500 960 piezas",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 162.9,
+      "precio_actual": 96.65,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 66.25,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41GtCtEyaSL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B085BJVN2B?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "18:01"
+    },
+    {
+      "titulo": "Coche LEGO Ferrari F40 Competizione 198 pzs",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 26.31,
+      "precio_actual": 17.47,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 8.84,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51NEhpgHHlL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07FP2KPXC?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "18:01"
+    },
     {
       "titulo": "Pulsera HUAWEI Band 10 aluminio 14 días batería",
       "condicion": "Estado: Como Nuevo",
