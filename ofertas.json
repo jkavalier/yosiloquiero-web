@@ -1,6 +1,90 @@
 {
-  "actualizado": "2026-11-06T14:00:56+01:00",
+  "actualizado": "2026-11-06T15:00:48+01:00",
   "ofertas": [
+    {
+      "titulo": "Proyector Epson 3500 lúm WXGA 3LCD",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 2346.78,
+      "precio_actual": 344.48,
+      "descuento_porcentaje": 85,
+      "ahorro_euros": 2002.3,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31vGXe8q3FL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B01MXGMNYG?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:00"
+    },
+    {
+      "titulo": "Smartphone Samsung Galaxy Z Fold7 1TB Negro",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 2529,
+      "precio_actual": 1065.9,
+      "descuento_porcentaje": 58,
+      "ahorro_euros": 1463.1,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31-fHoycCEL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FBGPSKW8?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:00"
+    },
+    {
+      "titulo": "Smartphone Xiaomi POCO F8 Pro 256GB Azul",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 599,
+      "precio_actual": 412.46,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 186.54,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41NIfVYWeiL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FT42M76L?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:00"
+    },
+    {
+      "titulo": "Base conexión Microsoft Surface Dock 2 negro",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 619,
+      "precio_actual": 126,
+      "descuento_porcentaje": 80,
+      "ahorro_euros": 493,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21PQm3KawdL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B086W2HWV6?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:00"
+    },
+    {
+      "titulo": "Docking HP Thunderbolt 120W G2 Negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 246.44,
+      "precio_actual": 62.9,
+      "descuento_porcentaje": 74,
+      "ahorro_euros": 183.54,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31RBxFtZtmL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07DPKVYXR?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:00"
+    },
+    {
+      "titulo": "Luz nocturna Proyector iKidiki huevo dinosaurio",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 24.99,
+      "precio_actual": 9.28,
+      "descuento_porcentaje": 63,
+      "ahorro_euros": 15.71,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51gwbkP5ZGL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CYPDRZDB?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:00"
+    },
+    {
+      "titulo": "Luz nocturna LED FLOWood con sensor 4 uds",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 19.08,
+      "precio_actual": 9.49,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 9.59,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31Geglm3WtL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C1SV25MC?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:00"
+    },
     {
       "titulo": "Proyector Epson 3500 lúm WXGA 3LCD",
       "condicion": "Estado: Muy bueno",
