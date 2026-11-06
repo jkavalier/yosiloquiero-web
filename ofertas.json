@@ -1,6 +1,78 @@
 {
-  "actualizado": "2026-11-06T12:02:20+01:00",
+  "actualizado": "2026-11-06T13:01:52+01:00",
   "ofertas": [
+    {
+      "titulo": "Smartphone Samsung Galaxy A14 64GB Negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 175,
+      "precio_actual": 112.76,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 62.24,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/411rlvVVzrL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CFVFQ914?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Microondas Panasonic 31L con grill y plato 340mm",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 419.99,
+      "precio_actual": 145.29,
+      "descuento_porcentaje": 65,
+      "ahorro_euros": 274.7,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31aNm7wTP7L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07QJZJ2DH?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Microondas Toshiba 20L con grill y cocción combinada",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 99.99,
+      "precio_actual": 61.48,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 38.51,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31BTWH91PfL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DBVQ42NX?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Ordenador portátil Microsoft Surface Pro 8 256GB i7",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 1804.99,
+      "precio_actual": 696.25,
+      "descuento_porcentaje": 61,
+      "ahorro_euros": 1108.74,
+      "valoracion": 5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41f3-0wbIsL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B094N2CHGB?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Tablet Lenovo Idea Tab Pro 12.7″ 3K 256GB",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 574.67,
+      "precio_actual": 397.75,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 176.92,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31EwuUlp5AL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DT4YKTG2?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Anillo OURA Gen3 Gold talla 7",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 326.96,
+      "precio_actual": 176.85,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 150.11,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41YbWROxgdL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CSR64238?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
     {
       "titulo": "Smartwatch ICE-WATCH 1.78″ AMOLED oro rosa",
       "condicion": "Estado: Como Nuevo",
