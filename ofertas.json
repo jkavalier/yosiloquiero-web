@@ -1,6 +1,90 @@
 {
-  "actualizado": "2026-11-06T22:05:19+01:00",
+  "actualizado": "2026-11-06T22:09:23+01:00",
   "ofertas": [
+    {
+      "titulo": "Raqueta tenis Wilson Six LV fibra carbono",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 150,
+      "precio_actual": 90.99,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 59.01,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/41P07K6U9NL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BW49CNWY?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "22:09"
+    },
+    {
+      "titulo": "Raqueta tenis Wilson Intrigue Jr 25 ligera",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 30.9,
+      "precio_actual": 21.64,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 9.26,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/31syclxu-1L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DX2JZJ3C?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "22:09"
+    },
+    {
+      "titulo": "Cámara vigilancia Tapo C210P2 360° 2K",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 62.49,
+      "precio_actual": 32.24,
+      "descuento_porcentaje": 48,
+      "ahorro_euros": 30.25,
+      "valoracion": 4.7,
+      "imagen_url": "https://m.media-amazon.com/images/I/41TtOcLTSgL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BWCVYFLC?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "22:09"
+    },
+    {
+      "titulo": "Taladro Makita sin escobillas 40V",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 165.07,
+      "precio_actual": 104.69,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 60.38,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/4146af1re6L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08XTG4N72?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "22:09"
+    },
+    {
+      "titulo": "Atornillador Bosch EasyDrill 18V-40 ergonómico",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 56.9,
+      "precio_actual": 37.36,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 19.54,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/41w2-H9oQvL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09PLKKZTZ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "22:09"
+    },
+    {
+      "titulo": "Lámpara de pie Brilliant con brazo ajustable",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 32.27,
+      "precio_actual": 21.84,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 10.43,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21rs7fC9+XL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B004LZW4PO?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "22:09"
+    },
+    {
+      "titulo": "Espejo de aumento AIMAX 1X/10X recargable",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 34.42,
+      "precio_actual": 22.1,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 12.32,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/41iLw9oT5mL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GFM3F7WQ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "22:09"
+    },
     {
       "titulo": "Hervidor Bosch 1,7L acero inoxidable",
       "condicion": "Estado: Como Nuevo",
