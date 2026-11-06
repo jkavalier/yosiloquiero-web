@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-11-06T15:00:48+01:00",
+  "actualizado": "2026-11-06T16:00:53+01:00",
   "ofertas": [
+    {
+      "titulo": "Smartwatch HUAWEI Watch GT 2 46mm Negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 317.29,
+      "precio_actual": 99.99,
+      "descuento_porcentaje": 68,
+      "ahorro_euros": 217.3,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41Wbt3EMqwL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07XH9KHLR?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:00"
+    },
+    {
+      "titulo": "Pala de pádel NOX fibra de carbono",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 376.75,
+      "precio_actual": 149.76,
+      "descuento_porcentaje": 60,
+      "ahorro_euros": 226.99,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41JgsdWqF8L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CLLY4Y7Z?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:00"
+    },
+    {
+      "titulo": "Smartphone Samsung Galaxy Z Fold7 1TB Negro",
+      "condicion": "Estado: Muy bueno",
+      "precio_anterior": 2529,
+      "precio_actual": 1065.9,
+      "descuento_porcentaje": 58,
+      "ahorro_euros": 1463.1,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31-fHoycCEL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FBGPSKW8?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:00"
+    },
+    {
+      "titulo": "Radio internet TELESTAR con Bluetooth y USB",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 69.99,
+      "precio_actual": 41.37,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 28.62,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41vwKn0mwOL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0G2M91P7D?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:00"
+    },
+    {
+      "titulo": "Radio Internet Philips con carga Qi y Spotify",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 138.25,
+      "precio_actual": 88.47,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 49.78,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21ZR5srwnSL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08DRNRR52?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:00"
+    },
+    {
+      "titulo": "Monitor gaming ASUS 27″ Full HD 165Hz",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 541.44,
+      "precio_actual": 157.57,
+      "descuento_porcentaje": 71,
+      "ahorro_euros": 383.87,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41rJVkhuNOL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08G488L1Q?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:00"
+    },
+    {
+      "titulo": "Monitor LG 27″ IPS Full HD ajustable",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 256.66,
+      "precio_actual": 91.11,
+      "descuento_porcentaje": 65,
+      "ahorro_euros": 165.55,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41zqG2njXRL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CKRW96LR?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:00"
+    },
+    {
+      "titulo": "Mezclador audio USB Yamaha AG06MK2 6 canales",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 215.5,
+      "precio_actual": 139.82,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 75.68,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51veedqp0TL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09V7SBFL4?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:00"
+    },
     {
       "titulo": "Proyector Epson 3500 lúm WXGA 3LCD",
       "condicion": "Estado: Muy bueno",
