@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-06T21:00:57+01:00",
+  "actualizado": "2026-11-06T21:01:16+01:00",
   "ofertas": [
+    {
+      "titulo": "Webcam Logitech C925e Full HD",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 58.95,
+      "precio_actual": 29.95,
+      "descuento_porcentaje": 49,
+      "ahorro_euros": 29,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41erDwkedYL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B06WWQ5LF4?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "21:01"
+    },
     {
       "titulo": "Portátil Acer Aspire 5 17.3″ i5-1135G7 8GB RAM",
       "condicion": "Estado: Muy Bueno",
