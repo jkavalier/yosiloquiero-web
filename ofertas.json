@@ -1,6 +1,78 @@
 {
-  "actualizado": "2026-11-07T20:31:00+01:00",
+  "actualizado": "2026-11-07T21:01:22+01:00",
   "ofertas": [
+    {
+      "titulo": "Arrancador OSRAM 16.800 mAh para gasolina 8L/diésel 4L",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 162.07,
+      "precio_actual": 103.88,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 58.19,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/518dsum+NXL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08L6FN5MT?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "21:01"
+    },
+    {
+      "titulo": "Smartphone Samsung Galaxy Z Fold7 1TB Negro",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 1889.99,
+      "precio_actual": 1065.9,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 824.09,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/41cZ6kr9GHL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FK37Z6ML?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "21:01"
+    },
+    {
+      "titulo": "Batidora Philips 3000 350W vaso 0,6L",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 67.99,
+      "precio_actual": 32.84,
+      "descuento_porcentaje": 52,
+      "ahorro_euros": 35.15,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/31SJfySePBL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09VLJ2PPR?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "21:01"
+    },
+    {
+      "titulo": "Batidora Tefal 1600W vaso 1,75L acero",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 241.38,
+      "precio_actual": 127.22,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 114.16,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31jVyo2vUaL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BBBQQ9BJ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "21:01"
+    },
+    {
+      "titulo": "Freidora aire Moulinex Easy Fry XL 5.5L",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 159.99,
+      "precio_actual": 96.98,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 63.01,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/41iYBy743EL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FX5217CY?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "21:01"
+    },
+    {
+      "titulo": "Entrenador de brazos BeSokar resistencia ajustable",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 51.59,
+      "precio_actual": 35.95,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 15.64,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/41U2jeurwdL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FG28JZ5B?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "21:01"
+    },
     {
       "titulo": "Zapatos Geox talla 42 ergonómicos",
       "condicion": "Estado: Muy Bueno",
