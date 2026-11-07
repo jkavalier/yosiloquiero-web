@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-11-07T17:01:21+01:00",
+  "actualizado": "2026-11-07T18:01:12+01:00",
   "ofertas": [
+    {
+      "titulo": "Smartwatch ICE-WATCH 1.78″ AMOLED Negro",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 66.94,
+      "precio_actual": 39.26,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 27.68,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/31wDtoKNWZL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DGGVLDP7?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "18:01"
+    },
+    {
+      "titulo": "Smartwatch Samsung Galaxy Watch5 Pro 45mm",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 233.89,
+      "precio_actual": 149,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 84.89,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/31FxjrtFsyL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0B8NNCPKH?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "18:01"
+    },
+    {
+      "titulo": "Smartphone Samsung Galaxy Z Fold7 1TB Negro",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 1889.99,
+      "precio_actual": 1065.9,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 824.09,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/41cZ6kr9GHL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FK37Z6ML?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "18:01"
+    },
+    {
+      "titulo": "Freidora aire Moulinex Easy Fry XL 2200W",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 159.99,
+      "precio_actual": 96.98,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 63.01,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/41iYBy743EL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FX5217CY?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "18:01"
+    },
+    {
+      "titulo": "Figura coleccionable Sonic 3 Mega Drive",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 19.99,
+      "precio_actual": 13.85,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 6.14,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/41K2qp+xc7L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FN4CKGB2?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "18:01"
+    },
     {
       "titulo": "Enchufe inteligente OSRAM WiFi Matter 2300W",
       "condicion": "Estado: Muy Bueno",
