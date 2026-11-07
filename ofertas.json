@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-11-07T19:01:34+01:00",
+  "actualizado": "2026-11-07T20:01:25+01:00",
   "ofertas": [
+    {
+      "titulo": "Smartwatch ICE-WATCH 1.78″ AMOLED Negro",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 66.94,
+      "precio_actual": 39.26,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 27.68,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/31wDtoKNWZL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DGGVLDP7?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Smartwatch Samsung Galaxy Watch5 Pro 45mm",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 233.89,
+      "precio_actual": 149,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 84.89,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/31FxjrtFsyL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0B8NNCPKH?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Cámara vigilancia Tapo C310 3MP visión nocturna 30m",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 49.99,
+      "precio_actual": 24.96,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 25.03,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/415u2BF0EKL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08JLR2751?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Auriculares Samsung Galaxy Buds3 Pro cancelación ruido",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 159.99,
+      "precio_actual": 74,
+      "descuento_porcentaje": 54,
+      "ahorro_euros": 85.99,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/31bDAyS-v6L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DCFR6KT7?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Auriculares JBL Tune Flex 2 con cancelación ruido",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 99.99,
+      "precio_actual": 57.09,
+      "descuento_porcentaje": 43,
+      "ahorro_euros": 42.9,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/4130r3t6xsL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DK3XCY59?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Barra dominadas Sportneer ajustable 75-94 cm",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 49.99,
+      "precio_actual": 33.94,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 16.05,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/410ilBoqK0L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09JC86WNK?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Cafetera goteo Severin 16 tazas 2 jarras térmicas",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 179.9,
+      "precio_actual": 58.78,
+      "descuento_porcentaje": 67,
+      "ahorro_euros": 121.12,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/31wlkMFco6L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BZCTDG6H?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Cafetera goteo Severin 10 tazas",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 59.99,
+      "precio_actual": 23.56,
+      "descuento_porcentaje": 61,
+      "ahorro_euros": 36.43,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/41-HnQCNloL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07J68YM4H?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:01"
+    },
     {
       "titulo": "Cámara vigilancia EZVIZ visión nocturna HD",
       "condicion": "Estado: Como Nuevo",
