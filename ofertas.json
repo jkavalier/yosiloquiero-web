@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-08T20:30:52+01:00",
+  "actualizado": "2026-11-08T22:00:44+01:00",
   "ofertas": [
+    {
+      "titulo": "Purificador Electrolux Pure 300 filtro HEPA",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 179,
+      "precio_actual": 59.89,
+      "descuento_porcentaje": 67,
+      "ahorro_euros": 119.11,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/21xIneqmhjL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D5HSCCDS?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "22:00"
+    },
     {
       "titulo": "Zapatillas DC Shoes Net 45 EU",
       "condicion": "Estado: Como Nuevo",
