@@ -1,6 +1,30 @@
 {
-  "actualizado": "2026-11-08T14:01:13+01:00",
+  "actualizado": "2026-11-08T15:00:45+01:00",
   "ofertas": [
+    {
+      "titulo": "Aspiradora dreame H14 Dual 18.000 Pa",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 499,
+      "precio_actual": 329.23,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 169.77,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41I6c1tPPpL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FSLMLGCR?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:00"
+    },
+    {
+      "titulo": "Deshumidificador De'Longhi 12L/día portátil",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 216.37,
+      "precio_actual": 148.04,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 68.33,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/21ZwTxlvbcL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CJFX1VC4?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:00"
+    },
     {
       "titulo": "Báscula digital Healthkeep 180kg Negro",
       "condicion": "Estado: ¡Nuevo!",
