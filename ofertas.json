@@ -1,6 +1,42 @@
 {
-  "actualizado": "2026-11-08T18:00:57+01:00",
+  "actualizado": "2026-11-08T19:00:51+01:00",
   "ofertas": [
+    {
+      "titulo": "Plataforma equilibrio Yes4All 15,8 cm",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 21.49,
+      "precio_actual": 20.42,
+      "descuento_porcentaje": 5,
+      "ahorro_euros": 1.07,
+      "valoracion": 4.7,
+      "imagen_url": "https://m.media-amazon.com/images/I/41VXWj+8bQL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B079N75FG5?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:00"
+    },
+    {
+      "titulo": "Auriculares gaming Turtle Beach Stealth 600P 80h",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 109,
+      "precio_actual": 73.24,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 35.76,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/31jkGetjP9L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CYWD9PSM?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:00"
+    },
+    {
+      "titulo": "Alfombrilla ratón Logitech G G840 XL 900x400mm",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 53.81,
+      "precio_actual": 36.85,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 16.96,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/11n3qpdStrL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07W6HBBMH?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:00"
+    },
     {
       "titulo": "Pelota de gimnasia Schildkröt 85 cm",
       "condicion": "Estado: Como Nuevo",
