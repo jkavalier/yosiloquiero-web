@@ -1,6 +1,78 @@
 {
-  "actualizado": "2026-11-09T11:01:04+01:00",
+  "actualizado": "2026-11-09T11:31:17+01:00",
   "ofertas": [
+    {
+      "titulo": "Cámara vigilancia Hikvision 8MP exterior",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 128.13,
+      "precio_actual": 82.37,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 45.76,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41xd3QlcVdL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0756NJXDW?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:31"
+    },
+    {
+      "titulo": "Altavoz Jabra Speak2 75 con 4 micrófonos",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 294.99,
+      "precio_actual": 159.14,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 135.85,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/41bKTcR946L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BWL3J8N2?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:31"
+    },
+    {
+      "titulo": "Altavoz Jabra Speak2 75 con 4 micrófonos",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 364.98,
+      "precio_actual": 189.71,
+      "descuento_porcentaje": 48,
+      "ahorro_euros": 175.27,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/31qPRtc9UyL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BWKF1MKL?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:31"
+    },
+    {
+      "titulo": "Juego de mesa Pokémon 1000 preguntas 1-4 jugadores",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 31,
+      "precio_actual": 15.33,
+      "descuento_porcentaje": 51,
+      "ahorro_euros": 15.67,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/51y281DxJpL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0B34HRM9H?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:31"
+    },
+    {
+      "titulo": "Auricular mono Yealink con micrófono giratorio",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 30.75,
+      "precio_actual": 12.63,
+      "descuento_porcentaje": 59,
+      "ahorro_euros": 18.12,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/314pp1qV0JL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08X69Q2RS?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:31"
+    },
+    {
+      "titulo": "Repetidor HDMI LogiLink 8K 20 m",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 40.97,
+      "precio_actual": 12.49,
+      "descuento_porcentaje": 70,
+      "ahorro_euros": 28.48,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/31F6+C6mi2L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DS2P984T?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:31"
+    },
     {
       "titulo": "Teclado Apple Magic para iPad Air 13″ M3 Negro",
       "condicion": "Estado: Muy Bueno",
