@@ -1,6 +1,90 @@
 {
-  "actualizado": "2026-11-09T09:01:28+01:00",
+  "actualizado": "2026-11-09T09:31:23+01:00",
   "ofertas": [
+    {
+      "titulo": "Webcam Dell WB3023 2K QHD",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 72.13,
+      "precio_actual": 50.43,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 21.7,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/31O2J08pvfL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BYF1DL74?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:31"
+    },
+    {
+      "titulo": "Tocadiscos JBL Spinner BT Bluetooth aptX-HD",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 393,
+      "precio_actual": 276.57,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 116.43,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/317-PpFPmjL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CQT1MSTR?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:31"
+    },
+    {
+      "titulo": "Calentador eléctrico Ariston 10L blanco",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 118.19,
+      "precio_actual": 80.21,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 37.98,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/31L9NinI4-L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B016DALISI?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:31"
+    },
+    {
+      "titulo": "Smartwatch Google Pixel 45 mm LTE plata",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 549,
+      "precio_actual": 359.99,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 189.01,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/41BX3NH1UeL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FJFXT7TZ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:31"
+    },
+    {
+      "titulo": "Báscula cocina Salter con bol 1.8L 5kg",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 24.17,
+      "precio_actual": 15.55,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 8.62,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/41I08PSBz9L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07MKS5DX1?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:31"
+    },
+    {
+      "titulo": "Auriculares Yiwiso ergonómicos para dormir",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 51.61,
+      "precio_actual": 28.34,
+      "descuento_porcentaje": 45,
+      "ahorro_euros": 23.27,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/31P45U25TwS._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0914QNZL8?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:31"
+    },
+    {
+      "titulo": "Mesa portátil SAIJI ergonómica 60x33 cm",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 49.99,
+      "precio_actual": 26.06,
+      "descuento_porcentaje": 48,
+      "ahorro_euros": 23.93,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/41XxDMXAhdL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08TBJ21RC?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:31"
+    },
     {
       "titulo": "Auriculares JBL Tune Flex 2 cancelación ruido",
       "condicion": "Estado: Muy Bueno",
