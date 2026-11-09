@@ -1,6 +1,90 @@
 {
-  "actualizado": "2026-11-09T09:31:23+01:00",
+  "actualizado": "2026-11-09T10:01:24+01:00",
   "ofertas": [
+    {
+      "titulo": "SSD externo SANDISK Extreme Pro 4TB",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 721.18,
+      "precio_actual": 468.5,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 252.68,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/41bN3OfYsSL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F4RL52RZ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Tarjeta microSD Amazon Basics 256GB A2 U3",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 69.98,
+      "precio_actual": 44.1,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 25.88,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/318IwIFDolL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08TJZDJ4D?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Radiodespertador ANJANK con carga inalámbrica 10W",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 45.99,
+      "precio_actual": 28.89,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 17.1,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/41sYokVCEdL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08Z73VT93?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Smartphone Xiaomi Redmi 12C 64GB",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 195,
+      "precio_actual": 103.94,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 91.06,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/415QZTdPmDL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BXJ8VY2V?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Alfombrilla ratón Razer Pro Glide 360x275mm",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 16.79,
+      "precio_actual": 8.67,
+      "descuento_porcentaje": 48,
+      "ahorro_euros": 8.12,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/31rCERdgHjL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08G55CMF7?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Monitor gaming Acer Nitro 27″ 4K UHD",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 272.63,
+      "precio_actual": 140.22,
+      "descuento_porcentaje": 49,
+      "ahorro_euros": 132.41,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/41JA2hOthNL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07TH6YFPY?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Monitor gaming Samsung Odyssey OLED 49″ curvo",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 1744.34,
+      "precio_actual": 783.89,
+      "descuento_porcentaje": 55,
+      "ahorro_euros": 960.45,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41-99aWAr9L.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C9YN84Q9?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
     {
       "titulo": "Webcam Dell WB3023 2K QHD",
       "condicion": "Estado: Muy Bueno",
