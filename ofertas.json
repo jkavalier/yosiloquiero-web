@@ -1,6 +1,42 @@
 {
-  "actualizado": "2026-11-09T19:31:00+01:00",
+  "actualizado": "2026-11-09T20:01:11+01:00",
   "ofertas": [
+    {
+      "titulo": "Tablet Samsung Galaxy Tab A11 64GB Gris",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 169,
+      "precio_actual": 118.85,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 50.15,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41u5WXSVdsL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FQCXNPQQ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Arrancador BRPOM 10000A para 10.0L gasolina",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 59.99,
+      "precio_actual": 40.3,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 19.69,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/41gR-H4cr7L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B095LTWT1Y?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Pulsera inteligente HUAWEI Band 8 Rosa",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 59,
+      "precio_actual": 18.42,
+      "descuento_porcentaje": 69,
+      "ahorro_euros": 40.58,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/414K+G5a+TL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C4LPY2H5?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:01"
+    },
     {
       "titulo": "Portátil Acer Aspire 14″ Core Ultra 5 16GB RAM",
       "condicion": "Estado: Como Nuevo",
