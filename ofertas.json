@@ -1,6 +1,30 @@
 {
-  "actualizado": "2026-11-09T10:31:05+01:00",
+  "actualizado": "2026-11-09T11:01:04+01:00",
   "ofertas": [
+    {
+      "titulo": "Teclado Apple Magic para iPad Air 13″ M3 Negro",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 348,
+      "precio_actual": 243.72,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 104.28,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/410rZtj96AL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FWD8T68W?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Asistente sueño portátil Tommee Tippee Pip Panda",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 29.99,
+      "precio_actual": 19.99,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 10,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/31WJS5-AHEL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BSXQ3HK7?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
     {
       "titulo": "Smartwatch Samsung Galaxy Watch7 44mm",
       "condicion": "Estado: Muy Bueno",
