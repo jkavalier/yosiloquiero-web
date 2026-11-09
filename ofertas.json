@@ -1,6 +1,90 @@
 {
-  "actualizado": "2026-11-09T14:04:19+01:00",
+  "actualizado": "2026-11-09T15:01:24+01:00",
   "ofertas": [
+    {
+      "titulo": "Tarjeta microSD SanDisk Extreme 32GB x2",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 40,
+      "precio_actual": 28.13,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 11.87,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/513xOkDTW4L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B06XYR6XM2?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "SSD externo SanDisk 2TB resistente a golpes",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 260.19,
+      "precio_actual": 182.56,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 77.63,
+      "valoracion": 4.7,
+      "imagen_url": "https://m.media-amazon.com/images/I/41slAHwfDaL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F4RLSTHF?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Pendrive Kingston 64GB 2uds capuchón móvil",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 17.45,
+      "precio_actual": 12.16,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 5.29,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/41VyOQCHQSL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09ZRXZSMV?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Smart TV TCL 55Q6C 55″ 4K QD-Mini LED",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 549,
+      "precio_actual": 381.5,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 167.5,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/41BXFiTcJQL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DX185Q23?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Puente inteligente SONOFF Matter y Zigbee",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 101.47,
+      "precio_actual": 70.36,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 31.11,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/3182I1i+IRL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D5HTJ2CZ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Disco duro externo Western Digital 2TB USB-C",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 175.46,
+      "precio_actual": 77.82,
+      "descuento_porcentaje": 56,
+      "ahorro_euros": 97.64,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/415+RhhfsqL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07GKK79R5?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Portabebés Stokke ergonómico negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 149,
+      "precio_actual": 25.26,
+      "descuento_porcentaje": 83,
+      "ahorro_euros": 123.74,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/31QTVDFE28L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CS411916?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
     {
       "titulo": "Funda protectora ebike NC-17 para motor central",
       "condicion": "Estado: Como Nuevo",
