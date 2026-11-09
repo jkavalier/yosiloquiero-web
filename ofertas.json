@@ -1,6 +1,42 @@
 {
-  "actualizado": "2026-11-09T16:01:16+01:00",
+  "actualizado": "2026-11-09T17:01:17+01:00",
   "ofertas": [
+    {
+      "titulo": "Monitor Philips 27″ 120Hz IPS Full HD",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 179,
+      "precio_actual": 106.54,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 72.46,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/31HHBTBd9uL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CRHTXXFB?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "17:01"
+    },
+    {
+      "titulo": "Silla ergonómica TRALT reposacabezas ajustable 150 kg",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 139.99,
+      "precio_actual": 83.1,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 56.89,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/41ik8KScP5L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FMP43L3P?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "17:01"
+    },
+    {
+      "titulo": "Soporte monitor One For All hasta 35″ blanco",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 113.06,
+      "precio_actual": 46.23,
+      "descuento_porcentaje": 59,
+      "ahorro_euros": 66.83,
+      "valoracion": 4.7,
+      "imagen_url": "https://m.media-amazon.com/images/I/31BDmY59bkL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CZGL6ST4?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "17:01"
+    },
     {
       "titulo": "Auriculares HUAWEI FreeBuds 5 30h batería",
       "condicion": "Estado: Muy Bueno",
