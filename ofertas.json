@@ -1,6 +1,90 @@
 {
-  "actualizado": "2026-11-09T17:01:17+01:00",
+  "actualizado": "2026-11-09T18:01:25+01:00",
   "ofertas": [
+    {
+      "titulo": "Cámara salpicadero OSRAM 1080p 32GB",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 50.09,
+      "precio_actual": 34.2,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 15.89,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/31Xa3XSQ+nL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FM4GS4VB?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "18:01"
+    },
+    {
+      "titulo": "Teclado Apple Magic para iPad Pro 13″ M4 Negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 399,
+      "precio_actual": 259.87,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 139.13,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/41SZRMXIs8L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D3J72YFG?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "18:01"
+    },
+    {
+      "titulo": "Smartwatch Samsung Galaxy Watch Ultra2 47mm LTE",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 749,
+      "precio_actual": 489.02,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 259.98,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41u-ayAUCrL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0H5K4TCMJ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "18:01"
+    },
+    {
+      "titulo": "Vigilabebés Alecto audio alcance 300 m",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 45.2,
+      "precio_actual": 28.25,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 16.95,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/41CS5W5NuFL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DTKNYWY9?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "18:01"
+    },
+    {
+      "titulo": "Colchón hinchable Intex doble 152x203x42 cm",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 59.95,
+      "precio_actual": 33.42,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 26.53,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/313PwH1l0UL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0B8PBWL64?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "18:01"
+    },
+    {
+      "titulo": "Barra dominadas Kipika acero 38″ resistente",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 122.99,
+      "precio_actual": 55.59,
+      "descuento_porcentaje": 55,
+      "ahorro_euros": 67.4,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/41fGdg6IWhL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09Q14LYQQ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "18:01"
+    },
+    {
+      "titulo": "Smartwatch Google Pixel Watch 2 41mm aluminio",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 316.01,
+      "precio_actual": 124.07,
+      "descuento_porcentaje": 61,
+      "ahorro_euros": 191.94,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/31PC12XvGeL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CGVP8NT8?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "18:01"
+    },
     {
       "titulo": "Monitor Philips 27″ 120Hz IPS Full HD",
       "condicion": "Estado: Como Nuevo",
