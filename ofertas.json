@@ -1,6 +1,30 @@
 {
-  "actualizado": "2026-11-09T13:01:16+01:00",
+  "actualizado": "2026-11-09T14:04:19+01:00",
   "ofertas": [
+    {
+      "titulo": "Funda protectora ebike NC-17 para motor central",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 24.32,
+      "precio_actual": 16.75,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 7.57,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/51sjrFM6R8L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CCLD67B9?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:04"
+    },
+    {
+      "titulo": "Telescopio Celestron StarSense Explorer DX 102AZ",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 538,
+      "precio_actual": 313.44,
+      "descuento_porcentaje": 42,
+      "ahorro_euros": 224.56,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/41aMtMciQDL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B083JP3QYJ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:04"
+    },
     {
       "titulo": "Mochila EASTPAK Pinnacle acolchada 32L",
       "condicion": "Estado: ¡Nuevo!",
