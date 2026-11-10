@@ -1,6 +1,90 @@
 {
-  "actualizado": "2026-11-10T14:01:31+01:00",
+  "actualizado": "2026-11-10T15:01:29+01:00",
   "ofertas": [
+    {
+      "titulo": "Lámpara modular LED Nanoleaf 7 paneles madera",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 207.05,
+      "precio_actual": 141.77,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 65.28,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/41UON8lo9tL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B094RFH1SY?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Asistente sueño portátil Tommee Tippee",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 29.99,
+      "precio_actual": 19.99,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 10,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/31Y1SBw+q7L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BSXP8PVY?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Auriculares Google Pixel Buds 2a con cancelación ruido",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 149,
+      "precio_actual": 97.35,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 51.65,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/31jPPX5JQEL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FJGBDM28?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Altavoz Bluetooth Sony Extra Bass resistente agua",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 199.6,
+      "precio_actual": 116.67,
+      "descuento_porcentaje": 42,
+      "ahorro_euros": 82.93,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/41AELnf+VfL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08B43ZF5K?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Sistema WiFi Mesh eero 6+ 1Gbps pack 3",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 329.99,
+      "precio_actual": 179.99,
+      "descuento_porcentaje": 45,
+      "ahorro_euros": 150,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/21BVL17dC7L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08ZK3SLN8?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Altavoz Jabra Speak2 75 con 4 micrófonos",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 334.41,
+      "precio_actual": 178.04,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 156.37,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/41K3mB2F8IL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BWKGQRT9?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Adaptador Powerline Devolo Magic 1 1200 Mbit/s",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 178.7,
+      "precio_actual": 91.91,
+      "descuento_porcentaje": 49,
+      "ahorro_euros": 86.79,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/319tVTsYuFL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07ZJZQQ81?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
     {
       "titulo": "Lámpara de pie Brilliant LED 1,8m plata",
       "condicion": "Estado: Como Nuevo",
