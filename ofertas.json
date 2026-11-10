@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-11-10T11:01:31+01:00",
+  "actualizado": "2026-11-10T12:01:25+01:00",
   "ofertas": [
+    {
+      "titulo": "Olla eléctrica multifunción Instant Pot Pro 7,6 L",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 274.99,
+      "precio_actual": 190.11,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 84.88,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/412AD2vNNJL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08XC29DCZ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Soporte ergonómico HUANUO para 2 monitores 13″-32″",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 121.83,
+      "precio_actual": 72.39,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 49.44,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/41KpK5JaEML._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0855ZBPXD?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Cámara vigilancia Trust 360° visión nocturna",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 29.99,
+      "precio_actual": 17.31,
+      "descuento_porcentaje": 42,
+      "ahorro_euros": 12.68,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/310gSKEk-dL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GTW7QP5D?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Auriculares Razer Barracuda X 40 mm ergonómicos",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 149.99,
+      "precio_actual": 79.08,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 70.91,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/41uj76lxRWL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DX2H6RYR?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Auriculares Koss SB45 con micrófono y cancelación de ruido",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 64.72,
+      "precio_actual": 27.9,
+      "descuento_porcentaje": 57,
+      "ahorro_euros": 36.82,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/31JF63avDFL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B00081A2CW?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
     {
       "titulo": "Válvula seguridad calentador Comap 3/4″ acero inoxidable",
       "condicion": "Estado: Muy Bueno",
