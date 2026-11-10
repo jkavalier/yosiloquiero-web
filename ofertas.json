@@ -1,6 +1,54 @@
 {
-  "actualizado": "2026-11-10T20:01:37+01:00",
+  "actualizado": "2026-11-10T20:30:24+01:00",
   "ofertas": [
+    {
+      "titulo": "Zapatillas Converse Chuck 70 Hi talla 43",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 117.95,
+      "precio_actual": 50.23,
+      "descuento_porcentaje": 57,
+      "ahorro_euros": 67.72,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31Cp3-DkzwL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B077C7J7M5?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:30"
+    },
+    {
+      "titulo": "Zapatos senderismo ECCO Mx M Low talla 41",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 130,
+      "precio_actual": 52.52,
+      "descuento_porcentaje": 60,
+      "ahorro_euros": 77.48,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/212zLxrHNhL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08BTH2QM3?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:30"
+    },
+    {
+      "titulo": "Zapatillas ASICS GT-2000 14 running ergonómicas",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 217,
+      "precio_actual": 87.49,
+      "descuento_porcentaje": 60,
+      "ahorro_euros": 129.51,
+      "valoracion": 4.3,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31OoapkYiEL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F5BJ6RTF?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:30"
+    },
+    {
+      "titulo": "Zapatos Clarks Un Aldric 43 EU negros",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 119.99,
+      "precio_actual": 36.67,
+      "descuento_porcentaje": 69,
+      "ahorro_euros": 83.32,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/31PBLy1s-EL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0793G9V9Q?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:30"
+    },
     {
       "titulo": "Aspirador fregasuelos dreame 18.000 Pa",
       "condicion": "Estado: Muy Bueno",
