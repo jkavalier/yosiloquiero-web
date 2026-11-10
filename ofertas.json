@@ -1,6 +1,90 @@
 {
-  "actualizado": "2026-11-10T19:01:38+01:00",
+  "actualizado": "2026-11-10T20:01:37+01:00",
   "ofertas": [
+    {
+      "titulo": "Aspirador fregasuelos dreame 18.000 Pa",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 319,
+      "precio_actual": 223.57,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 95.43,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/31K-C7O6p6L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GWFMDHPZ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Proyector BenQ MH560 3800 lúmenes",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 699,
+      "precio_actual": 459.61,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 239.39,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/31dMjSBlM+L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08HYZX1XS?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Reposamuñecas Gimars espuma memoria 3cm",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 17.33,
+      "precio_actual": 10.73,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 6.6,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/41KAzuZJVJL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C4T24BDJ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Pendrive SanDisk Ultra Dual 256GB USB-C/A",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 63.84,
+      "precio_actual": 39.51,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 24.33,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/31yViNYEIvL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CJ5WBJ1B?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Cargador SBS USB-C 45W GaN",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 19.99,
+      "precio_actual": 11.31,
+      "descuento_porcentaje": 43,
+      "ahorro_euros": 8.68,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/210f5DT03vL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C9JN6DK6?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Organizador escritorio Leitz Ergo 42x25cm blanco",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 52.99,
+      "precio_actual": 28.57,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 24.42,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/31HEpwESU6L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DGQNHZMY?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Aspiradora HAIMEEC 33000Pa 0.8L",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 110.94,
+      "precio_actual": 51.51,
+      "descuento_porcentaje": 54,
+      "ahorro_euros": 59.43,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/41O6HqeoSsL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D62Q76B5?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:01"
+    },
     {
       "titulo": "Guitarra eléctrica Gretsch diapasón laurel",
       "condicion": "Estado: Muy Bueno",
