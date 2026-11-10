@@ -1,6 +1,78 @@
 {
-  "actualizado": "2026-11-10T09:01:29+01:00",
+  "actualizado": "2026-11-10T10:01:25+01:00",
   "ofertas": [
+    {
+      "titulo": "SSD externo SanDisk Extreme 4TB",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 787.99,
+      "precio_actual": 444.22,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 343.77,
+      "valoracion": 4.7,
+      "imagen_url": "https://m.media-amazon.com/images/I/41kvhRjHD+L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C59FBGG1?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Cámara coche bebé OTTOCAST 1080P 150° visión nocturna",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 159.99,
+      "precio_actual": 89.99,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 70,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/411asx5QtWL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0H744X9WK?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Freidora Russell Hobbs 5,5L negra",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 185.45,
+      "precio_actual": 97.03,
+      "descuento_porcentaje": 48,
+      "ahorro_euros": 88.42,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41ns6CypwDL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0B9187C2B?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Freidora aire Philips 5000 XXL 7,2L WiFi",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 228,
+      "precio_actual": 119.1,
+      "descuento_porcentaje": 48,
+      "ahorro_euros": 108.9,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/31YLZvDTKtL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D673C31Y?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Auriculares CG Mobile Guess Bluetooth 5.3 Azul",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 88.79,
+      "precio_actual": 39.83,
+      "descuento_porcentaje": 55,
+      "ahorro_euros": 48.96,
+      "valoracion": 5,
+      "imagen_url": "https://m.media-amazon.com/images/I/41en2kY-SoL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D9DW9R1K?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Auriculares Samsung Galaxy Buds3 FE Negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 129.99,
+      "precio_actual": 56.63,
+      "descuento_porcentaje": 56,
+      "ahorro_euros": 73.36,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/312WTfwV5JL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FLQ8H3T8?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
     {
       "titulo": "Tensiómetro Beurer con detección de arritmias",
       "condicion": "Estado: Como Nuevo",
