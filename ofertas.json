@@ -1,6 +1,90 @@
 {
-  "actualizado": "2026-11-10T18:09:11+01:00",
+  "actualizado": "2026-11-10T19:01:38+01:00",
   "ofertas": [
+    {
+      "titulo": "Guitarra eléctrica Gretsch diapasón laurel",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 229,
+      "precio_actual": 158.33,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 70.67,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/21U15qLs00L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FJCMRWLM?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:01"
+    },
+    {
+      "titulo": "Soporte monitor PUTORSEN aluminio 18kg",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 99.99,
+      "precio_actual": 68.94,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 31.05,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/31UK0BK3X8L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BCFPN2WC?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:01"
+    },
+    {
+      "titulo": "SSD externo Verbatim Snapback 512GB",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 111.51,
+      "precio_actual": 69.71,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 41.8,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/31-yrcPRReL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FSLLK7D5?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:01"
+    },
+    {
+      "titulo": "Mando Switch Harry Potter Gryffindor",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 46.16,
+      "precio_actual": 24.49,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 21.67,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/41icPV2sU+L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BHDP9Y21?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:01"
+    },
+    {
+      "titulo": "Smartphone realme GT 6T 256GB Verde",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 521.77,
+      "precio_actual": 248.4,
+      "descuento_porcentaje": 52,
+      "ahorro_euros": 273.37,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/41iRq8zfbrL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D2L42BX9?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:01"
+    },
+    {
+      "titulo": "Intercomunicador casco Cardo Packtalk Outdoor Negro",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 449.95,
+      "precio_actual": 201.53,
+      "descuento_porcentaje": 55,
+      "ahorro_euros": 248.42,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/31VaID5MeJL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CK4VVY6R?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:01"
+    },
+    {
+      "titulo": "Dron mando DJI FPV ergonómico",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 196.47,
+      "precio_actual": 88.1,
+      "descuento_porcentaje": 55,
+      "ahorro_euros": 108.37,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/31iVDBZESiL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07FSW42W9?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:01"
+    },
     {
       "titulo": "Mochila Samsonite compartimento ropa y portátil 15.6″",
       "condicion": "Estado: Como Nuevo",
