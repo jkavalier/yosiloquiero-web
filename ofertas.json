@@ -1,6 +1,90 @@
 {
-  "actualizado": "2026-11-10T08:01:26+01:00",
+  "actualizado": "2026-11-10T09:01:29+01:00",
   "ofertas": [
+    {
+      "titulo": "Tensiómetro Beurer con detección de arritmias",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 79.9,
+      "precio_actual": 55.67,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 24.23,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/51hL9Hk183L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CJ5S5H18?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Impresora multifunción Brother A3 250 hojas",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 199,
+      "precio_actual": 114.62,
+      "descuento_porcentaje": 42,
+      "ahorro_euros": 84.38,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/41FfbljihfL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BLCXB9M3?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Purificador aire Philips 2 en 1 HEPA 131 m²",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 465.99,
+      "precio_actual": 266.1,
+      "descuento_porcentaje": 43,
+      "ahorro_euros": 199.89,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/41xwMF+oIkL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CB1HK3M5?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Termostato inteligente Bosch antracita",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 75.87,
+      "precio_actual": 40.7,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 35.17,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/31CgcNHbWWL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DHGR23CN?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Smartphone Samsung Galaxy A32 5G 4GB Negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 469,
+      "precio_actual": 229.81,
+      "descuento_porcentaje": 51,
+      "ahorro_euros": 239.19,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/31L1SYam-HL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08VGW66R6?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Tocadiscos Retrolife 3 velocidades portátil negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 54.99,
+      "precio_actual": 23.47,
+      "descuento_porcentaje": 57,
+      "ahorro_euros": 31.52,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/41b321sCw6L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BYN9J3PX?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Tarjeta SD Integral 256GB 4K UHS-I",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 50.19,
+      "precio_actual": 21.37,
+      "descuento_porcentaje": 57,
+      "ahorro_euros": 28.82,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/41Jzl162FwL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07FBB8K9N?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
     {
       "titulo": "Altavoz Edifier M90 100W RMS Negro",
       "condicion": "Estado: Muy Bueno",
