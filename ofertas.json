@@ -1,6 +1,90 @@
 {
-  "actualizado": "2026-11-10T17:01:35+01:00",
+  "actualizado": "2026-11-10T18:09:11+01:00",
   "ofertas": [
+    {
+      "titulo": "Mochila Samsonite compartimento ropa y portátil 15.6″",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 132.35,
+      "precio_actual": 92.95,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 39.4,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/314Rbj39LoL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0B2J44L8L?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "18:09"
+    },
+    {
+      "titulo": "Tabla paddle surf Glymnis 320×81×15cm",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 199.99,
+      "precio_actual": 134.37,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 65.62,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/51Gh6oRsgjL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09FDJTDXZ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "18:09"
+    },
+    {
+      "titulo": "Accesorio Pokémon Go Plus+ Nintendo Negro",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 197.25,
+      "precio_actual": 128.98,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 68.27,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/31-Xh0RA1iL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BX2P43PX?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "18:09"
+    },
+    {
+      "titulo": "Ejercitador de pedales RYGEO ajustable",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 27.99,
+      "precio_actual": 17.92,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 10.07,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/31Rd6nVat5L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D9LZ7NBD?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "18:09"
+    },
+    {
+      "titulo": "Patines en línea BELEEV talla ajustable 30-41",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 49.11,
+      "precio_actual": 31.54,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 17.57,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41DFrUC66XL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FKMZLGJR?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "18:09"
+    },
+    {
+      "titulo": "Lámpara decorativa Disney Stitch personalizable",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 24.99,
+      "precio_actual": 15.27,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 9.72,
+      "valoracion": 5,
+      "imagen_url": "https://m.media-amazon.com/images/I/41VR3uVTfCL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GX2HGM7L?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "18:09"
+    },
+    {
+      "titulo": "Altavoz Polk Audio MXT35 Negro",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 279,
+      "precio_actual": 168.07,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 110.93,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/31ur0iHIWmL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09BMWZ29F?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "18:09"
+    },
     {
       "titulo": "Pala pickleball OZO Jupiter Fusion fibra vidrio",
       "condicion": "Estado: Muy Bueno",
