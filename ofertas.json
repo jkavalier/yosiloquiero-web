@@ -1,6 +1,90 @@
 {
-  "actualizado": "2026-11-10T13:01:30+01:00",
+  "actualizado": "2026-11-10T14:01:31+01:00",
   "ofertas": [
+    {
+      "titulo": "Lámpara de pie Brilliant LED 1,8m plata",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 34.99,
+      "precio_actual": 24.07,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 10.92,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/21JXwvD9dyL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B01LWI4OB3?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Lámpara de pie OUTON madera regulable 9W",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 88.99,
+      "precio_actual": 58.59,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 30.4,
+      "valoracion": 4.7,
+      "imagen_url": "https://m.media-amazon.com/images/I/41+cDi-wqdL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BZ8FLF83?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Reproductor streaming 4K Strong Leap-S3 16GB",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 89,
+      "precio_actual": 57.5,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 31.5,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/41H7lxPsdzL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BZJP5FYW?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Taladro atornillador inalámbrico PSIDE 1898 Nm",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 159,
+      "precio_actual": 85,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 74,
+      "valoracion": 4.7,
+      "imagen_url": "https://m.media-amazon.com/images/I/51HAp5C7QpL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CJWW9CQ5?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Reloj outdoor Polar Grit X2 Pro cristal zafiro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 749.9,
+      "precio_actual": 351,
+      "descuento_porcentaje": 53,
+      "ahorro_euros": 398.9,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/41OGxnb5tEL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CXHJRWN9?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Bicicleta estática EVOLAND plegable",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 173.48,
+      "precio_actual": 76.06,
+      "descuento_porcentaje": 56,
+      "ahorro_euros": 97.42,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/418halpUY5L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08TBTVL7L?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Monitor HP M22f Full HD 21.5″",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 187.29,
+      "precio_actual": 80.03,
+      "descuento_porcentaje": 57,
+      "ahorro_euros": 107.26,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/31nPvkcwwFL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09BZ5GBT9?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
     {
       "titulo": "Adaptador viaje Skross 2 unidades multipaís",
       "condicion": "Estado: Como Nuevo",
