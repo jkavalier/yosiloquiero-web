@@ -1,6 +1,90 @@
 {
-  "actualizado": "2026-11-10T16:01:29+01:00",
+  "actualizado": "2026-11-10T16:30:57+01:00",
   "ofertas": [
+    {
+      "titulo": "Mando EasySMX D05 Bluetooth con efecto Hall",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 57.88,
+      "precio_actual": 39.47,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 18.41,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/41xA--zljgL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DTDZSZWJ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:30"
+    },
+    {
+      "titulo": "Cargador portátil Baseus 5000 mAh magnético rosa",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 39.99,
+      "precio_actual": 27.12,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 12.87,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/312itaovs4L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F43Y4QJ7?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:30"
+    },
+    {
+      "titulo": "Auriculares gaming GLORIOUS GHS Eternal RGB micrófono extraíble",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 77.34,
+      "precio_actual": 51.31,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 26.03,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/41tAfkh-1IL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GHZW75GZ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:30"
+    },
+    {
+      "titulo": "Accesorio Pokémon Go Plus+ Negro Nintendo",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 197.25,
+      "precio_actual": 128.98,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 68.27,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/31-Xh0RA1iL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BX2P43PX?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:30"
+    },
+    {
+      "titulo": "Altavoz Polk Audio MXT35 montaje pared",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 279,
+      "precio_actual": 168.07,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 110.93,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/31ur0iHIWmL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09BMWZ29F?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:30"
+    },
+    {
+      "titulo": "Cargador SBS USB-C 45W GaN",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 19.99,
+      "precio_actual": 11.31,
+      "descuento_porcentaje": 43,
+      "ahorro_euros": 8.68,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/210f5DT03vL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C9JN6DK6?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:30"
+    },
+    {
+      "titulo": "Alfombrilla gaming GXTrust Glide-Flex XXL 930x300mm",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 29.8,
+      "precio_actual": 15.64,
+      "descuento_porcentaje": 48,
+      "ahorro_euros": 14.16,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/61tncjGjKxL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07XRZYH45?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:30"
+    },
     {
       "titulo": "Controlador DJ RANE 4 canales platos 7″ motorizados",
       "condicion": "Estado: Muy Bueno",
