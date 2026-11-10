@@ -1,6 +1,90 @@
 {
-  "actualizado": "2026-11-10T20:30:24+01:00",
+  "actualizado": "2026-11-10T21:01:31+01:00",
   "ofertas": [
+    {
+      "titulo": "Soporte móvil bici Lamicall 360° rotación",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 19.99,
+      "precio_actual": 13.46,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 6.53,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/41RqDXcuoXL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09MT3T43Q?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "21:01"
+    },
+    {
+      "titulo": "SSD Verbatim Snapback 512GB MagSafe",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 111.51,
+      "precio_actual": 69.71,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 41.8,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/31-yrcPRReL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FSLLK7D5?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "21:01"
+    },
+    {
+      "titulo": "Mando Switch Harry Potter Gryffindor",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 46.16,
+      "precio_actual": 24.49,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 21.67,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/41icPV2sU+L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BHDP9Y21?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "21:01"
+    },
+    {
+      "titulo": "Tostadora Tefal 2 ranuras acero inoxidable 8 niveles",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 84.41,
+      "precio_actual": 42.92,
+      "descuento_porcentaje": 49,
+      "ahorro_euros": 41.49,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/01EL+m7DcGL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0G19W1RZ1?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "21:01"
+    },
+    {
+      "titulo": "Smartwatch Samsung Galaxy Watch4 Classic 46mm",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 251.08,
+      "precio_actual": 108.18,
+      "descuento_porcentaje": 57,
+      "ahorro_euros": 142.9,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/41a-9MT2N9L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09MDJT1TF?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "21:01"
+    },
+    {
+      "titulo": "Tocadiscos Victrola portátil con Bluetooth turquesa",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 119,
+      "precio_actual": 39.07,
+      "descuento_porcentaje": 67,
+      "ahorro_euros": 79.93,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/41KNG154bcL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07J5V1WG7?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "21:01"
+    },
+    {
+      "titulo": "Tablet Samsung Galaxy Tab S3 32GB",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 1025.88,
+      "precio_actual": 140.98,
+      "descuento_porcentaje": 86,
+      "ahorro_euros": 884.9,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/31kAcINuxbL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B06XBTJDLG?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "21:01"
+    },
     {
       "titulo": "Zapatillas Converse Chuck 70 Hi talla 43",
       "condicion": "Estado: Muy Bueno",
