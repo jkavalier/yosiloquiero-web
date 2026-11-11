@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-11-11T17:01:28+01:00",
+  "actualizado": "2026-11-11T19:30:53+01:00",
   "ofertas": [
+    {
+      "titulo": "Placa base Gigabyte B550M AORUS Elite AX",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 170.38,
+      "precio_actual": 115.52,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 54.86,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/41RpYEETedL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BZQ1TNW8?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:30"
+    },
+    {
+      "titulo": "Portátil 2 en 1 Microsoft Surface Pro 512TB Azul Zafiro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 1852.54,
+      "precio_actual": 1251,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 601.54,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/41q0Od5fNrL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DQTWQDQW?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:30"
+    },
+    {
+      "titulo": "Placa base Gigabyte X870 Gaming WIFI6",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 204.95,
+      "precio_actual": 138.11,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 66.84,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/51JKLExpN3L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DJ9HF8VQ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:30"
+    },
+    {
+      "titulo": "Placa base ASUS Prime B850M-A WiFi mATX AM5",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 175.95,
+      "precio_actual": 108.3,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 67.65,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41O7LRJMLaL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CJR9PD93?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:30"
+    },
+    {
+      "titulo": "SSD SanDisk 250GB 2,5″ 545MB/s",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 84.99,
+      "precio_actual": 52.69,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 32.3,
+      "valoracion": 5,
+      "imagen_url": "https://m.media-amazon.com/images/I/312Onl0A97L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0H1WRLBXT?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:30"
+    },
+    {
+      "titulo": "Portátil Lenovo IdeaPad Slim 3i 16GB RAM 512GB SSD",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 1059.8,
+      "precio_actual": 637.61,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 422.19,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/31BfNrDijcL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F8F3NNS6?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:30"
+    },
+    {
+      "titulo": "Caja PC MSI MPG GUNGNIR 300R Airflow Negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 203.2,
+      "precio_actual": 109.2,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 94,
+      "valoracion": 4.8,
+      "imagen_url": "https://m.media-amazon.com/images/I/41DM4w9cDhL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09YXQK173?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:30"
+    },
+    {
+      "titulo": "Procesador AMD Ryzen 9 7950X 16 núcleos",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 903.43,
+      "precio_actual": 425.1,
+      "descuento_porcentaje": 53,
+      "ahorro_euros": 478.33,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/31mxDxwnM1L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BBHD5D8Y?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:30"
+    },
     {
       "titulo": "Adaptador Powerline Devolo Magic 2 2400 Mbit/s",
       "condicion": "Estado: Muy Bueno",
