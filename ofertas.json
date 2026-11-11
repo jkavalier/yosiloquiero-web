@@ -1,6 +1,54 @@
 {
-  "actualizado": "2026-11-11T19:30:53+01:00",
+  "actualizado": "2026-11-11T20:30:28+01:00",
   "ofertas": [
+    {
+      "titulo": "Zapatillas Nike Air MAX SC 42 EU blanco",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 174.46,
+      "precio_actual": 83.15,
+      "descuento_porcentaje": 52,
+      "ahorro_euros": 91.31,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/4137fkQZgpL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DP2QRB84?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:30"
+    },
+    {
+      "titulo": "Zapatillas Helly Hansen talla 42",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 108.55,
+      "precio_actual": 51.43,
+      "descuento_porcentaje": 53,
+      "ahorro_euros": 57.12,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/31zDJ-TQaLL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0B6CYZQGQ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:30"
+    },
+    {
+      "titulo": "Zapatillas Nike Vomero 18 talla 45",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 240.57,
+      "precio_actual": 107.79,
+      "descuento_porcentaje": 55,
+      "ahorro_euros": 132.78,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/31lbgy-H2EL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DQFP1MX7?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:30"
+    },
+    {
+      "titulo": "Zapatillas Geox ergonómicas talla 42.5",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 237,
+      "precio_actual": 76.38,
+      "descuento_porcentaje": 68,
+      "ahorro_euros": 160.62,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/31tmjI7K4uL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C9MCRZK3?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:30"
+    },
     {
       "titulo": "Placa base Gigabyte B550M AORUS Elite AX",
       "condicion": "Estado: Muy Bueno",
