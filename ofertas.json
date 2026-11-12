@@ -1,6 +1,54 @@
 {
-  "actualizado": "2026-11-12T20:01:34+01:00",
+  "actualizado": "2026-11-12T20:30:25+01:00",
   "ofertas": [
+    {
+      "titulo": "Zapatillas Nike 38",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 144.74,
+      "precio_actual": 60.83,
+      "descuento_porcentaje": 58,
+      "ahorro_euros": 83.91,
+      "valoracion": 4.7,
+      "imagen_url": "https://m.media-amazon.com/images/I/41hW59ZWZyL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DCD9Q8PQ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:30"
+    },
+    {
+      "titulo": "Zapatillas New Balance 38 EU Naranja",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 313.94,
+      "precio_actual": 124.19,
+      "descuento_porcentaje": 60,
+      "ahorro_euros": 189.75,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/41bb06s3R-L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CLB8ZPDR?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:30"
+    },
+    {
+      "titulo": "Zapatos Clarks 42 EU",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 89.95,
+      "precio_actual": 28.92,
+      "descuento_porcentaje": 68,
+      "ahorro_euros": 61.03,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/31hGDc5iBUL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B00TTJF882?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:30"
+    },
+    {
+      "titulo": "Zapatillas ECCO Soft 7 43",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 331,
+      "precio_actual": 80.24,
+      "descuento_porcentaje": 76,
+      "ahorro_euros": 250.76,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/21V4se5A9pL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CQN22D5Z?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:30"
+    },
     {
       "titulo": "Soporte monitor Ergotron HX Negro",
       "condicion": "Estado: Como Nuevo",
