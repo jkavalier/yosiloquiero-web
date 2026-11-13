@@ -1,6 +1,54 @@
 {
-  "actualizado": "2026-11-13T20:02:33+01:00",
+  "actualizado": "2026-11-13T20:30:32+01:00",
   "ofertas": [
+    {
+      "titulo": "Zapatillas New Balance Tektrel Negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 113.91,
+      "precio_actual": 52.77,
+      "descuento_porcentaje": 54,
+      "ahorro_euros": 61.14,
+      "valoracion": 5,
+      "imagen_url": "https://m.media-amazon.com/images/I/31Ss8lNBMKL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FBX8TS1D?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:30"
+    },
+    {
+      "titulo": "Zapatillas ECCO Soft 7 47 EU",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 155,
+      "precio_actual": 65.57,
+      "descuento_porcentaje": 58,
+      "ahorro_euros": 89.43,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/31zF6gMlcaL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CQPQHW4M?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:30"
+    },
+    {
+      "titulo": "Zapatillas DC Shoes 48.5 EU",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 80,
+      "precio_actual": 32.44,
+      "descuento_porcentaje": 59,
+      "ahorro_euros": 47.56,
+      "valoracion": 4.5,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31XmDCUNpxL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07SVYBR44?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:30"
+    },
+    {
+      "titulo": "Zapatos Clarks 42 EU",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 89.95,
+      "precio_actual": 35.64,
+      "descuento_porcentaje": 60,
+      "ahorro_euros": 54.31,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/31XrFKpAkFL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B01NCKJSV6?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:30"
+    },
     {
       "titulo": "Smartwatch HUAWEI Band 11 Negro",
       "condicion": "Estado: Como Nuevo",
