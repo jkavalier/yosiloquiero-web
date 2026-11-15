@@ -1,6 +1,42 @@
 {
-  "actualizado": "2026-11-15T19:03:53+01:00",
+  "actualizado": "2026-11-15T19:30:25+01:00",
   "ofertas": [
+    {
+      "titulo": "Tarjeta gráfica Gigabyte RTX 5050 8GB",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 777.53,
+      "precio_actual": 497.8,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 279.73,
+      "valoracion": 5,
+      "imagen_url": "https://m.media-amazon.com/images/I/41a7ibm7o1L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FG8J867N?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:30"
+    },
+    {
+      "titulo": "SSD Western Digital 500GB",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 149.99,
+      "precio_actual": 82.17,
+      "descuento_porcentaje": 45,
+      "ahorro_euros": 67.82,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/31EMBAYo7QL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09ZYPTXS4?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:30"
+    },
+    {
+      "titulo": "Placa base MSI AM5",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 404.52,
+      "precio_actual": 212.45,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 192.07,
+      "valoracion": 4.4,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/51jFT5qugsL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DCVVXK8D?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:30"
+    },
     {
       "titulo": "Smartwatch Apple Series 10 46mm Pizarra",
       "condicion": "Estado: Muy Bueno",
