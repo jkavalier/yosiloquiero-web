@@ -1,6 +1,78 @@
 {
-  "actualizado": "2026-11-15T15:02:01+01:00",
+  "actualizado": "2026-11-15T16:01:46+01:00",
   "ofertas": [
+    {
+      "titulo": "Maleta Valencia CF 55x40x20 cm",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 65.26,
+      "precio_actual": 40.3,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 24.96,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/41vhLV0oRRL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0828MPDLK?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Mochila EASTPAK 28.5L Azul Aviador",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 67,
+      "precio_actual": 40,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 27,
+      "valoracion": 4.8,
+      "imagen_url": "https://m.media-amazon.com/images/I/313MShPIxiL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GZ3Q8R3G?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Auriculares HUAWEI FreeArc negro",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 109.42,
+      "precio_actual": 64.61,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 44.81,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/31r4MX+BejL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DWX4Y3QK?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Auriculares JBL Soundgear Clips Black",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 129.99,
+      "precio_actual": 69.07,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 60.92,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/41bvdo8858L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FSKQF4ZF?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Deshumidificador Comfee 16L",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 303.7,
+      "precio_actual": 139.88,
+      "descuento_porcentaje": 54,
+      "ahorro_euros": 163.82,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/21TUgz4Gt4L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07MQ2MFGC?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Smartwatch HUAWEI Watch Fit 2 Negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 119,
+      "precio_actual": 44,
+      "descuento_porcentaje": 63,
+      "ahorro_euros": 75,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/41HwRxpeYRL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0B1DM4C52?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:01"
+    },
     {
       "titulo": "Tablet Lenovo Legion 8.8″ 256GB",
       "condicion": "Estado: Como Nuevo",
