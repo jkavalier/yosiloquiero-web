@@ -1,6 +1,18 @@
 {
-  "actualizado": "2026-11-16T11:03:25+01:00",
+  "actualizado": "2026-11-16T14:01:51+01:00",
   "ofertas": [
+    {
+      "titulo": "Smartwatch Huawei GT 4 41mm blanco",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 246.33,
+      "precio_actual": 110.33,
+      "descuento_porcentaje": 55,
+      "ahorro_euros": 136,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41Q9jfCfFIL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CFPK9TJJ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
     {
       "titulo": "Lámpara Paladone PlayStation",
       "condicion": "Estado: ¡Nuevo!",
