@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-11-16T19:03:01+01:00",
+  "actualizado": "2026-11-16T19:30:39+01:00",
   "ofertas": [
+    {
+      "titulo": "Placa base ASUS TUF Gaming B850-PLUS",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 250.58,
+      "precio_actual": 175.2,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 75.38,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/416d6gx2wHL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DPLPLR88?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:30"
+    },
+    {
+      "titulo": "Portátil LG Gram Pro 16 16Z90TS 1TB",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 1628.18,
+      "precio_actual": 1123.95,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 504.23,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/31OA-kqfymL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DXVSQXBQ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:30"
+    },
+    {
+      "titulo": "Placa base MSI PRO B840M-B AM5",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 98.9,
+      "precio_actual": 67.5,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 31.4,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/41V5uWSgQHL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F84CBWVC?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:30"
+    },
+    {
+      "titulo": "Caja Thermaltake View 270 Plus TG ARGB Negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 90.93,
+      "precio_actual": 60.49,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 30.44,
+      "valoracion": 4.6,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31gEPbdzEGL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DS65RHKP?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:30"
+    },
+    {
+      "titulo": "SSD Crucial T710 1TB",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 299,
+      "precio_actual": 194.25,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 104.75,
+      "valoracion": 4.7,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31ngbNWaHfL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F9XN4DCC?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:30"
+    },
+    {
+      "titulo": "Placa base ASUS Prime B850 Plus CSM AM5",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 148.99,
+      "precio_actual": 97.4,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 51.59,
+      "valoracion": 4.8,
+      "imagen_url": "https://m.media-amazon.com/images/I/41sT-d+dKNL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F1Z541PW?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:30"
+    },
+    {
+      "titulo": "Placa base Gigabyte B760M D3HP DDR5",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 94.9,
+      "precio_actual": 60.46,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 34.44,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/410y+FJlmxL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DTYZM4FP?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:30"
+    },
+    {
+      "titulo": "Caja PC Fractal Design North Momentum Negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 190,
+      "precio_actual": 114.76,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 75.24,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/415P1P+vxTL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FGPRBFWJ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:30"
+    },
     {
       "titulo": "Botiquín Lewis-Plast 90 piezas",
       "condicion": "Estado: ¡Nuevo!",
