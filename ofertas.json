@@ -1,29 +1,17 @@
 {
-  "actualizado": "2026-11-18T08:01:32+01:00",
+  "actualizado": "2026-11-18T08:03:17+01:00",
   "ofertas": [
     {
-      "titulo": "Cámara de vigilancia Tapo C230",
-      "condicion": "Estado: Muy Bueno",
-      "precio_anterior": 59.7,
-      "precio_actual": 39.89,
-      "descuento_porcentaje": 33,
-      "ahorro_euros": 19.81,
-      "valoracion": 4.2,
-      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31JV8JYmACL.jpg",
-      "url_producto": "https://www.amazon.es/dp/B0DXV1P593?tag=yosiloquiero-wb-21&ref=nosim",
-      "hora": "08:01"
-    },
-    {
-      "titulo": "Roces M12 UFS talla 47",
-      "condicion": "Estado: Muy Bueno",
-      "precio_anterior": 154.49,
-      "precio_actual": 101.81,
-      "descuento_porcentaje": 34,
-      "ahorro_euros": 52.68,
-      "valoracion": 4.4,
-      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41zGQwkAfzL.jpg",
-      "url_producto": "https://www.amazon.es/dp/B006LW9LNS?tag=yosiloquiero-wb-21&ref=nosim",
-      "hora": "08:01"
+      "titulo": "Vimar K42947 monitor adicional videoportero",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 195.71,
+      "precio_actual": 126.94,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 68.77,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/31RVH2Kb8+L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CVN4SCSG?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "08:03"
     },
     {
       "titulo": "Creality Hi (A) Impresora 3D",
@@ -33,9 +21,45 @@
       "descuento_porcentaje": 35,
       "ahorro_euros": 129.43,
       "valoracion": 4.3,
-      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31u9Xty2TLL.jpg",
+      "imagen_url": "https://m.media-amazon.com/images/I/31u9Xty2TLL._SL500_.jpg",
       "url_producto": "https://www.amazon.es/dp/B0DRP3N2H8?tag=yosiloquiero-wb-21&ref=nosim",
-      "hora": "08:01"
+      "hora": "08:03"
+    },
+    {
+      "titulo": "SSC Napoli Camiseta Home 2025/2026 EA7",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 114.72,
+      "precio_actual": 74.9,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 39.82,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/41x0IZkb+wL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FJ8N2XKR?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "08:03"
+    },
+    {
+      "titulo": "Botella filtrante BRITA blanca con 6 filtros MicroDisc",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 52.98,
+      "precio_actual": 27.37,
+      "descuento_porcentaje": 48,
+      "ahorro_euros": 25.61,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/41zuHnwAhjL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CB66MKWX?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "08:03"
+    },
+    {
+      "titulo": "Trixie Rulo Rascador ø27×39cm Gris",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 45.99,
+      "precio_actual": 23.56,
+      "descuento_porcentaje": 49,
+      "ahorro_euros": 22.43,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/21XL-qDFUiL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B00Q5KEPYQ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "08:03"
     },
     {
       "titulo": "Bandeja plegable para portátil Relaxdays",
@@ -45,9 +69,9 @@
       "descuento_porcentaje": 51,
       "ahorro_euros": 14.8,
       "valoracion": 4.5,
-      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41TJDiGFyYL.jpg",
+      "imagen_url": "https://m.media-amazon.com/images/I/41TJDiGFyYL._SL500_.jpg",
       "url_producto": "https://www.amazon.es/dp/B0CTKRT281?tag=yosiloquiero-wb-21&ref=nosim",
-      "hora": "08:01"
+      "hora": "08:03"
     },
     {
       "titulo": "Pyle Altavoces satélite Mini Cube",
@@ -57,69 +81,45 @@
       "descuento_porcentaje": 51,
       "ahorro_euros": 19.02,
       "valoracion": 4.3,
-      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41jXQaTx4gL.jpg",
+      "imagen_url": "https://m.media-amazon.com/images/I/41jXQaTx4gL._SL500_.jpg",
       "url_producto": "https://www.amazon.es/dp/B000MCGF1O?tag=yosiloquiero-wb-21&ref=nosim",
-      "hora": "08:01"
+      "hora": "08:03"
     },
     {
-      "titulo": "Jabra Speak2 75 altavoz Bluetooth",
+      "titulo": "Jabra Speak2 75 Altavoz Bluetooth",
       "condicion": "Estado: Muy Bueno",
-      "precio_anterior": 339.58,
+      "precio_anterior": 339.59,
       "precio_actual": 161.18,
       "descuento_porcentaje": 53,
-      "ahorro_euros": 178.4,
+      "ahorro_euros": 178.41,
       "valoracion": 4.2,
-      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41kcPqSdidL.jpg",
+      "imagen_url": "https://m.media-amazon.com/images/I/41kcPqSdidL._SL500_.jpg",
       "url_producto": "https://www.amazon.es/dp/B0BWKGF5MK?tag=yosiloquiero-wb-21&ref=nosim",
-      "hora": "08:01"
+      "hora": "08:03"
     },
     {
-      "titulo": "Logitech G435 Auriculares gaming inalámbricos",
-      "condicion": "Estado: Como Nuevo",
-      "precio_anterior": 123.49,
-      "precio_actual": 58.19,
-      "descuento_porcentaje": 53,
-      "ahorro_euros": 65.3,
-      "valoracion": 4.4,
-      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/41PVoomjxaL.jpg",
-      "url_producto": "https://www.amazon.es/dp/B07W7LNTM5?tag=yosiloquiero-wb-21&ref=nosim",
-      "hora": "08:01"
-    },
-    {
-      "titulo": "Motorola Edge 20 Pro 256GB",
-      "condicion": "Estado: Como Nuevo",
-      "precio_anterior": 782.65,
-      "precio_actual": 232.54,
-      "descuento_porcentaje": 70,
-      "ahorro_euros": 550.11,
-      "valoracion": 4.5,
-      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31Uhju-yuGL.jpg",
-      "url_producto": "https://www.amazon.es/dp/B09BCZSDYV?tag=yosiloquiero-wb-21&ref=nosim",
-      "hora": "08:01"
-    },
-    {
-      "titulo": "Xencelabs Pen Display 24 tableta gráfica 4K",
-      "condicion": "Estado: Como Nuevo",
-      "precio_anterior": 1931,
-      "precio_actual": 503.05,
-      "descuento_porcentaje": 74,
-      "ahorro_euros": 1427.95,
-      "valoracion": 4.3,
-      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31z-5y+mRiL.jpg",
-      "url_producto": "https://www.amazon.es/dp/B0C6N14R12?tag=yosiloquiero-wb-21&ref=nosim",
-      "hora": "08:01"
-    },
-    {
-      "titulo": "Hama Cámara vigilancia Wifi Exterior",
+      "titulo": "MediaRange GAN Cargador 25 W USB-C y USB-A Enchufe británico",
       "condicion": "Estado: Muy Bueno",
-      "precio_anterior": 97.35,
-      "precio_actual": 15.97,
-      "descuento_porcentaje": 84,
-      "ahorro_euros": 81.38,
+      "precio_anterior": 16.97,
+      "precio_actual": 8.06,
+      "descuento_porcentaje": 53,
+      "ahorro_euros": 8.91,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/21ajJPfrnnL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DM6HGY4X?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "08:03"
+    },
+    {
+      "titulo": "Xiaomi Redmi Note 13 5G 256GB",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 399.89,
+      "precio_actual": 99,
+      "descuento_porcentaje": 75,
+      "ahorro_euros": 300.89,
       "valoracion": 4.2,
-      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31tZ4Il7hQL.jpg",
-      "url_producto": "https://www.amazon.es/dp/B08HCNHJRC?tag=yosiloquiero-wb-21&ref=nosim",
-      "hora": "08:01"
+      "imagen_url": "https://m.media-amazon.com/images/I/41Gp31YGEPL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CR3TFQZ4?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "08:03"
     }
   ]
 }
