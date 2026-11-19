@@ -1,6 +1,30 @@
 {
-  "actualizado": "2026-11-19T14:02:28+01:00",
+  "actualizado": "2026-11-19T15:00:30+01:00",
   "ofertas": [
+    {
+      "titulo": "Smartwatch Apple Watch Series 11 46mm",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 656.59,
+      "precio_actual": 401.09,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 255.5,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/41mLRtQRMpL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FQFWXQYL?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:00"
+    },
+    {
+      "titulo": "Teclado Apple Magic Keyboard para iPad Pro 11″ (M4), Negro",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 349,
+      "precio_actual": 210.35,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 138.65,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/31nmNBpiEVL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D3J3NWCP?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:00"
+    },
     {
       "titulo": "Proyector ViewSonic PA503X XGA 4000 lúmenes",
       "condicion": "Estado: Como Nuevo",
