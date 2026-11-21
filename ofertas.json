@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-11-21T19:01:55+01:00",
+  "actualizado": "2026-11-21T19:30:35+01:00",
   "ofertas": [
+    {
+      "titulo": "SSD SanDisk Optimus GX Pro 8100 PCIe Gen 5 NVMe 1 TB",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 325.95,
+      "precio_actual": 218.99,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 106.96,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/31UCiVLFZPL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GHYGLNTT?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:30"
+    },
+    {
+      "titulo": "Tarjeta gráfica ASUS Dual GeForce RTX 4070 Super EVO White OC 12GB",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 2528.08,
+      "precio_actual": 1659,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 869.08,
+      "valoracion": 4.7,
+      "imagen_url": "https://m.media-amazon.com/images/I/41hhAuXj1fL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DC29KHWS?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:30"
+    },
+    {
+      "titulo": "Caja de ordenador COUGAR MX600 RGB Full Tower ATX",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 111.61,
+      "precio_actual": 65.81,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 45.8,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/41HXM5MyOxL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CNBP9NFC?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:30"
+    },
+    {
+      "titulo": "Caja PC Micro-ATX ASUS A23 Plus, 4 ventiladores ARGB",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 90.17,
+      "precio_actual": 52.11,
+      "descuento_porcentaje": 42,
+      "ahorro_euros": 38.06,
+      "valoracion": 4.8,
+      "imagen_url": "https://m.media-amazon.com/images/I/41GfdCx8GxL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DK1RTTDZ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:30"
+    },
+    {
+      "titulo": "Placa base ASUS A620M-F Gaming WiFi mATX DDR5",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 130.4,
+      "precio_actual": 72.51,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 57.89,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/41f2QuZj+UL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DXFZ6NHM?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:30"
+    },
     {
       "titulo": "Deshumidificador Comfee Aqua Dry 2026 10L",
       "condicion": "Estado: Como Nuevo",
