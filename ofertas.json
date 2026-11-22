@@ -1,6 +1,54 @@
 {
-  "actualizado": "2026-11-22T19:01:47+01:00",
+  "actualizado": "2026-11-22T20:01:31+01:00",
   "ofertas": [
+    {
+      "titulo": "Disco duro externo iStorage diskAshur2 1TB",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 342.55,
+      "precio_actual": 237.77,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 104.78,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/41A8sBr0KTL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B06ZZ45M7N?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Cámara web Elgato Facecam Full HD 1080p60",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 157.97,
+      "precio_actual": 93.17,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 64.8,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/41EshPNr41L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0973DV11T?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Reposamuñecas Razer ergonómico para mini teclados",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 86.4,
+      "precio_actual": 25.03,
+      "descuento_porcentaje": 71,
+      "ahorro_euros": 61.37,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/315KGFXsQiL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B094DYBP8B?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:01"
+    },
+    {
+      "titulo": "Pesa rusa Athlyt 2 kg de hierro fundido",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 32.8,
+      "precio_actual": 8.93,
+      "descuento_porcentaje": 73,
+      "ahorro_euros": 23.87,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/21ThIsvyhNL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07HFDMJGG?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "20:01"
+    },
     {
       "titulo": "Hub USB-C StarTech 6 en 1 con HDMI 4K 60Hz",
       "condicion": "Estado: ¡Nuevo!",
