@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-11-22T21:01:39+01:00",
+  "actualizado": "2026-11-22T22:01:32+01:00",
   "ofertas": [
+    {
+      "titulo": "Micrófono de condensador USB Logitech Blue Yeti Nano, gris",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 99.99,
+      "precio_actual": 65.46,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 34.53,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/41oH12RrElL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07DTTGZ7M?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "Teclado inalámbrico Logitech K380 multi-dispositivo QWERTZ alemán rosa",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 50.03,
+      "precio_actual": 31.67,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 18.36,
+      "valoracion": 4.7,
+      "imagen_url": "https://m.media-amazon.com/images/I/31qfvPdOJUL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07W5JKKHL?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "Tarjeta microSD SanDisk Ultra 1 TB",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 257.62,
+      "precio_actual": 154.31,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 103.31,
+      "valoracion": 4.7,
+      "imagen_url": "https://m.media-amazon.com/images/I/41BdKwi6e5L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0B7NYN3N3?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "Aspiradora escoba Proscenic F10 Ultra+ 60 min",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 299.99,
+      "precio_actual": 128.09,
+      "descuento_porcentaje": 57,
+      "ahorro_euros": 171.9,
+      "valoracion": 4.2,
+      "imagen_url": "https://images-na.ssl-images-amazon.com/images/I/31OkBfAlABL.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GY44YXQL?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "22:01"
+    },
+    {
+      "titulo": "Teclado mecánico Trust GXT 871 Zora RGB",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 49.99,
+      "precio_actual": 16.72,
+      "descuento_porcentaje": 67,
+      "ahorro_euros": 33.27,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/41ibvKHeg0L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DQPZ218X?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "22:01"
+    },
     {
       "titulo": "Altavoces de escritorio Creative Pebble 2.0 USB",
       "condicion": "Estado: Muy Bueno",
