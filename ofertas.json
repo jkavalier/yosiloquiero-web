@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-11-23T11:01:22+01:00",
+  "actualizado": "2026-11-23T12:01:23+01:00",
   "ofertas": [
+    {
+      "titulo": "Grabadora DVD externa Beizkna USB 3.0 Tipo C",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 22.98,
+      "precio_actual": 15.3,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 7.68,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/31aDWd6G3+L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D5HDTVDL?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Colchón hinflable Bestway Connect and Rest Tritech 3 en 1 individual 1.88 m",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 44.95,
+      "precio_actual": 25.99,
+      "descuento_porcentaje": 42,
+      "ahorro_euros": 18.96,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/314f+8djdBL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B095XM5FRT?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Ratón ergonómico inalámbrico Cherry Stream Mouse para diestros",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 44.99,
+      "precio_actual": 25.9,
+      "descuento_porcentaje": 42,
+      "ahorro_euros": 19.09,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/21U5g3DIu6L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DDCG526Q?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Pilas alcalinas AAA Amazon Basics, paquete de 36",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 14.17,
+      "precio_actual": 7.76,
+      "descuento_porcentaje": 45,
+      "ahorro_euros": 6.41,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/41VtUi6pMDL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B00LH3DMUO?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Cubertería ZWILLING Artic 24 piezas",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 119,
+      "precio_actual": 62.68,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 56.32,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/31+95N-aNSL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B01JGO0GU4?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Gafas de esquí y snowboard Hawkers lentes rojas",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 109.99,
+      "precio_actual": 50.04,
+      "descuento_porcentaje": 55,
+      "ahorro_euros": 59.95,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/21EWGyU3GpL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DRPGNBPJ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Tableta gráfica HUION KAMVAS Pro 12 GT-116",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 457.5,
+      "precio_actual": 102.07,
+      "descuento_porcentaje": 78,
+      "ahorro_euros": 355.43,
+      "valoracion": 5,
+      "imagen_url": "https://m.media-amazon.com/images/I/41KjaHjrc2L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07KKHRJLJ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Teclado Logitech Ergo K860 UK QWERTY",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 126.64,
+      "precio_actual": 26.76,
+      "descuento_porcentaje": 79,
+      "ahorro_euros": 99.88,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/41HpDxRzGaL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07W6JLQCY?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
     {
       "titulo": "Casco de esquí POC Auric Cut BC MIPS",
       "condicion": "Estado: ¡Nuevo!",
