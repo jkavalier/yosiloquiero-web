@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-11-23T10:01:20+01:00",
+  "actualizado": "2026-11-23T11:01:22+01:00",
   "ofertas": [
+    {
+      "titulo": "Casco de esquí POC Auric Cut BC MIPS",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 229.95,
+      "precio_actual": 137.67,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 92.28,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/314Hw5UJOoL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09WR2WMTZ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Botella térmica Contigo 1200 ml con asa y pajita",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 29.99,
+      "precio_actual": 16.39,
+      "descuento_porcentaje": 45,
+      "ahorro_euros": 13.6,
+      "valoracion": 4.7,
+      "imagen_url": "https://m.media-amazon.com/images/I/21mDxFq5riL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D9HPLRML?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Almohadilla de regazo para portátil MAX SMART con bandeja retráctil para ratón",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 38.58,
+      "precio_actual": 20.39,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 18.19,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/41aui+IlZwL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B01HOXCREW?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Termo Stanley Quencher H2.0 FlowState 1,18 L",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 50,
+      "precio_actual": 25,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 25,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/31NJ5E3f97L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DFWVN7KM?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Cortapelos Philips Serie 9000 HC9723/15 con 28 longitudes",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 129.99,
+      "precio_actual": 64.99,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 65,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/51eh5HSckgL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0HG17FNYB?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Freidora de aire doble Panasonic NF-BC1000KXE, 9,6 L",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 219,
+      "precio_actual": 109,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 110,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/41SxPy56QpL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FX4JJC92?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Despertador inteligente Amazon Echo Time blanco",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 214.99,
+      "precio_actual": 104.99,
+      "descuento_porcentaje": 51,
+      "ahorro_euros": 110,
+      "valoracion": 4.1,
+      "imagen_url": "https://m.media-amazon.com/images/I/313LWwVeivL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GFYDJ6R7?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Batería de cocina ZWILLING Flow 5 piezas acero inoxidable",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 249,
+      "precio_actual": 103.99,
+      "descuento_porcentaje": 58,
+      "ahorro_euros": 145.01,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/61L2TXFkKDL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07TV62DWQ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
     {
       "titulo": "Zapatillas adidas Hoops Mid Classic, talla 48 2/3 EU",
       "condicion": "Estado: ¡Nuevo!",
