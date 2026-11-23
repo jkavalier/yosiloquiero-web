@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-11-23T12:01:23+01:00",
+  "actualizado": "2026-11-23T13:01:22+01:00",
   "ofertas": [
+    {
+      "titulo": "Gafas de protección contra la luz azul OPTIKOOL azul",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 19.99,
+      "precio_actual": 13.72,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 6.27,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/31V4Aw8JzrL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0H1CWQB3J?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Figura Amiibo Nintendo Mineru de Zelda",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 40.99,
+      "precio_actual": 28.47,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 12.52,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/51PVeC6apoL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0H1JFDNP8?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Aspiradora vertical sin cable EUREKA NEC370, 300 W y 80 min",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 119,
+      "precio_actual": 69.62,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 49.38,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/4129LzPiz3L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D2XZBWS9?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Plancha de cocina Tefal CB690D12 2300W",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 214.14,
+      "precio_actual": 120.19,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 93.95,
+      "valoracion": 4.7,
+      "imagen_url": "https://m.media-amazon.com/images/I/41w3LKvtjGL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07NW6YXGS?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Auriculares gaming HyperX Cloud X Stinger 2 Core con micrófono",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 49.73,
+      "precio_actual": 25.49,
+      "descuento_porcentaje": 49,
+      "ahorro_euros": 24.24,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/31aAAT9oZ8L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BDGTM1DP?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Tablet infantil Amazon Kids Tablet 8, 64 GB, pantalla HD de 8,7 ″",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 229.99,
+      "precio_actual": 114,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 115.99,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/21ZDDAV3GsL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FSW921C7?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Soporte de mancuernas Marbo Sport MH-S201 ajustable en altura",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 151.21,
+      "precio_actual": 61.97,
+      "descuento_porcentaje": 59,
+      "ahorro_euros": 89.24,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/31a0VjfJ3EL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07L3CH6Z8?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Adaptador de brazo de monitor RICOO CZ0012 para 2 pantallas 17-27 ″ VESA 75x75 100x100",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 48.99,
+      "precio_actual": 14.72,
+      "descuento_porcentaje": 70,
+      "ahorro_euros": 34.27,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/310VjaGjBLL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B083WK2K1H?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
     {
       "titulo": "Grabadora DVD externa Beizkna USB 3.0 Tipo C",
       "condicion": "Estado: Como Nuevo",
