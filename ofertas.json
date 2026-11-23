@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-11-23T08:01:14+01:00",
+  "actualizado": "2026-11-23T09:01:20+01:00",
   "ofertas": [
+    {
+      "titulo": "Zapatillas de senderismo Skechers GO WALK MAX sin cordones, talla 48 EU",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 69.95,
+      "precio_actual": 41.4,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 28.55,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/41vlcY5ACUL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0719CXVWZ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Zapatillas de trail running adidas Terrex Tracefinder 2, talla 46 EU",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 70,
+      "precio_actual": 40.86,
+      "descuento_porcentaje": 42,
+      "ahorro_euros": 29.14,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/31ovh8ssKqL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CYZYMV2J?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Chanclas de playa Roxy Sandy, talla 38 EU",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 15.99,
+      "precio_actual": 8.42,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 7.57,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/21kTwijVkXL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07STWV4Z4?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Alpargatas Tommy Hilfiger Chambray de Lino Negro 42",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 69.9,
+      "precio_actual": 35.59,
+      "descuento_porcentaje": 49,
+      "ahorro_euros": 34.31,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/41P9SFQgpAL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FDF4D3F3?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Zapatillas de entrenamiento Reebok Split Flex, talla 38 EU",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 70,
+      "precio_actual": 35,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 35,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/21dK5MrNRDL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FBS8YZ78?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Auriculares inalámbricos Razer Barracuda X",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 119.99,
+      "precio_actual": 59.49,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 60.5,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/41YfupGmfaL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09X5G16ZM?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Mocasines de oficina Clarks Westlynn Ayla para mujer, talla 39 EU, en piel negra",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 79.95,
+      "precio_actual": 38.86,
+      "descuento_porcentaje": 51,
+      "ahorro_euros": 41.09,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/31r13atDbTL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BPMLXBRT?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Sandalia deportiva ECCO Offroad, 42 EU",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 120,
+      "precio_actual": 50.4,
+      "descuento_porcentaje": 58,
+      "ahorro_euros": 69.6,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/31b1VPGioPL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B000NIF31A?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
     {
       "titulo": "Micrófono dinámico TONOR TD510+ USB/XLR con brazo ajustable",
       "condicion": "Estado: Muy Bueno",
