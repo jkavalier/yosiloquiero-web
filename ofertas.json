@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-11-23T14:01:35+01:00",
+  "actualizado": "2026-11-23T15:01:35+01:00",
   "ofertas": [
+    {
+      "titulo": "Máscara de esquí POC Opsin lente cilíndrica Clarity",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 139.95,
+      "precio_actual": 85.25,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 54.7,
+      "valoracion": 4.8,
+      "imagen_url": "https://m.media-amazon.com/images/I/31XzCjIKgZL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CZ38M86Y?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Lámpara de noche LED Comiwe Rugby 3D con control táctil y remoto",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 18.8,
+      "precio_actual": 11.52,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 7.28,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/51+zdQ9fZvL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07K5ZKSXV?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Cubertería 30 piezas Villeroy & Boch Voice Basic para 6 personas",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 84.9,
+      "precio_actual": 49.69,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 35.21,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/41XPZ2Azi7L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07F1XSDPX?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Receptor IPTV TVIP S-Box v.605 SE 4K UHD Linux",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 110.63,
+      "precio_actual": 64.1,
+      "descuento_porcentaje": 42,
+      "ahorro_euros": 46.53,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/21neJe3hkXL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C543LLK2?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Chimenea eléctrica NETTA 1900W con efecto llama",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 129.54,
+      "precio_actual": 68.27,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 61.27,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/41dS3V4c-fL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C69WK72W?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Reloj inteligente CHOOSETIME EF23 1,53″",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 129.99,
+      "precio_actual": 57.09,
+      "descuento_porcentaje": 56,
+      "ahorro_euros": 72.9,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/51NdIAfzbcL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0HB9BJB1N?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Batería externa Belkin Gaming 20000 mAh con cable USB-C integrado",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 69.92,
+      "precio_actual": 29.39,
+      "descuento_porcentaje": 58,
+      "ahorro_euros": 40.53,
+      "valoracion": 4.7,
+      "imagen_url": "https://m.media-amazon.com/images/I/21i4-ArI4ZL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F8W9K17S?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Smartphone Xiaomi Redmi 15 256GB",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 596.11,
+      "precio_actual": 196.91,
+      "descuento_porcentaje": 67,
+      "ahorro_euros": 399.2,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/41AbsT+4HVL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FH31F927?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
     {
       "titulo": "Despertador infantil Lexibook Super Mario LCD",
       "condicion": "Estado: Muy Bueno",
