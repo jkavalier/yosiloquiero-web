@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-11-23T09:01:20+01:00",
+  "actualizado": "2026-11-23T10:01:20+01:00",
   "ofertas": [
+    {
+      "titulo": "Zapatillas adidas Hoops Mid Classic, talla 48 2/3 EU",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 70,
+      "precio_actual": 40.86,
+      "descuento_porcentaje": 42,
+      "ahorro_euros": 29.14,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/21JCWxgdBXL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F1XDWR6R?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Zapatillas náuticas Helly Hansen HP Ahiga EVO 5, talla 40",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 120,
+      "precio_actual": 68.39,
+      "descuento_porcentaje": 43,
+      "ahorro_euros": 51.61,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/41+I0dTnvyL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D7JJXXJK?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Sandalias Quiksilver Bright Coast Adjust, talla 43 EU",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 25.2,
+      "precio_actual": 13.73,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 11.47,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/31eS1Opd6gL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07SVYWV3K?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Bailarinas Tommy Hilfiger Smooth de piel, talla 35",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 99.9,
+      "precio_actual": 49.99,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 49.91,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/31qN0wmwK1L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FDF15GNK?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Mocasines Clarks Hamble Oak para mujer, talla 39",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 110,
+      "precio_actual": 54.34,
+      "descuento_porcentaje": 51,
+      "ahorro_euros": 55.66,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/311iCeN2SUS._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0050N5ET4?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Zapatillas Saucony Jazz Original Vintage, talla 38.5 EU",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 95,
+      "precio_actual": 41.56,
+      "descuento_porcentaje": 56,
+      "ahorro_euros": 53.44,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/31TgrCCNPYL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B071HFD53G?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Zapatillas Reebok Smash Edge S, 42.5 EU",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 70,
+      "precio_actual": 28,
+      "descuento_porcentaje": 60,
+      "ahorro_euros": 42,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/21zUJ89PWCL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CNX85W3L?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Botas de senderismo ECCO Track 25, 41 EU",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 230,
+      "precio_actual": 90.55,
+      "descuento_porcentaje": 61,
+      "ahorro_euros": 139.45,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/31B5WUFijIL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DMRWVXXK?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
     {
       "titulo": "Zapatillas de senderismo Skechers GO WALK MAX sin cordones, talla 48 EU",
       "condicion": "Estado: ¡Nuevo!",
