@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-11-23T13:01:22+01:00",
+  "actualizado": "2026-11-23T14:01:35+01:00",
   "ofertas": [
+    {
+      "titulo": "Despertador infantil Lexibook Super Mario LCD",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 34.99,
+      "precio_actual": 24.31,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 10.68,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/41BAuxBDL-L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BJP57FSV?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Jersey de Navidad Fashion UK Spider-Man Azul Rojo M",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 71.99,
+      "precio_actual": 47.09,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 24.9,
+      "valoracion": 5,
+      "imagen_url": "https://m.media-amazon.com/images/I/41DX-h-pmRL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CKXMT4M7?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Juego de ollas RÖSLE GLOBE 10 piezas acero inoxidable 18/10",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 299,
+      "precio_actual": 189,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 110,
+      "valoracion": -0.1,
+      "imagen_url": "https://m.media-amazon.com/images/I/414fR+vkbBL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B076JHT9WT?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Casco de esquí POC Obex MIPS, talla XS-S (51-54 cm)",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 199.95,
+      "precio_actual": 123.19,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 76.76,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/31rWZF4l3eL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CYZTKG5Y?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Botella térmica Mr. Wonderful Más días bonitos 600 ml",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 19.95,
+      "precio_actual": 11.97,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 7.98,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/21d2QPfPklL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CY2NQ1KH?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Taza térmica Contigo Westloop 470 ml",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 30.99,
+      "precio_actual": 17.79,
+      "descuento_porcentaje": 43,
+      "ahorro_euros": 13.2,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/31QP6TwZE6L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07TRG2Y57?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Cortapelos Panasonic ER-SC40 con 20 ajustes de longitud",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 139,
+      "precio_actual": 79,
+      "descuento_porcentaje": 43,
+      "ahorro_euros": 60,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/41dxWnrrb5L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B074F2TGTP?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Altavoz inteligente Amazon Echo Show 5 con pantalla táctil de 5,5 ″, blanco",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 119.99,
+      "precio_actual": 64.99,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 55,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/31HQnzAwgeL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09B2TH45G?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
     {
       "titulo": "Gafas de protección contra la luz azul OPTIKOOL azul",
       "condicion": "Estado: Como Nuevo",
