@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-11-23T16:01:39+01:00",
+  "actualizado": "2026-11-23T17:01:39+01:00",
   "ofertas": [
+    {
+      "titulo": "Micrófono de conferencia Audibax BMG20 inalámbrico",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 36.79,
+      "precio_actual": 24.49,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 12.3,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/21OLJfeMpbL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07KBBGYKZ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "17:01"
+    },
+    {
+      "titulo": "Juego de ollas Fissler Viseo, 5 piezas de acero inoxidable",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 376.05,
+      "precio_actual": 244.59,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 131.46,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/41FwvUsKN3L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B000VZCPZW?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "17:01"
+    },
+    {
+      "titulo": "Freidora de aire y parrilla Ninja MAX 6 en 1 3,8L",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 269.99,
+      "precio_actual": 169.99,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 100,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/31r0xrMm1ZL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DHMTP77D?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "17:01"
+    },
+    {
+      "titulo": "Casco de esquí POC Auric Cut",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 179.95,
+      "precio_actual": 110.79,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 69.16,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/31X4gX6UrxL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B01GJQLTGC?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "17:01"
+    },
+    {
+      "titulo": "Luz de selfi magnética NEEWER NL48B compatible con MagSafe, 5 tonos y brillos",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 27.99,
+      "precio_actual": 16.7,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 11.29,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/41lO6B1S3OL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DTY4VTYD?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "17:01"
+    },
+    {
+      "titulo": "Vaso térmico con asa Simple Modern Trek 1180 ml",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 55,
+      "precio_actual": 31.5,
+      "descuento_porcentaje": 43,
+      "ahorro_euros": 23.5,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/415CyfB5saL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DSJRC49V?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "17:01"
+    },
+    {
+      "titulo": "Cortapelos inalámbrico Wahl 2 en 1 con 12 peines",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 74.99,
+      "precio_actual": 42.99,
+      "descuento_porcentaje": 43,
+      "ahorro_euros": 32,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/41PGgmdurpL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DJ9JFDY6?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "17:01"
+    },
+    {
+      "titulo": "Set de construcción LEGO Fortnite Llama de Suministros 691 piezas",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 39.99,
+      "precio_actual": 17.91,
+      "descuento_porcentaje": 55,
+      "ahorro_euros": 22.08,
+      "valoracion": 4.8,
+      "imagen_url": "https://m.media-amazon.com/images/I/516m1JpPfwL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DHSDFDXN?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "17:01"
+    },
     {
       "titulo": "Cámara de vigilancia exterior Tapo C51A 360°",
       "condicion": "Estado: Muy Bueno",
