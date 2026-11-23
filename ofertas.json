@@ -1,6 +1,90 @@
 {
-  "actualizado": "2026-11-23T19:01:53+01:00",
+  "actualizado": "2026-11-23T19:30:40+01:00",
   "ofertas": [
+    {
+      "titulo": "Caja para PC Micro-ATX ASUS Prime AP202 ARGB",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 130.99,
+      "precio_actual": 89.17,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 41.82,
+      "valoracion": 4.7,
+      "imagen_url": "https://m.media-amazon.com/images/I/41OBT9U-p5L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FCMZQ4XF?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:30"
+    },
+    {
+      "titulo": "Caja de PC ATX MSI MAG PANO 100L PZ",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 105.99,
+      "precio_actual": 71.24,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 34.75,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/41bJC5mNphL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D3J1N5P9?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:30"
+    },
+    {
+      "titulo": "Placa base ASUS Pro B760M-C-CSM Micro ATX LGA1700",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 120.95,
+      "precio_actual": 79.73,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 41.22,
+      "valoracion": 5,
+      "imagen_url": "https://m.media-amazon.com/images/I/41DBjxB40WL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BTDLCCZW?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:30"
+    },
+    {
+      "titulo": "Placa base ASUS ROG Crosshair X870E Extreme E-ATX",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 1099.99,
+      "precio_actual": 709.93,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 390.06,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/516k-HlvXaL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F1Z4Z9BT?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:30"
+    },
+    {
+      "titulo": "Placa base ASUS ROG Strix B850-E Gaming WiFi AM5 DDR5",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 409.99,
+      "precio_actual": 228.87,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 181.12,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/517148+3XML._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DP5FWHFG?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:30"
+    },
+    {
+      "titulo": "Placa base ASUS Prime Z790-P ATX LGA 1700",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 186.99,
+      "precio_actual": 95.44,
+      "descuento_porcentaje": 49,
+      "ahorro_euros": 91.55,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/41lXA9NBHKL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BH95V2XZ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:30"
+    },
+    {
+      "titulo": "Caja PC gaming MSI MPG VELOX 300R AIRFLOW PZ, media torre",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 116.95,
+      "precio_actual": 55,
+      "descuento_porcentaje": 53,
+      "ahorro_euros": 61.95,
+      "valoracion": 5,
+      "imagen_url": "https://m.media-amazon.com/images/I/41SnmHLOXZL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BSLL86KF?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "19:30"
+    },
     {
       "titulo": "Mando inalámbrico NK para Switch, Switch Pro y PC, blanco y rosa",
       "condicion": "Estado: Muy Bueno",
