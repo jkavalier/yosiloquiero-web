@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-11-24T16:01:36+01:00",
+  "actualizado": "2026-11-24T17:01:39+01:00",
   "ofertas": [
+    {
+      "titulo": "Ratón inalámbrico Uineer trimodo 12800 DPI",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 19.99,
+      "precio_actual": 13.72,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 6.27,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/41HzNYwOz0L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GFN8Z5T8?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "17:01"
+    },
+    {
+      "titulo": "Masajeador cervical Nekteck 3D con calor y 8 bolas shiatsu",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 59.99,
+      "precio_actual": 36.99,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 23,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/41YBZ1-FzUL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B01BZOKLOY?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "17:01"
+    },
+    {
+      "titulo": "Mochila de viaje cabina 40x20x25 cm BidMamba Pro 20L con bolsillo para portátil de 15″",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 58.65,
+      "precio_actual": 34.43,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 24.22,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/31VJHfqYZcL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B082SS4YY4?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "17:01"
+    },
+    {
+      "titulo": "Altavoz Bluetooth PRSCFUM portátil con ventosa e IP7",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 45.99,
+      "precio_actual": 24.99,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 21,
+      "valoracion": 4.8,
+      "imagen_url": "https://m.media-amazon.com/images/I/51UcX7SE8ZL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0HJ4WNH1V?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "17:01"
+    },
+    {
+      "titulo": "Batidora de vaso Taurus Power Shake 1600, jarra de cristal 1,75L",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 89.99,
+      "precio_actual": 44.99,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 45,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/31jiymf9rjL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GL8KVHW7?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "17:01"
+    },
+    {
+      "titulo": "Masajeador anticelulítico eléctrico Oranmagic inalámbrico",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 189.99,
+      "precio_actual": 89.99,
+      "descuento_porcentaje": 53,
+      "ahorro_euros": 100,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/41JZkW7ZJvL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0H7BRN4ZS?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "17:01"
+    },
+    {
+      "titulo": "Colgante TINSLO de plata de ley 925 con circonita",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 16.99,
+      "precio_actual": 6.64,
+      "descuento_porcentaje": 61,
+      "ahorro_euros": 10.35,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/51d-iWPh+oL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DDCQC9PP?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "17:01"
+    },
+    {
+      "titulo": "Tablet 10\" UJJ 64GB con teclado y ratón",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 399.99,
+      "precio_actual": 99.99,
+      "descuento_porcentaje": 75,
+      "ahorro_euros": 300,
+      "valoracion": 4.7,
+      "imagen_url": "https://m.media-amazon.com/images/I/511CwW7V9HL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0HJGM6GJP?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "17:01"
+    },
     {
       "titulo": "Casco de moto modular YEMA YM-925 con doble visera, Negro Mate, talla M",
       "condicion": "Estado: ¡Nuevo!",
