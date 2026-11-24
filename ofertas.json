@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-11-24T14:01:38+01:00",
+  "actualizado": "2026-11-24T15:01:32+01:00",
   "ofertas": [
+    {
+      "titulo": "Mini nevera KLARSTEIN 30 l",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 210.99,
+      "precio_actual": 146.27,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 64.72,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/413fd2lDWBL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08KJGHBXL?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Kit de fortalecedor de agarre FitBeast ajustable 5-60 kg, 5 piezas",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 18.99,
+      "precio_actual": 11.99,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 7,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/51XnnLVtNGL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07XXSDNZ4?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Dashcam REDTIGER F7N-N 4K delantera y trasera con GPS",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 149.99,
+      "precio_actual": 94.99,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 55,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/41LMAP2vYmL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GSQJYLL7?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Balón de fútbol meteor FBX talla 4",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 19.63,
+      "precio_actual": 11.99,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 7.64,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/419BqKIlu2L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08KW5SLLF?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Botella térmica Mont-Clair 750 ml",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 32.31,
+      "precio_actual": 15.19,
+      "descuento_porcentaje": 53,
+      "ahorro_euros": 17.12,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/41kfwVuS5FL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F3D6S8XC?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Soporte de monitor Fenge 108 cm blanco",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 87.19,
+      "precio_actual": 32.69,
+      "descuento_porcentaje": 63,
+      "ahorro_euros": 54.5,
+      "valoracion": 4.9,
+      "imagen_url": "https://m.media-amazon.com/images/I/41Me87TLNXL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DZ5XZF4L?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Smartwatch AOYBWK 1.85″ con llamadas Bluetooth",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 149.99,
+      "precio_actual": 37.99,
+      "descuento_porcentaje": 75,
+      "ahorro_euros": 112,
+      "valoracion": 5,
+      "imagen_url": "https://m.media-amazon.com/images/I/415TzNZtZ1L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0HGPSHTF9?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Smartwatch AcclaFit 1.85″ con llamadas Bluetooth",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 149.99,
+      "precio_actual": 37.99,
+      "descuento_porcentaje": 75,
+      "ahorro_euros": 112,
+      "valoracion": 4.7,
+      "imagen_url": "https://m.media-amazon.com/images/I/41TR+D1M9GL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0HHSJ75G5?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
     {
       "titulo": "Lámpara de lectura recargable Gritin con 9 LED y 3 modos de luz",
       "condicion": "Estado: ¡Nuevo!",
