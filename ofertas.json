@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-11-24T10:01:28+01:00",
+  "actualizado": "2026-11-24T11:01:41+01:00",
   "ofertas": [
+    {
+      "titulo": "Termo Stanley Quencher H2.0 FlowState 1,18L",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 55,
+      "precio_actual": 33,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 22,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/31Ak+qRdvfL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0G7J76XV7?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Cámara web OBSBOT Meet SE 1080P 100FPS",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 99,
+      "precio_actual": 59,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 40,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/314pG8fcIRL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DQ8H68YT?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Tocadiscos Bluetooth STACKSTONE DS07 con altavoces integrados",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 399.99,
+      "precio_actual": 229.99,
+      "descuento_porcentaje": 43,
+      "ahorro_euros": 170,
+      "valoracion": 5,
+      "imagen_url": "https://m.media-amazon.com/images/I/41tlyd3bKYL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0HQCCXW89?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Altavoces de estantería ULTIMEA BS-3 70W RMS",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 279.99,
+      "precio_actual": 159.99,
+      "descuento_porcentaje": 43,
+      "ahorro_euros": 120,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/418nN5L28CL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0H697CGH4?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Cinta de correr plegable LONTEK con inclinación automática",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 499.99,
+      "precio_actual": 259.99,
+      "descuento_porcentaje": 48,
+      "ahorro_euros": 240,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/41Wfx7W73wL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0H1GXYC67?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Despertador inteligente Amazon Echo Time con Alexa+",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 214.99,
+      "precio_actual": 104.99,
+      "descuento_porcentaje": 51,
+      "ahorro_euros": 110,
+      "valoracion": 4,
+      "imagen_url": "https://m.media-amazon.com/images/I/21R1FIH+VwL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GFXTF9YR?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Reloj inteligente Soudorv militar con linterna y pantalla de 1.53″",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 149.99,
+      "precio_actual": 39.99,
+      "descuento_porcentaje": 73,
+      "ahorro_euros": 110,
+      "valoracion": 4.8,
+      "imagen_url": "https://m.media-amazon.com/images/I/51hq0bvXR8L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0HK4BMG3R?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Smartwatch IOWODO con llamadas Bluetooth y pantalla de 1,91 ″",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 99.99,
+      "precio_actual": 25.99,
+      "descuento_porcentaje": 74,
+      "ahorro_euros": 74,
+      "valoracion": 4.9,
+      "imagen_url": "https://m.media-amazon.com/images/I/414LHx0Y4OL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0HHMQTWD6?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
     {
       "titulo": "Juego de 2 cazuelas de vidrio PYREX redondas 1 L",
       "condicion": "Estado: ¡Nuevo!",
