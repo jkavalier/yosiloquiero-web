@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-11-24T08:01:21+01:00",
+  "actualizado": "2026-11-24T09:01:24+01:00",
   "ofertas": [
+    {
+      "titulo": "Lámpara de pie LED Govee RGBIC regulable 2700-6500K",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 89.99,
+      "precio_actual": 53.99,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 36,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/31mFA1F2gPL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BQ23PSFK?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Tabla de equilibrio GIBBON SlackBoard Plus, 2 líneas",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 229.99,
+      "precio_actual": 123.48,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 106.51,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/31tUAxyozML._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FL4SR5N4?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Altavoz Bluetooth portátil Edifier MP330 40W",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 149.99,
+      "precio_actual": 79.99,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 70,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/51Uf8UEUgqL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F1FWLGBP?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Casco de bicicleta Meteor Marven ajustable blanco y gris",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 55.62,
+      "precio_actual": 26.99,
+      "descuento_porcentaje": 51,
+      "ahorro_euros": 28.63,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/41IFmZwLXoL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07BFBT2SS?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Disco duro externo Seagate Expansion 1 TB USB 3.0",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 97,
+      "precio_actual": 45.67,
+      "descuento_porcentaje": 53,
+      "ahorro_euros": 51.33,
+      "valoracion": 4.7,
+      "imagen_url": "https://m.media-amazon.com/images/I/41YRAYjRagL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08ZJDWTJ1?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Barra de pesas Dripex 80 cm compatible con mancuernas de 2,5 a 10 kg",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 29.99,
+      "precio_actual": 14,
+      "descuento_porcentaje": 53,
+      "ahorro_euros": 15.99,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/31n87+EQfmL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0G2WPXVSZ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Proyector portátil ZDK Android 14 1080p",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 239.99,
+      "precio_actual": 109.99,
+      "descuento_porcentaje": 54,
+      "ahorro_euros": 130,
+      "valoracion": 5,
+      "imagen_url": "https://m.media-amazon.com/images/I/41BaNxOQp6L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0HDCFNVYG?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Dron con cámara NAFYRE N11 PRO, 4K, menos de 0,25 kg",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 271,
+      "precio_actual": 109.99,
+      "descuento_porcentaje": 59,
+      "ahorro_euros": 161.01,
+      "valoracion": 4.9,
+      "imagen_url": "https://m.media-amazon.com/images/I/417BQCyIRKL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0H7RS98KJ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
     {
       "titulo": "Guantes de gimnasio COFIT sin dedos con palma acolchada de 5 mm",
       "condicion": "Estado: ¡Nuevo!",
