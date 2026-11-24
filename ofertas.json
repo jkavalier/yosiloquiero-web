@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-11-24T11:01:41+01:00",
+  "actualizado": "2026-11-24T12:01:40+01:00",
   "ofertas": [
+    {
+      "titulo": "Purificador de aire Coway MIGHTY AP-1512HH, HEPA, CADR 421 m³/h",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 269.99,
+      "precio_actual": 159.99,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 110,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/31pCHKKqN2L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B06ZY1JMNW?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Sandalias FILA Morro Bay Slipper 2.0, talla 37 EU",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 25,
+      "precio_actual": 14.34,
+      "descuento_porcentaje": 43,
+      "ahorro_euros": 10.66,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/3157j7JmwfL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07V6MLV9F?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Auriculares gaming SteelSeries Arctis Nova Pro con cable",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 163.24,
+      "precio_actual": 90.98,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 72.26,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/318YuHWigkL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09ZLS5L29?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Detector de humo SHD con sensor óptico y alarma de 85 dB",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 47.99,
+      "precio_actual": 25.73,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 22.26,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/41vRYJZEY5L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08ZJDS6LB?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Batería externa SHARGE Flow Mini 2 5000 mAh con cable USB-C y Lightning integrado",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 39.99,
+      "precio_actual": 20.67,
+      "descuento_porcentaje": 48,
+      "ahorro_euros": 19.32,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/31NMhRIpeBL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F21GH4YD?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Dron con cámara CHUBORY 4K HD, 84 min de vuelo",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 200,
+      "precio_actual": 99.99,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 100.01,
+      "valoracion": 5,
+      "imagen_url": "https://m.media-amazon.com/images/I/51Vzo8DKslL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0HC6SVPVV?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Chimenea eléctrica de pared Klarstein 2000W con llama LED y mando a distancia",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 749.99,
+      "precio_actual": 362.74,
+      "descuento_porcentaje": 52,
+      "ahorro_euros": 387.25,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/31Qxqsa07jL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07JH52F7M?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Set de cubiertos portátiles Chilly's de acero inoxidable con estuche de aluminio",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 30,
+      "precio_actual": 14,
+      "descuento_porcentaje": 53,
+      "ahorro_euros": 16,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/31OQt0KeIYL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CB4YNTS6?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
     {
       "titulo": "Termo Stanley Quencher H2.0 FlowState 1,18L",
       "condicion": "Estado: ¡Nuevo!",
