@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-11-24T12:01:40+01:00",
+  "actualizado": "2026-11-24T13:01:38+01:00",
   "ofertas": [
+    {
+      "titulo": "Cadenas de nieve textiles Walser Easygo R13-R22",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 49.94,
+      "precio_actual": 29.95,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 19.99,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/515xwUldBnL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FL2HRR8N?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Tabla de paddle surf hinchable FunWater 10'6″",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 189.99,
+      "precio_actual": 111.59,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 78.4,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/414TIM2gUZL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FMJCJ1LC?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Ratón gaming inalámbrico Pulsar Gaming Gears X2A eS, ultraligero",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 100.83,
+      "precio_actual": 59.9,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 40.93,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/31MNWk5RAhL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CLGQK6YW?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Teclado SATECHI LX3 QWERTY US con cable y teclado numérico",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 59.99,
+      "precio_actual": 33.49,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 26.5,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/31gzQszEV3L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GMYSB3XR?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Tablet infantil Amazon Kids 8 64 GB",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 229.99,
+      "precio_actual": 114,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 115.99,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/31As7ZJuFNL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FSVK9XW3?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Mancuernas Athlyt 2 x 8 kg con revestimiento de neopreno",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 69.58,
+      "precio_actual": 30.59,
+      "descuento_porcentaje": 56,
+      "ahorro_euros": 38.99,
+      "valoracion": 4.7,
+      "imagen_url": "https://m.media-amazon.com/images/I/41WJjcW0t1L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BYFJBBLB?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Maleta grande Mandarina Duck FLYDUCK, policarbonato, ruedas dobles",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 169.4,
+      "precio_actual": 57.04,
+      "descuento_porcentaje": 66,
+      "ahorro_euros": 112.36,
+      "valoracion": 5,
+      "imagen_url": "https://m.media-amazon.com/images/I/21fsHfOHKpL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C5R6M8GQ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Altavoz Bluetooth portátil Tiksounds 25W",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 129.99,
+      "precio_actual": 35.99,
+      "descuento_porcentaje": 72,
+      "ahorro_euros": 94,
+      "valoracion": 4.7,
+      "imagen_url": "https://m.media-amazon.com/images/I/51UfepLIPmL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0HQRGVTC1?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
     {
       "titulo": "Purificador de aire Coway MIGHTY AP-1512HH, HEPA, CADR 421 m³/h",
       "condicion": "Estado: ¡Nuevo!",
