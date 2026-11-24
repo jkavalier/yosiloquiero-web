@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-11-24T17:31:03+01:00",
+  "actualizado": "2026-11-24T18:01:34+01:00",
   "ofertas": [
+    {
+      "titulo": "Cámara de seguridad interior Tapo C211 2K 3MP",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 59.12,
+      "precio_actual": 40.91,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 18.21,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/41YYnlEWnGL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CQHY41NY?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "18:01"
+    },
+    {
+      "titulo": "Altavoz karaoke Moukey MTs210-1 con 2 micrófonos inalámbricos",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 288.82,
+      "precio_actual": 189.99,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 98.83,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/41TEMvEVPQL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C58XKYB8?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "18:01"
+    },
+    {
+      "titulo": "Enchufe inteligente WiFi XUK 16A 3680W (2 uds)",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 29.99,
+      "precio_actual": 19.55,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 10.44,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/319zdBQP2qL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FXKJ3565?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "18:01"
+    },
+    {
+      "titulo": "Luz nocturna infantil Swoieltr con sensor de movimiento y brillo regulable",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 15.99,
+      "precio_actual": 10.06,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 5.93,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/413znc4qLTL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FFBB72P1?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "18:01"
+    },
+    {
+      "titulo": "Telescopio refractor MEEZAA 80/500 mm con trípode y mochila",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 129.99,
+      "precio_actual": 79.99,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 50,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/51McOEoHz2L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0HC5HPVDW?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "18:01"
+    },
+    {
+      "titulo": "Rastreador GPS para perros Tractive 2025",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 69,
+      "precio_actual": 40.49,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 28.51,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/412qWglXcoL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D6Z7KPBP?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "18:01"
+    },
+    {
+      "titulo": "Robot aspirador roborock Qrevo 2 Pro, 25000 Pa",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 699,
+      "precio_actual": 299,
+      "descuento_porcentaje": 57,
+      "ahorro_euros": 400,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/31cbeDTWjdL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GZZ96X7N?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "18:01"
+    },
+    {
+      "titulo": "Base de conexión MOKiN 12 en 1 USB C con doble HDMI",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 62.64,
+      "precio_actual": 23.28,
+      "descuento_porcentaje": 63,
+      "ahorro_euros": 39.36,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/51cxt-cHnJL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0892D1J2H?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "18:01"
+    },
     {
       "titulo": "Gafas de sol Julbo Canyon",
       "condicion": "Estado: ¡Nuevo!",
