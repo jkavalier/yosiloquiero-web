@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-11-25T15:01:57+01:00",
+  "actualizado": "2026-11-25T16:01:57+01:00",
   "ofertas": [
+    {
+      "titulo": "Auriculares de realidad virtual PlayStation VR2 Horizon Bundle",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 669.1,
+      "precio_actual": 438.62,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 230.48,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/31mI2qu78YL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BMG6F66Y?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Timbre inalámbrico exterior SURFOU con 2 receptores enchufables",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 24.99,
+      "precio_actual": 16.02,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 8.97,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/4170saGoC0L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DRD2KTST?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Cartuchos de filtro de agua Stelton Magnesium+, 3 unidades",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 29.5,
+      "precio_actual": 18.6,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 10.9,
+      "valoracion": 4.7,
+      "imagen_url": "https://m.media-amazon.com/images/I/3137RvU3-2L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F29ZSQGY?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Alzador de coche Bebeconfort Manga i-Fix ISOFIX 128–150 cm",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 49.99,
+      "precio_actual": 30.99,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 19,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/21JKlV5j1zL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B000O6OAG0?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Pantalla para coche Adelagnes 11″ con CarPlay inalámbrico",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 139.99,
+      "precio_actual": 82.67,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 57.32,
+      "valoracion": 5,
+      "imagen_url": "https://m.media-amazon.com/images/I/416pziafdFL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GZSK9N7Y?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Regleta de enchufes Brennenstuhl Ecolor con 4 tomas y 2 puertos USB",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 18.99,
+      "precio_actual": 10.95,
+      "descuento_porcentaje": 42,
+      "ahorro_euros": 8.04,
+      "valoracion": 4.7,
+      "imagen_url": "https://m.media-amazon.com/images/I/31r1uWaFG4L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07K769CY2?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Monitor de vídeo para bebés Béaba Zen Plus 2, pantalla HD 5 ″",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 221.54,
+      "precio_actual": 61.27,
+      "descuento_porcentaje": 72,
+      "ahorro_euros": 160.27,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/41GaqYNRxjL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FDX4KLFB?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Router WiFi 6 Tenda RX2L Pro AX1500 doble banda",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 103.11,
+      "precio_actual": 21.6,
+      "descuento_porcentaje": 79,
+      "ahorro_euros": 81.51,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/41FBgUQ6hdL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DFC581ZB?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:01"
+    },
     {
       "titulo": "Cubertería 32 piezas Amefa Eclat acero inoxidable 18/0 para 8 personas",
       "condicion": "Estado: ¡Nuevo!",
