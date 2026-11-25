@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-11-25T12:01:58+01:00",
+  "actualizado": "2026-11-25T13:01:54+01:00",
   "ofertas": [
+    {
+      "titulo": "Bandas de resistencia PROIRON 5 niveles hasta 45 kg",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 35.99,
+      "precio_actual": 23.74,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 12.25,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/51WpEbc5P4L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07V6WDSFV?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Deshumidificador Duux Bora 12L/día",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 199.99,
+      "precio_actual": 129.99,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 70,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/21VdpzZbuFL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FX2T2WNK?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Cadenas de nieve textiles Walser Ultra Grip R13-R22",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 46.46,
+      "precio_actual": 29.95,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 16.51,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/515xwUldBnL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FL2D52WY?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Cinta de correr Toputure plegable con inclinación ajustable",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 199.99,
+      "precio_actual": 123.49,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 76.5,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/41SPBJoy0UL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F6LKKVQQ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Casco de carretera POC Ventral Air MIPS",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 259.95,
+      "precio_actual": 155.95,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 104,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/31L3dQ6JgqL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FM7N3DLD?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Estantería metálica Simon Rack Advantage 900x1100x500 mm, 3 baldas",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 64.32,
+      "precio_actual": 27.73,
+      "descuento_porcentaje": 57,
+      "ahorro_euros": 36.59,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/41O4C2kS0GL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0B7K8X1G5?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Batería externa magnética Ntaanoo 10000 mAh",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 69.99,
+      "precio_actual": 24.99,
+      "descuento_porcentaje": 64,
+      "ahorro_euros": 45,
+      "valoracion": 4.9,
+      "imagen_url": "https://m.media-amazon.com/images/I/31CK9lqlrNL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0HHJLKPKC?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Plancha eléctrica Cecotec Rock&Water 2000, 40x20 cm",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 69.59,
+      "precio_actual": 23.68,
+      "descuento_porcentaje": 66,
+      "ahorro_euros": 45.91,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/51e2R9FnBXL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B077N3WX93?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
     {
       "titulo": "Funda de transporte elago para Nintendo Switch 2, 10 ranuras para tarjetas",
       "condicion": "Estado: ¡Nuevo!",
