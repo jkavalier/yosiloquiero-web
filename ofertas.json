@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-11-25T16:01:57+01:00",
+  "actualizado": "2026-11-25T17:01:50+01:00",
   "ofertas": [
+    {
+      "titulo": "Cinta de correr plegable RUNIMON con inclinación 3 niveles y motor 3.0 HP",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 399.99,
+      "precio_actual": 231.79,
+      "descuento_porcentaje": 42,
+      "ahorro_euros": 168.2,
+      "valoracion": 4.8,
+      "imagen_url": "https://m.media-amazon.com/images/I/51uk00a+iNL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0G14B1753?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "17:01"
+    },
+    {
+      "titulo": "Batería externa magnética Fresh 'n Rebel 5000 mAh",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 34.99,
+      "precio_actual": 19.99,
+      "descuento_porcentaje": 43,
+      "ahorro_euros": 15,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/31Uh183pSWL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DSJB83PD?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "17:01"
+    },
+    {
+      "titulo": "Tabla de equilibrio GIBBON SlackBoard Plus, 2 líneas",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 229.99,
+      "precio_actual": 123.48,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 106.51,
+      "valoracion": 4.8,
+      "imagen_url": "https://m.media-amazon.com/images/I/41RfpjSTU5L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FL5YTYGG?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "17:01"
+    },
+    {
+      "titulo": "Monitor de audio para bebés VTech DM1212-IT con proyección de luz",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 42.99,
+      "precio_actual": 23.19,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 19.8,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/41LgTm2KhnL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09B2PW4D7?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "17:01"
+    },
+    {
+      "titulo": "Termo Stanley 1913 Aerolight Transit 0,47L",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 39,
+      "precio_actual": 19.5,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 19.5,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/21tRZraPGAL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F7RV2Y29?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "17:01"
+    },
+    {
+      "titulo": "Silla gamer Razer Iskur V2 NewGen con soporte lumbar HyperFlex",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 699.99,
+      "precio_actual": 347.1,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 352.89,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/310pyB-85WL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FZVDRNK2?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "17:01"
+    },
+    {
+      "titulo": "Deshumidificador LEENON 25L/24H con compresor",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 399,
+      "precio_actual": 129.99,
+      "descuento_porcentaje": 67,
+      "ahorro_euros": 269.01,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/31hkaXG+9yL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FBFHBY9B?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "17:01"
+    },
+    {
+      "titulo": "Tablet 10\" UJJ 64GB con teclado y ratón",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 399.99,
+      "precio_actual": 99.99,
+      "descuento_porcentaje": 75,
+      "ahorro_euros": 300,
+      "valoracion": 4.7,
+      "imagen_url": "https://m.media-amazon.com/images/I/51del2NmznL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0HJGL88HF?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "17:01"
+    },
     {
       "titulo": "Auriculares de realidad virtual PlayStation VR2 Horizon Bundle",
       "condicion": "Estado: Muy Bueno",
