@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-11-25T17:31:07+01:00",
+  "actualizado": "2026-11-25T18:01:56+01:00",
   "ofertas": [
+    {
+      "titulo": "Cama para perro Feandrea redonda 55 cm",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 18.99,
+      "precio_actual": 13.29,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 5.7,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/41FXdE91BPL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08136DKMK?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "18:01"
+    },
+    {
+      "titulo": "Ratón inalámbrico HP 230 Slim",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 19.99,
+      "precio_actual": 13.49,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 6.5,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/21GPDfjMAIL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DR2ZPGZ2?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "18:01"
+    },
+    {
+      "titulo": "Dispensador de cerveza Philips PerfectDraft 6L",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 269.99,
+      "precio_actual": 179.28,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 90.71,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/3117VNt9C+L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D33NSV9X?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "18:01"
+    },
+    {
+      "titulo": "Transmisor Bluetooth Twelve South AirFly SE",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 49.95,
+      "precio_actual": 32.39,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 17.56,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/11240IqmgiL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BQZBMXD4?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "18:01"
+    },
+    {
+      "titulo": "Hervidor eléctrico CREATE Retro M 1L verde sage",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 40.95,
+      "precio_actual": 25.95,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 15,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/21bm+1lr6ZL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CRBB2Z7N?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "18:01"
+    },
+    {
+      "titulo": "Reposamuñecas Kensington ErgoSoft para ratón, negro",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 20.69,
+      "precio_actual": 12.2,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 8.49,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/31Q3zeZi9hL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B01MS8PIX9?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "18:01"
+    },
+    {
+      "titulo": "Robot aspirador roborock Qrevo 2 Pro, 25000 Pa",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 689,
+      "precio_actual": 299,
+      "descuento_porcentaje": 57,
+      "ahorro_euros": 390,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/31VrSwajzKL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GZZTG9VS?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "18:01"
+    },
+    {
+      "titulo": "Urna funeraria Keepsake Company forma de lágrima azul y verde 3\"",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 58.99,
+      "precio_actual": 11.55,
+      "descuento_porcentaje": 80,
+      "ahorro_euros": 47.44,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/418r+FO5XNL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CP6XX2J3?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "18:01"
+    },
     {
       "titulo": "Gafas de sol Julbo Fury fotocromáticas 1-3",
       "condicion": "Estado: ¡Nuevo!",
