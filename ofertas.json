@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-11-25T14:01:50+01:00",
+  "actualizado": "2026-11-25T15:01:57+01:00",
   "ofertas": [
+    {
+      "titulo": "Cubertería 32 piezas Amefa Eclat acero inoxidable 18/0 para 8 personas",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 59.61,
+      "precio_actual": 38.99,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 20.62,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/41yO5sWf1KL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07L6TFV88?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Balón de fútbol meteor FBX talla 3 amarillo",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 18.88,
+      "precio_actual": 11.99,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 6.89,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/51lwK+duypL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08KW77KJ6?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Kit de fortalecedores de agarre FitBeast, 5 piezas",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 18.99,
+      "precio_actual": 11.99,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 7,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/51LnHX0MU6L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07XXSGDZ2?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Altavoz Bluetooth Music Sound Mini 3 W",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 14.95,
+      "precio_actual": 8.99,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 5.96,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/41HskipFbZL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F1N84XCF?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Freidora de aire doble TopStrong 11 L",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 149.99,
+      "precio_actual": 90.11,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 59.88,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/41vLpZ4JjiL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FG7XVHVS?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Purificador de aire Chuboor con filtro HEPA",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 129.99,
+      "precio_actual": 69.99,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 60,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/41AM5xYIsOL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0H7MG61NK?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Cámara para mascotas Furbo Mini 1080p HD",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 44,
+      "precio_actual": 20,
+      "descuento_porcentaje": 55,
+      "ahorro_euros": 24,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/413l+Th3bhL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CTKXQNPX?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Soporte de monitor Fenge 108 cm para 2 monitores",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 87.19,
+      "precio_actual": 32.69,
+      "descuento_porcentaje": 63,
+      "ahorro_euros": 54.5,
+      "valoracion": 4.9,
+      "imagen_url": "https://m.media-amazon.com/images/I/41Aq54iRKsL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DZ61TJJ3?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
     {
       "titulo": "Colgante Pandora Letra K de plata",
       "condicion": "Estado: ¡Nuevo!",
