@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-11-26T15:01:45+01:00",
+  "actualizado": "2026-11-26T16:01:51+01:00",
   "ofertas": [
+    {
+      "titulo": "Webcam 2K 30FPS UGREEN USB con micrófonos duales",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 34.99,
+      "precio_actual": 22.74,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 12.25,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/31XGFozt6JL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F1SBZ62T?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Kit de fortalecedores de agarre FitBeast, 5 piezas",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 18.99,
+      "precio_actual": 11.99,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 7,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/51oFSzMl-GL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07XXSP19L?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Mesa plegable SAIJI ajustable en altura y ángulo, 52x30 cm",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 39.99,
+      "precio_actual": 23.87,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 16.12,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/41RBmEAj2cL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08TBG3SPW?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Pesas de muñeca ajustables TopEsct 450 g, verde oliva",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 24.99,
+      "precio_actual": 14.71,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 10.28,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/31q223YN2OL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BM8KS2RT?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Tabla de flexiones MAGIC SELECT 14 en 1 plegable",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 19.58,
+      "precio_actual": 11.39,
+      "descuento_porcentaje": 42,
+      "ahorro_euros": 8.19,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/41x+stXbbbL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09N9TXRMH?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Balón de fútbol meteor FBX talla 3 naranja",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 21.63,
+      "precio_actual": 11.99,
+      "descuento_porcentaje": 45,
+      "ahorro_euros": 9.64,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/41TBzmVnvyL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08KW3LGQC?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Mini dron con cámara FAKJANK FPV con pantalla LCD de 2,8 ″",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 149.99,
+      "precio_actual": 59.99,
+      "descuento_porcentaje": 60,
+      "ahorro_euros": 90,
+      "valoracion": 5,
+      "imagen_url": "https://m.media-amazon.com/images/I/41WOvUJ6JJL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0H9MBB61B?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:01"
+    },
+    {
+      "titulo": "Maleta de cabina Marvel All Avengers 34x55x20 cm",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 99.99,
+      "precio_actual": 39.44,
+      "descuento_porcentaje": 61,
+      "ahorro_euros": 60.55,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/41C2pM7-fsL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07S68WTCZ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "16:01"
+    },
     {
       "titulo": "Localizador Bluetooth UGREEN FineTrack 2 Diseño Fútbol Negro",
       "condicion": "Estado: ¡Nuevo!",
