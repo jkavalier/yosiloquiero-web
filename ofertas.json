@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-11-26T13:01:55+01:00",
+  "actualizado": "2026-11-26T14:01:47+01:00",
   "ofertas": [
+    {
+      "titulo": "Fortalecedor de muñeca y antebrazo Sportneer ajustable",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 16.99,
+      "precio_actual": 11.89,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 5.1,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/31oTOujYj4L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B01NAGVOYK?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Cinturón de musculación Fitgriff con cadena de acero y 2 mosquetones, talla única",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 24.95,
+      "precio_actual": 16.39,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 8.56,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/41vB8m7RMpL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08P5TJDR2?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Mancuernas de neopreno Athlyt 2 x 7 kg",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 48.4,
+      "precio_actual": 31.55,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 16.85,
+      "valoracion": 4.7,
+      "imagen_url": "https://m.media-amazon.com/images/I/31c+FCPLouL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BYFRBG53?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Destornillador eléctrico HYCHIKA 3,6 V con 20 accesorios",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 28.51,
+      "precio_actual": 16.66,
+      "descuento_porcentaje": 42,
+      "ahorro_euros": 11.85,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/513HyISorIL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B086SQK2RK?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Kit de pintura por números gelrovaled 20 x 30 cm con marco",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 12.45,
+      "precio_actual": 7.15,
+      "descuento_porcentaje": 43,
+      "ahorro_euros": 5.3,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/51N8Pa6HtnL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DY1BR9MR?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Fuente de cerámica para mascotas PetSafe Drinkwell Avalon 2L",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 89.99,
+      "precio_actual": 49.43,
+      "descuento_porcentaje": 45,
+      "ahorro_euros": 40.56,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/21aZHQwpbzS._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B00JV42HKC?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Smartphone Google Pixel 9 Pro XL 128GB",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 1199,
+      "precio_actual": 586.73,
+      "descuento_porcentaje": 51,
+      "ahorro_euros": 612.27,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/21gSswVeCwL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D7V17BMQ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Batería externa magnética Ntaanoo 10000 mAh con cable USB-C",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 69.99,
+      "precio_actual": 24.99,
+      "descuento_porcentaje": 64,
+      "ahorro_euros": 45,
+      "valoracion": 4.9,
+      "imagen_url": "https://m.media-amazon.com/images/I/31X91KeUBtL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0HHJCWXLZ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
     {
       "titulo": "Juego de toallas faciales Sweet Needle 30 x 30 cm, 12 unidades",
       "condicion": "Estado: ¡Nuevo!",
