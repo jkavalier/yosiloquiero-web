@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-11-26T08:01:48+01:00",
+  "actualizado": "2026-11-26T09:01:47+01:00",
   "ofertas": [
+    {
+      "titulo": "Aislante térmico para latas YETI Rambler Colster 330 ml",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 30,
+      "precio_actual": 19.5,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 10.5,
+      "valoracion": 4.8,
+      "imagen_url": "https://m.media-amazon.com/images/I/31kNhzj92pL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C7BSY9K4?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Cafetera espresso Sage Barista Express con molinillo integrado",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 729.9,
+      "precio_actual": 449,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 280.9,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/41HRtywpVxL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FN7STVNH?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Lámpara de pie SUNMORY con 2 puertos USB y cajón",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 79.99,
+      "precio_actual": 48.88,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 31.11,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/41ZrepFZ8AL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B091JY9Z13?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Freidora de aire Tognana Iridea 6 L",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 180.18,
+      "precio_actual": 109.99,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 70.19,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/41TRj4prI-L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GR6N6GD3?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Base de carga Bose para Portable Home Speaker, plata",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 33.15,
+      "precio_actual": 19.64,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 13.51,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/21mCRd+TFEL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07WWKCS7R?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Cargador inalámbrico plegable Satechi OntheGo 2 en 1 Qi2 15W Negro",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 89.99,
+      "precio_actual": 50.49,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 39.5,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/319ybUK+csL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F4B9ZYMK?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Casco de bicicleta Meteor Marven ajustable",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 50.93,
+      "precio_actual": 26.99,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 23.94,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/41T-g7FNs9L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09VGXH5XV?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Altavoz Bluetooth portátil Ultimate Ears WONDERBOOM 4, resistente al agua",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 105,
+      "precio_actual": 56.15,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 48.85,
+      "valoracion": 4.7,
+      "imagen_url": "https://m.media-amazon.com/images/I/41HfiWLkgXL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D3WK9JXS?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
     {
       "titulo": "Trípode CAMBOFOTO 168 cm de aluminio ligero",
       "condicion": "Estado: ¡Nuevo!",
