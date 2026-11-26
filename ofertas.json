@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-11-26T16:01:51+01:00",
+  "actualizado": "2026-11-26T17:01:47+01:00",
   "ofertas": [
+    {
+      "titulo": "Botella térmica BRITA LARQ Essential 680 ml beige con pajita",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 44.95,
+      "precio_actual": 29.99,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 14.96,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/31TLKyTCibL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F8BNQXHF?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "17:01"
+    },
+    {
+      "titulo": "Freidora de aire CREATE 4,2 L",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 90.95,
+      "precio_actual": 59.95,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 31,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/318Ygb7D2XL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FNMRSLTW?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "17:01"
+    },
+    {
+      "titulo": "Purificador de aire Coway Airmega 350, CADR 713 m³/h",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 349.99,
+      "precio_actual": 229.99,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 120,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/31krHcuqPQL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FK1BZRWS?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "17:01"
+    },
+    {
+      "titulo": "Botella de agua YETI Rambler 769 ml con tapón Chug",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 43,
+      "precio_actual": 27.95,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 15.05,
+      "valoracion": 4.8,
+      "imagen_url": "https://m.media-amazon.com/images/I/31WgrucehEL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D9YMJ7T3?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "17:01"
+    },
+    {
+      "titulo": "Base de conexión MOKiN 12 en 1 USB C con 2 HDMI y DisplayPort",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 50.53,
+      "precio_actual": 28.24,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 22.29,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/51Sbv7Drk3L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08QJ63YT6?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "17:01"
+    },
+    {
+      "titulo": "Altavoces de ordenador Edifier R20BT con Bluetooth 6.0",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 59.99,
+      "precio_actual": 32.99,
+      "descuento_porcentaje": 45,
+      "ahorro_euros": 27,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/41YmsZ-LMDL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FZHMG8TM?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "17:01"
+    },
+    {
+      "titulo": "Espejo de baño LED EMKE 50 x 60 cm con antivaho y luz regulable",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 111.84,
+      "precio_actual": 56.18,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 55.66,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/41ht8FAxUpL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CJM6X1MW?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "17:01"
+    },
+    {
+      "titulo": "Smartwatch Baolubao con linterna LED y brújula, 1.45 ″",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 149.99,
+      "precio_actual": 39.99,
+      "descuento_porcentaje": 73,
+      "ahorro_euros": 110,
+      "valoracion": 4.9,
+      "imagen_url": "https://m.media-amazon.com/images/I/51ijaGubLSL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0HM7FJT73?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "17:01"
+    },
     {
       "titulo": "Webcam 2K 30FPS UGREEN USB con micrófonos duales",
       "condicion": "Estado: ¡Nuevo!",
