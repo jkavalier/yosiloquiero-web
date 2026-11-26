@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-11-26T12:01:49+01:00",
+  "actualizado": "2026-11-26T13:01:55+01:00",
   "ofertas": [
+    {
+      "titulo": "Juego de toallas faciales Sweet Needle 30 x 30 cm, 12 unidades",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 20.89,
+      "precio_actual": 12.74,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 8.15,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/41QEWVbrj0L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GRW491P9?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Purificador de aire Lefant A1 Pro con filtro HEPA H13 y CADR 350 m³/h",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 199.99,
+      "precio_actual": 119.99,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 80,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/41z-JwNsSIL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GVF9Q5XF?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Tostadora Cecotec Toastin' Time 850 Red, 850 W, ranura ancha de 3,8 cm",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 34.9,
+      "precio_actual": 19.9,
+      "descuento_porcentaje": 43,
+      "ahorro_euros": 15,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/41VGWVPSHwL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BPYVCBXF?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Lámpara de pie LED Lepro O1 AI, 1800 lm",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 149.99,
+      "precio_actual": 82.49,
+      "descuento_porcentaje": 45,
+      "ahorro_euros": 67.5,
+      "valoracion": 4.7,
+      "imagen_url": "https://m.media-amazon.com/images/I/41EonzvdlJL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DCJN7C43?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Cartera Tommy Hilfiger Eton con monedero, marrón",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 74.9,
+      "precio_actual": 39.9,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 35,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/31cOakwv8DL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B00X0W9WZE?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Aspiradora escoba Zynet V10 60KPa",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 299,
+      "precio_actual": 129.99,
+      "descuento_porcentaje": 57,
+      "ahorro_euros": 169.01,
+      "valoracion": 5,
+      "imagen_url": "https://m.media-amazon.com/images/I/41et4RFxmgL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0H7J1CMNB?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Altavoz Bluetooth PRSCFUM portátil con ventosa e IP7",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 49.99,
+      "precio_actual": 19.99,
+      "descuento_porcentaje": 60,
+      "ahorro_euros": 30,
+      "valoracion": 4.8,
+      "imagen_url": "https://m.media-amazon.com/images/I/51Ly0bWS4qL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0HJD46Q3G?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Colgante para pulseras TINSLO de plata de ley 925 con circonita",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 16.99,
+      "precio_actual": 6.64,
+      "descuento_porcentaje": 61,
+      "ahorro_euros": 10.35,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/31ikJXjUEhL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DM4MJDRV?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
     {
       "titulo": "Auriculares gaming inalámbricos NUBWO G06",
       "condicion": "Estado: Como Nuevo",
