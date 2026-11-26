@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-11-26T09:01:47+01:00",
+  "actualizado": "2026-11-26T10:01:48+01:00",
   "ofertas": [
+    {
+      "titulo": "Proyector de estrellas MYSTILUCK astronauta con mando a distancia",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 29.99,
+      "precio_actual": 19.99,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 10,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/417RmH0ILuL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DGG7X3JW?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Lector de tarjetas inteligentes Cherry ST-1144 USB",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 29.99,
+      "precio_actual": 19.9,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 10.09,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/21J9A5rOVrL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B01KEGJBAO?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Juego de ollas Pyrex 4 en 1 de vidrio borosilicato, 1,6 L y 2,3 L",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 37.89,
+      "precio_actual": 23.49,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 14.4,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/31hqtaM+iVL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BN8DTT7W?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Batidora de vaso Girmi FR46 1,5 L",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 38.61,
+      "precio_actual": 23.9,
+      "descuento_porcentaje": 38,
+      "ahorro_euros": 14.71,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/31qR6QpNwFL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07VM9QDC2?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Mancuernas ajustables Dripex 2,5 kg x 2",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 49.99,
+      "precio_actual": 30,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 19.99,
+      "valoracion": 4.7,
+      "imagen_url": "https://m.media-amazon.com/images/I/41NI0WTbNCL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GXPBWCSB?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Purificador de aire Philips Serie 600 AC0650/10, 44 m²",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 99.99,
+      "precio_actual": 52.99,
+      "descuento_porcentaje": 47,
+      "ahorro_euros": 47,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/41IA6aHN-6L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BX49FQF8?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Disco Duro Externo Blueendless 2.5″ USB 3.0 500 GB",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 36,
+      "precio_actual": 18,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 18,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/31EIB5W7a4L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07WCMXJ6X?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Tarjeta microSD Lexar Silver Plus 128 GB",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 48.93,
+      "precio_actual": 21.29,
+      "descuento_porcentaje": 56,
+      "ahorro_euros": 27.64,
+      "valoracion": 4.7,
+      "imagen_url": "https://m.media-amazon.com/images/I/4153CUNxtML._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CZKZ8Q66?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
     {
       "titulo": "Aislante térmico para latas YETI Rambler Colster 330 ml",
       "condicion": "Estado: ¡Nuevo!",
