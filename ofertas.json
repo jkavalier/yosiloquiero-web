@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-11-27T09:01:40+01:00",
+  "actualizado": "2026-11-27T10:01:39+01:00",
   "ofertas": [
+    {
+      "titulo": "Letrero de neón arcoíris Aslanka con base de soporte",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 16.99,
+      "precio_actual": 11.54,
+      "descuento_porcentaje": 32,
+      "ahorro_euros": 5.45,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/41KPnpADi0L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CHVGSHB5?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Cámara de vigilancia para ventana AKINGUAR 2K sin taladrar",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 31.99,
+      "precio_actual": 21.39,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 10.6,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/51uqdLfk2hL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0HNJLKC1B?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Cargador inalámbrico Belkin UltraCharge 3 en 1 Qi2.2 25 W",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 119.99,
+      "precio_actual": 79.99,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 40,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/31Qu+tFOHXL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GZWS85YV?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Purificador de aire Miko Home HEPA 925 pies cuadrados",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 89.99,
+      "precio_actual": 59.99,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 30,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/413y8cBRngL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07T8ZQHN2?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Casco de bicicleta Meteor Marven ajustable",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 44.93,
+      "precio_actual": 26.99,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 17.94,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/41zWzU+3IiL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07BF6TXCS?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Tablet ZIOVO Z168 10,1″ 30GB RAM+128GB ROM",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 299.99,
+      "precio_actual": 109.99,
+      "descuento_porcentaje": 63,
+      "ahorro_euros": 190,
+      "valoracion": 4.8,
+      "imagen_url": "https://m.media-amazon.com/images/I/51xLCWrb2kL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0HM7DX8QZ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Cámara HD Nintendo Switch 2 con micrófono integrado y USB-C",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 59.99,
+      "precio_actual": 20.9,
+      "descuento_porcentaje": 65,
+      "ahorro_euros": 39.09,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/31vxZ+t7rKL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F3JNJXQ5?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
+    {
+      "titulo": "Auriculares gaming Razer Kraken X con cable, 3,5 mm",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 152,
+      "precio_actual": 29.09,
+      "descuento_porcentaje": 81,
+      "ahorro_euros": 122.91,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/41Z3rxaO7LL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07TY7LDHC?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "10:01"
+    },
     {
       "titulo": "Altavoz Bluetooth Anker soundcore 2 12 W IPX7",
       "condicion": "Estado: ¡Nuevo!",
