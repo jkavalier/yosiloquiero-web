@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-11-27T12:01:46+01:00",
+  "actualizado": "2026-11-27T13:01:46+01:00",
   "ofertas": [
+    {
+      "titulo": "Banda elástica de musculación Coresteady gris, la más fuerte",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 9.99,
+      "precio_actual": 5.99,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 4,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/316P1zT-vxL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07814RY6S?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Altavoz Bluetooth portátil TOMPROAD A52 60 W",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 69.98,
+      "precio_actual": 41.89,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 28.09,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/51E9G8lQ3cL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FD9X687M?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Batería externa Belkin 10000 mAh USB-C 15 W",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 29.99,
+      "precio_actual": 17.99,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 12,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/31JRsz9SwLL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B092TNMFYB?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Taza térmica Chilly's Original 340 ml",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 33,
+      "precio_actual": 18,
+      "descuento_porcentaje": 45,
+      "ahorro_euros": 15,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/41GmMzqv8jL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CX9F51BG?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Guantes de fitness ATERCEL con palma acolchada",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 14.99,
+      "precio_actual": 7.6,
+      "descuento_porcentaje": 49,
+      "ahorro_euros": 7.39,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/51NpJ5sBFRS._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B092CLH89P?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Patines en línea ajustables Meteor Rainbow",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 62.16,
+      "precio_actual": 29.99,
+      "descuento_porcentaje": 52,
+      "ahorro_euros": 32.17,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/413EA6-sV7L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D8B8RC6F?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Tablet UJJ 10\" 64GB Rosa",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 299.99,
+      "precio_actual": 99.99,
+      "descuento_porcentaje": 67,
+      "ahorro_euros": 200,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/51UhQ5qLyFL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0HN52TLKL?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
+    {
+      "titulo": "Barra de pesas Dripex 94 cm para mancuernas de 15-25 kg",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 39.99,
+      "precio_actual": 9.9,
+      "descuento_porcentaje": 75,
+      "ahorro_euros": 30.09,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/31NhfJHLI6L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0G2WL16KQ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "13:01"
+    },
     {
       "titulo": "Aspiradora escoba sin cable INTETURE 600W 50KPa",
       "condicion": "Estado: ¡Nuevo!",
