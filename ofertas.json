@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-11-27T14:01:38+01:00",
+  "actualizado": "2026-11-27T15:01:34+01:00",
   "ofertas": [
+    {
+      "titulo": "Mando con cable PowerA Nano para Nintendo Switch - Mario Medley",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 18.99,
+      "precio_actual": 12.77,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 6.22,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/41zRssei6nL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BTMTR9BG?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Juego de espejos telescópicos Vigor V5480, 4 piezas",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 58.29,
+      "precio_actual": 37.84,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 20.45,
+      "valoracion": 4.8,
+      "imagen_url": "https://m.media-amazon.com/images/I/41EM38QjQ7L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B075MWS1KH?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Silla de coche Bebeconfort RevolveFix 360 i-Size, 40–150 cm",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 169.99,
+      "precio_actual": 108.99,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 61,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/41m+AqpFeqL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F4JZ3V7H?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Batería electrónica VTech Kidi DJ con efectos luminosos y modo de aprendizaje",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 79.95,
+      "precio_actual": 50.15,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 29.8,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/415udIaaz3L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CX9GYFND?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Proyector 4K Dangbei DBOX02, 2450 lúmenes ISO",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 1299,
+      "precio_actual": 699.99,
+      "descuento_porcentaje": 46,
+      "ahorro_euros": 599.01,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/31twa8tth3L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D25MPKZN?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Chaleco lastrado TRUIHUA 7,3 kg con tiras reflectantes",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 31.99,
+      "precio_actual": 15.91,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 16.08,
+      "valoracion": 4.7,
+      "imagen_url": "https://m.media-amazon.com/images/I/41SrJmt+ENL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FJD3KBCT?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Smartphone Xiaomi POCO X7 Pro 12+256GB",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 488.05,
+      "precio_actual": 239,
+      "descuento_porcentaje": 51,
+      "ahorro_euros": 249.05,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/31Humdke+DL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DSMV9111?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
+    {
+      "titulo": "Combo de teclado y ratón inalámbrico LeadsaiL tamaño completo",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 41.44,
+      "precio_actual": 15.02,
+      "descuento_porcentaje": 64,
+      "ahorro_euros": 26.42,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/41HOH3pQ5FL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CR5VKR9G?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "15:01"
+    },
     {
       "titulo": "Funda de viaje Orzly para Nintendo Switch OLED y Switch original, blanca",
       "condicion": "Estado: Como Nuevo",
