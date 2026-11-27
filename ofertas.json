@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-11-27T11:01:44+01:00",
+  "actualizado": "2026-11-27T12:01:46+01:00",
   "ofertas": [
+    {
+      "titulo": "Aspiradora escoba sin cable INTETURE 600W 50KPa",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 129.99,
+      "precio_actual": 89.99,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 40,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/41VW7rufUuL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FP52K4J1?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Mochila Eastpak Out of Office 13″",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 46.21,
+      "precio_actual": 29.7,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 16.51,
+      "valoracion": 4.8,
+      "imagen_url": "https://m.media-amazon.com/images/I/31H4B8QcOBL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B092326G5W?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Llave de seguridad USB-A NFC Yubico Security Key",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 63.17,
+      "precio_actual": 40.1,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 23.07,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/31GrKvXJ6gL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07M8YBWQZ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Smartwatch Samsung Galaxy Watch8 44 mm Bluetooth",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 409,
+      "precio_actual": 248.99,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 160.01,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/31LpY3F9wyL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FCG57NNL?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Repetidor WiFi Strong WiFi 6 AX3000",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 58.81,
+      "precio_actual": 36.14,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 22.67,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/215uZd0k52L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GW9RHQ1H?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Balón de baloncesto Nike Playground 8P talla 7",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 27.99,
+      "precio_actual": 14.52,
+      "descuento_porcentaje": 48,
+      "ahorro_euros": 13.47,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/41e7ScTUALL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CH8XRDHB?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Cartera mini de cuero Berliner Bags Hamburg, 8 tarjetas",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 39.99,
+      "precio_actual": 18.99,
+      "descuento_porcentaje": 53,
+      "ahorro_euros": 21,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/51tExswm6iL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FT896XC7?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Tarjeta microSD SanDisk Gameplay 1 TB",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 301.64,
+      "precio_actual": 129.25,
+      "descuento_porcentaje": 57,
+      "ahorro_euros": 172.39,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/41OeXXoVaTL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CRHVJY88?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
     {
       "titulo": "Mancuernas ajustables Dripex 5 kg x 2, amarillo",
       "condicion": "Estado: ¡Nuevo!",
