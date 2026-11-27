@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-11-27T08:01:36+01:00",
+  "actualizado": "2026-11-27T09:01:40+01:00",
   "ofertas": [
+    {
+      "titulo": "Altavoz Bluetooth Anker soundcore 2 12 W IPX7",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 39.99,
+      "precio_actual": 27.99,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 12,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/41uXKmhpU-L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0HGY9W774?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Reloj despertador digital LED ROCAM pantalla 7″",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 15.33,
+      "precio_actual": 9.99,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 5.34,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/413bF8Xc4jL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DJ6T1SN3?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Comedero automático para mascotas Cecotec Pumba 6000 6L",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 64.9,
+      "precio_actual": 39.9,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 25,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/31qxfw4GBlL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BQ1GDZDT?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Patines en línea ajustables Sawyer Bikes talla M (31-34)",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 49.99,
+      "precio_actual": 29.99,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 20,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/41jVQ-vqC3L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CVV9QTKB?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Guantes de gimnasio COFIT ventilados con palma acolchada",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 11.99,
+      "precio_actual": 7.12,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 4.87,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/41l89uzpVPL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0B42HFQ98?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Cubertería Villeroy & Boch Montauk, 113 piezas, para 12 personas",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 1265.35,
+      "precio_actual": 749.99,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 515.36,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/419iGR7LnUL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07C9ZLD3C?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Pantalla para proyector Towond 100\" con soporte",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 99.99,
+      "precio_actual": 52.24,
+      "descuento_porcentaje": 48,
+      "ahorro_euros": 47.75,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/51J8x-8v3yL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0B6RCXF37?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Robot aspirador y friegasuelos Lefant M3 Max con base de autovaciado",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 999.99,
+      "precio_actual": 259.99,
+      "descuento_porcentaje": 74,
+      "ahorro_euros": 740,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/41NFHOdvJyL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GQHF3K41?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
     {
       "titulo": "Manta eléctrica Mia&Coco 180x200 cm",
       "condicion": "Estado: ¡Nuevo!",
