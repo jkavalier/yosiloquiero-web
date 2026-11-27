@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-11-27T10:01:39+01:00",
+  "actualizado": "2026-11-27T11:01:44+01:00",
   "ofertas": [
+    {
+      "titulo": "Mancuernas ajustables Dripex 5 kg x 2, amarillo",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 75.99,
+      "precio_actual": 50,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 25.99,
+      "valoracion": 4.7,
+      "imagen_url": "https://m.media-amazon.com/images/I/41y1-qtslqL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GXP9SV8M?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Silla de coche Maxi-Cosi Emerald 360 S i-Size 40–150 cm",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 429.99,
+      "precio_actual": 279.99,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 150,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/41JOHQm+VfL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CWS19269?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Regleta de enchufes Brennenstuhl en forma de esquina con 6 tomas y 2 USB",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 38.11,
+      "precio_actual": 23.89,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 14.22,
+      "valoracion": 4.7,
+      "imagen_url": "https://m.media-amazon.com/images/I/41tO4YpQ0yL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08X7799W3?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Reloj inteligente Garmin Instinct 2 Solar GPS",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 377.39,
+      "precio_actual": 219,
+      "descuento_porcentaje": 42,
+      "ahorro_euros": 158.39,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/41x75Y86J+L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B09MTNNXG5?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Farol de camping LED Varta Dynamo Lantern L10RH",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 26.65,
+      "precio_actual": 15.32,
+      "descuento_porcentaje": 43,
+      "ahorro_euros": 11.33,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/21SfsUhVBNL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CY2XLWLB?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Botella térmica Stanley Flip Straw 1,06 L",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 55,
+      "precio_actual": 27.5,
+      "descuento_porcentaje": 50,
+      "ahorro_euros": 27.5,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/21mcvX-5g8L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F5X2P4XB?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Joystick Thrustmaster SimTask Farmstick 3 ejes",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 211.53,
+      "precio_actual": 52.09,
+      "descuento_porcentaje": 75,
+      "ahorro_euros": 159.44,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/41FsIKbVnDL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CGKMD4ZY?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Proyector Epson EB-695Wi WXGA 3500 lúmenes",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 2307.58,
+      "precio_actual": 299,
+      "descuento_porcentaje": 87,
+      "ahorro_euros": 2008.58,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/31vGXe8q3FL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B01MXGMNYG?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
     {
       "titulo": "Letrero de neón arcoíris Aslanka con base de soporte",
       "condicion": "Estado: ¡Nuevo!",
