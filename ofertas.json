@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-11-28T08:01:31+01:00",
+  "actualizado": "2026-11-28T09:01:32+01:00",
   "ofertas": [
+    {
+      "titulo": "Aspiradora escoba AEG QX6-1-45AN, 18 V, 0,3 L",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 159,
+      "precio_actual": 112,
+      "descuento_porcentaje": 30,
+      "ahorro_euros": 47,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/21zGgNAxDXL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BPYTC79Q?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Regleta de enchufes Brennenstuhl 4 tomas con 2 USB",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 34.99,
+      "precio_actual": 24.03,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 10.96,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/41Hfh2NYV2L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0883QG4MG?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Monitor de estudio Yamaha HS7 autoamplificado 6,5″",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 246.36,
+      "precio_actual": 158.63,
+      "descuento_porcentaje": 36,
+      "ahorro_euros": 87.73,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/31hMNGFoG1L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B00TZWHPTI?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Calentador de manos recargable Toastiv 2 unidades 6000 mAh",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 27.99,
+      "precio_actual": 16.99,
+      "descuento_porcentaje": 39,
+      "ahorro_euros": 11,
+      "valoracion": 4.8,
+      "imagen_url": "https://m.media-amazon.com/images/I/41gge9METtL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0HCNLJWXF?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Luz de selfi NEEWER VL67C RGB con control por app",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 47.99,
+      "precio_actual": 29.01,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 18.98,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/41dSMC5s-zL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CT5MT82T?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Gatera ajustable para ventana VEVOR 68,6-81,3 cm",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 93.9,
+      "precio_actual": 55.31,
+      "descuento_porcentaje": 41,
+      "ahorro_euros": 38.59,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/41U9oK1eEpL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0G751Z7H2?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Cargador inalámbrico SATECHI OntheGo 2 en 1 Qi2 15W Rosa Desierto",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 89.99,
+      "precio_actual": 50.49,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 39.5,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/31T8YRtvUwL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0F4BDVCX7?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
+    {
+      "titulo": "Funda magnética Samsung para Galaxy Buds4 Pro y Buds4, gris",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 33.49,
+      "precio_actual": 10.14,
+      "descuento_porcentaje": 70,
+      "ahorro_euros": 23.35,
+      "valoracion": 5,
+      "imagen_url": "https://m.media-amazon.com/images/I/21bweeg+ueL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GFNYRR1K?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "09:01"
+    },
     {
       "titulo": "Proyector portátil TOPTRO TP2 con Android 14 y base giratoria 270°",
       "condicion": "Estado: ¡Nuevo!",
