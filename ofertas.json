@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-11-28T11:01:33+01:00",
+  "actualizado": "2026-11-28T12:01:42+01:00",
   "ofertas": [
+    {
+      "titulo": "Timbre inalámbrico Byron DBY-22311 con alcance de 150 m",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 14.99,
+      "precio_actual": 9.82,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 5.17,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/31d61acH5KL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07Z4936W9?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Altavoz Bluetooth portátil Ultimate Ears BOOM 4, 15 h de batería",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 119.99,
+      "precio_actual": 76.09,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 43.9,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/41GZkElnF+L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0D3WLCJSJ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Cargador inalámbrico Belkin UltraCharge 3 en 1 Qi2.2 25 W",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 145.29,
+      "precio_actual": 79.99,
+      "descuento_porcentaje": 45,
+      "ahorro_euros": 65.3,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/31FiA-0lDqL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0GZWM4PWS?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Parrilla eléctrica Tefal OptiGrill GC776D10 4 en 1 plegable",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 316.91,
+      "precio_actual": 174.38,
+      "descuento_porcentaje": 45,
+      "ahorro_euros": 142.53,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/41FbqN8ZiZL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0BWY9BY2S?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Cinturón de musculación AQF neopreno 14 cm",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 34.17,
+      "precio_actual": 15.44,
+      "descuento_porcentaje": 55,
+      "ahorro_euros": 18.73,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/511JePDFnkL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B019PHXO1K?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Reloj de pared Fox and Simpson Grand Central Station 50 cm",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 103.77,
+      "precio_actual": 32.04,
+      "descuento_porcentaje": 69,
+      "ahorro_euros": 71.73,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/51ugHkUuCjL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07PVJQ3DG?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Router Ubiquiti AmpliFi Alien WiFi 6",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 488.19,
+      "precio_actual": 135.16,
+      "descuento_porcentaje": 72,
+      "ahorro_euros": 353.03,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/41xdURmyGuL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08VMTTK82?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
+    {
+      "titulo": "Smartwatch AcclaFit esfera redonda 1,38 ″",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 149.99,
+      "precio_actual": 39.99,
+      "descuento_porcentaje": 73,
+      "ahorro_euros": 110,
+      "valoracion": 4.9,
+      "imagen_url": "https://m.media-amazon.com/images/I/41JDerXKAzL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0HJ5J39DV?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "12:01"
+    },
     {
       "titulo": "Soporte de monitor doble Acer para pantallas de 17-32\"",
       "condicion": "Estado: ¡Nuevo!",
