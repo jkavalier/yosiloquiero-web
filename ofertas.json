@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-11-28T13:01:47+01:00",
+  "actualizado": "2026-11-28T14:01:36+01:00",
   "ofertas": [
+    {
+      "titulo": "Caja externa SSD OWC Express 4M2 USB4 para 4 unidades NVMe M.2",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 410,
+      "precio_actual": 269,
+      "descuento_porcentaje": 34,
+      "ahorro_euros": 141,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/31dB5wqnhqL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FFJKGCFP?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Raqueta de tenis de mesa Butterfly Ovtcharov Expert, gomas LAGNUS 2,0 mm",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 40.31,
+      "precio_actual": 26.29,
+      "descuento_porcentaje": 35,
+      "ahorro_euros": 14.02,
+      "valoracion": 4.3,
+      "imagen_url": "https://m.media-amazon.com/images/I/41bDLsGCdCL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CSKCMTW5?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Proyector WiMiUS P62 Pro Full HD 1080P",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 372.51,
+      "precio_actual": 210.18,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 162.33,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/51IF3hwpjcL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FDVFCG62?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Taza de café térmica Chilly's Original 340 ml Blackberry",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 33,
+      "precio_actual": 18,
+      "descuento_porcentaje": 45,
+      "ahorro_euros": 15,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/41bd+AsaB7L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CX9CXZPM?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Guantes de fitness ATERCEL con palma acolchada y cierre de velcro",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 14.99,
+      "precio_actual": 7.6,
+      "descuento_porcentaje": 49,
+      "ahorro_euros": 7.39,
+      "valoracion": 4.5,
+      "imagen_url": "https://m.media-amazon.com/images/I/51NpJ5sBFRS._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B092CKJBDH?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Tostadora Bosch TAT2M124 roja con función de descongelación",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 54.81,
+      "precio_actual": 26.43,
+      "descuento_porcentaje": 52,
+      "ahorro_euros": 28.38,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/41Xed2+XlLL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0CF2NJ2PJ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Videocámara DJI Pocket 2 Combo 4K",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 388.99,
+      "precio_actual": 182.24,
+      "descuento_porcentaje": 53,
+      "ahorro_euros": 206.75,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/31njr9mxcQL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07FSWT3XS?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
+    {
+      "titulo": "Base de conexión Dell WD19TB Thunderbolt 3",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 415.99,
+      "precio_actual": 99.9,
+      "descuento_porcentaje": 76,
+      "ahorro_euros": 316.09,
+      "valoracion": 5,
+      "imagen_url": "https://m.media-amazon.com/images/I/21UStM2GREL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B08BYJ47Z4?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "14:01"
+    },
     {
       "titulo": "Protector de pantalla NuPro para Kindle Scribe 2024",
       "condicion": "Estado: ¡Nuevo!",
