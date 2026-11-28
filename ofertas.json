@@ -1,6 +1,102 @@
 {
-  "actualizado": "2026-11-28T10:01:38+01:00",
+  "actualizado": "2026-11-28T11:01:33+01:00",
   "ofertas": [
+    {
+      "titulo": "Soporte de monitor doble Acer para pantallas de 17-32\"",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 49.99,
+      "precio_actual": 34.3,
+      "descuento_porcentaje": 31,
+      "ahorro_euros": 15.69,
+      "valoracion": 4.6,
+      "imagen_url": "https://m.media-amazon.com/images/I/41YmNwd+dgL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0FKTF1KJ5?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Cámara de vigilancia domo Imou Ranger 2 1080P",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 29.99,
+      "precio_actual": 19.99,
+      "descuento_porcentaje": 33,
+      "ahorro_euros": 10,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/312QXHJUDKL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07RWTH99Q?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Hamaca AMAZONAS Arte, 230 x 150 cm",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 60.12,
+      "precio_actual": 37.73,
+      "descuento_porcentaje": 37,
+      "ahorro_euros": 22.39,
+      "valoracion": 5,
+      "imagen_url": "https://m.media-amazon.com/images/I/31kzsPPNJrL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B077JXS481?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Casco de bicicleta Meteor Marven ajustable",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 44.93,
+      "precio_actual": 26.99,
+      "descuento_porcentaje": 40,
+      "ahorro_euros": 17.94,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/41061+l2+yL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B07BFBSQYF?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Bandeja para portátil Relaxdays plegable, 63 x 40 cm",
+      "condicion": "Estado: Muy Bueno",
+      "precio_anterior": 31.99,
+      "precio_actual": 18.04,
+      "descuento_porcentaje": 44,
+      "ahorro_euros": 13.95,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/41RXzWcueYL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0C5F1LJGK?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Smartphone Xiaomi Redmi Note 14 5G 256GB",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 325,
+      "precio_actual": 155,
+      "descuento_porcentaje": 52,
+      "ahorro_euros": 170,
+      "valoracion": 4.4,
+      "imagen_url": "https://m.media-amazon.com/images/I/31ddUpW3qFL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DPHS3QKZ?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Tablet ZIOVO Z168 10,1″ 30GB RAM+128GB ROM",
+      "condicion": "Estado: ¡Nuevo!",
+      "precio_anterior": 299.99,
+      "precio_actual": 109.99,
+      "descuento_porcentaje": 63,
+      "ahorro_euros": 190,
+      "valoracion": 4.8,
+      "imagen_url": "https://m.media-amazon.com/images/I/51ZNIdLxDkL._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0HM7S1NLL?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
+    {
+      "titulo": "Lámpara de pie Eglo Fiorana, 140,5 cm, casquillo E14",
+      "condicion": "Estado: Como Nuevo",
+      "precio_anterior": 69.9,
+      "precio_actual": 24.13,
+      "descuento_porcentaje": 65,
+      "ahorro_euros": 45.77,
+      "valoracion": 4.2,
+      "imagen_url": "https://m.media-amazon.com/images/I/11udxCVYm7L._SL500_.jpg",
+      "url_producto": "https://www.amazon.es/dp/B0DNQ467PV?tag=yosiloquiero-wb-21&ref=nosim",
+      "hora": "11:01"
+    },
     {
       "titulo": "Plancha de vapor vertical Rowenta Pure Force 3 en 1",
       "condicion": "Estado: ¡Nuevo!",
